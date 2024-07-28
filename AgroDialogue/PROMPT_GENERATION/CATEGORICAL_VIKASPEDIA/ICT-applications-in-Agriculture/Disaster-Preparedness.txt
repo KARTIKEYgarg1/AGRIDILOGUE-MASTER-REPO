@@ -1,0 +1,29 @@
+Disaster Preparedness
+
+
+The challenge
+
+International Panel on Climate Change Working Group II has suggested that the extreme weather events are to increase in both frequency and severity, particularly on regional and local scales. Consequently, devastating weather phenomena like successive drought, torrential rainfall associated with lightning strikes, hail-storms, strong surface winds and intense vertical wind shear are to increase and cause loss of life and property.
+
+It is a common experience that relevant, precise information about natural disasters is not available, in real time to the community and response players. It takes a long while to obtain the data and even longer to integrate and generate information that will help in mitigating disasters. A study reports that 40% of the time is spent on searching for the source of information, 30% of the time is spent on waiting for the information to arrive and another 30% of the time is spent in understanding and customising to the user's requirement.
+
+Karnataka has been witnessing one or more hydro meteorological disasters  like drought, flood, hailstorm, etc. The State also has huge arid and  semi-arid land and is highly vulnerable to drought. In the last 13 out  of 15 years (2002-2016), parts of the State have been subjected to  severe drought. Some of the Talukas in the State have witnessed drought  for more than five consecutive years. Flood has troubled the State  frequently. Devastating hailstorm has hit Karnataka during pre-monsoon  season in 2014, 2015 and 2016 causing huge damage to standing crops,  especially horticulture crops.
+
+The Solution
+
+Karnataka State Natural Disaster Monitoring Centre (KSNDMC), has taken up pioneering and path breaking initiatives towards monitoring natural disasters and risk reduction. KSNDMC has designed and installed a network of solar powered and GPRS enabled Telemetric Rain Gauge stations covering all the 5,625 Gram panchayats (every 25 sq km) and Telemetric Weather Stations at all the 747 Hoblis (every 250 sq km) in the State. The dense network of weather monitoring stations is first of its kind in the country. The network has been collecting reliable and uninterrupted data.
+
+
+
+To address the Seismicity Monitoring (Local, Regional and Teleseismic) and safety of large dams in Karnataka, a network of 14 VSAT enabled and Solar Powered Permanent Seismic Monitoring Stations has been installed. Through this real-time network, technical support is being provided to the dam authorities towards taking up dam safety measures. KSNDMC is equipped with state of the art facility, to receive data every 15 minutes, data processing, data analysis and preparing maps and reports through auto-mode. The necessary software and web-applications were developed indigenously.
+
+Based on the near real-time data collected, the KSNDMC identifies and maps the hazard vulnerable areas, prepares reports with advisories and disseminates them to all the stakeholders. KSNDMC has been collaborating with Space Application Center (SAC), Ahmedabad and CSIR-4pi (formerly CMMACS), Bengaluru for generating Gram Panchayat level Rainfall / Weather forecast.
+
+Outcome
+
+A robust Information Dissemination system has also been installed that includes alert recognition, simulation through appropriate computation, customised report generation, dissemination of the early warning, forecast and advisories to the end users.
+
+While no one can be fully prepared for natural disasters, KSNDMC’s disaster preparedness has helped the farmers of the State plan their response better and that is a huge boon.
+
+Source : 
+

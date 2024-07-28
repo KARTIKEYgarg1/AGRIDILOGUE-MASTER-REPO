@@ -1,0 +1,166 @@
+Pradhan Mantri Fasal Bima Yojana
+
+The new Crops Insurance Scheme is in line with One Nation – One Scheme theme.  It incorporates the best features of all previous schemes and at the same time, all previous shortcomings / weaknesses have been removed. The PMFBY will replace the existing two schemes National Agricultural Insurance Scheme as well as the Modified NAIS.
+
+
+Objectives
+To provide insurance coverage and financial support to the farmers in the event of failure of any of the notified crop as a result of natural calamities, pests &amp; diseases.
+To stabilise the income of farmers to ensure their continuance in farming.
+To encourage farmers to adopt innovative and modern agricultural practices.
+To ensure flow of credit to the agriculture sector.
+
+Highlights of the scheme
+There will be a uniform premium of only 2% to be paid by farmers for all Kharif crops and 1.5% for all Rabi crops. In case of annual commercial and horticultural crops, the premium to be paid by farmers will be only 5%. The premium rates to be paid by farmers are very low and balance premium will be paid by the Government to provide full insured amount to the farmers against crop loss on account of natural calamities.
+There is no upper limit on Government subsidy. Even if balance premium is 90%, it will be borne by the Government.
+Earlier, there was a provision of capping the premium rate which resulted in low claims being paid to farmers. This capping was done to limit Government outgo on the premium subsidy. This capping has now been removed and farmers will get claim against full sum insured without any reduction.
+The use of technology will be encouraged to a great extent. Smart phones will be used to capture and upload data of crop cutting to reduce the delays in claim payment to farmers. Remote sensing will be used to reduce the number of crop cutting experiments.
+PMFBY is a replacement scheme of  NAIS / MNAIS, there will be exemption from Service Tax liability of all the services involved in the implementation of the scheme. It is estimated that the new scheme will ensure about 75-80 per cent of subsidy for the farmers in insurance premium.
+
+Farmers to be covered
+All farmers growing notified crops in a notified area during the season who have insurable interest in the crop are eligible.
+
+To address the demand of farmers, the scheme has been made voluntary for all farmers from Kharif 2020. 
+Earlier to Kharif 2020, the enrollment under the scheme was compulsory for following categories of farmers:
+Farmers in the notified area who possess a Crop Loan account/KCC account (called as Loanee Farmers) to whom credit limit is sanctioned/renewed for the notified crop during the crop season. and
+Such other farmers whom the Government may decide to include from time to time.
+
+Voluntary coverage : Voluntary coverage may be obtained by all farmers not covered above, including Crop KCC/Crop Loan Account holders whose credit limit is not renewed.
+
+Risks covered under the scheme
+Yield Losses (standing crops, on notified area basis). Comprehensive risk insurance is provided to cover yield losses due to non-preventable risks, such as Natural Fire and Lightning, Storm, Hailstorm, Cyclone, Typhoon, Tempest, Hurricane, Tornado. Risks due to Flood, Inundation and Landslide, Drought, Dry spells, Pests/ Diseases also will be covered.
+In cases where majority of the insured farmers of a notified area, having intent to sow/plant and incurred expenditure for the purpose, are prevented from sowing/planting the insured crop due to adverse weather conditions, shall be eligible for indemnity claims upto a maximum of 25 per cent of the sum-insured.
+In post-harvest losses, coverage will be available up to a maximum period of 14 days from harvesting for those crops which are kept in “cut &amp; spread” condition to dry in the field.
+For certain localized problems, Loss / damage resulting from occurrence of identified localized risks like hailstorm, landslide, and Inundation affecting isolated farms in the notified area would also be covered.
+
+Unit of Insurance
+The Scheme shall be implemented on an ‘Area Approach basis’ i.e., Defined Areas for each notified crop for widespread calamities with the assumption that all the insured farmers, in a Unit of Insurance, to be defined as "Notified Area‟ for a crop, face similar risk exposures, incur to a large extent, identical cost of production per hectare, earn comparable farm income per hectare, and experience similar extent of crop loss due to the operation of an insured peril, in the notified area.
+
+Defined Area (i.e., unit area of insurance) is Village/Village Panchayat level by whatsoever name these areas may be called for major crops and for other crops it may be a unit of size above the level of Village/Village Panchayat. In due course of time, the Unit of Insurance can be a Geo-Fenced/Geo-mapped region having homogenous Risk Profile for the notified crop.
+
+For Risks of Localised calamities and Post-Harvest losses on account of defined peril, the Unit of Insurance for loss assessment shall be the affected insured field of the individual farmer.
+
+Calendar of activity
+Activity
+Kharif
+Rabi
+
+
+Loaning period (loan sanctioned) for Loanee farmers covered on Compulsory basis.
+April to July
+October to December
+
+
+Cut-off date for receipt of Proposals of farmers (loanee &amp; non-loanee).
+31 July
+31st December
+
+
+Cut-off date for receipt of yield data
+Within a month from final harvest
+Within a month from final harvest
+
+
+How to report crop loss and claim insurance
+The farmer can report crop loss within 72 hours of occurrence of any event through the Crop Insurance App,CSC Centre or the nearest agriculture officer. Claim benefit is then provided electronically into the bank accounts of eligible farmer.
+
+Revised operational guidelines for Pradhan Mantri Fasal Bima Yojna (PMFBY)
+Government has modified operational guidelines for Pradhan Mantri Fasal Bima Yojna (PMFBY) which is being implemented from 1st of October, 2018.
+
+New provisions in the operational guidelines of PMFBY
+Provision of Penalties/ Incentives for States, Insurance Companies (ICs) and Banks i.e. 12% interest rate to be paid by the Insurance Company to farmers for delay in settlement claims beyond two months of prescribed cut off date. Similarly, State Govt. have to pay 12% interest rate for delay in release of State share of Subsidy beyond three months of prescribed cut off date/submission of requisition by Insurance Companies.
+Detailed SOP for Performance evaluation of ICs and their de-empanelment
+Inclusion of Perennial horticultural crops (on pilot basis) under the ambit of PMFBY. (OGs of PMFBY envisages coverage of food and Oilseed crops and Annul Commercial &amp; Horticultural crops)
+Inclusion of hailstorms in post harvest losses, besides unseasonal and cyclonic rainfalls
+Inclusion of cloud burst and natural fire in localized calamities in addition to hailstorm, landslide, and inundation.
+Add on coverage for crop loss due to attack of wild animals on pilot basis with the additional financial liabilities of this provision to be borne by concerned state Govt.
+Mandatory capturing of Adhaar number – This would help in de-duplication
+Target for Coverage to ICs especially of Non loanee farmers (10% incremental).
+Definition of Major Crops, Unseasonal rainfall and Inundation incorporated for clarity and proper coverage
+Rationalization of premium release process: Release of Upfront premium subsidy based on 50% of 80% of total share of subsidy of corresponding season of previous year as GOI/State subsidy at the beginning of the season- Companies need not provide any projections for the advance subsidy. Second Installment – balance premium based on approved business statistics on Portal for settlement of claims and final installment after reconciliation of entire coverage data on portal based on final business statistics on portal.
+States allowed to take decision for inclusion of crops having high premium for calculation of L1 calculation and for notification.
+Rationalization of methodology for calculation of TY
+Moving average of best 5 out of 7 years for calculation of claim amount.
+Settlement of claims (Prevented sowing/ on account for Mid season adversity / Localized Claims) without waiting for Second installment of final subsidy.
+Yield based claims to be settled on the basis of subsidy provided on provisional business data.
+Separate Budget Allocation for Administrative expenses (atleast 2% of budget of scheme).
+Broad Activity wise seasonality discipline containing defined timelines for all major activities to streamlines the process of coverage, submission of yield data and early settlement of claims.
+District wise crop wise crop calendar (for major crops) to decide cutoff date for enrolment.
+Increased time for change of crop name for insurance - upto 2 days prior to cutoff date for enrolment instead of earlier provision of 1 month before cutoff date.
+More time to insured farmer to intimate individual claims – 72 hours (instead of 48 hours) through any stakeholders and directly on portal.
+Timeline for declaration of prevented sowing •
+Detailed SOP for dispute redressal regarding yield data/crop loss.
+Detailed SOP for claims estimation w.r.t. Add on products i.e. Mid season adversity, prevented/failed sowing, post harvest loss and localized claims
+Detailed SOP for Area Correction factor
+Detailed SOP for Multi picking crops.
+Detailed plan for publicity and awareness- earmarked expenditure-0.5% of Gross premium per company per season
+Use of RST in clustering/Risk classification.
+Penalties/ Incentives for States, ICs and Banks
+Performance evaluation of ICs and their de-empanelment.
+
+Comparison with previous schemes
+Sl.No
+Feature
+NAIS
+[1999]
+MNAIS
+[2010]
+PM Crop Insurance Scheme
+
+
+1
+Premium rate
+Low
+High
+Lower than even NAIS (Govt to contribute 5 times that of farmer)
+
+2
+One Season – One Premium
+Yes
+No
+Yes
+
+3
+Insurance Amount cover
+Full
+Capped
+Full
+
+4
+On Account Payment
+No
+Yes
+Yes
+
+5
+Localised Risk coverage
+No
+Hail storm, Land slide
+Hail storm, Land slide, Inundation
+
+6
+Post Harvest Losses coverage
+No
+Coastal areas - for cyclonic rain
+All India – for cyclonic + unseasonal rain
+
+7
+Prevented Sowing coverage
+No
+Yes
+Yes
+
+8
+Use of Technology (for quicker settlement of claims)
+No
+Intended
+Mandatory
+
+9
+Awareness
+No
+No
+Yes (target to double coverage to 50%)
+
+
+
+

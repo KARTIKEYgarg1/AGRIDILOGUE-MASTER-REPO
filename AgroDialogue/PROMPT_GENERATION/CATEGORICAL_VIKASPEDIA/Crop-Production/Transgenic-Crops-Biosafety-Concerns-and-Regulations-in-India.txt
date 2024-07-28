@@ -1,0 +1,105 @@
+Transgenic Crops-Biosafety Concerns and Regulations in India
+
+
+Introduction
+
+Plant genetic engineering methods were developed over 30 years ago, and since then, genetically modified (GM) crops or transgenic crops have become commercially available and widely adopted in many countries. In these plants, one or more genes coding for desirable traits have been inserted. The genes may come from the same or another plant species, or from totally unrelated organisms. The traits targeted through genetic engineering are often the same as those pursued by conventional breeding. However, because genetic engineering allows for direct gene transfer across species boundaries, some traits that were previously difficult or impossible to breed can now be developed with relative ease.
+
+The first-generation GM crops have improved traits like Herbicide-resistant crops (soybeans and maize, Pest resistance (Cotton and corn).  Second-generation GM crops involve enhanced quality traits, such as higher nutrient content. “Golden Rice,” one of the very first GM crops, is biofortified to address vitamin A deficiency. Other biofortification projects include corn, sorghum, cassava, and banana plants, with enhanced minerals and vitamins. Crops can also be modified to ward off plant viruses or fungi. Even though the seed is more expensive, these GM crops lower the costs of production by reducing inputs of machinery, fuel, and chemical pesticides. Important environmental benefits, such as controlling farm runoff that otherwise pollutes water systems, are associated with reduced spraying of chemical insecticides and highly toxic herbicides.
+
+Now-a-days with the rapid advance research and development in agricultural biotechnology, countries are approving many genetically modified crops for commercial release and agricultural production. ISAA reported in 2017, the 21st year of commercialization of biotech crops, 189.8 million hectares of biotech crops were planted by up to 17 million farmers in 24 countries. From the initial planting of 1.7 million hectares in 1996 when the first biotech crop was commercialized, the 189.8 million hectares planted in 2017 indicates ~112-fold increase.
+
+In India, Bt cotton was approved by Government of India in March 2002 as the first transgenic crop for commercial cultivation for a period of three years. Apart from cotton, there are more than 20 crops under research and development in about 50 public and private sector organizations in India.  Out of these, 13 crops have been approved for contained limited field trials in India.
+
+Though, it is widely claimed that transgenic crops offers dramatic promise for meeting some of greatest challenges but like all new technologies, it also poses certain risks, because of the fact that transgenic crops can bring together new gene combinations which are not found in nature having possible harmful effects on health, environmental and non-target species. However, as more and more transgenic crops are being released for field-testing and commercialization, concerns have been expressed about the potential risks associated with their impact to human health, environment and biological diversity.
+
+Biosafety concerns
+
+As more and more transgenic crops are released for field-testing and commercialization, concerns have been expressed regarding potential risks to both human health and environment. Biosafety describes the principles, procedures and policies to be adopted to ensure the environmental and personal safety. Recognizing the need of biosafety in GE research and development activities, an international multilateral agreement on biosafety “the Cartagena Protocol on Biosafety (CPB)” has been adopted by 167 parties, including 165 United Nations countries, Niue, and the European Union. The Protocol entered into force on 11 September 2003, and its main objectives are:
+
+
+To set up the procedures for safe trans-boundary movement of living modified organisms
+Harmonize principles and methodology for risk assessment and establish a mechanism for information sharing through the Biosafety Clearing House (BCH).
+
+Research work in the area of GE and GMOs requires prior approval from the appropriate regulatory authorities of the country. Following guidelines provided for minimizing biosafety issues is mandatory. The primary regulatory body at research institute level is the Institutional Biosafety Committee (IBSC) or its equivalent body consisting of experts from different relevant disciplines. The IBSC ensures existence of the basic biosafety equipment required as per the safety level of the experiments to be conducted.  There has been increasing awareness among the researchers, producers and users of GMOs, administrators, policy makers, environmentalists and general public about biosafety all over the world. Transgenic crops are not toxic nor are likely to proliferate in the environment. However, specific crops may be harmful by virtue of novel combinations of traits they possess. This means that the concerns associated with use of GMOs can differ greatly depending on the particular gene organism combination and therefore a case-by-case approach is required for risk assessment and management.
+
+The major biosafety concerns falls into these categories:
+
+Bio-safety of human and animal health  
+
+
+ Risk of toxicity, due to the nature of the product or the changes in the metabolism and the composition of the organisms resulting from gene transfer.
+Newer proteins in transgenic crops from the organisms, which have not been consumed as foods, sometimes has the risk of these proteins becoming allergens.
+Genes used for antibiotic resistance as selectable markers have also raised concerns regarding the transfer of such genes to microorganisms and thereby aggravate the health problems due to antibiotic resistance in the disease causing organisms.
+
+Ecological concerns 
+
+
+Gene flow due to cross pollination for the traits involving resistance can result in development of tolerant or resistant weeds that are difficult to eradicate. 
+GM crops could lead to erosion of biodiversity and pollute gene pools of endangered plant species. 
+Genetic erosion has occurred as the farmers have replaces the use of traditional varieties with monocultures.
+
+Environmental concerns
+
+
+Effect of transgenic plants on population dynamics of target and non-target pests, secondary pest problems, insect sensitivity, evolution of new insect biotypes, environmental influence on gene expression, development of resistance in insect population, development of resistance to herbicide
+Gene escape into the environment- accidental cross breeding GMP plants and traditional varieties through pollen transfer can contaminate the traditional local varities with GMO genes resulting in the loss of traditional varieties of the farmers. 
+
+Public attitude
+
+
+Consumer response depends on perceptions about risks and benefits of genetically modified foods. The media, individuals, scientists and administrator, politicians and NGO have the responsibility to educate the people about the benefits of GM foods.
+
+Socio economic and ethical consideration
+
+
+Potential benefits to the consumers and farmers. Due to increasing seed market, the developing countries may get dependent on few suppliers. 
+GURT: Gene Use Restriction Technologies. India has totally banned the use of GURT in plant variety for registration under PPV &amp; FRA, 2001
+
+Regulatory Mechanisms in India
+
+Biosafety regulations cover assessment of risks and the policies and procedures adopted to ensure environmentally safe applications of biotechnology. The regulatory framework for transgenic crops in India consists of the following rules and guidelines.
+
+a) Rules and policies
+
+
+Rules, 1989 under Environment Protection Act (1986)
+Seed Policy, 2002
+
+
+
+b) Guidelines
+
+
+Recombinant DNA guidelines, 1990
+Guidelines for research in transgenic crops, 1998
+
+The two main agencies identified for implementation of the rules are the Ministry of Environment, Forests and Climate Change and the Department of Biotechnology, Government of India. The rules have also defined competent authorities and the composition of such authorities for handling of various aspects of the rules. There are six competent authorities as per the rules.
+
+
+Recombinant DNA Advisory Committee (RDAC)
+Review Committee on Genetic Manipulation (RCGM)
+Genetic Engineering Approval Committee (GEAC)
+Institutional Biosafety Committees (IBSC)
+State Biosafety Coordination Committees (SBCC)
+District Level Committees (DLC).
+
+Out of these, the three agencies that are involved in approval of new transgenic crops are:
+
+
+IBSC - set-up at each institution for monitoring institute level research in genetically modified organisms.
+RCGM - set-up at DBT to monitor ongoing research activities in GMOs and small scale field trials.
+GEAC - set-up in the Ministry of Environment, Forests and Climate Change to authorize large-scale trials and environmental release of genetically modified organisms.
+
+The Recombinant DNA Advisory Committee (RDAC) constituted by DBT takes note of developments in biotechnology at national and international level and prepares suitable recommendations. The State Biotechnology Coordination Committees (SBCCs) set up in each state where research and application of GMOs are contemplated, coordinate the activities related to GMOs in the state with the central ministry. SBCCs have monitoring functions and therefore have got powers to inspect, investigate and to take punitive action in case of violations. Similarly, District Level Committees (DLCs) are constituted at district level to monitor the safety regulations in installations engaged in the use of GMOs in research and application.
+
+References
+
+
+ISAA.org ()
+Biosafety Issues related to transgenic crops with focus on Bt cotton 2005. Biotech Consortium India Limited, New Delhi
+Suresh Kumar, 2014. Biosafety Issues of Genetically modified organisms. Biosafety, 3:2, 1000e150.
+Alan MCHughen, 2012. Introduction to the GM crops special issue on biosafety, food and GM regulation. GM Crops and Food: Biotechnology in Agriculture and the Food Chain, 3:1, 6-8.
+
+Source: Usha Kiran Betha, ICAR-Indian Institute of Oilseeds Research, Rajendranagar, Hyderabad
+

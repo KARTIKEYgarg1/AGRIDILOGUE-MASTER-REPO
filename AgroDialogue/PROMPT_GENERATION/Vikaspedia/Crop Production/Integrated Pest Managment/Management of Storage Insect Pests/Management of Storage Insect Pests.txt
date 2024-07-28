@@ -1,0 +1,53 @@
+Management of Storage Insect Pests
+
+Introduction
+
+Storage is one of the most important steps in between harvesting and processing or direct consumption of food grains. In developing countries, storage has got so much of importance as most of the small and medium land holding farmers depend on on-farm storage. On the otherhand, India witnesses an annual storage loss 14 million tons worth about 7000 crores due to post-harvest pest damage (https://igmri.dfpd.gov.in/). The economic loss due to storage pests is attributed not only by consumption, but also by the amount of contaminationand spoilage by the body parts, excreta and hoarding. The lack of knowledge on storage pests and their damage and improper storage techniques are the main reason for huge losses. The construction of appropriate storage structures conveniently equipped and perfectly managed on one hand and, on the other, the execution of strict standards of hygiene in stores, with efficient pest control operationsconstitute the actions that must jointly be conducted to limit storage losses.
+
+This article is focused on major pests in storage and their management.
+
+Major insect pests of stored grains 
+
+Major insect pests of stored grains includes
+
+
+Lesser grain borer (Rhizopertha dominica)
+Rice weevil (Sitophilus oryzae)
+Khapra beetle (Trogoderma granarium)
+Rust red flour beetle (Tribolium castaneum)
+Long headed flour beetle (Latheticus oryzae)
+Saw toothed beetle (Oryzaephilus surinamensis)
+Rice moth (Corcyra cephalonica)
+Almond moth (Cadra cautella)
+Angoumois grain moth (Sitotroga cerealella)
+Pulse beetles : Callosobruchus chinensis, C. maculates, C. analis.
+
+The non-insect pests include rodents, mites and fungi.
+
+Management
+
+For effective management of storage insect pests integrated pest management approach should be followed which includes sanitation of storage facility, cleaning of grains before storage, monitoring of pest incidence, temperature and moisture control inside and outside the storage structure/areaand need based use of grain protectants. 
+
+Sanitation
+
+Sanitation of storage facility, inside and outside space, and also nearby habitats to remove the pests stages as well as pest habitats. Sanitation helps to prevent the pest population build-up and further damage. Whenever new grains or storage commodity arrives in facility, it is advisable to remove old or infested grains. Always use pest free storage structures (bins, jute bags etc). Due attention must be paid to cracks and crevices in the floor or walls of godowns, and other pest harboring placesto avoid carryover of pest population. Before storing any commodities for long time, it is always advised to take preventive spray at warehouses/godowns or storage structures. Insecticides like deltamethrin 2.5 WP (40 gm/l) and malathion 50 EC( 1 % or 3 liter/100m2) can be used.
+
+Sun drying of grains
+
+Sun drying is the most common practice followed before storage of any food grains. This technique minimises the storage losses by molds, discoloration, respirationand insect damage. Depending upon the length of the storage period moisture content may vary. A proper grain cleaning before storage ensures uniform aeration inside the storage structure. Proper aeration helps to reduce chances development of fungal growth. Grain cleaning also helps to remove the unwanted grains of other crops, weeds and also pests present in the grains. Most importantly cleaning of grains enhances the effectiveness of management practices like fumigation.
+
+Grain protectants
+
+Grain protectants mainly contact insecticides are used to kill the insect pests in storage godowns and structures. The insecticides can be used as prophylactic or curative control measure. The insecticides like deltamethrin 2.5% WP and malathion 50% EC are used at recommended doses on walls, floor, alleyways and surface grain bags to kill cowling insect stages. Malathion 50% EC is diluted with water in the ratio of 1 : 100 and 3 liters emulsion is sprayed on 100 sq. mtr. surface area after 15 days interval. Similarly, 40 gms. of deltamethrin 2.5% WP is dissolved in 1 liter of water and 3 liters emulsion is sprayed on 100 sq. mtr. surface area after 90 days. For curative control, the grain stacks or godowns can be fumigated with fumigants like phosphine at recommended dose. For effective fumigation the storage containers should be air tight or grain stacks should be covered with gas proof fumigation covers.
+
+Dried Neem/ Margosa leaves can be mixed with food grains and stored in gunny bags or bins. Common table salt at about 200 grams of salt can be mixed in one kg of pulses to store for a period of 6-8 months. Red soil and water can be mixed to form a paste and Seeds can be transferred into this container and mixed well so that the soil completely adheres to the seeds. Seeds can beshade later it can be transferred into a gunny bag.
+
+Storage structures
+
+The basic understanding of storage structure include the prevention of migration of the air and moisture to avoid oxygen availability to any living entity while storage. Generally grain storage structures are categorized based on the availability of material, storage capacity, the economic aspects of the structure etc. Based on these, the storage structures are classified as indoor and outdoor storage structures, above-ground and under-ground, /bins/pots constructed with mud, wood or bamboo storage structures, metallic drums, bins or containers or with straw of paddy and wheat. India, 59–70% of food grains is stored in the conventional storage systems, constructed using paddy or wheat straw, bamboo, wood, bricks, mud, cow-dung, etc. Here, storage can be done indoors, outdoors or inside, or underground (Singh et al., 2017).Modern storage structures like Pusa bin (Developed by ICAR-IARI), domestic Hapur bin (Indian grain storage institute), PAU bin (Punjab Agricultural University) etc. have been used for small to quantity storage (1 to 3 tonnes).
+
+Conclusion
+
+To avoid post harvest losses of food grains the proper care of storage facilities, continuous monitoring and use of proper prophylactic and curative measures are essential. From augmenting the existing storage capacities by construction of new ones through various means both public and private partnerships is need of the hour to revamp the existing storage pest management in the country. Use of new systems of grain storage including silo storage, controlled atmosphere storage and using integrated pest management techniques would greatly reduce the cost of preservations and increase the available food free from contaminations.
+
+Contributor : Suresh M. Nebapure, Timmanna, Rajna S, Division of Entomology, ICAR-Indian Agricultural Research Institute, New Delhi-12

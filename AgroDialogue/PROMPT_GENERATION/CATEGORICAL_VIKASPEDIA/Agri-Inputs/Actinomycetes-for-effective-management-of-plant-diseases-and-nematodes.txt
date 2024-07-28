@@ -1,0 +1,170 @@
+Actinomycetes for effective management of plant diseases and nematodes
+
+Introduction
+The quality of the plant products is impacted by a variety of biotic variables that affect the plants. Among them, soil-borne pathogens and plant parasitic nematodes are significant factors that restrict crop production. Utilizing microbial bioagents is a sustainable way to regulate the use of chemical methods due to their negative effects.
+
+Numerous bacteria, fungi, and nematodes that are harmful to plants are controlled by a variety of rhizospheric microorganisms in plants. Actinomycetes are a class of gram-positive, spore-forming, aerobic microorganisms that are distinguished by having a high G+C content in their genomes. These organisms mainly grow by forming filaments. Due to the formation of several secondary metabolites which include antibiotics, enzymes and inhibitors, these are considered as the efficient biocontrol agents. By using a number of regulatory mechanisms, these metabolites regulate nematodes and plant pathogens.
+
+Management of Plant Pathogenic Fungi by Actinomycetes
+Actinomycetes produce antifungal peptides (AFPs) as secondary metabolites to combat fungi. These novel antibiotics belong to a naturally occurring class that is hydrophobic, amphiphilic (i.e., hydrophilic and lipophilic), and cationic. AFPs work in three different ways to prevent the growth of fungi, including the prevention of production of fungal cell walls, interfering with membrane components, and affecting intracellular targets such mitochondria and large nucleic acids.
+
+Table 1. Antifungal Peptides in the Management of Fungal Pathogens
+AFP
+Source
+Target Pathogen
+Mode of Action
+
+
+Polyoxins and Nikkomycins
+Streptomyces Cacaoi
+Pyricularia Oryzae
+Inhibitors of chitin synthase
+
+
+Lipopeptin A
+Streptomyces sp.
+Colletotrichum lagenarium
+Inhibitor of N-acetylglucosamine transferase
+
+
+Neopeptins A and B
+Streptomyces sp. 
+Alternaria mali
+Inhibitors for β-1,3-glucan and proteoheteroglycan synthesis
+
+
+Globopeptin
+Streptomyces sp. strain MA-23
+Alternaria kikuchiana
+Inhibition of fungal cell wall
+
+
+SW-B
+Streptomyces flaveus
+Cladosporium cucumerinum
+Hyphal growth inhibition
+
+
+Coronamycins
+Streptomyces sp. 
+Pythium ultimum
+Interacts with membrane to form core, resulting in cell lysis
+
+
+Cyclothiazomycin B1
+Streptomyces sp.
+Septoria nodorium
+RNA polymerase inhibitor and hyphal swelling
+
+
+Management of Plant Pathogenic Bacteria by Actinomycetes
+Many plant pathogenic bacteria can be controlled by the use of antibiotics. Many of the new antibacterial chemicals can be found in actinomycetes, which kill specific bacteria while having no negative effects on the host's tissues. Actinomycetes are responsible for producing 45% of the antibacterial chemicals found in microorganisms. Actinomycin, streptomycin, erythromycin, neomycin, etc. are some of these antibiotics.
+
+Table 2. Antibiotics in the Management of Bacterial Pathogens
+Antibiotics Produced by Actinomycetes
+Mode of Action
+Source
+Target Pathogen
+
+
+Streptomycin
+Inhibiting the initiation of protein synthesis
+Streptomyces lavendulae, Streptomyces noursei
+Streptococci, Pneumococci 
+
+
+Neomycin
+Inhibiting the synthesis of DNA
+Streptomyces fradiae
+Staphylococci
+
+
+Vancomycin
+Preventing cell wall synthesis
+Amycolatopsis orientalis
+Bacillus sp.
+
+
+Kanamycin
+Inhibiting protein synthesis by interacting with 30S ribosome
+Streptomyces kanamyceticus
+Escherichia coli, Acinetobacter species
+
+
+Rifamycin
+Inhibition of DNA dependent RNA synthesis
+Amycolatopsis rifamycinica
+Mycobacterium avium
+
+
+Daptomycin
+By disrupting bacterial plasma membrane
+Streptomyces roseosporus
+Staphylococcus aureus, Enterococci
+
+
+Platensimycin
+Inhibition of fatty acid biosynthesis
+Streptomyces platensis,
+Staphylococcus aureus
+
+
+Management of Nematodes by Actinomycetes
+Actinomycetes are the main tool for managing the nematodes. Actinomycetes produce numerous secondary metabolites which contain many nematicidal properties. Streptomyces spp. are the major group of actinomycetes which show activity against plant-parasitic nematodes by producing nematicidal metabolites.
+
+Table 3.  Metabolites in the Management of Nematodes
+Secondary metabolites produced by actinomycetes
+Source
+Target nematodes
+References
+
+
+Abamectin 
+Streptomyces avermitilis
+M. incognita, Rotylenchulus reniformis 
+El-Nagdi and Youssef (2004)
+
+
+Fervenulin and 6,8-dihydroxy-3- methyl isocoumarin
+Streptomyces sp.
+M. incognita
+Ruanpanun et al., (2011)
+
+
+Benzenepropanoic acid
+Micromonospora sp.
+M. incognita
+Ran et al., (2022)
+
+
+Sample-3-1 metabolite
+Streptomyces sp. 
+Bursaphelenchus xylophilus
+Shen et al., (2022)
+
+
+60-methyl-fungichromin
+Streptomyces albogriseolus
+M. incognita and  M. javanica
+Zeng et al., (2013)
+
+
+Conclusion
+Actinomycetes produce antifungal, antibacterial, and nematicidal antibiotics. These antibiotics are very helpful in addressing various problems, such as lowering the use of pesticides and soil toxicity, which has become a severe issue in recent years. As a result, it is essential to screen antibiotics from actinomycetes, which are the main mechanism for choosing the antibiotics that are effective against diseases and nematodes, in order to manage a variety of plant pathogenic microorganisms.
+
+References
+Dede, A., Guven, K. and Şahi̇n, N. 2020. Isolation, plant growth-promoting traits, antagonistic effects on clinical and plant pathogenic organisms and identification of actinomycetes from olive rhizosphere. Microbial pathogenesis, 143: 104134.
+El-Nagdi, W.M.A. and Youssef, M.M.A. 2004. Soaking faba bean seed in some bio-agents as prophylactic treatment for controlling Meloidogyne incognita root-knot nematode infection. Journal of Pest Science, 77(2): 75-78.
+Mahajan, G.B. and Balachandran, L. 2012. Antibacterial agents from actinomycetes-a review. Frontiers in Bioscience-Elite, 4(1): 240-253.
+Ran, Y., Zhang, Y., Wang, X. and Li, G. 2022. Nematicidal Metabolites from the Actinomycete Micromonospora sp. WH06. Microorganisms, 10(11): 2274.
+Ruanpanun, P., Laatsch, H., Tangchitsomkid, N. and Lumyong, S. 2011. Nematicidal activity of fervenulin isolated from a nematicidal actinomycete, Streptomyces sp. CMU-MH021, on Meloidogyne incognita. World Journal of Microbiology and Biotechnology, 27(6): 1373-1380.
+Shen, J., Zhang, C., Zhang, S., Chen, F., Pei, F., Zhou, S. and Lin, H. 2022. Screening, isolation and mechanism of a nematicidal extract from actinomycetes against the pine wood nematode Bursaphelenchus xylophilus. Heliyon, 8(11): 11713.
+Singh, C., Parmar, R.S., Jadon, P. and Kumar, A. 2016. Characterization of actinomycetes against phytopathogenic fungi of Glycine max (L.). Asian Journal of Pharmaceutical and Clinical Research, 9(1): 216-9.
+Zeng, Q., Huang, H., Zhu, J., Fang, Z., Sun, Q. and Bao, S. 2013. A new nematicidal compound produced by Streptomyces albogriseolus HA10002. Antonie Van Leeuwenhoek, 103(5): 1107-1111.
+Zhang, D., Lu, Y., Chen, H., Wu, C., Zhang, H., Chen, L. and Chen, X. 2020. Antifungal peptides produced by actinomycetes and their biological activities against plant diseases. The Journal of Antibiotics, 73(5): 265-282.
+
+Content contributors
+Sowjanya, B, ANGRAU, Bapatla
+Sankari Meena, K, ICAR-Indian Institute of Oilseeds Research, Hyderabad
+Vijayagopal, A, ANGRAU, Bapatla
+Prasad, R.D, ICAR-Indian Institute of Oilseeds Research, Hyderabad

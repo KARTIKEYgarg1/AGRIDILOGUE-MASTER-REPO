@@ -1,0 +1,172 @@
+Production of Milk Fish
+
+The milkfish, Chanos chanos is one of the ideal candidate species for farming in coastal areas. It has a symmetrical and streamlined body with large forked caudal fin. It has no teeth and predominantly feeds on algae and invertebrates. It tolerates a wide range of temperature (15-40°C) and salinity (0-145 ppt).
+
+
+
+Adult fish spawn in the open sea with a water depth of about 50 m. The female fish (6-7 years old) spawns annually or biannually, releasing about 3-7 lakh eggs/kg body weight at a time. The planktonic eggs are 1.10-1.25 mm in diameter and hatch-out within 24 hours. The pelagic larvae and eggs drift along with the ocean current and get carried to the inshore waters. The young-ones get into coastal waters along with the tidal inflow. Mangrove ecosystem with plenty of micro and macro live feed organisms and high organic matter, provides an excellent feeding ground to them till the sub-adult stage. On attaining a size of 200-300 g, the fish migrate back to the sea. The adult fish feed mainly on the mats of detritus consisting of plankton, microalgae and associated organisms. Aquaculture of the species depends on wild-collected seeds in India, however, ICAR-CIBA has developed commercial seed production technology in the recent years. The seed collection season extends from March to June with a subsidiary season from October to December.
+
+Seed Production
+
+Broodstock management
+
+The sub-adult fish collected from wild or farm is anaesthetised, length and weight of body measured and reared in floating sea cage or in the earthen saline pond for developing as broodstock. The pond is fertilized for the production of natural feed, “lab-lab” which is a complex benthic organic mat consisting of blue-green algae, diatoms, bacteria, nematode worms etc. The broodstock is also fed twice daily with a floating pelletted feed (36% protein and 6% lipid) @ 1-2% of the body weight. It matures on reaching a size of 3-5 kg within 5 years. The gravid male and female brood fish are selected by visual examination of the urino-genital region. Male has two openings externally, whereas the female has three. After proper quarantine, the brooders are shifted with mild sedation in a transportation tank (oxygen maintained at saturation level) and released into spawning tank (100 m3).
+
+Water quality management
+
+Water is taken directly from the sea or a well at the shore. After removing the debris through a screen net, the collected seawater is allowed to settle in a sedimentation tank to remove suspended particles followed by chlorination (35 ppm) in a tank. After de-chlorination by aeration, the seawater is passed through a slow sand filter and pressure sand filter to remove particles larger than 25 micrometer. Cartridge filter (1 micormeter level) is also required for water flltration. Finally, it is disinfected by UV sterilizer or ozonizer. EDTA (5-10 ppm) is also added in the reservoir tank or directly to the rearing tank to remove heavy metals and reduce contamination.
+
+Spawning
+
+The male and female fish attain sexual maturity within 4 and 5 years of age, respectively. The domesticated milkfish spawns naturally in the pond or circular spawning tank in correlation with the lunar cycle. It is induced to spawn by the injection of HCG at 350-500 IU/kg body weight for the female. A combination of LHRH-a and 17 alpha- methyl testosterone is also used for inducement after careful assessment of oocyte diameter. The male to female sex ratio maintained is 2:1. Induced female, along with conditioned males, are released in a floating cage. The cage is covered with a closed mesh net for collecting the eggs. Fertilisation is external, and the fertilised eggs are spherical, translucent, buoyant and measure 1.23 mm in diameter. After spawning, the brooders are released back into the broodstock pond. The rate of fertilization is determined by collecting samples of eggs using a scoop net of 300-500 micormeter mesh size and measuring in a graduated bucket. Fecundity is 3-7 lakh/kg body weight. Optimum temperature and salinity for spawning are 29-320 C and 26 ppt.
+
+Incubation
+
+The fertilised eggs for incubation are kept in bucket with mild aeration. These are disinfected with a dip in 100 ppm betadine for one minute. The fertilised eggs are incubated in cylindro-conical FRP incubation tank (500 1) at a density of 500-1000 no./l with mild aeration. The eggs hatch out in 20-35 hours at a temperature of 26-32°C and salinity of 29-34 ppt. The newly hatched larva has an average total length of 3.4 mm with a large yolk sac. The mouth of the hatchling opens on 3-4 dph and show phototaxis and rheotaxis during day time.
+
+Live feed production
+
+The treated seawater is filtered into the outdoor tank through 1 micormeter filter bag, aerated and then fertilised with 100 g ammonium sulphate, 10 g urea, and 10 g superphosphate per 1000 litres of water. In the early morning, it is inoculated with rotifers at a density of 50 no./ml and also with freshly harvested algae (Chlorella) 400 ml at 1.6x106 cells per ml from the indoor culture room. During the first 2 days, the culture volume is doubled to dilute the rotifer density to half. Within 3 days, rotifer increased to 200 no./ml. During the following days, half the tank volume is harvested and refilled again to decrease the density to half. On the fifth day, the tank is harvested completely, and the process is repeated. Pure stock culture of required phytoplankton and zooplankton have to be maintained in an indoor laboratory to ensure uninterrupted production and supply.
+
+Rearing of larva
+
+The larvae of 3 dph are transferred to outdoor cement tank (200 m3 capacity) containing filtered seawater having 27-28 ppt salinity at a density of 2-3 no./l. Good quality live algae such as Chlorella virginica, Isochrysis galbana and Tetraselmis chui are directly added to larval rearing tank to maintain the required phytoplankton cell density of 35000 no./ml (green water system) with mild aeration. It helps in maintaining water quality, controlling bacteria, enriching zooplankton and easy feeding of larvae. Start feeding the larvae from 2-3 dph for 2-3 times daily with enriched Brachionus plicatilis at a density of 5-10 no./ml until 15 dph. Artemia nauplii are used as feed along with Brachionus plicatilis from 14 dph. Weaning on formulated microencapsulated feed starts from 15 dph onwards. The larvae reach 14-16 mm by 21 days after hatching. On reaching 20 mm, it is transferred to an earthen pond for further rearing.
+
+Rearing of fry
+
+The earthen pond up to 0.2 ha with a water depth of l m is ideal for nursery-rearing.The nursery pond is prepared by de-siltation, bund strengthening, installation of sluices, draining, drying, tilling, eradication of aquatic weeds and liming as explained for the major carps. Chlorination using bleaching powder (35 ppm) is ideal for the removal of pathogen, predator and weed fishes. After filling the pond up to 25-30 cm height, raw cow dung slurry @ 1000-2000 kg/ha and poultry droppings @ 250-500 kg/ha are applied in the culture pond to boost the growth of diatom and zooplankton respectively. After 3-7 days, “lab-lab”, the favourite food of the growing milkfish fry, develops at the bottom of the pond. Then the water level in the nursery pond is slowly raised at an increment of 2-3 cm per day so that the organic complex of the benthic mat does not get detached from the pond bottom and thereby doesn't float at the surface. The stocking of fry is done when the pond is rich in “lab lab”. Coir mat is usually placed below the water surface about 30 cm above the pond bottom to accelerate the production of “lab lab”. Poles are erected along the embankments and covered with a net to deter predatory birds.
+
+The fry having 2 cm size are stocked at a density of 100-300 no./m2 during cool hours of early morning or late evening. The fry feeds actively on the “lab lab” and other phytoplankton and grows rapidly even up to a rate of 1 mm per day. Supplementary feeding with rice bran is given depending upon plankton production. By the end of 30-45 days, it attains a size of 5-8 cm (1.5- 5 g).
+
+Packing and transportation
+
+It is usually harvested using dragnet after reducing the level of water during low tide followed by pumping out of water. During conditioning, the seed is acclimatised to the salinity of grow-out pond. The procedure of packing and transportation is similar to that of the major carps.
+
+Farming in Pond
+
+Site selection & pond construction
+
+Rectangular pond having a minimum of 0.2 ha area and 1 m depth is ideally required for the farming of milkfish. Sluice gates are installed to regulate the inflow and outflow of water. The pond is covered with bird net of 100 mm mesh size to control predatory birds. The side of the pond is fenced with a stiff net of 26 mm to prevent the entry of predatory animals. Other aspects of site selection and pond construction are the same as that of the major carps.
+
+Pond Preparation
+
+Before stocking, inorganic fertilizers such as urea (15 kg/ha) are also applied along with organic manures in order to ensure the availability of “lab lab”. The fish also feeds on filamentous green algae, copepods, mysids, etc. The other aspects of pond preparation are similar to that explained for nursery rearing.
+
+Water quality requirements
+
+
+Salinity           : 10-30 ppt
+Temperature  : 26-30oC
+Transparency : 25-40 cm
+pH                  : 7.5-8.5
+DO                 : &gt;4.5 ppm
+
+Stocking
+
+After the development of “lab lab”, the water depth is raised to 1 m and seeds having a size of 4-6 cm is stocked in happa or pen installed in the same pond for further nursery rearing to ensure maximum survival. Small nursery pond located inside the grow-out farm can also be used for rearing, which occupies about 2% of the total area. Before releasing the seed, temperature and salinity in the bag carrying the seed is gradually equalized with those in the pond by acclimatisation. In grow- out pond, fingerlings are stocked at a density of 7,500 no./ha for monoculture. In polyculture, stocking density is reduced to 5,000 no./ha along with pearlspot at 15,000 no./ha.
+
+Feeding
+
+Generally, milkfish thrives on natural food available in the pond. Supplementary feeding is also given with a formulated floating pelletted feed, rice bran and wheat bran. The protein requirement of the species is 20-32% in the grow-out stage. The feed is given twice daily (morning and evening).
+
+Feed requirement
+
+
+
+
+ABW (g)
+Protein content (%)
+Feed size (mm)
+Daily feeding rate (% of ABW)
+
+
+5
+32%
+0.8
+5%
+
+
+50
+28%
+1.2
+5%
+
+
+100
+28%
+1.8
+4%
+
+
+300
+24%
+3.0
+3%
+
+
+500
+24%
+4.0
+3%
+
+
+700
+20%
+6.0
+2%
+
+
+900
+20%
+6.0
+1%
+
+
+
+Care and maintenance
+
+Even though, milkfish is generally free from diseases, it is essential to manage the pond with due care and attention. Periodic liming at 250 kg/ha is done for correcting the pH, if necessary. Whenever the density of lab lab in the pond decreases, subsequent doses of cow dung are added at 500-1000 kg/ha in pond to enhance its production. Water is added intermittently to maintain a water depth of 1-2 m. Moreover, 20- 30% of water is replaced fortnightly. If an anticipated fish production of 6 t/ha is targeted, paddle-wheel-aerators at 2 hp/ha are installed. It is essential for keeping the DO level above 4 ppm to ensure proper growth and survival. Growth is monitored by periodic sampling.
+
+Growth rate
+
+
+
+
+DOC
+ABW (g)
+
+
+0
+5
+
+
+30
+35
+
+
+60
+90
+
+
+90
+140
+
+
+120
+260
+
+
+180
+550
+
+
+240
+800
+
+
+
+Harvesting
+
+The fish attains a marketable size of 1 kg within a period of 8-10 months with a survival rate of 80%. Seine net, gillnet or drag net is usually used for harvesting the farmed milkfish. If the length of seine net is equal to the length of the pond, repeated netting would result in complete harvesting. When more than one size group is present, ‘cull harvesting’ is adopted using gill nets of appropriate mesh size to capture the fish of desired market size. Gill net is stretched in a zig zag line across the pond. Care should be taken to ensure that the fish is not injured and the scales remain intact. Considering the aggressive nature of fish during harvesting, the personnel involved must wear all safety accessories like helmet etc. Fish is often dipped in ice water to prevent the loss of scales during handling. Harvested fish is marketed daily and usually consumed in fresh condition and never kept in ice for more than a day. Frozen fish is not preferred in the market. The expected production is 6 t/ha.
+
+Source : 

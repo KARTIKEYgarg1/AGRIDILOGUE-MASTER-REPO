@@ -1,0 +1,27 @@
+Kisan suvidha app
+
+Kisan suvidha is an omnibus mobile app developed by department of agriculture & cooperation, to help farmers by providing relevant information to them quickly. The app is available in multiple indian languages.
+
+Features of the mobile app
+
+Following facilities are available on kisan suvida app.
+
+ weather - provides weather report for that day and weather forecast for next five days of a selected district. Extreme weather alerts are also provided.
+Dealers - name, mobile number and address of the dealers of seeds, pesticides, fertilizer and farm machinery are provided. 
+Market prices - information about rates of various crops in different mandies are provided.
+ - crop specific information related to pest management are provided. If the condition of crop is not normal, farmers can upload a picture/photo of the crop and send it through kisan suvidha app to agriculture experts for advice.
+Agro advisories - information from agriculture experts of districts regarding the advisories about activities to be undertaken and precaution to be taken staring from sowing to harvesting.
+Contact kcc - this option provides facility to speak to kisan call centre (kcc).
+Soil heath card - option gives information about soil health card, so that farmers can use fertilizer and pesticides judiciously having regard to minerals available in a particular land/farm. 
+Cold storage and gowdowns - information about warehouse and cold storage available in the district like warehouse / cold storage, name of manager, address, storage capacity and phone number etc are provided. 
+
+How to use
+
+The kisan suvidha app for android platform can be downloaded from google playstore. To download.
+
+The kisan suvidha app for ios platform can be downloaded from app store. To download.
+
+Registration is compulsory for using this app. You can choose ‘english’, ‘hindi’ or the local language for registration.
+
+Source : ministry of agriculture and farmers' welfare
+

@@ -1,0 +1,39 @@
+Trophic State Index 
+
+
+Trophic State
+
+Trophic  state  is  defined  as  the  total  weight  of  the  biomass  in  a  water  body  at  a specific   location   and   time.   Trophic   state   is   the   biological   response   for   nutrient   additions   to   the   water  bodies (Nauuman,1929).
+
+The amount of nitrogen, phosphorus and other biological useful nutrients dissolved in the waters determine the trophic state of the lake. The water trophic is used to estimate its biological condition.
+
+Classification of lakes based on trophic state
+
+The classical and most commonly used method is base d on the productivity of the water body is the biom ass related trophic  state  index  developed  by  Carlson(1977).  Carlson’s  Trophic  State  Index  (TSI)  is  a  common  method for characterizing  a  lake’s  trophic  state  or  overall  health. Carlson’s trophic state index mainly uses algal bio mass involving three variables namely chlorophyll.a  (CA), Secchi  disc depth (SD) and total phosphorus (TP).
+
+The trophic state of the lake is classified into three namely - Oligotrophic, Mesotrophic, and Eutrophic Lakes. When the lake has higher trophic indices may be considered as hyper-oligotrophic or hypereutrophic.
+
+
+Oligotrophic lake
+
+An oligotrophic lake is one which has a relatively low productivity due to the low nutrient content in the lake. The waters of these lakes are usually quite clear due to the limited growth of algae in the lake. The waters of such lakes are of high-drinking quality. Such lakes support aquatic species who require well-oxygenated, cold waters such as lake trout. Oligotrophic lakes are usually found in the cold regions of the world where mixing of nutrients is rare and slow due to the low temperatures of the lake waters.
+
+Mesotrophic lake
+
+Lakes with an intermediate level of productivity are called mesotrophic lakes. These lakes have medium-level nutrients and are usually clear water with submerged aquatic plants.
+
+Eutrophic lake
+
+Eutrophic Lakes have high levels of biological productivity and this lake support an abundance of plants due to the rich nutrient constitution, especially nitrogen and phosphorus. Initially, eutrophic lakes accelerate multiplication and growth of Lake Fauna due to the high levels of oxygen provided by a large number of plants growing in the lake. However, when things cross limits, plants or algal blooms overcrowd the lake and the lake fauna suffers due to the high levels of respiration by the living vegetative matter. Eutrophication might occur naturally or due to human impact on the environment.
+
+Hypereutrophic lake
+
+These lakes suffer from problems arising due to excessive plant and algal growth due to a high supply of growth nutrients. These lakes have little transparency due to the dense overgrowth of algae or aquatic flora. These lakes have visibility limited to lower than 3 feet. Hypereutrophic lakes also have more than 100 micrograms/liter of phosphorus and more than 40 micrograms/liter of total chlorophyll. The overgrowth of algae often suffocates the fauna below the water depths, and this might create dead zones beneath the water surface.
+
+Trophic index drivers
+
+Both natural and human-made factors might influence the trophic state of a water body. If the lake is located in a region that has a high level of nutrients, the lake will naturally be in the eutrophic state. Sewage entering the lake intentionally or accidentally, agricultural runoffs from crop-fields or fertilizers leached into the waters are the different ways in which nutrients are added to a water body due to human activities.
+
+Management of the Trophic Levels
+
+Different target users might want a water body to have a distinct trophic level. For example, for those intending to use the water body for leisure activities like swimming or fishing, an oligotrophic lake would be the ideal choice. Those wishing to attract birds to create a bird sanctuary will prefer a eutrophic lake with plenty of algae to feed the birds. Accordingly, the levels of nutrients are to be managed.

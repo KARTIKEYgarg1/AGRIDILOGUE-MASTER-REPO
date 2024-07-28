@@ -1,0 +1,19 @@
+Physiological Leaf Spot
+
+Symptoms
+Symptoms of physiological leaf spot vary considerably in size and color depending on crop type, variety, season and type of management. Some cereals develop yellow flecking or orange pinprick spots, and others a brown or reddish brown spotting. In some cases the spots enlarge and become water-soaked fingerprint-type blotches. These symptoms may be easily mistaken for spotting symptoms caused by fungi, such as tan spot, net blotch and Septoria leaf spot. However, if the cause is physiological, the spots are present on all leaves of the plant, whereas fungal diseases normally start in the lower canopy. Another main difference is that physiological lesions have sharp edges limited by the leaf veins (vs. diffuse with fungi).
+
+Product Recommendations
+Organic Control
+There is no biological control option available for physiological leaf spots at the moment. Please notify us, if you know of any.
+Chemical Control
+Always consider an integrated approach with preventive measures and biological treatments if available. In cases where soil pH is neutral or low, the application of potash in the form of KCl has shown to correct or revert the symptoms in some varieties. Supplementing soil with potash is of limited utility in soils with high pH.
+
+What caused it?
+Physiological leaf spot is most frequently seen on winter wheat, but other cereals can also be affected. This disorder is thought to be caused by tissue oxidation due to environmental factors, for example sun damage to the upper leaves or a lack of chloride in soils. Other stresses, such as alternating cool, cloudy and wet weather followed by hot, sunny conditions, could be a trigger. The accumulation of pollen and water at the base of leaf sheaths may also cause the development of physiological spots. Physiological leaf spots may be easily mistaken for spotting symptoms caused by diseases, such as tan spot, net blotch and Septoria leaf spot. However, contrary to these pathologies, it is not thought to affect yield. It is thus extremely important to distinguish if spots are caused by disease or not before deciding whether to apply fungicides.
+
+Preventive Measures 
+Select resilient varieties if available in the area.
+Regularly monitor the crop and check for disease in a diagnostic laboratory.
+Avoid soils with low chloride levels and monitor the soil regularly for this nutrient.
+Apply potash in the form of KCl as complement in the fertilization program (only if soils have optimal low pH).

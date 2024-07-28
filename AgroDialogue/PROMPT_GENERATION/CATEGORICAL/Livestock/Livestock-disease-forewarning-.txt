@@ -1,0 +1,97 @@
+Livestock disease forewarning 
+
+Livestock sector plays a critical role in the welfare of india's rural population. This enterprise provides a flow of essential food products, draught power, manure, employment, income, and export earnings. As it is an important component in poverty alleviation programmes, continuous emphasis is being laid on this sector for enhancing the quality of the primary and secondary products, which in turn demands safe animal health for better products. Therefore, livestock development programmes cannot succeed unless a well-organized animal health service is built up and protection of livestock against diseases and pests particularly against the deadly infections is assured.
+
+India has achieved eradication of rinderpest (rp), contagious bovine pleuro pneumonia (cbpp), ahs and dourine. However, there are several other infectious and non-infectious diseases prevailing in the country causing huge economic loss annually. Prevention, control and eradication of the animal diseases need a thorough understanding of the epidemiology as well their economic impact.
+
+Early warning of disease incidence or outbreaks and the capacity of prediction of risk of spread to new areas is an essential pre-requisite for the effective containment and control of epidemic animal diseases.
+
+National animal disease referral expert system (nadres)
+
+National animal disease referral expert system (nadres) is an interactive, dynamic, relational online animal disease forewarning system that has been developed with overall aim to improve the early warning and response capacity to animal disease threats in the country for the benefit of farmers and policy makers in department.
+
+National institute of veterinary epidemiology and disease informatics (nivedi) with inputs from 31 centers spread across the country has developed the nadres.
+
+Icar - nivedi has identified 13 priority diseases, based on the past incidence patterns and has built a strong database of these diseases. The database, which is backbone of the nadres, is used for providing monthly livestock disease forewarning, which is compiled as monthly bulletins to alert the animal husbandry departments, both at the national/state level, to take appropriate control measures.
+
+Forewarning methodology
+
+Materials
+
+ livestock disease data - previous 10 years livestock disease outbreak data retrieved from the nadres database linked with risk factors data.
+Livestock population data : district wise livestock population data from 19th livestock census (2012) 
+Meteorological data : variables such as precipitation (mm/month), pressure (millibar), relative humidity (%), sea level pressure (millibar), minimum temperature ( ° c), maximum temperature ( ° c), wind speed(m/s), vapour pressure (hpa), soil moisture (%), perceptible water (mm), potential evaporation transpiration (mm/day) and cloud (%) are extracted from ncep - national centre environmental prediction / imd - indian meteorological database / nicra - national innovation climate resilient agriculture and other sources for the past five years. Monthly average for the past five years is calculated and used. 
+Remote sensing data : remote sensing variables such as ndvi - normalised difference vegetation index, evi - enhanced vegetation index and lst - land surface temperature are calculated using modis landsat/irs satellite images for the past five years. Monthly average for the past five years is calculated and used. 
+
+Statistical model
+
+Disease outbreak is predicted by generalised linear model (logistic regression) from the master chart containing the weather parameters, remote sensing variables and livestock population or densities using a r programme and the probability of disease outbreak is categorised in 6 risk levels - no risk (nr), very low risk (vlr), low risk (lr), moderate risk (mr), high risk (hr) and very high risk (vhr) for enabling the stake holders to take appropriate control measures by suitably allocating available resources.
+
+Diseases covered with accuracy of prediction
+
+ 
+
+Sl.nodiseaseaccuracy %
+
+1
+Anthrax
+95.21
+
+2
+Babesiosis
+96.91
+
+3
+Black quarter
+93.36
+
+4
+Bluetongue
+98.45
+
+5
+Enterotoxemia
+97.06
+
+6
+Fasciolosis
+97.68
+
+7
+Foot and mouth disease
+88.58
+
+8
+Haemorrhagic septicaemia
+89.81
+
+9
+Peste des petits ruminants
+91.04
+
+10
+Sheep &amp; goat pox
+97.06
+
+11
+Swine fever
+95.06
+
+12
+Theileriosis
+97.68
+
+13
+Trypanosomosis
+97.06
+
+Livestock disease forewarning bulletins
+
+The livestock disease forewarning bulletin of nadres can be accessed through the following methods.
+
+ for android platform has also been launched. The mobile app provides information related to early warning and about clinical samples for the diagnosis in case of epidemic. 
+
+To access the livestock disease maps 
+
+Source : 
+

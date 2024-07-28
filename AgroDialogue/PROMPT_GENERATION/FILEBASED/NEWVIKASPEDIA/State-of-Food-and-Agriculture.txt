@@ -1,0 +1,31 @@
+State of food and agriculture
+The state of food and agriculture is the food and agriculture organisation's major annual flagship publication. It aims at bringing to wider audience balanced science-based assessments of important issues in the field of food and agriculture. Each edition of the report contains a comprehensive, yet easily accessible, overview of selected topic of major relevance for rural and agriculture development and for global food security.
+
+The state of food and agriculture 2022
+The state of food and agriculture 2022 looks into the drivers of agricultural automation, including the more recent digital technologies. Based on 27 case studies, the report analyses the business case for adoption of digital automation technologies in different agricultural production systems across the world. It identifies several barriers preventing inclusive adoption of these technologies, particularly by small-scale producers. Key barriers are low digital literacy and lack of an enabling infrastructure, such as connectivity and access to electricity, in addition to financial constraints. Based on the analysis, the publication suggests policies to ensure that disadvantaged groups in developing regions can benefit from agricultural automation and that automation contributes to sustainable and resilient agrifood systems. 
+
+Key messages
+Agricultural automation can play an important role towards achieving the sustainable development goals (sdgs), not least sdg 1 (no poverty) and sdg 2 (zero hunger) and those relating to environmental sustainability and climate change, by building resilience, raising productivity and resource-use efficiency, and improving food quality and safety. 
+
+Agricultural automation can deepen inequalities if it remains inaccessible to small-scale producers and other marginalized groups such as youth and women; certain technologies – large motorized machinery – can also have negative environmental impacts as they contribute to, for example, monoculture and soil erosion. 
+
+Before the digital revolution, motorized mechanization (e.g. Tractors) was key to agricultural transformation worldwide; however, there have been wide disparities in adoption between and within countries, with adoption being particularly limited in most of sub-saharan africa.
+
+If tailored to local needs and supported by digital tools, motorized mechanization still has the potential to improve agricultural productivity, leading to poverty reduction and enhanced food security, with positive spillover effects on the wider economy. 
+
+The use of digital automation technologies is growing, but mostly in high-income countries. Often their business case is not yet mature: some technologies are still in the prototype stages, while for others a limited enabling rural infrastructure – such as connectivity and electricity – hinders their dissemination, especially in low- and middle-income countries.
+ 
+Investing in enabling infrastructure and improving access to rural services (e.g. Finance, insurance, education) is key to ensure access to these technologies, especially for marginalized groups such as small-scale agricultural producers and women. 
+
+Digital automation technologies have great potential to achieve higher efficiency, productivity, sustainability and resilience. Yet, inclusive investments are needed – involving producers, manufacturers and service providers, with special attention to women and youth – in order to further develop technologies and tailor them to the needs of end users.
+
+The impacts of agricultural automation on employment vary depending on the context. In situations of rising wages and labour scarcity, automation can benefit both employers and workers in agriculture and in the wider agrifood systems, creating opportunities for skilled young workers.
+
+Where rural labour is abundant and wages are low, agricultural automation can lead to unemployment. This can happen if subsidies make automation artificially cheap or sudden technological breakthroughs bring automation costs down very rapidly.
+
+In labour-abundant contexts, policymakers should avoid subsidizing automation, but rather focus on creating an enabling environment for its adoption – especially by small-scale agricultural producers, women and youth – while providing social protection to least skilled workers, who are more likely to lose their jobs during the transition.
+
+Creating an enabling environment calls for multiple, coherent actions, including legislation and regulation, infrastructure, institutional arrangements, education and training, research and development, and support to private innovation processes.
+
+Investments and other policy actions to promote responsible agricultural automation should be based on context-specific conditions, such as status of connectivity, challenges related to knowledge and skills, adequacy of infrastructure, and inequality in access. 
+

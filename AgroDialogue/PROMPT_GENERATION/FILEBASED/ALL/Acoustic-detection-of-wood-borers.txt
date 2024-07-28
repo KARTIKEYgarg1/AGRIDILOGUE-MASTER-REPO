@@ -1,0 +1,37 @@
+Acoustic detection of wood borers
+
+Importance of wood borers
+
+Wood boring cerambycids are economically important pests on several agricultural and horticultural crops and forest tree plantations. wood borers larvae feed on living, dying, dead, or rotten plant stems, branches, or twigs (wang 2017).
+
+Borer infested cashew trees die within a period of 2-3 years, depending upon the pest population (sundararaju 2002). The infestation of wood borers is a major hindrance in realising the potential cashew nut yield (bhaskara rao 1998; vasanthi and raviprasad 2013). Wood borer grubs bore into the living tissues of the bark and feed on phloem tissues of trunk or the root by tunneling irregularly for 6 to 8 months and pupate inside the stem. The tunneling hampers the translocation of plant sap. As a result of severe damage, the supply of water and nutrients through phloem tissues are completely arrested by which the leaf turns yellow and is shed, finally leading to the death of infested trees. Such trees die within two years depending upon the pest population and cause huge capital loss to the farmers.
+
+The grubs are tissue borers that remain concealed inside the tree. It is very difficult to detect at the initial stage of infestation. The damage symptoms are rarely visible externally at the initial stage of infestation, and the trees at the advanced stage of infestation cannot be recovered. Although, some of the symptoms such as presence of bore holes, extrusion of frass and gummosis may be visible at the later stage of infestation, if careful and thorough examination is made by an experienced person. 
+
+Acoustic detection technology
+
+Acoustic detection methods have been developed and played a significant role in detecting grain and wood boring insect pests. It is a rapid, non-destructive and automatic monitoring of hidden insect pests (mankin et al., 2011). These methods have been used to detect insect larvae in wheat stems (mankin et al., 2004), monitoring of termites in wood and soil (scheffrahn et al., 1993, mankin et al., 2002), and stored grain pests (hagstrum et al., 1996). Several attempts have been made to identify the red palm weevil infestation in date palms and coconut through various acoustic devices and signal analysis methods (soroker et al., 2004, mankin et al., 2008a, pinhas et al., 2008).
+
+Use of acoustic detection technology are becoming increasingly popular because
+
+They provide a more effective means to detect internal woodborers in the buprestid and cerambycid families
+Offer real time, automatic, continuous, non-destructive, remote monitoring and detection of hidden infestations
+Help the farmers or other extension personnel to locate the infested trees (mankin et al., 2011).
+
+Proposed methods 
+
+The proposed system consists of four stages.
+
+The signal acquisition is the first stage. Here digitized signal is acquired by the sensor setup.
+The removal of noise is the second stage. Acquired signal contains the sound of root borer as well as surrounding noisy sounds. The removal of noisy sound is very important for the proposed system; the detection of root borer entirely depends on the root borer sounds. Hence, the second stage of the proposed system is to remove the unwanted surrounding noise in the acoustic signal.
+The third stage of the proposed system is to identify the impulse train in the acoustic signal. The impulse train in the acoustic signal is calculated and based on the number of impulse train, the existence of root borer is identified. 
+In the fourth stage of the proposed system, we have utilized the concept of bursts to identify if the sound is due to a root borer or surround noise. Finally, the burst rate is used to estimate the likelihood that the tree is infested. 
+
+Scope of acoustic technology
+
+This technique has tremendous potential in field use to timely detect wood borers infestation. The acoustic device can be used by the farmers to detect the presence of grub inside the tree trunk and they can undertake timely management measures against the hidden pest and avoid yielding tree losses.
+
+Contributed by 
+
+Maruthadurai r, icar-central coastal agricultural research institute, ela, old goa, goa
+T. Veerakumar, national institute of technology, electronics and communication engineering, farmagudi, ponda, goa, 

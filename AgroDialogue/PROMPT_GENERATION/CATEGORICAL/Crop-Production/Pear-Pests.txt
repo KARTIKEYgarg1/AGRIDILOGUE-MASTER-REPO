@@ -1,0 +1,93 @@
+ pear pests
+
+Pests of national significance
+
+Insect pests
+
+ san jose-scale: quadraspidiotus perniciosus comstock (hemiptera: diaspididae)
+ cock chaffer beetle: melolontha melolontha fab (coleoptera: scarabaeidae
+ pear psylla: cacopsylla pyricola (foerster) (hemeptera: psyllidae),
+ green peach aphis: myzus persicae (sulzer) (hemiptera: aphididae)
+ chaffer beetle: protactia neglecta (coleoptera: melolonthidae)
+Stem borer: aeolesthes sarta solsky (coleoptera: cerambycidae)
+ root borer: dorysthenes huegelii redt. (coleoptera: cerambycidae)
+
+Diseases
+
+ scab: venturia pirina (cooke) wint 
+ seedling blight: sclerotium rolfsii sacc.
+ hairy root: agrobacterium rhizogenes conn
+ crown gall: agrobacterium tumefaciens smith &amp; townsend
+ white root rot: dematophora necatrix berl. Exprill.
+ collar rot: phytophthora cactorum (lebert&amp; cohn) j. Schröt 
+ powdery mildew: podosphaera leucotricha (ellis &amp;everh.) e.s. Salmon 
+ leaf spot: mycosphaerella sp., alternaria sp
+
+Weeds
+
+Broad leaf
+
+ tropical spider wort: commelina benghalensis l. (commelinaceae)
+ creeping wood sorrel: oxalis corniculata l. (oxalidaceae)
+ goat weed: ageratum conyzoides l. (asteraceae)
+ sowthistles: sonchus spp. (asteraceae)
+ congress grass: parthenium hysterophorus l. (asteraceae) 
+ fine leaf fumitory: l. (fumariaceae)
+ lambs quarter: chenopodium album l. (chenopodiaceae) 
+ spurge: euphorbia hirta l. (euphorbiaceae)
+ common sorrel: rumex dentatus l. (polygonaceae) 
+ yellow sweet clover: melilotus indica (l.) all. (fabaceae)
+ creeping thistle: cirsium arvense (l.) scop (asteraceae)
+Grasses
+
+ bermuda grass: cynodon dactylon l. (poaceae)
+ cogon grass: imperata cylindrical (l.) raeusch. (poaceae) 
+ blanket grass: axonopus compressus (sw.) beauv. (poaceae)
+ large crabgrass: digitaria sanguinalis l. (scop.) (poaceae) 
+ knot grass: paspalum distichum l. (poaceae)
+
+Sedges
+
+ purple nutsedge: cyperus rotundus l. (cyperaceae)
+ flat sedge: cyperus iria l. (cyperaceae)
+
+Pest of regional significance
+
+Insect pests
+
+ codling moth: cydia pomonella l. (lepidoptera: tortricidae)
+ thrips: taeniothrips sp. (thysanoptera: thripidae)
+ mites: eutetranychus orientalis klein, panonychus ulmi koch tetranychus urticae koch (arachnida: tetranychidae)
+ flat headed borer: sphenoptera lafertei (coleoptera: buprestidae)
+ leopard moth: zeuzeram multistrigata (lepidoptera: cossidae) 
+ leaf roller: archips argyrospilus walker (lepidoptera: tortricidae)
+ green weevil: phyllobuis sp. (coleoptera: curculionidae) 
+ may, june beetle: adoretus sp. (coleoptera: scarabaeidae) 
+ green capsid: lygus pabulinus hahn (hemiptera: miridae)
+ green aphis: aphis pomi l. (hemiptera: aphididae) 
+ stik bug: euschistus conspersus uhler (heteroptera: pentatomidae),
+ tent hairy caterpillar: malacosoma indica walker (lepidoptera: lasiocampidae)
+ hairy caterpillar: euproctis sp. (lepidoptera: lymantridae)
+ bark eating caterpillar: indarbelaqua drinotata walker (lepidoptera: metarbelidae) 
+ fruit fly: bactrocera dorsalis hendel (diptera:tephritidae)
+
+Diseases
+
+ dieback: colletotrichum spp. 
+ virus diseases 
+ mycoplasma diseases
+ shoot/fruit blight and bark canker: botryodiplodia theobromae pat. And phoma glomerata (corda) wollenw. &amp; hochapfel
+ root rot and sapwood rot: polyporus palustris berkeley et curtis, ganoderma lucidum (curtis) p. Karst, schizophyllum commune fries
+
+Rodent pests
+
+ smaller bandicoot: bandicota bengalensis l
+ soft furred orchard rat: melardia meltada thomas
+ vole: alticola sp.
+
+Ipm for pear
+
+To know the ipm practices for pear, 
+
+Source:; 
+

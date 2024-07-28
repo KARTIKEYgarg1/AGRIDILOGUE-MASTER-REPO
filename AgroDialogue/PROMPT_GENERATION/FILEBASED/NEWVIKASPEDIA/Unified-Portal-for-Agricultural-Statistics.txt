@@ -1,0 +1,31 @@
+Unified portal for agricultural statistics
+
+Unified portal for agricultural statistics(upag portal) is an innovative platform, designed to streamline and enhance data management in the agricultural domain. It marks a significant step towards a more efficient and responsive agricultural policy framework.
+
+Need for the platform
+It has been developed by department of agriculture and farmers’ welfare in a bid to address data related governance challenges in agriculture such as lack of standardized and verified data, making it difficult for policymakers, researchers, and stakeholders to make informed decisions. The upag portal is set to change this landscape with its comprehensive approach to data integration and analysis.
+
+Upag portal was being envisaged as a public good wherein users will benefit by reduced search costs and frictions and access to credible, granular and objective data.
+
+Key challenges addressed by upag portal:
+Lack of standardized data: currently, agricultural data is scattered across various sources and often presented in different formats and units. Upag portal aims to consolidate this data into a standardized format, making it easily accessible and understandable for users.
+
+Lack of verified data: reliable data is crucial for accurate policy decisions. Upag portal ensures that data from sources like agmarknet is vetted and updated in a timely manner, providing policymakers with accurate information on agricultural prices.
+
+Dispersed data: to form a comprehensive view of any crop, multiple variables need to be considered, including production, trade, and prices. Upag portal brings together data from various sources, providing a holistic assessment of agricultural commodities.
+
+Different frequency variables: data updates at different times, causing delays and inefficiencies. Upag portal offers real-time connectivity with data sources, reducing the time and effort required for monitoring and analysis.
+
+Key features of upag portal
+Data standardization: the portal standardizes data on prices, production, area, yield, and trade, making it accessible in one location, eliminating the need to compile data from multiple sources.
+
+Data analysis: upag portal will perform advanced analytics, offering insights such as production trends, trade correlations, and consumption patterns, aiding policymakers in making informed decisions.
+
+Granular production estimates: the portal will generate granular production estimates with increased frequency, enhancing the government's ability to respond to agricultural crises swiftly.
+
+Commodity profile reports: commodity profile reports will be produced using algorithms, minimizing subjectivity and providing users with comprehensive insights.
+
+Plug and play: users will have the flexibility to use the portal's data to prepare their own reports, promoting data-driven decision-making.
+
+The upag portal is a crucial component of the digital public infrastructure for agriculture, aimed at harnessing the diversity of the agriculture sector and using data as a catalyst for growth. It aims to provide real-time, standardized, and verified data on agricultural commodities, facilitating data-driven decision-making for policymakers, researchers, and stakeholders. This initiative aligns with the principles of e-governance, bringing smartness, transparency, and agility to india's agriculture sector.
+

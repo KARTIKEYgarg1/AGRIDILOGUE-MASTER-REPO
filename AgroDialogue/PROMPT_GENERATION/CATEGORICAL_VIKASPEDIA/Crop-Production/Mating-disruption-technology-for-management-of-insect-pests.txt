@@ -1,0 +1,69 @@
+Mating disruption technology for management of insect pests
+
+Introduction
+
+Insect pheromones are important chemical compounds, single or blend of compounds, usually released by one sex of species to elicit behavioural response in the opposite sex for mating. In most of the studied species, pheromones are released by female individuals but there are exceptions to this where male individuals release the pheromone to attract females.
+
+Based on the behaviour induced in receiving individuals these pheromones can be classified as sex pheromones, aggregation pheromones and alarm pheromones.
+
+
+Sex pheromones are released usually by females to attract the males for mating and are said to be most potent stimuli for sensory reception and eliciting behaviour in receiving individual.
+An aggregation pheromone is released by either sex of the species and attract both sexes of same species for locating food source and mate finding.
+Alarm pheromones are released when there is threat to the community to communicate possible threat and to initiate dispersion behaviour in individuals of community.
+
+For several decades researchers have tried to exploit these insect behaviour modulating chemicals to develop eco-friendly pest management practices. Sex pheromones are mostly studied in lepidopteran insects and being exploited for monitoring of pest and also in some cases for mass trapping. The aggregation pheromones are effectively used for mass trapping as it attracts both sexes and they are mostly studied and reported in coleopteran pests.
+
+Apart from monitoring and mass trapping, mating disruption is one concept where synthetic pheromone compounds are employed to achieve mating failure of insect pets in given area or crop to reduce pest pressure and hence pesticide load on the crop.
+
+Mating disruption: the concept and mechanisms
+
+If the air in the crop canopy, be it a seasonal crop or orchard, is saturated with synthetic sex pheromone then male individuals of the species would not be able to locate the females as synthetic pheromone releasing from different point source will disorient the males towards high dose artificial pheromone source than low dose female released pheromones. It leads to unsuccessful attempt of males to locate the females and hence failure in mating and further population built-up.
+
+Although the concept behind mating disruption seems to be very simple but it needs thorough knowledge of the physiological and behavioural aspects of insect pest to develop effective mating disruption strategy which would be able to compete with insecticide based management strategies. It is also important to note that besides physiology and behaviour, it also involves physics, chemistry, materials science, atmospheric science, biochemistry, and sometimes biogeography (Carde, 2007). The prevailing environmental conditions in a given crop area and in particular season can also affect the efficacy of mating disruption.
+
+Miller and Gut (2015) reviewed the different mechanisms for principle cause of mating disruption proposed by earlier workers and proposed that there two main mechanisms under which it can be classified based on whether at the beginning of sexual activity the disrupant has or has not impaired the physiology of either male or female or chemical nature of female plume. When there is no such impairment the phenomenon is called competitive disruption which further classified as competitive attraction, induced allopatry and induced arrestant.
+
+On the other hand when impairment happens then it is classified as non-competitive disruption. Non-competitive disruption can be due to suppression of female calling behaviour and mating or impairment of signal spatial integrity (masking/camouflage) or impairment in signal reception due to variation or adulteration of signal quality. Adaptation or habituation of male peripheral sensilla due to prolonged exposure to pheromone plume and exposure at high pheromone doses leads to desensitisation of nerves which ultimately results in no response of males to any pheromone lure in the environment and hence no attraction and mating.
+
+Physiology of mating disruption
+
+For the successful population growth of insect, mating and oviposition must takes place at correct physiological maturity which plays crucial role and it is known that physiology of both males and females changes over time and the timing of first reproduction is decisive for population growth of insects (Carey, 1993).
+
+The physiological mechanism behind mating disruption is unknown but many theories have been suggested. Mating disruption is achieved due to the delayed mating as older females shows reduced fecundity. Oosorption is another phenomenon wherein changes in physiology and resource allocation result in production of unfertilized oocytes which are resorbed before oviposition. The unfertilisation in this case may happen due to lack of mates as a result of high dose of synthetic pheromones.
+
+Haung & Subramanyam (2003) studied the effect of delayed mating in a storage insect pest, Plodia interpunctella by delaying the mating of virgin male or female by a day and results revealed that fecundity decreased to 25 eggs as compared to 161 eggs in normal conditions. Egg viability decreased by 22%/d only when females were delayed from mating. Males delayed from mating for 5 d were unable to inseminate females. Reduced egg fertility in females that experience a mating delay can be caused by degenerative oocytes which prevent the successful transfer of a spermatophore to the bursa copulatrix. Reduced attractiveness of females by aging decreases mating opportunities and results in reduced fertility and fecundity.
+
+ through mating disruption
+
+According to Miller and Gut (2015) mating disruption products have been developed for more than 20 important insect species and are used on more than 7,50,000 hectares worldwide. Pink bollworm, Pectinophora gossypiella was among the first insect species for which this strategy was commercialised. It is a key pest of cotton which has become threat to cotton cultivation India.  Patil (2007) demonstrated the use of mating disruption of this pest using PB Rope L at Dharwad, Karnataka. Pheromone dispensing point source @200/ha showed promising results. The efficacy can be ascertained from observations made on very low math catches in treated plots, about 70 per cent reduction in boll damage, 52-56 per cent reduction in larval population and 32-40 per cent higher cotton yield. Although in recent past mating disruption is being evaluated for several pests in India but there are some constraints which must be taken care of to enhance the effectiveness of this tool.
+
+Constraints
+
+Carde (1995) has documented some of the important constraints faced for commercialisation and use of mating disruption technique in field. Stringent demands for data on toxicology and environmental fate of mating disruption product is one of the important hurdle in many countries. Convincing registration agencies and growers about cost effectiveness is another main hurdle.
+
+The type of formulation will have its major impact on mating disruptionsuccess which is not the case with insecticides. Male insect response to pheromone compound, chemical characteristics of pheromone, physical environment and economic considerations also influence the success of mating disruption (Gut et al., 2004).
+
+The person engaged in pest management through mating disruption should have knowledge about biology of insect pests, effect of environmental factors on insect pest dynamics, crop phenology and its relation with insect pest population built-up etc. Proper monitoring of pest is one of the important factor as mating disruption products need to be applied before pest could start reproduction in crop area. Mating disruption product is mostly used against one major pest in a given crop but minor pests remain unattended so it is important that grower has knowledge about other associated pests and management tactics for them which may include use of insecticides.
+
+While using mating disruption product in field the uniform distribution of pheromone dispensers or point source is crucial to maintain uniform saturation of pheromone plume in whole field or cropped area. The treatment must start early in the season so as to avoid initial mating and subsequent egg laying by pest.
+
+Conclusion:
+
+Considering the rising concern of pesticide residue in food, water and environment and demand of consumers for safe food, it is necessary to opt for better eco-friendly and economically effective pest management strategies. Mating disruption using insect pheromones can be one important tool in integrated pest management to achieve the sustainable pest management withfood security and safety. Much efforts still need to be done in India to encourage this technology at policy level and also at farm level.
+
+Authors :
+
+Suresh M Nebapure, Sagar D and Bhagyasree S.N. Division of Entomology, ICAR-Indian Agricultural Research Institute, New Delhi 110 012, India
+
+Corresponding author E-mail: smnebapure@gmail.com
+
+References:
+
+
+Carde, R. T. 2007. Using pheromones to disrupt mating of moth pests, In: M. Kogan and P. Jebson (eds.), Perspectives in ecological theory and integrated pest management. Cambridge University Press, NY, pp. 122-169.
+Carde, R. T. and Minks, A. K. 1995. Control of moth pests by mating disruption: successes and constraints. Annual review of entomology, 40(1), 559-585.
+Carey JR (1993) Applied Demography for Biologists with Special Emphasis on Insects. Oxford University Press, New York, NY,USA.
+Gut, L. J., Stelinski, L. L., Thomson, D. R. and Miller, J. R. 2004). Behaviour modifying chemicals: prospects and constraints in IPM. Integrated pest management: potential, constraints and challenges, 73-121.
+Haung F &amp; Subramanyam B (2003) Effects of delayed mating on reproductive performance of Plodia interpunctella(Hubner) (Lepidoptera: Pyralidae). Journal of Stored Products Research, 39: 53–63.
+Miller, J. R. and Gut, L. J. 2015. Mating disruption for the 21st century: matching technology with mechanism. Environmental entomology, 44(3), 427-453.
+Patil, S. B. 2007. Mating disruption using PB Rope L: A promising option for pink bollworm (Pectinophoragossypiella Saunders) management in cotton.

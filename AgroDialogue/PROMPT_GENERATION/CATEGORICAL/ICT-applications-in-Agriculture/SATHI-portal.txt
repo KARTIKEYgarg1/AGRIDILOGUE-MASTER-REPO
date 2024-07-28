@@ -1,0 +1,36 @@
+Sathi portal
+
+Sathi (seed traceability, authentication and holistic inventory) portal is a centralized online system for seed traceability, authentication and inventory designed to deal with the challenges of seed production, quality seed identification and seed certification.
+
+It is an initiative of the ministry of agriculture and farmers’ welfare, govt. Of india.
+
+Application overview
+
+Sathi provides a holistic approach to encompass the complete seed life cycle over multiple seed generations. This measure is achieved through automation of the entire seed supply chain, starting from seed production to certification, licensing, seed inventory, and seed sale by certified dealers to seed growers and includes traceability of seeds.
+
+Salient features
+
+Gis reports based on bharat map interface
+Provision of wallet service
+Offline-friendly and device-agnostic mobile application
+Quality inspection module for the quality check of the inspection process
+System-generated sample slip on processed verification data
+Online forwarding of the samples to the seed testing laboratory
+Issuing of tag certificate based on digital tag register
+
+Services offered
+
+Registration of seed producing agencies - apply for registration or check status of seed producing agency under seed certification agencies for different state
+Registration of seed processing plants - apply for registration or check status of seed processing plants under seed certification agencies for different state
+Seed dealership license - any business unit can apply or check status for seed dealership license to issuing authorities for different state
+Download field inspection report - can download field inspection report uploaded by quality inspector
+Trace tag number - can trace the detail seed information from source to destination with quality certificate
+
+How to access the sathi portal
+
+To visit the sathi portal, visit 
+
+Source : 
+
+Related resources
+

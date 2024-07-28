@@ -1,0 +1,52 @@
+Soil health card
+
+Soil health card (shc) is a government of india’s scheme promoted by the department of agriculture & co-operation under the ministry of agriculture and farmers' welfare. It is being implemented through the department of agriculture of all the state and union territory governments. A shc is meant to give each farmer soil nutrient status of his/her holding and advice him/her on the dosage of fertilizers and also the needed soil amendments, that s/he should apply to maintain soil health in the long run.
+
+What is a soil health card?
+
+Shc is a printed report that a farmer will be handed over for each of his holdings. It will contain the status of his soil with respect to 12 parameters, namely n,p,k (macro-nutrients) ; s (secondary- nutrient) ; zn, fe, cu, mn, bo (micro - nutrients) ; and ph, ec, oc (physical parameters). Based on this, the shc will also indicate fertilizer recommendations and soil amendment required for the farm.
+
+How can a farmer use a shc?
+
+The card will contain an advisory based on the soil nutrient status of a farmer’s holding. It will show recommendations on dosage of different nutrients needed. Further, it will advise the farmer on the fertilizers and their quantities he should apply, and also the soil amendments that he should undertake, so as to realize optimal yields.
+
+Will the farmer get a card every year and for every crop?
+
+It will be made available once in a cycle of 2 years, which will indicate the status of soil health of a farmer’s holding for that particular period. The shc given in the next cycle of 2 years will be able to record the changes in the soil health for that subsequent period.
+
+What are the norms of sampling?
+
+Soil samples will be drawn in a grid of 2.5 ha in irrigated area and 10 ha in rain- fed area with the help of gps tools and revenue maps.
+
+Who will draw the soil sample?
+
+The state government will collect samples through the staff of their department of agriculture or through the staff of an outsourced agency. The state government may also involve the students of local agriculture / science colleges.
+
+What is the ideal time for soil sampling?
+
+Soil samples are taken generally two times in a year, after harvesting of rabi and kharif crop respectively or when there is no standing crop in the field.
+
+How will soil samples be collected from a farmer’s field?
+
+Soil samples will be collected by a trained person from a depth of 15-20 cm by cutting the soil in a “v” shape. It will be collected from four corners and the centre of the field and mixed thoroughly and a part of this picked up as a sample. Areas with shade will be avoided. The sample chosen will be bagged and coded. it will then be transferred to soil test laboratory for analysis.
+
+What is a soil test laboratory?
+
+It is a facility for testing the soil sample for 12 parameters as indicated in reply to question number 2. this facility can be static or mobile or it can even be portable to be used in remote areas.
+
+Who and where will the soil sample be tested?
+
+The soil sample will be tested as per the approved standards for all the agreed 12 parameters in the following way:
+
+At the stls owned by the department of agriculture and by their own staff.
+At the stls owned by the department of agriculture but by the staff of the outsourced agency.
+At the stls owned by the outsourced agency and by their staff.
+At icar institutions including kvks and saus.
+At the laboratories of the science colleges/universities by the students under supervision of a professor/ scientist.
+
+To locate your nearest soil testing laboratory, .
+
+What is the payment per sample?
+
+A sum of rs. 190 per soil sample is provided to state governments. This covers the cost of collection of soil sample, its test, generation and distribution of soil health card to the farmer.
+

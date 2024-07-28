@@ -1,0 +1,81 @@
+Climate change driven pest management strategies
+
+Climate change
+
+Being a tropical country, india is more challenged with impacts of looming climate change. Over past hundred years, the global temperature has increased by 0.8ºc and is expected to reach 1.1-5.4 ºc by the end of next century. On the other hand, co2 concentration in the atmosphere has increased drastically from 280 ppm to 370 ppm and is likely to be doubled in. There has been a lot of discussion on the effects of climate change on plant productivity and experiments indicate that higher levels of co2 generally increase productivity of plants. However this can be countered by effects mediated through high temperatures and reduced water availability. There is already evidence that these factors are having a negative impact on productivity of grains and other rather than a positive effect.
+
+Apart from having direct effects on plant productivity, climate change can also influence productivity through indirect effects mediated by changes in pests and diseases. Insect-pests of crop plants are the real candidates most affected by global climate change. Complex physiological effects exerted by the increasing temperature and co2 may affect profoundly, the interactions between crop plants and insect-pests.
+
+Impacts of climate change on insect pest scenario
+
+Climate change driven global warming is affecting the distribution, demography and life history of many species, particularly insects. It is also influencing the phenology of insects including arrival times and emergence time of a range of insects. These changes are having, and will have, consequences for human livelihoods, including an increased spread of pest and diseases of important crops. Following are the notable effects of climate change on insect pest scenario and pest population dynamics.
+
+1. Expansion of geographic ranges
+
+Altered temperature and rainfall regimes with the predictable changes in climate will determine the future distribution, survival and reproduction of the species. With rise in temperature, the insect-pests are expected to extend their geographic range from tropics and subtropics to temperate regions at higher altitudes along with shifts in cultivation areas of their host plants. This may lead to increased abundance of tropical insect species and sudden outbreaks of insect-pests can wipe out certain crop species, entirely. At the same time; warming in temperate region may lead to decrease in relative abundance of temperature sensitive insect population. In future, projected climate warming and increased drought incidence is expected to cause more frequent insect outbreaks in temperate regions also.
+
+Range extension in migratory species like helicoverpa armigera (hubner), a major pest of cotton, pulses and vegetables in north india is predicted with global climate warming. Subsequently, these ongoing shifts in insect-pest distribution and range due to changing climate may alter regional structure, diversity and functioning of ecosystems.
+
+2. Increase in number of generations
+
+As temperature being the single most important regulating factor for insects. Global increase in temperature within certain favourable range may accelerate the rates of development, reproduction and survival in tropical and subtropical insects. Consequently, insects will be capable of completing more number of generations per year and ultimately it will result in more crop damage.
+
+3. Risk of introducing invasive alien species
+
+According to the convention on biological diversity (cbd), invasive alien species are the greatest threat to loss of biodiversity in the world and impose high costs to agriculture, forestry and aquatic ecosystems by altering their regional structure, diversity and functioning.
+
+It is expected that global warming may exacerbate ecological consequences like introduction of new pests by altering phenological events like flowering times especially in temperate plant species as several tropical plants can withstand the phenological changes. Invasion of new insect-pests will be the major problem with changing climate favouring the introduction of insect susceptible cultivars or crops.
+
+4. Impact on pest population dynamics and outbreaks
+
+Changes in climatic variables have led to increased frequency and intensity of outbreaks of insect-pests. It may result in upsetting ecological balance because of unpredictable changes in the population of insect-pests along with their existing and potential natural enemies. Outbreak of sugarcane woolly aphid ceratovacuna lanigera zehntner in sugarcane belt of karnataka and maharashtra states during 2002-03 resulted in 30% yield losses. These situations of increased and frequent pest damage to the crops have made another big hole in the pockets of already distressed farmers by increasing the cost of plant protection and reducing the margin of profit.
+
+5. Breakdown of host plant resistance 
+
+Expression of the host plant resistance is greatly influenced by environmental factors like temperature, sunlight, soil moisture, air pollution, etc. Under stressful environment, plant becomes more susceptible to attack by insect-pests because of weakening of their own defensive system resulting in pest outbreaks and more crop damage. Thermal and drought stress associated breakdown of plant resistance have been widely reported. With global temperature rise and increased water stress, tropical countries like india may face the problem of severe yield loss in sorghum due to breakdown of resistance against midge stenodiplosis sorghicola (coq.) and spotted stem borer chilo partellus swinhoe.
+
+The environmental factors like high temperature have been found affecting transgene expression in bt cotton resulting in reduced production of bt toxins, this lead to enhanced susceptibility of the crops to insect-pests like bollworms viz., heliothis virescens (f.), helicoverpa armigera (hubner) and helicoverpa punctigera (wallen).
+
+6. Increased incidence of insect vectored plant diseases
+
+Climate change may lead to more incidence of insect transmitted plant diseases through range expansion and rapid multiplication of insect vectors. Increased temperatures, particularly in early season, have been reported to increase the incidence of viral diseases in potato due to early colonization of virus-bearing aphids, the major vectors for potato viruses in northern europe.
+
+Pest management adaptations to changing pest scenario
+
+1. Breeding climate-resilient varieties 
+
+To minimize the impacts of climate and other environmental changes, it will be crucial to breed new varieties for improved resistance to abiotic and biotic stresses. Considering late onset and/ or shorter duration of winter, there is chance of delaying and shortening the growing seasons for certain rabi/ cold season crops. Hence we should concentrate on breeding varieties suitable for late planting and those can sustain adverse climatic conditions and pest and disease incidences.
+
+2. Alternation in sowing dates of crops
+
+ global climate change would cause alternation in sowing dates of crops which alter host-pest synchrony. There is need to explore changes in host plant interaction under early, normal and late sown conditions in order to recommend optimum sowing dates for reduced pest pressure and increased yield.
+
+3. Rescheduling of crop calendars 
+
+As such, certain effective cultural practices like crop rotation and planting dates will be less or non effective in controlling crop pests with changed climate. Hence there is need to change the crop calendars according to the changing crop environment. The growers of the crops have to change insect management strategies in accordance with the projected changes in pest incidence and extent of crop losses in view of the changing climate.
+
+4. Gis based risk mapping of crop pests 
+
+Geographic information system (gis) is an enabling technology for entomologists, which help in relating insect-pest outbreaks to biographic and physiographic features of the landscape, hence can best be utilized in area wide pest management programmes. How climatic changes will affect development, incidence, and population dynamics of insect-pests can be studied through gis by predicting and mapping trends of potential changes in geographical distribution of agro-ecological hotspots and future areas of pest risk.
+
+5. Screening of pesticides with novel mode of actions 
+
+It has been reported that, application of neonicotinoid insecticides for controlling sucking pests induces salicylic acid associated plant defense responses which enhance plant vigour and abiotic stress tolerance, independent of their insecticidal action. This gives an insight into investigating role of insecticides in enhancing stress tolerance in plants. Such more compounds needs to be identified for use in future crop pest management.
+
+In addition to the strategies discussed above, we need to decide the future line of research and devise policies for combating the pest problems under climate change regimes. Some of these are
+
+Evolve temperature tolerance strains of natural enemies
+Development of weather and pest forecasting models
+Developing early warning systems/decision support systems
+Awareness regarding impacts of climate change
+ adoption of mitigation and adaptation measures
+Sensitization of stakeholders about climate change and its impacts
+Farmers’ participatory research for enhancing adaptive capacity
+Promotion of resource conservation technologies
+
+Conclusion
+
+In india, pest damage varies in different agro-climatic regions across the country mainly due to differential impacts of abiotic factors such as temperature, humidity and rainfall. This entails the intensification of yield losses due to potential changes in crop diversity and increased incidence of insect-pests due to changing climate. It will have serious environmental and socio-economic impacts on rural farmers whose livelihoods depend directly on the agriculture and other climate sensitive sectors.
+
+Dealing with the climate change is really tedious task owing to its complexity, uncertainty, unpredictability and differential impacts over time and place. Understanding abiotic stress responses in crop plants, insect-pests and their natural enemies is an important and challenging topic ahead in agricultural research. Impacts of climate change on crop production mediated through changes in populations of serious insect-pests need to be given careful attention for planning and devising adaptation and mitigation strategies for future pest management programmes.
+

@@ -1,0 +1,25 @@
+Ministry of earth sciences mobile app "mausam"
+
+India meteorological department, ministry of earth sciences has taken various initiatives in recent years for improvement in dissemination of weather forecast and warning services based on latest tools and technologies. To further enhance this initiative, ministry of earth sciences has launched the mobile app "mausam” for india meteorological department.
+
+Intended users of the app
+
+This mobile app is dedicated to the general public and designed to communicate the weather information and forecasts in a lucid manner without technical jargons.
+
+Mausam app services
+
+Users can access observed weather, forecasts, radar images and be proactively warned of impending weather events.
+
+The mausam mobile app has the following 5 services:
+
+Current weather -current temperature, humidity, wind speed and direction for 200 cities updated 8 times a day. Information on sunrise/ sunset and moonrise/ moonset are also given.
+Nowcast- three hourly warnings of localized weather phenomena and their intensity issued for about 800 stations, and districts of india by state meteorological centres of imd. In case of severe weather, its impact also is included in the warning.
+City forecast – past 24 hours and 7 day forecast of weather conditions around 450 cities in india.
+Warnings- alerts issued twice a day for all districts for the next five days in colour code (red, orange and yellow) to warn citizens of approaching dangerous weather. The colour code red is the most severe category urging authorities to take action, orange code prompts authorities and public to be alert and yellow code prompts authorities and public to keep themselves updated.
+Radar products : latest station wise radar products updated every 10 minutes
+
+How to use
+
+This mobile app is available both on and .
+
+Source : 

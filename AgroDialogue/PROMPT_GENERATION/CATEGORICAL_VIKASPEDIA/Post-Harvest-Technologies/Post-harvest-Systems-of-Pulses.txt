@@ -1,0 +1,101 @@
+Post-harvest Systems of Pulses
+
+
+What Constitutes the Post harvest system?
+
+In the whole food chain of pulses, harvesting is the first stage between the theoretical and actual agricultural production which can either be done manually or with the help of machines. But in both the cases, the harvesting should generally not take place until the grain has reached its optimal maturity. After the harvest, it may be necessary to dry the crop before the subsequent threshing operation. The grain, then, must be cleaned and dried, so that it can be stored or undergo further processing. Grains can be stored in bulk or bags, on the farms or with storage agencies. Depending upon requirements, this may even be stored in household storage structures for domestic consumption. Finally, the grain is sent from the place of storage to market for sale to consumers, to small-scale food processors, to commercial dal mills or to other agro-food industries. From these mills, the processed dal or other products are sent to consumers through wholesalers or retailers. The sequence and interactions of these operations constitute a complex system called the post-harvest system
+
+Post Harvest Profile
+
+At every stage of pulse food chain, some losses take place. The extent of the loss depends upon a number of factors, which will be discussed subsequently. A complete profile of post harvest operations of pulses is shown below which depicts the number of units that is actually available to the consumers out of total production.
+
+
+
+
+
+Available technologies
+
+Technologies and phases of the post-harvest system for pulse
+
+Different technologies for post harvest operations of pulse crops are available, traditional or improved, employed at various phases of post harvest system depending upon the resourcefulness of the farmer growing the crop.
+
+Traditional and improved technologies for post-harvest operations. 
+
+
+Post-harvest losses
+
+Definition
+
+The expression “post-harvest losses” means a measurable quantitative and qualitative loss in a given product occurred during the various phases of the post-harvest system. In economic terms, sum of the losses in quantity and quality of the products inevitably leads to loss of money. In addition to direct economic losses, some losses result from poor management of postharvest systems.
+
+Post harvest system and losses
+
+Seeds of poor quality, inappropriate farming practices and insect infestation in the field can obviously cause loss of produce even before harvest. From the harvest onward, the grain undergoes a series of operations during which quantitative and qualitative losses may occur. Table  indicates the type of losses that take place at prevailing conditions at various stages of post-harvest system.
+
+Extent of losses
+
+The extent of losses that takes place at different stages of post-harvest chain differs from grain to grain. Reliable data on the true level of post harvest losses are not available. The extent of loss may fluctuate considerably depending upon weather conditions, varieties, locations and the processing and storage techniques employed. However, according to rough estimates made by different workers (Kurien et al., 1972; Birewar, 1982; Kulkarni, 1986; Jeswani and Baldev, 1990) total post-harvest losses in case of pulses are in the range of 25-50% . The major loss is caused at the stage of storage and milling.
+
+Type of loss at different post harvest stages
+
+
+
+As the husk forms 10-16% of grains, a theoretical dal yield of 84-90% should be possible during milling (Kurien, 1979). Commercial milling of pigeonpea yields 76.1% dal against theoretical yield (Khare et al. 1966). It has also been observed that 54% of the kernel had their edges chipped off. The chipping occurs both in roller and sheller mills. The germ, which forms about 2–5% of the grain is also lost during splitting. It has been observed that the peripheral region of the pigeon pea grain kernel is richer in protein than core (Reddy et al., 1978; Narsimha, 1984; Lal, 1999). As most of the milling losses viz. broken and powder) are contributed by outer region, the actual loss in qualitative terms would be even higher. The present high milling losses can be attributed to the fact that the unit operations involved in milling are mostly scaled-up versions of the traditional household pulse milling methods. A systematic and logical technology development for the complete pulse milling process has not received adequate attention. Attempts have remained confined to a few unit operations and system components only.
+
+After milling, storage is another important aspect in post-harvest sector, as it causes tremendous loss to the availability of pulses. Being rich source of protein, pulses are easily attracted by storage insects. Controlling milling as well as storage losses together can meet at least present import requirement of the country.
+
+Estimated post harvest losses of pulses
+
+
+Types of losses – their nature and prevention
+
+Types of Losses
+
+Losses in the entire post-harvest chain of pulses could either be in
+
+
+The loss of weight,
+The loss of quality or the economic loss.
+Different forms of losses and reasons that are responsible for these losses are discussed briefly.
+
+Losses in Weight
+
+The loss in the weight of grain does not necessarily mean a loss of product. Loss of weight results in reduction of physical substance of the product. For instance, the decrease of the moisture content brings about a lowering of weight, but this is not a food loss. On the contrary, an increase of weight by absorption of moisture due to rains or high humidity can cause severe damage and thus, is a considerable loss. Weight losses take place mainly due to prolonged action of pests (insects, birds, rodents), or due to leakage of products (perforated bags, spillage during grain handling etc.) and can occur at any stage during the harvest, storage and transport or handling.
+
+How to Measure the Weight Loss
+
+In order to recognize the weight loss, an equal volume of damaged and healthy grains should be taken. Grind both the samples, and weigh the flour obtained in each case. It will be observed that the damaged sample produces less flour. This method can also be useful for avoiding potential weight frauds, since it is easy to augment weight by dampening the grain or by adding foreign bodies like pebbles, earth or sweepings.
+
+Losses in Quality
+
+The quality of grains can be ascertained on the general principle according to which grains must be “wholesome, sound, odorless and of market quality”. The criteria of quality vary widely and involve the exterior aspect, such as, shape, size, smell and taste. A clean wholesome product is of primary importance in marketing. An experienced trader can easily predict the quality by taking a handful of grains from a bag. The presence of a floury dust will indicate the presence of insect infestation or the presence of a bad smell can lead to suspected rodent attacks, which can be confirmed by the presence of rats or mouse excreta or hairs. Losses in quality are, thus, evidenced by a decrease in the market value of the grain.
+
+Criteria for Evaluation
+
+The quality of grain can be ascertained based upon some well laid tests, measurements and laboratory analyses. Important among these criteria are based upon standards related to the physical condition of grain and to its food, nutritive and germinative values.
+
+The quality of a given batch of grains can be evaluated by :
+
+
+Moisture content : suitable for the storage or further handling of the grain
+Colour : homogeneous and appropriate to the type of grain under consideration
+Odour; it must not hint that any biochemical change is going on
+Cleanliness : the number of impurities must conform to established standards of quality
+Infestation : the absence of insects or other living organisms must be ascertained
+
+Generally, multiple criteria are combined to define the quality of the products. The quality criteria may vary according to eating habits of the community. Losses in quality are mainly the result from mechanical injuries sustained by the grains during processing operations, the action of pests (insects, rodents) and micro-organisms (moulds), or the chemical changes produced within the grains under the effect of environmental conditions (temperature, humidity, duration of storage). These losses can occur at any stage of production, especially during hot and humid climatic conditions.
+
+Losses due to Physical Conditions
+
+These depend on the physical condition of the grain during a given stage of the post-harvest system. The physical characteristics generally considered in evaluating the incidence of such losses are: shape and size of the grains, percentage of moisture, presence of impurities (foreign grains, grains that have germinated, broken, deteriorated or damaged, pebbles, earth, plant residues, fragments of glass or metal, animal hairs or excrement, etc.), degree of infestation by insects or micro-organisms.
+
+These losses are caused due to alteration of the organoleptic features like taste and smell, presence of toxic products such as toxins, pesticide residues, etc., and from alteration in its content of proteins, carbohydrates and other important nutrients. These are especially critical when the grains are intended for human consumption.
+
+The grains that are to be used for seed purposes, must have a minimum of germination percentage standardized for that particular grain. Seeds should have good vigour, good growth rate of seedlings and absence of anomalies in the plants thus obtained. The alteration of these properties results into production losses by decreasing the capability of the grain to germinate.
+
+Economic Losses
+
+Economic loss results not only due to deterioration in the quantity or quality of the grain but is also influenced by some factors within the post-harvest system that can hamper the growth of production and income. These include production systems, work schedules and methods, infrastructure, organization models, credit mechanisms etc. For example, adoption of mechanized or semi-mechanized systems for some operations (harvesting, threshing, drying, etc.) can cut working time while, at the same time, permitting an increase in production by reducing the labour required and exploiting the land to better advantage. Commercially, if the transport system is inadequate, the farmer may find it impossible to sell the produce within the required time-limits and in the places where market prices are the most attractive. The fact of having to forgo a potential profit is loss of money beyond doubt. If a farmer is not able to store the produce in complete security in available storage facilities, the produce need to be sold immediately after the harvest, thus making farmer unable to earn profit through selling the produce at maximum market prices. Once again, missing a profit is an economic loss for the farmer. The sequences of such situations often go beyond individual losses. This affects the production and the economy of entire nation.
+
+
+

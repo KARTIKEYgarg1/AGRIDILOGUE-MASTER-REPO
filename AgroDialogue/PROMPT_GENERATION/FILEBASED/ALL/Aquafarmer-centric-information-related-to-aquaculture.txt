@@ -1,0 +1,305 @@
+Aquafarmer centric information related to aquaculture
+
+Pre-stocking details
+
+Construction of fish culture pond:
+
+A. Criteria for site selection 
+
+Land should have more water holding capacity
+Land should not be more alkaline or acidic.
+Low lying area are more suitable
+Site must have assured water supply.
+Outlets and inlets of ponds should be well built.
+Site should be approachable with road or path.
+Site must be away from floods affected areas
+
+B) permissbile parameter of soil & water
+
+Soil
+Water 
+
+Sand (%)-40
+Silt (%)-20
+Clay (%) - 40
+Organic carbon (%)- 0.5-2.0
+Available nitrogen (mg/100gm) - 20-75
+Available phosphorous (mg/100gm) - 210
+
+Colour-light green
+Temperature (degree centigrade)-25-35
+Transparency(cm) - 30 - 40
+Ph- 7.0-8.6
+Dissolve oxygen (mg/lt) - 4 -10
+Carbon dioxide (mg/lt) - 3 - 7
+Total alkalinity (mg/lt) - 60 - 230
+Total alkalinity (mg/lt) - 0.05 - 1.5
+Phosphorous (mg/lt) - 0.05 -7.0
+Salinity (ppt) - &lt;5
+Ammonia (ppm) - 0 - 0.1
+Calcium (ppm) - 75 - 150
+Chlorine (ppm) - &lt;0.003
+Total dissolve solids (ppm) - &lt;80
+Potassium (ppm) - 0.5 - 10
+Iron (ppm) - 0.3 - 10
+
+Time scheduling for fish culture in pond (pert/cpm)
+
+Activity
+Net duration time (days)
+
+Identification of site
+10
+
+Formulation of project (preparation of plan &amp; estimates, bak loans etc.)
+30
+
+Training in fish farming
+15
+
+Construction/renovation of pond
+45
+
+Stocking management (liming, manuring, filling of water, growth of plankton and stocking of seed)
+18
+
+Soil and water analysis
+Qurterly, after 60 days of seed in the pond.
+
+Sale of fingerlings
+30 days after stocking of seed
+
+Trial netting
+Every month
+
+Partial harvesting
+After 150-180 days of stocking
+
+Final harvesting &amp; marketing
+After 250-260 days of stocking
+
+Construction of prawn culture pond
+
+A) criteria of site selection
+B) permissible parameter of soi&amp;water
+
+Soil
+Water
+
+Site must be easily approachable with road or path
+
+Texture
+Sand (%) - 40
+
+Visibility (cm) - 35-40
+
+Site should be free from floods and seepage
+Silt (%) - 20
+Temperature (celsius) - 28-30
+
+Assured water supply system
+Clay (%) - 40
+Ph -7.0-8.5
+
+Arrangement of outlet of water be made
+Colour - blackish brown
+Dissolved oxygen (mg/lt) - 5-10
+
+Moisture (%) - 35-40
+Conductivity (mohs/cm) - 20-1500
+
+Water retention capacity (%) - 40
+Total alkalinity (mg/lt) - 50-180
+
+Total alkalinity (mg/100gm) - 0-150
+Carbonate (mg/lt) - 30-50
+
+Total hardness (mg/100gm) - 50-180
+Salinity (ppt) - &lt;5
+
+Phosphate (mg/100gm) - 0.5-2.0
+Bod (mg/lt) - &lt;30
+
+Salinity (ppt) - &lt;5
+Cod (mg/lt) - &lt;40
+
+Total hardness (mg/lt) - 50-150
+
+Phytoplankton (nos/lt) - &gt;500
+
+Zooplankton (nos/lt) - &gt;500
+
+Activity
+Net duration time (days)
+
+Selection of site &amp; beneficiary
+30
+
+Training &amp; study tour
+15
+
+Formulation of project &amp; sanction of loan from bank
+30
+
+Construction of pond &amp; infrastructure
+45
+
+Nursery pond preparation &amp; stocking
+15
+
+Stocking of seed in grow out of pond
+45
+
+Trial netting
+After 60 days of stocking of seed.
+
+Soil &amp; water analysis
+Quarterly
+
+Water exchange
+Every month after 60 days of stocking.
+
+Partial harvesting
+After 150 days of stocking
+
+Total harvesting
+After 220-245 days of stocking
+
+Seed stocking
+
+Fish seed stocking in pond:
+
+Complete detoxification of the piscicide applied earlier should be ensured before stocking the nursery, rearing and stocking ponds. One or two days prior to stocking, a hapa should be fixed in the after 24 hours confirm complete detoxification and the pond should be regarded as ready for stocking.
+
+Stocking of nursery ponds
+
+Carp spawn requires natural feed immediately after stocking and hence it is essential to have a minimum plankton value of 30–40 ml/m3 in case of stocking at a moderate rate (1.5–2.5 million/ha). When a higher stocking rate is to be adopted, plankton population is also required to be increased accordingly. In case the stocking density is over 5 million/ha, the plankton volume should be around 100 ml/m3. Self-produced or procured 3–4 days old spawn should be stocked in the morning at the rate of 4–6 million/ha. The stocking density must be according to the condition of the pond and the amount of fish food organisms available. The rate of stocking in a well-prepared nursery pond with adequate fish food organisms can be as high as 10 million/ha. However, the survival level decreases with the increase in stocking density.
+
+Survival of carp fry at various stocking densities
+
+Survival level (%)
+Stocking density (million/ha)
+
+87.3
+2.5
+
+74.6
+3.75
+
+62.0
+6.25
+
+66.2
+10.00
+
+Combined rearing of two or more species of spawn should not be done in nursery ponds. The pond should be stocked after three days of hatching when their sizes range from 0.6–0.75 cm and counts on an average about 500 numbers/ml. The required number of spawn are measured with the help of metallic or plastic sieve cups of known volume. Spawn are reared in nursery ponds up to fry stage for about 2–3 weeks when they usually attain 2–3.5 cm in length and 0.15–0.75 g in weight. At higher stocking density the growth is relatively slow. It is possible to raise 3–4 crops of fry from the same pond during the same breeding season and in addition, the pond can also be utilized for rearing of common carp seed during january to march.
+
+Stocking of rearing ponds:
+
+Rearing of fry to fingerling stage is done in rearing ponds where fry are stocked at the rate of 0.25–0.30 million/ha with a survival level of 60–80% under proper pond conditions. Either monoculture or polyculture methods can be adopted for this rearing. In the case of polyculture, the species combination and their ratio should be decided on the basis of their habit, feeding, availability of feed, etc. Some of the possible combinations are - catla, rohu, mrigal, common carp (3:4:1:3); silver carp, grass carp (1:1); silver carp, grass carp, common carp (4:3:3); catla, rohu, mrigal, grass carp (4:3:1.5); silver carp, grass carp, common carp, rohu (3:1.5:2.5:3), etc. Combination of too many species should be avoided as it invites excessive handling at the time of harvesting for species segregation. Fry are reared in ponds for about 3 months when they usually attain 100–150 mm in length and 15–40 g in weight. For healthy fry rearing it is recommended that the size of the fry at the time of stocking in the rearing pond should be as uniform as possible. This can be done by size grading at the time of fry harvesting from nursery ponds. Prior to stocking the rearing ponds the pond waters must have a plankton level of about 30–50 ml/m3.
+
+Stocking of grow-out/stocking ponds:
+
+After proper preparation, the pond should be stocked with 100–150 mm long fingerlings of desired carp species. In case the fingerlings are not available, the pond can also be stocked with advanced fry or early fingerlings in absolutely predator-free ponds. The stocking rate depends primarily upon the volume of water and on the oxygen balance of the pond. Quality of available natural fish food in the pond and the capacity of the farmer to provide supplementary feed, are also matters for consideration. Usually a pond having average water depth of 1.5–2.5 m should be stocked at the rate of 5 000 fingerlings/ha. The volume of water available for fish in an undrainable pond should not be less than 2 m3/fish if there is no provision of artificial aeration. In composite fish culture, rearing of six species of carps, viz. Catla (catla catla), rohu (labeo rohita), mrigal (cirrhinus mrigala), silver carp (hypophthalmichthys molitrix), grass carp (ctenopharyngodon idella) and common carp (cyprinus carpio) is considered to be the ideal combination. However, depending on the availability of quality fingerlings of these carp species, three or four species combinations can also be taken up. Ratio of different species in the combination is also equally important. However, there are certain general guidelines for selecting species combinations.
+
+Different species combinations and their stocking ratios for composite fish culture
+
+Species combination
+Surface feeder
+Column feeder
+Bottom feeder
+Macrophyte feeder
+
+ 
+Catla
+Silver carp
+Rohu
+Mrigal
+Common carp
+Grass carp
+
+3
+40
+-
+30
+30
+-
+-
+
+4
+30-40
+-
+20-30*
+15-20
+20-25
+-
+
+6
+10-15
+20-30
+15-30*
+15-20
+20-25
+5-15
+
+* lower units in shallow ponds
+
+Availability of weed in the pond or in the vicinity decides the stocking density of grass carp. In older ponds where the soft sediment layer of the pond bottom is usually very thick and anaerobic in nature, the ratio of bottom feeder and especially the common carp should be kept at a higher level. Likewise, the relative density of column feeder-rohu should be kept on the high side in deeper ponds than in shallower ponds, whereas ponds showing consistently higher zooplankton population should have a higher ratio of surface feeders. Based on the performance of individual species in the combination and availability of seed, combinations can be modified in subsequent years. Silver carp, however, should be stocked 1 or 2 months later. Interspecies competition for food between catla and silver carp to some extent is the key point for such differential stocking. The stocking pond also should have a desired level of plankton population of about 30–50 ml/m3.
+
+Method of stocking
+
+Stocking of spawn, fry and fingerlings should be done very carefully to avoid any post-stocking mortality due to shock or infections. To minimize post-stocking mortality the fry/fingerlings should be slowly and gradually acclimatized to the temperature and quality of the water in the stocking pond. To do so, open the mouth of the seed transport bag/container and gradually add the pond water in phases and after 15–20 minutes slowly dip and tilt the bag/container in the pond so that the spawn/fry/fingerlings are free to swim out. Stocking should preferably be done in the cool evening hours. Apply prophylactic treatment to seed prior to their release so as to avoid any post-stocking infections.
+
+Post-stocking management
+
+Post-stocking management involves harnessing the pond productivity in the form of natural fish food, maintenance of pond environment congenial to the cultivated fish and fish husbandry, mainly feeding and health care.
+
+Feeding
+
+Soon after stocking, the fish start grazing natural food available in the pond irrespective of their stage of life cycle. Spawn feeds voraciously on plankton. Therefore, immediate steps must be taken for providing supplementary feed. In the case of nursery ponds where spawn are reared for about a fortnight up to fry stage, supplementary feed is broadcast on the pond surface in the form of fine powder daily in the morning hours at prescribed rates.
+
+Rates of daily supplementary feeding at various stages of culture
+
+Stage
+Daily feeding rate
+
+Spawn to fry
+4-8 times of the initial body weight
+
+Fry to fingerlings
+50-100% of the initial body weight
+
+Growers
+1-2%
+
+Brood fish
+1-3%
+
+The following schedule of feeding should be followed for nursery ponds
+
+Period (day from the date of stocking)
+Rate of feeding
+Amount of feed for 0.1 million of spawn
+
+1-5
+4 times the total initial weight
+560 g/day
+
+6-12
+8 times the total initial weight
+1 120g/day
+
+13
+No feed
+-
+
+14
+Harvesting
+ 
+
+The form in which the supplementary feed is given is also important. In the nursery ponds the feed should be provided in finely powdered form and may be broadcast over the pond surface. In the case of rearing, stocking and brood stock ponds, the supplementary feed mixture should be mixed with enough water to make a dough and applied into feeding trays fixed in the ponds. Better results can be obtained if the feed mixture is pelletized and fed to fish. The pellets may be of the sinking or floating type, but both types should be water stable. The sinking type of pellets are put in feeding trays fixed in the pond.
+
+The standing crop of fish is estimated every month on the basis of sample netting for growth and health check and feeding schedule is adjusted accordingly. Periodical netting should be done strictly on a monthly basis and with the help of hand nets and spring balance, the average weight of each species should be recorded. The average weight of individual species, monthly increment in weight, total standing crop and amount of feed to be given should be estimated on the basis of data thus available.
+
+The feeding tray should be cleaned daily before the application of fresh feed. Fish normally stop feeding if they are sick or the temperature is far below normal. In such situations a proper health check is required and the feeding rate is adjusted. Grass carp should be fed until they stop eating. Usually they consume aquatic vegetation, about 50% of their body weight on a daily basis.
+

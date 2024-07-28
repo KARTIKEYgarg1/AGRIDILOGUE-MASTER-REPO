@@ -1,0 +1,22 @@
+Take All
+
+Symptoms
+Take-all disease is caused by the fungus G. graminis. The disease is initially characterized by darkened roots and stem tissue and typically chlorotic lower leaves. If plants survive this stage, they grow poorly or not at all, and display black lesions in the roots, that later extend towards the crown tissue. Dark fungal growth may become visible along the root tissue. In high rainfall areas and in irrigated fields, the disease may result in the formation of large patches of numerous white-headed wheat plants. Plants can be pulled easily from the soil because of the severe rotting of the roots, which are almost black at this stage. Infected plants produce pinched grains, which are often not worth harvesting.
+
+Product Recommendations
+Organic Control
+Various bacteria of the family Pseudomonas are able to effectively suppress the pathogen. They produce the antibiotics and compete for essential nutrients like iron. Bacteria producing phenazine or 2,4-diacetylphloroglucinol have been proven effective against take-all disease as well. Antagonistic fungi strains can also be used, e.g. the non-pathogenic Gaeumannomyces graminis variant graminis. It covers wheat seeds and helps building up resistance against the pathogen.
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments if available. Fungicides containing silthiofam and fluquinconazole can be used to decimate G. graminis. Application of sterol-inhibiting fungicides and strobilurin may also be effective in suppressing take-all symptoms.
+
+What caused it?
+The symptoms are caused by the fungus Gaeumannomyces graminis. Between seasons it survives in crop debris or in the soil. It infects roots of living hosts and as the root dies, it colonizes the dying tissue, feeding on it. It thrives when there are relatively short periods (weeks or a few months) between harvest and the sowing of new plants. Spores can be transported by wind, water, animals, and farm tools or machinery. The pathogen is relatively sensitive to competitors, and does not coexist well with native soil microorganisms. It is also sensitive to inactivation by heat.
+
+Preventive Measures 
+Plant resistant varieties, if available.
+In warm, wet climates only plant wheat every other year, in cold climates every third year.
+Alternation with rice every second year can kill the pathogen through flooding.
+Delay seeding of new wheat by a couple of weeks after harvesting the previous crop.
+Till the soil carefully to increase microbial pressure from other organisms.
+Fertilize sufficiently, especially concerning phosphorus, manganese, zinc and nitrogen.
+Ensure good drainage of the fields.

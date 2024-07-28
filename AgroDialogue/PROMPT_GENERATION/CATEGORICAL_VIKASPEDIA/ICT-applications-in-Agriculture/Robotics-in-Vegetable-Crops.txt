@@ -1,0 +1,111 @@
+Robotics in Vegetable Crops
+
+Introduction
+
+Robots and automation processes are finding many uses in horticulture. Automation and robotics reduce overall labour costs and increase the consistency of quality and safety during production and postharvest cycles. Mechanical harvesting is currently largely restricted to products destined for processing such as grapes for wine, olives, sour cherries, tomatoes and citrus. This is because of the physical damage that can occur during harvest. Robots in horticulture are widely used in some nursery industries for producing transplants, especially with vegetable plants for grafting and for planting vegetable seeds and plantlets in both greenhouses and open fields.
+
+Robot
+
+A robot is a mechanical or virtual agent, usually an electro-mechanical machine that is guided by a computer program or electronic circuitry.
+
+Robotics
+
+The branch of technology that deals with the design, construction, operation and application of robots as well as computer systems for their control, sensory feedback and information processing. 
+
+History of robotics
+
+1921: The term "robot" was first used in a play called "R.U.R." or "Rossum's Universal Robots" by the Czech writer Karel Capek. 
+
+1941: Science fiction writer Isaac Asimov first used the word "robotics" to describe the technology of robots and predicted the rise of a powerful robot industry.
+
+1954: George Devol designed the first truly programmable robot and called it UNIMATE for "Universal Automation." (US patent 2 998 237). Later, in 1956, George Devol and Joseph Engelberger formed the world's first robot company “Unimation” which stands for “Universal Automation”.
+
+1964: Artificial intelligence research laboratories are opened at M.I.T., Stanford Research Institute (SRI), Stanford University, and the University of Edinburgh.
+
+1968: SRI built “Shakey”; a mobile robot equipped with a vision system and controlled by a computer the size of a room.
+
+1973: V.S. Gurfinkel, A. Shneider, E.V. Gurfinkel and colleagues at the department of motion control at the Russian Academy of Science create the first six-legged walking vehicle. 
+
+1975: Victor Schenman developed the Programmable Universal Manipulation Arm (PUMA). It was widely used in industrial operations.
+
+1983: Robotics Courses
+
+1997: Agriculture automation through precision farming
+
+21C: Walking Robots, Mobile Robots, Humanoid Robots were designed.
+
+Robotics in Horticulture
+
+Robotics in Horticulture differ a great deal when compared to industrial and commodity crop robotics. The exploitation of robotics in horticultural crops mainly differs with that of agriculture crops due to the fact that the horticultural produce is still alive and requires special environmental conditions, the fragility of the produce to mechanical damage and its sensibility to the variations of the environmental conditions.
+
+The Current State of Horticultural Robotics 
+
+Today horticultural robots can be classified into several groups: sowing, transplanting, weeding, disease control, maintenance, harvesting and post harvest handling. Scientists have the goal of creating, robot farms where all of the work will be done by machines. The main obstacle to this kind of robot farm is that farms are a part of nature and nature is not uniform. It is not like the robots that work in factories building cars. Factories are built around the job at hand, whereas, farms are not. Robots on farms have to operate in harmony with nature. Robots in factories don’t have to deal with uneven terrain or changing conditions. Scientists are working on overcoming these problems. 
+
+Overview of robots designed for application in vegetable science
+
+
+ Robots for seed sowing in nursery
+Robots for transplanting
+Robotics in Vegetable grafting 
+Weeding management through robotics
+Green houses operations
+Selective Automated Harvesting
+Robotics in Post Harvest Handling
+
+Robots for Seed Sowing in Nursery
+
+A major portion of the area under vegetable cultivation is now sown with F1 hybrid seeds, which are costly but give higher yields and quality produce. In view of the high cost of seeds, it is necessary to achieve maximum germination and disease-free seedlings for transplanting in open fields. The raising of seedlings in plug trays (or pro-trays) is one such technology that achieves this requirement. This technology is fast emerging as an agro enterprise in India since it has obvious advantages for both the grower and the entrepreneur. 
+
+A precision plug tray seeder, using indigenous materials and off-the-shelf available standard components is designed at IARI. The seeder could make indents in one row of cells in a plug tray and simultaneously place single seeds in the indented cells. The seeder worked satisfactorily at suction pressures of 4.91 and 3.92 kPa and nozzle diameters of 0.46 and 0.49mm to achieve more than 90% single seed sowing in the case of capsicum and tomato, respectively. The capacity of seeder, depending on the tray size used, ranged 38,000 to 60,000 cells/h. 
+
+Robots For Transplanting
+
+Seedling transplantation, which is a labour-intensive task, is still performed manually. In a greenhouse production system, seeds are germinated in the high-density trays. At a certain growth stage, the seedlings are transplanted into low-density growing trays for further growth and development. During transplantation, seedlings are handled many times to replace bad or missing plants with healthy ones. Using a robotic transplanter could reduce the labour requirement of seedling transplantation by carrying out repetitive tasks in an accurate and reliable manner. The robotic transplanter needs to be designed differently from an industrial robot because it manipulates biological seedlings of variable size, shape, colour, position and orientation. 
+
+Robotics in Vegetable Grafting
+
+Vegetable production with grafted seedlings was originated in Japan and Korea to avoid the serious crop loss caused by infection of soil-borne diseases aggravated by successive cropping. This practice is now rapidly spreading and expanding over the world. Vegetable grafting has been safely adapted for the production of organic as well as environmentally friendly produce and minimizes uptake of undesirable agrochemical residues. The number and size of commercial vegetable seedling producers has increased markedly reflecting the increase in farmers’ preferences for grafted seedlings of high-quality and better performance. 
+
+Grafting robots
+
+The first commercial model of a grafting robot (GR800 series, Iseki & Co. Ltd., Matsuyama, Japan) became available for cucurbits back in 1993. Since then, semi- or fully-automated grafting robots were invented by several agricultural machine industries and several commercial models are available in East Asia, Europe, and more recently in the U.S. Semi-automated grafting robots generally graft at a speed of 600-800 grafts per hour (speed equivalent of 5-6 skilled workers for cucurbit, and 2-3 skilled workers for tomato), but require a minimum of two workers and one trained worker to inspect the grafting quality. 
+
+Weeding Management Through Robotics
+
+To describe the position of the weed more precisely, there are two different methods to do it. The first method is to record the increased leaf area in the weedy areas. The difference between crop and weed is that weed grows patchy while crop grows in rows. The other method is more accurate and uses shape recognition. This method recognizes the weed species on their outline shape and up to 19 different species can be recognized by this method. The recorded data is turned into a treatment map for the field. This weed map can be used for the weeding. The weed can also be removed while the robot is recognizing the unwanted plants.
+
+Green Houses Operations
+
+Manual application of pesticides is a time consuming, tedious and dangerous task, requiring the worker to wear protective clothing and breathing apparatus. Hence, manual application technique is largely open for error.
+
+Robots for spraying give an engineering solution to the current human health hazards involved in spraying potentially toxic chemicals in the confined space of a hot and steamy glasshouse. This is achieved by construction of an autonomous mobile robot for use in pest control and disease prevention applications in commercial greenhouses. The effectiveness of the robot is scaled by the platforms ability to successfully navigate itself down rows of a greenhouse, while the pesticide spraying system efficiently covers the plants evenly with spray in the set dosages.
+
+The CAD model of the wheel arrangement is one of the main design aspects of the pesticide spraying robot. The two sets of wheels; one set 100mm larger than the other (to accommodate for the 50mm pipes) is arranged in such a way that there is a seamless transition in moving onto the rails from the work area at the end of the rail set, then back again at the completion of that row. The induction sensor is connected directly to the microcontroller; allowing the robot to sense that it is indeed on the rails and on course. The arranged wheel assembly keeps the robot on the tracks allowing the robot to drive along without the need for any expensive and complicated navigation ability.
+
+Selective Automated Harvesting
+
+Agricultural crops are usually harvested when the average of the whole field is ready as this simplifies the harvest process. Selective harvesting involves the concept of only harvesting those parts of the crop that meet certain quantity or quality thresholds. It can be considered to be a type of pre-sorting based on sensory perception. Selective harvesting is well known in horticulture to select and harvest fruits and vegetables that meet a size and maturity criteria. As these criteria often attract quality premiums, increased economic returns could justify the additional sensing. 
+
+Automation in Post Harvest Handling
+
+After the harvest, fruits and vegetables of all types have to be sorted, packaged and transported: apples, avocados, cherries, citrus, kiwifruit, onions, pears, peppers, potatoes, salad, strawberries, stone fruit, tomatoes, etc. The list is almost unlimited.
+
+A wide range of technologies have been developed or refined over the years for sorting according to colour, density, diameter, shape and weight. Through the latest NIR (Near Infra Red) technology, pack houses can now even sort their product by indicators of product taste. Also some remark­able engineering developments have enabled the pack-house to be brought into the field and to progress through it with the harvesters. The different packhouse operations that are automated with robots are:
+
+
+Sorting 
+Grading and inspection 
+Bulk packing 
+Weighing 
+Internal transport
+
+Challenges of using robotics in horticulture
+
+Designers of robots for fields and orchards face a daunting task. Robots have to ‘see’ the paths between the produce and they need to ‘know’ which areas have already been harvested. They need eyes to see the trunk of a tree and to separately identify fruit, flowers and leaves. Their arms need to be able to pluck, prune, spray and pollinate. They have to be strong enough to handle rough terrain, sloping ground and mud. They must also be able to handle fragile fruits and berries which bruise easily. After avoiding all the people, poles, wires, stumps and rocks, robots need to be able to work near other robots without getting in their way. Their economic use poses a number of problems. Some horticultural tasks such as fruit picking last for only a few months of the year. It simply is not profitable to use a robot for such a short period. Robots may have to be multifunctional and be able to pick, count buds, prune, and pollinate to ensure a reasonable return on their cost.
+
+Authors :
+
+
+Srividhya, S. Scientist, Plant Physiology, Indian Institute of Millets Research, Hyderabad
+Surendranath, R. Horticulture Officer, Centre of Excellence for Fruits, Mulugu, Telangana

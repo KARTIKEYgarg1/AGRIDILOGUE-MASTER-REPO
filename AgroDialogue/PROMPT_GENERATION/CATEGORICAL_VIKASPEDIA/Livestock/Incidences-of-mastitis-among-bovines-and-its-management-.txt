@@ -1,0 +1,63 @@
+Incidences of mastitis among bovines and its management 
+
+Introduction
+
+Milk is a common source of transmission of pathogenic microorganisms to human which may cause public health hazard. The major cause of infection in milk is the result of mastitis disease, inflammation of udder, which is considered as a quite prevalent disease in cattle and buffaloes. There is severe economic loss to the farmers due to reduced milk production and also veterinary costs involvement to treat the animal.
+
+Etiology of mastitis
+
+There are two forms of mastitis such as clinical mastitis and sub-clinical mastitis.
+
+The clinical mastitis is characterized by inflammatory symptoms such as swelling and oedema of the mammary gland and high fever of the animal. There is sudden decrease in milk production and visible gross abnormalities in the milk.
+
+On the other hand, there are no visible signs appeared either in the udder or in the milk in case of Sub-clinical mastitis, but milk production decreases and the somatic cell count (SCC) increases in the milk. Therefore, lack of diagnosis of sub-clinical mastitis is a serious challenge to the dairy industry.
+
+A wide range of microbes including bacteria, fungi, algae and viruses, have been documented as causative agents of mastitis in bovine globally. Bacteria are the primary causes of mastitis which includes both contagious bacteria such as Staphylococcus aureus, Streptococcus agalactiae, Mycoplasma spp. and Corynebacterium bovis and environmental bacteria such as E. coli, Klebsiella spp., Streptococcus dysgalactiae and Streptococcus uberis.
+
+Mastitis has a serious zoonotic potential associated with shedding of bacteria and their toxins in the milk.
+
+Factors causing mastitis
+
+The incidence of mastitis is associated with many risk factors and therefore, mastitis is known as a multifactorial threshold trait resulting from interaction between genetic components of the host, infectious agents and environmental factors.
+
+
+The herd level risk factors arise due to differences in herd size, farm management, housing system, bedding material used, udder hygiene as well as hygiene of the barn.
+The cow specific risk factors are related to the difference in mastitis incidences among cows. Species, Breed, Milk production, parity, stage of lactation, teat lesion and previous mastitis history are well known cow factors. The season of calving also influences the mastitis incidences among bovines. Previous studies reflected about 68% sub-clinical mastitis incidences among buffaloes in Chhattisgarh.
+Lack of implementation of the routine mastitis prevention and control practices by the farmers may cause preponderance of the risk factors for the observed high prevalence of mastitis in bovines.
+Dairy farmers use antibiotics for prevention and treatment of mastitis. This results in presence of antibiotic residues in milk. These antibiotic residues then lead to developing antimicrobial-resistant (AMR) bacteria in animals. These AMR bacteria may enter into human through consumption of milk and develop public health hazards. Thus, lack of proper identification of the causative agent of mastitis has led to the indiscriminate use of antibiotics, consequently increasing development and rapid emergence of AMR strains.
+
+Diagnosis of Mastitis
+
+The mastitis is diagnosed based on clinical examination of udder, California mastitis test (CMT) and somatic cell count (SCC) of all quarter milk samples.
+
+California mastitis test (CMT)
+
+Milk samples from each quarter is placed in each of the 4 cups of the CMT paddle and physically examined with naked eyes for any abnormalities in colour and consistency. CMT reagent is added to the sample and gently stroked for 15 s. Based on the extent of gel formation, the CMT result is graded as negative (0), trace (1), weakly positive (2), distinct positive (3), and strongly positive (4).
+
+Milk Somatic Cell Count (SCC)
+
+Somatic Cell Count (SCC) is considered as gold standard to measure inflammation through counting somatic cells in the equipment. Milk samples displaying positive CMT reactions with SCC (> 2,00,000 cells per mL) and no observable abnormality of milk or udder is classified as a subclinical mastitis sample, whereas milk samples with SCC (≥50,00,000 cells per mL) along with visible abnormality of milk or udder is classified as clinical mastitis. Cows with no previous history of clinical mastitis in the same lactation and the milk sample with SCC less than 1,00,000 cells/ml is considered as negative or healthy sample.
+
+Management of mastitis
+
+The mastitis can be controlled by adopting suitable management policies.
+
+
+The infected animals and chronic mastitic animals should be segregated and culled from the herd.
+Cows should be kept in a hygienic, clean and dry environment. It is to ensure proper ventilation of the area.
+The udder of the cow should be cleaned with water and then dried before as well as after cleaning. 
+The milking machine should be cleaned with disinfectant solution.
+A good record on mastitis incidences and treatment procedure is to be maintained.
+Dry cow therapy is to be followed as a routine treatment to prevent mastitis. Under this process, antibiotic is given to the animals as intra mammary infusion during the milk drying off period.
+Routinely monitoring of California Mastitis Tests, milk somatic cell counts are to be carried as a stringent control measure to prevent mastitis among the bovines.
+
+Conclusion
+
+Mastitis is a devastating disease among the bovine which is a common and global problem. Major milk losses and continuous veterinary expenses cause huge economic loss and it also compromise the profitability of the dairy industry. Continuous monitoring of the occurrence of mastitis and risk factor analysis is essential to guide risk management. Thus, establishment of surveillance programmes and good management system can reduce the incidences of mastitis. Awareness programmes on mastitis management among the farmers are also essential to gain knowledge on its prevention and control.
+
+Content Contributors
+
+
+Soumya Dash, ICAR-National Institute of Biotic , Raipur, Chhattisgarh
+Gayatri Gujar, College of Veterinary and Animal Sciences, RAJUVAS, Bikaner, Rajasthan
+Rajashree Rath, Institute of Para-Veterinary Science, DUVASU, Mathura, 

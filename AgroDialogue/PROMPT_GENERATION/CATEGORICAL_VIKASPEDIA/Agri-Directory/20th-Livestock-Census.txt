@@ -1,0 +1,1103 @@
+20th Livestock Census
+
+Introduction
+
+The Department of  Animal Husbandry & Dairying under Ministry of Fisheries, Animal Husbandry & Dairying attributes critical importance to livestock and to the collection and availability of up-to-date and accurate data related to livestock, as they are the vital component of rural economy. For proper planning and formulation of any programme meant for bringing further improvement in this sector and its effective implementation and monitoring, valid data are required at every decision making stage.
+
+The Livestock Census is the main source of such data in the country. The livestock census is conducted across the country periodically since 1919. The census usually covers all domesticated animals and head counts of these animals are taken. So far, 19 Livestock Censuses were conducted in participation with State Governments and UT Administrations. The 20th Livestock Census was launched during the month of October, 2018. The enumeration was done in both rural and urban areas. Various species of animals (cattle, buffalo, mithun, yak, sheep, goat, pig, horse, pony, mule, donkey, camel, dog, rabbit and elephant)/poultry birds (fowl, duck and other poultry birds) possessed by the households, household enterprises/non-household enterprises were counted at that site. Another important feature of 20th Livestock Census is it has been designed to capture Breed-wise number of animals and poultry birds.
+
+For the first time, livestock data were collected on line in 20th Livestock Census. Advance technology has been adopted to collect data through tablet computers. The National Informatics Centre, Ministry of Electronics & IT has developed Android based mobile application for data collection with various features such as data entry module to facilitate recording the data on tablets, web-based work application, local government directory codes etc. The data captured by the enumerators have been verified through proper data checking process carried out by the supervisors through webbased programmes. Besides the initial scrutiny, another level of validation of data was also carried out with the help of a separate web-based data validation programme in which supervisors were allowed to correct any wrong entry.
+
+The Animal Husbandry Departments of States/UTs have been entrusted to conduct the field operations. In the 20th Livestock Census, the data were collected and scrutinised mostly by para-veterinarians and veterinarians. In this whole Census operations more than 80,000 field staff were deployed for smooth conduct of 20th Livestock Census. Training was an important component for 20th Livestock Census as for the first time field staff were required to operate tablet computers for such massive census operations. Training was conducted at various levels starting from “All India Training Workshop for Trainers” at Delhi, followed by State, District level trainings. Apart from training, Training Manual, Tutorial video, online e-learning classes etc. have been arranged.
+
+The 20th Livestock Census was carried out in about 6.6 lakhs villages and 89 thousand urban wards across the country covering more than 27 Crores of Households and Non Households.
+
+Key Results
+
+Some of the key outcomes of the 20th Livestock Census is summarised below:
+
+The total Livestock population is 535.78 million in the country showing an increase of 4.6% over Livestock Census2012
+Total Bovine population (Cattle, Buffalo, Mithun and Yak) is 302.79 Million in 2019 which shows an increase of 1.0% over the previous census.
+The total number of cattle in the country is 192.49 million in 2019 showing an increase of 0.8 % over previous Census.
+The Female Cattle (Cows population) is 145.12 million, increased by 18.0% over the previous census (2012).
+The Exotic/Crossbred and Indigenous/Non-descript Cattle population in the country is 50.42 million and 142.11 million respectively.
+The Indigenous/Non-descript female cattle population has increased by 10% in 2019 as compared to previous census.
+The population of the total Exotic/Crossbred Cattle has increased by 26.9 % in 2019 as compared to previous census.
+There is a decline of 6 % in the total Indigenous (both descript and non-descript) Cattle population over the previous census. However, the pace of decline of Indigenous Cattle population during 2012-2019 is much lesser as compared to 2007-12 which was about 9%.
+The total buffaloes in the country is 109.85 Million showing an increase of about 1.0% over previous Census.
+The total milch animals (in-milk and dry) in cows and buffaloes is 125.34 Million, an increase of 6.0 % over the previous census.
+The total sheep in the country is 74.26 Million in 2019, increased by 14.1% over previous Census.
+The Goat population in the country in 2019 is 148.88 Million showing an increase of 10.1% over the previous census.
+The total Pigs in the country is 9.06 Million in the current Census, declined by 12.03% over the previous Census.
+The total Mithun in the country is 3.9 Lakhs in 2019, increased by 30.0% over previous Census.
+The total Yak in the country is Fifty Eight Thousand in 2019, decreased by 24.67% over previous Census.
+The total Horses and Ponies in the country is 3.4 Lakhs in 2019, decreased by 45.6% over previous Census.
+The total population of Mules in the country is Eighty Four Thousand in 2019, decreased by 57.1% over previous Census.
+The total population of Donkeys in the country is 1.2 Lakhs in 2019, decreased by 61.23% over previous Census.
+The total Camel population in the country is 2.5 Lakhs in 2019, decreased by 37.1% over previous Census.
+The total Poultry in the country is 851.81 Million in 2019, increased by 16.8% over previous Census.
+The total Backyard Poultry in the country is 317.07 Million in 2019, increased by 45.8% over previous Census.
+The total Commercial Poultry in the country is 534.74 Million in 2019, increased by 4.5% over previous Census.
+In 20th Livestock Census, 35.94%-Cattle, 27.80%-Goat, 20.45%-Buffaloes, 13.87%-Sheep, 1.69%-Pigs.
+Mithun, Yaks, Horses, Ponies, Mules, Donkeys and Camels taken together contribute 0.23% of the total livestock.
+As compare to previous census the percentage share of sheep and goat population has increased whereas the percentage share of cattle, buffalo and pig has marginally declined.
+
+Livestock Population - Major Species
+Category
+Population (In million) 2012
+Population (In million) 2019
+% growth
+
+Cattle
+190.90
+192.49
+0.83
+
+Buffalo
+108.70
+109.85
+1.06
+
+Sheep
+65.07
+74.26
+14.13
+
+Goat
+135.17
+148.88
+10.14
+
+Pig
+10.29
+9.06
+-12.03
+
+Mithun
+0.30
+0.38
+26.66
+
+Yak
+0.08
+0.06
+-25.00
+
+Horses &amp; Ponics
+0.63
+0.34
+-45.58
+
+Mule
+0.20
+0.08
+-57.09
+
+Donkey
+0.32
+0.12
+-61.23
+
+Camel
+0.40
+0.25
+-37.05
+
+Total Livestock
+512.06
+535.78
+4.63
+
+
+Livestock Population - Major Species During 2007 to 2019
+Species
+Population (In million) 2007
+Population (In million) 2012
+Population (In million) 2019
+
+Cattle
+199.08
+190.9
+192.49
+
+Buffaloes
+105.34
+108.7
+109.85
+
+Sheep
+71.56
+65.07
+74.26
+
+Goats
+14.054
+135.17
+148.88
+
+Pigs
+11.13
+10.29
+9.06
+
+Mithun
+0.26
+0.30
+0.38
+
+Yaks
+0.08
+0.08
+0.06
+
+Horses &amp; ponies
+0.61
+0.63
+0.34
+
+Mules
+0.14
+0.2
+0.08
+
+Donkeys
+0.44
+0.32
+0.12
+
+Camels
+0.52
+0.4
+0.25
+
+Total Livestock
+529.70
+512.06
+535.78
+
+
+Livestock Population, 2012 & 2019 of Major States
+S.No.
+States
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+
+1
+Uttar Pradesh
+68.7
+67.8
+-1.35
+
+
+2
+Rajasthan
+87.7
+56.8
+-1.66
+
+
+3
+Madhya Pradesh
+36.3
+40.6
+11.81
+
+
+4
+West Bengal
+30.3
+37.4
+23.32
+
+
+5
+Bihar
+32.9
+36.5
+10.67
+
+
+6
+Andhra Pradesh
+29.4
+34.0
+15.79
+
+
+7
+Maharashtra
+32.5
+33.0
+1.61
+
+
+8
+Telangana
+26.7
+32.6
+22.21
+
+
+9
+Karnataka
+27.7
+29.0
+4.70
+
+
+10
+Gujarat
+27.1
+26.9
+-0.95
+
+Poultry Population 2012 and 2019
+Population (In million) 2012
+Population (In million) 2019
+% growth
+
+
+Total Poultry
+729.21
+851.81
+16.81
+
+Backyard poultry
+217.49
+317.07
+45.78
+
+Commercial Poultry
+511.72
+534.74
+4.50
+
+The total poultry has increased by 16.81% and the total poultry is 851.81 million during 2019.
+Over 45.78% increase in backyard poultry and total backyard poultry is 317.07 Million in 2019.
+The commercial poultry has increased by 4.5% and the total commercial poultry is 534.74 million.
+
+
+
+Poultry Population, 2012 & 2019 of Major States
+S.No.
+States
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+
+1
+Tamil Nadu
+117.3
+120.8
+2.92
+
+
+2
+Andhra Pradesh
+80.6
+107.9
+33.85
+
+
+3
+Telangana
+80.8
+80.0
+-0.93
+
+
+4
+West Bengal
+52.8
+77.3
+46.34
+
+
+5
+Maharashtra
+77.8
+74.3
+46.34
+
+
+6
+Karnataka
+53.4
+59.5
+11.33
+
+
+7
+Assam
+27.2
+46.7
+71.63
+
+
+8
+Haryana
+42.8
+46.3
+8.11
+
+
+9
+Kerala
+24.3
+29.8
+22.61
+
+
+10
+Odisha
+19.9
+27.4
+37.95
+
+
+Cattle
+Total Cattle Population in the country is 192.49 Million during 2019.
+Total cattle is increased by 0.8% over previous Livestock Census (2012).
+Female Cattle Population increased by 18.0% whereas Male cattles decreased by 30.2% over previous census.
+About 36% of the total livestock is contributed by cattle.
+
+
+Exotic/Crossbred and Indigenous/Non-Descript Cattle Population-Male, Female and Total
+Category
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+Total Cattle
+190.90
+192.49
+0.8
+
+
+Exotic/Crossbred
+ 
+ 
+Male
+5.97
+3.46
+-4.20
+
+
+Female
+33.76
+46.95
+39.1
+
+
+Total Exotic/Crossbred
+39.73
+50.42
+26.9
+
+
+Indigenous/Non-Descript
+ 
+ 
+
+Male
+61.95
+43.94
+-29.1
+
+
+Female
+89.22
+98.17
+10.0
+
+
+Total Indigenous/Non-Descript
+151.17
+142.11
+-6.0
+
+Cattle Population - Milch Cattle
+Total milch cattle in the country is 74.8 Million increased by 9.8% over the previous census
+
+Breed group-wise - In-Milk, Dry and Milch Cattle
+Milch Cattle of Exotic-Crossbred has increased by 32.2% over previous census 
+Milch Cattle of Indigenous/Non-Descript has increased marginally by 0.8%
+
+In-milk, Dry and Milch Cattle for Exotic/Crossbred and Indigenous/Non-Descript
+Breed Group
+Category
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+
+Exotic/Crossbred
+In-milk
+14.30
+20.00
+39.8
+
+
+Dry
+5.12
+5.67
+10.8
+
+
+Milch
+19.42
+25.67
+32.2
+
+
+Indigenous/Non-descript
+In-milk
+29.65
+31.98
+7.87
+
+
+Dry
+18.48
+16.53
+-10.53
+
+
+Milch
+48.13
+48.51
+0.81
+
+
+Breed-Wise Report of Livestock and Poultry
+
+The major highlights of Breed-wise Report of Livestock and Poultry are summarised below:
+The report has covered 184 recognized indigenous/exotic &amp; crossbred breeds of 19 selected species that are registered by the NBAGR (National Bureau of Animal Genetic Resources).
+There are 41 recognized indigenous whereas 4 exotic/crossbred breeds of cattle covered in this report.
+As per the report, the Exotic and Crossbred animal contribute nearly 26.5% of the total cattle population whereas 73.5% are Indigenous and Non-descript cattle.
+Crossbred Jersey has the highest share with 49.3% as compared to 39.3% of Crossbred Holstein Friesian (HF) in total Exotic/Crossbred cattle.
+Gir, Lakhimi and Sahiwal breeds have major contribution in total Indigenous Cattle.
+In Buffalo, the Murrah breed majorly contributes with 42.8% which is commonly found in UP and Rajasthan.
+In Sheep, there are 3 exotics and 26 indigenous breeds were found in the country. Among the pure exotic breeds, Corriedale breed majorly contributes with 17.3% and in the indigenous breeds the Nellore breed contribute the highest in the category with 20.0% share.
+In Goats, there are 28 indigenous breeds found in the country. The Black Bengal breed contributes the highest with 18.6%.
+In exotic/crossbred pigs, crossbred pig contributes 86.6% whereas Yorkshire contributes majorly with 8.4%. In indigenous pigs, Doom breed major contributes with 3.9%.
+In Horse &amp; Ponies, the share of Marwari breed majorly contributes with 9.8%. 
+In Donkeys, the share of Spiti breed contributes with 8.3%. 
+In Camel, Bikaneri breed majorly contributes with 29.6%.
+In Poultry, desi fowl, Aseel breed majorly contribute in both backyard poultry and commercial poultry farm.
+
+Cattle Population, 2012 & 2019 in Major States
+S.No.
+States
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+
+1
+West Bengal
+16.5
+19.0
+15.18
+
+
+2
+Uttar Pradesh
+19.6
+18.8
+-3.93
+
+
+3
+Madhya Pradesh
+19.6
+18.7
+-4.42
+
+
+4
+Bihar
+12.2
+15.3
+25.18
+
+
+5
+Maharashtra
+15.5
+13.9
+-10.07
+
+
+6
+Rajasthan
+13.3
+13.9
+4.41
+
+
+7
+Jharkhand
+8.7
+11.2
+28.16
+
+
+8
+Assam
+10.3
+10.9
+5.29
+
+
+9
+Chhattisgarh
+9.8
+10.0
+1.63
+
+
+10
+Odisha
+11.6
+9.9
+-15.01
+
+
+
+Buffalo
+Total Buffalo Population in the country is 109.85 Million during 2019.
+Total Buffalo has increased by 1.1% over previous Livestock Census (2012).
+Female Buffalo Population increased by 8.61% whereas Male Buffalo is declined by 42.35% over previous census.
+About 20.5% of the total livestock is contributed by buffaloes.
+Milch buffalo population has increased marginally by 0.2% over previous census in which in-milk has increased by 4.3% whereas Dry category has declined by 10.2%.
+
+Total Buffalo, Male, Female and Milch Animals
+Category
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+
+Buffaloes - Total
+108.70
+109.85
+1.06
+
+
+Total Male
+16.10
+9.28
+-42.35
+
+
+Total Female
+92.60
+100.57
+8.61
+
+
+In-milk
+36.57
+38.16
+4.34
+
+
+Dry
+14.48
+13.01
+-10.19
+
+
+Milch animals (In Milk + Dry)
+51.05
+51.17
+0.22
+
+Buffalo Population 2012 & 2019 of Major States
+S.No.
+States
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+
+1
+Uttar Pradesh
+30.6
+33.0
+7.81
+
+
+2
+Rajasthan
+13.0
+13.7
+5.53
+
+
+3
+Gujarat
+10.4
+10.5
+1.52
+
+
+4
+Madhya Pradesh
+8.2
+
+10.3
+
+25.88
+
+
+5
+Bihar
+7.6
+7.7
+2.02
+
+
+6
+Andhra Pradesh
+6.5
+6.2
+-3.76
+
+
+7
+Maharashtra
+5.6
+5.6
+0.17
+
+
+8
+Haryana
+6.1
+4.4
+-28.22
+
+
+9
+Telangana
+4.2
+4.2
+1.59
+
+
+10
+Punjab
+5.2
+4.0
+-22.17
+
+Sheep
+Total Sheep Population in the country is 74.26 Million during 2019.
+Total Sheep has increased by 14.13% over previous Livestock Census (2012).
+About 13.8% osf the total livestock contributed by Sheep.
+
+
+
+Sheep Population - Exotic/Crossbred and Indigenous/Non-Descript
+Category
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+
+Sheep - Total
+65.07
+74.26
+14.13
+
+
+Exotic/Crossbred
+3.78
+4.09
+8.12
+
+
+Exotic/Crossbred Male
+1.21
+0.83
+-31.32
+
+
+Exotic/Crossbred Female
+2.57
+3.26
+26.85
+
+
+Indigenous/Non-Descript
+61.29
+70.17
+14.50
+
+
+Indigenous/Non-Descript Male
+13.92
+12.53
+-9.94
+
+
+Indigenous/Non-Descript Female
+47.37
+57.64
+21.67
+
+Sheep Population 2012 & 2019 of Major States
+S.No.
+States/UTs
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+
+1
+Telangana
+12.8
+19.1
+48.51
+
+
+2
+Andhra Pradesh
+13.6
+17.6
+30.00
+
+
+3
+Karnataka
+9.6
+11.1
+15.31
+
+
+4
+Rajasthan
+9.1
+7.9
+-12.95
+
+
+5
+Tamil Nadu
+4.8
+4.5
+-5.98
+
+
+6
+Jammu &amp; Kashmir
+3.4
+3.2
+-4.19
+
+
+7
+Maharashtra
+2.6
+2.7
+3.87
+
+
+8
+Gujarat
+1.7
+1.8
+4.66
+
+
+9
+Odisha
+1.6
+1.3
+-19.10
+
+
+10
+Uttar Pradesh
+1.4
+1.0
+-27.25
+
+Goat
+Total Goat Population in the country is 148.88 Million during 2019.
+Total Goat has increased by 10.14% over previous Livestock Census (2012).
+About 27.8% of the total livestock is contributed by goats.
+
+
+
+Goat Population - Male, Female and Milch
+Category
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+
+Goat-Total
+135.17
+148.88
+10.14
+
+
+Male
+37.62
+32.10
+-14.65
+
+
+Female
+97.56
+116.78
+19.71
+
+
+In-Milk
+36.25
+41.83
+15.38
+
+
+Dry
+25.31
+27.82
+9.95
+
+
+Milch animals (In Milk + Dry)
+61.53
+69.65
+13.15
+
+Goat Population 2012 & 2019 of Major States
+S.No.
+States
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+
+1
+Rajasthan
+21.67
+20.84
+-3.81
+
+
+2
+West Bengal
+11.51
+16.28
+41.49
+
+
+3
+Uttar Pradesh
+15.59
+14.48
+-7.09
+
+
+4
+Bihar
+12.15
+12.82
+5.49
+
+
+5
+Madhya Pradesh
+8.01
+11.06
+38.07
+
+
+6
+Maharashtra
+8.44
+10.60
+25.72
+
+
+7
+Tamil Nadu
+8.14
+9.89
+21.43
+
+
+8
+Jharkhand
+6.58
+9.12
+38.59
+
+
+9
+Odisha
+6.51
+6.39
+-1.84
+
+
+10
+Karnataka
+4.80
+6.17
+28.63
+
+Pig
+Total Pig Population in the country is 9.06 Million during 2019.
+Total Pig Population has decreased by 12.0% over previous Livestock Census (2012).
+About 1.7% of the total livestock is contributed by pigs.
+
+
+Category
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+
+Pig-Total
+10.29
+9.06
+-12.03
+
+
+Exotic/Crossbred
+2.46
+1.90
+-22.76
+
+
+Indigenous/Non-Descript
+7.84
+7.16
+-8.66
+
+Camel
+Total Camel Population in the country is 0.25 Million during 2019.
+Total Camel Population has decreased by 37.1% over previous Livestock Census (2012).
+
+Category
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+
+Camel-Total
+0.40
+0.25
+-37.05
+
+
+Male
+0.19
+0.08
+-56.40
+
+
+Female
+0.21
+0.17
+-19.46
+
+
+
+Horses, Ponies, Mules & Donkeys
+Total Population of Horses, Ponies, Mules &amp; Donkeys in the country is 0.55 Million during 2019.
+Total Population of Horses, Ponies, Mules &amp; Donkeys has decreased by 51.9% over previous Livestock Census (2012).
+
+Horses, Ponies, Mules & Donkeys Population 2012 and 2019
+Category
+Population (In million) 2012
+Population (In million) 2019
+% Change
+
+
+Horses & Poines-Total
+0.62
+0.34
+-45.58
+
+
+Mules-Total
+0.20
+0.08
+-57.09
+
+
+Donkey-Total
+0.32
+0.12
+-61.23
+
+
+Total
+1.14
+0.54
+-52.63
+
+
+Mithun
+Total Population of Mithun in the country is 3.9 Lakhs during 2019.
+Total Population of Mithun has increased by 30.0% over previous Livestock Census (2012).
+
+Category
+Population (In Lakh) 2012
+Population (In Lakh) 2019
+% Change
+
+
+Mithun-Total
+3.0
+3.8
+26.66
+
+
+Male
+1.3
+1.7
+30.76
+
+
+Female
+1.7
+2.1
+23.52
+
+
+Yak
+Total Population of Yak in the country is 58 Thousands during 2019.
+Total Population of Yak has decreased by 24.67% over previous Livestock Census (2012).
+
+Category
+Population (In 000) 2012
+Population (In 000) 2019
+% Change
+
+
+Yak-Total
+77
+58
+-24.67
+
+
+Male
+35
+26
+-25.71
+
+
+Female
+42
+32
+-23.80

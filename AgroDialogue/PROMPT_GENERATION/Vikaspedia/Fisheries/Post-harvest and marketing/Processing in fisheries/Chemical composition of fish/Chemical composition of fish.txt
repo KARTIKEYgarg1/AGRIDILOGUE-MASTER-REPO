@@ -1,0 +1,105 @@
+Chemical composition of fish
+
+
+Proper knowledge on the biochemical composition of fish finds application in several areas. Today there is an ever-increasing awareness about healthy food and fish is finding more acceptance because of its special nutritional qualities. In this context a proper understanding about the biochemical constituents of fish has become a primary requirement for the nutritionists and dieticians. Fish and fishery products are used in animal feeds. In this case also, proper data on the biochemical composition is essential for formulating such products. Another vital area where accurate information on biochemical composition is a must is processing and preservation of fish and fishery products. Fish is an easily perishable commodity and deterioration in quality is due to the changes taking place to the various constituents like proteins, lipids etc. Information on the biochemical constituents will help a processing technologist to define the optimum processing and storage conditions, so that the quality is preserved to the maximum extent.
+
+Proximate composition
+
+The four major constituents in the edible portion of fish are water, protein, lipid (fat or oil) and ash (minerals). The analysis of these four basic constituents of fish muscle is often referred to as ‘proximate analysis’. Even though data on proximate composition are critical for many applications and investigations on these lines had been carried out from as early as the 1880s, reliable data on proximate composition of most of the species of fish are difficult to obtain.
+
+But this is not the only or basic reason for the absence of accurate and reliable data on biochemical composition of fish. Fishes are a very heterogeneous and highly specialized group evolved through biochemical adaptation and evolution, consisting approximately of 24000 species, showing extreme variations in size, shape, appearance etc. The habitat and food intake of these species are equally diverse. Some species are exclusively marine while some are confined to freshwater habitats. Some survive in marine as well as freshwater environments. Some marine species migrate to fresh water for spawning whereas many freshwater species enter the sea for spawning. These widely different environmental conditions of temperature, salinity, pressure, availability of food etc. have profound influence on the biochemical composition. There may be group-specific or even species-specific differences in the biochemical composition. Even within a species, variations occur for individual fish or lots of fish taken at different times or under different conditions. Another type of variation in proximate composition occurs between different parts of the same fish. There is generally an increase in the oil content of the muscle from the tail portion towards the head. Similarly the light and red muscle will vary in the biochemical composition. It is against this background that we have to view the data on the biochemical composition of fish. Data available in literature for proximate composition of individual species will only indicate the range or average and these are not usually taken as absolute values.
+
+The percentage composition of the four major constituents of fish viz. water, protein, lipid and ash (minerals) is referred to as proximate composition (it may be noted that the term does not indicate any degree of inaccuracy in the analysis). These four components account for about 96-98% of total tissue constituents in most cases. The range of values for these constituents in the edible portion of common fish species from Indian coastal waters are given below
+
+
+
+
+Water
+65-90 %
+
+
+Protein
+10-22 %
+
+
+Fat
+1-20 %
+
+
+Mineral
+0.5-5 %
+
+
+
+Carbohydrates, vitamins, nucleotides, other non-protein nitrogenous compounds etc. are also present in small quantities. Though quantitatively minor components, these play vital roles in maintaining the system and thus are essential for growth and development of the organisms.
+
+Water in fish tissue
+
+Water is essential for all living systems. Body fluids act as medium of transport of nutrients, metabolites etc. and water is the major component in these fluids. It is required for the normal functioning of many biological molecules. Proteins, for example, can maintain its native form and normal functions only in presence of water. The proportion of water in the flesh varies widely, though in a majority of cases the variation is much narrower, between 70-80%. One of the examples of very high water content is Bombay duck (Harpodon nehereus) a species found abundantly along the north-west coast of India, in which case the muscle tissue contains about 90% water. Water is present in two forms in the tissues, bound to the proteins and in the free form. These forms have well defined biological roles. Water is lost from the tissue in many ways during processing and this may affect the quality, especially the texture of the processed products.
+
+There exists an inverse relationship between the water content and lipid content of fish, such that the sum of the percentages of the two approximates 80 percent. The summation of oil and water, however, is not necessarily constant and frequently spans a range of 78 to 85 percent.
+
+Lipids
+
+Lipids include a wide heterogeneous group of compounds. Lipids are defined as the fraction of any biological material extractable by solvents of low polarity. As can be seen, the definition itself is not a precise one, but that is thought to be the best to include all compounds belonging to this group. Any material extracted with ‘fat solvents’ like ethyl alcohol, ether, chloroform, hexane, petroleum ether etc. is classified as a lipid. The important type of compounds included in this group are fatty acids, glycerides, phosphoglycerides, sphingolipids, aliphatic alcohols and waxes, steroids and combination of the above type of compounds with proteins, peptides carbohydrates etc. In the case of fish tissues, the major components of lipids are triacylglycerol and phosphoglycerides, both containing long chain fatty acids. Smaller proportions of other components are also present.
+
+Variations in the lipid content are much wider than that in protein. Fish with fat content as low as 0.5% and as high as 16-18% are of common occurrence. In many species, there is a build up of lipids during the feeding season and decrease during spawning. In fatty fish like oil sardine, mackerel, herring etc. the main site of storage of lipids is the muscle. The lipid content such fish show wide variations with season and sexual maturity. The lipid content of the muscle of oil sardine (Sardinella longiceps) is about 3-4% in June-July, which increases to about 18% by November-December
+
+In animals energy is stored mainly as fat. When excess energy is available from food, it is stored as fat and it is utilized during periods of low energy availability. This is true in the case of fish also. The storage sites for fat (fat depot) are different for different species. In some cases it is the liver and in some other cases it is the adipose tissue. In a great majority of cases, the depot fat is mainly triacylglycerol.
+
+Phospholipids, another important constituents of lipids are essential components of cell membranes. It is the lipid-globular protein mosaic structure that determines  important functions like permeability of cell membranes, transport of various substances into and outside the cell. Various types of phospholipids are essential for the proper functioning of the cell. Unlike in the case of depot fat, the proportions of phospholipids do not show wide variation. Normally it is in the range of 0.5 to 1% of tissue.
+
+Changes to lipids during processing/storage
+
+Two types changes take place to lipids during processing and preservation of fish, hydrolysis and oxidation. Lipid hydrolysis results in release of free fatty acids and these free fatty acids cause protein denaturation. Denatured protein looses its characteristic properties and this leads to loss of quality, especially the texture. Lipid hydrolysis in the tissue is mainly due to the action of lipases and the activity of these enzymes will be low at low temperatures. Thus lipid hydrolysis and consequent deterioration of quality will be minimum in products kept at low temperatures (about –18 to –20°C).
+
+Oxidative changes to lipids is a serious and complex problem. Due to the high degree of unsaturation of the fatty acids present in fish lipids, its susceptibility to oxidation is extremely high.Contact with oxygen or other oxidizing agents will initiate oxidation and elevated temperatures, catalysts like copper or iron etc. will accelerate the process.A more, complex situation is that the oxidation reaction will propagate itself through free radical mechanism.The products of oxidation will impart off flavour to fishery products (oxidative rancidity) and in advanced stages of oxidation, the products formed will be even toxic. It is a chain reaction, which progresses through the propagation of free radicals. The process is characterized by an induction period, during which the oxidation is slow, followed by an accelerating rate of oxygen absorption with concurrent development of hydroperoxides, which are the primary products of oxidation. The hydroperoxides undergo decomposition to various products like aldehydes, ketones, alcohols, carboxylic acids etc. some of which are volatile and some, non-volatile. The number and nature of these decomposition products depend on the position of the double bond being oxidized and the conditions under which the hydroperoxides are decomposed. The rancid flavour is the net result of these changes. Further oxidation of highly unsaturated fatty acids will lead to formation of polymerized products and under these conditions fish or oil will become totally unacceptable.
+
+Presence of air, elevated temperature, catalysts etc. are the main agents which promote oxidation. Avoiding these conditions can minimize the risk of oxidation. Another effective method of preventing oxidative degradation is the use of antioxidants. Antioxidants prevent or retard the propagation of free radical chain reaction and thus minimize the damage caused by oxidation. Several naturally occurring and synthetic antioxidants like tocopherols, butylated hydroxyanisol (BHA), butylated hydroxytoluene (BHT), propyl gallate etc. are used (usually 0.1 to 0.2%) during the processing of fish oils.
+
+Fatty acid composition of fish lipids
+
+The major chemical entity in most lipid molecules like glycerides, phospholipids, wax esters is fatty acid. The nature of the fatty acids present in fish lipids is very complex. Fatty acids with carbon chain varying from 10 to 22 and unsaturation varying from 0-6 double bonds are of common occurrence. A great majority of the fatty acids, whether saturated or unsaturated, have an even number of carbon atoms in the molecules. Odd numbered acids are present, but quantitatively, they are very insignificant.  Another important characteristic is that in the unsaturated acids which  have more than one double bond (polyunsaturated), the double bonds are separated by a methylene group and have cis-configuration. The proportion of trans isomers is usually very negligible. High degree of unsaturation, with 5 or 6 double bonds per molecule is very common and abundant in fish, which is seldom observed in the lipids of other animals or plants of terrestrial origin. These features make the fatty acids of fish unique.
+
+As in the case of lipid content, the fatty acid composition of fish lipids also shows wide variations.  Proportion of individual fatty acids may vary from species to species. Even within the same species this composition may vary depending factors like feed intake, spawning migration etc. Commercially produced fish oils made from the same species of fish often vary quite widely in fatty acid composition and there is, at times, quite significant variation in fatty acid composition of the same species from year to year. The fatty acid profile of depot lipids is different from that of other tissue lipids. Depot lipids generally are richer in saturated acids when compared with lipids muscle tissue.
+
+The number of fatty acids present in the lipids of any species is quite high. About fifty different acids (including isomeric forms) have been identified in some species. However, a comparatively small number of acids account for about 85-90% of the total fatty acids. Myristic, palmitic and stearic acids are the important saturated acids present in fish from Indian waters. Among the monounsaturated group, palmitoleic and oleic acids are the important members and in the polyunsaturated group, arachidonic acid, eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) are the major components
+
+Seafood Enzymes
+
+Enzymes are ubiquitous in living systems and are the agents that make chemical reactions possible in a diversity of life forms. Enzymes of fish and other marine organisms are comparatively less studied group of enzymes. Fish are poikilothermal animals and their enzymes are accordingly cold adapted.
+
+As a general rule, fish and shellfish are more perishable than other food myosystems. Autolysis or endogenous biochemical reactions catalyzed by enzymes are responsible for the loss of prime quality in seafood.  Accordingly the development of methods to preserve the quality of fish must evolve from an understanding of seafood enzymes and aim to target key enzyme catalyzed reactions that contribute to loss of appearance, flavour, texture, nutrition and functional properties.
+
+Scientists have isolated and identified a number of important enzymes in fish and shellfish. Gold fish and shrimp contain enzymes needed to convert carotenes to Xanthophylls (eg. Red astaxanthine).  Astaxanthine is known for its immune stimulating effect. Some fish are called Inosine accumulators, as they do not form hypoxanthine from ‘inosine’, insitu in post-mortem muscle. The activities of antioxidant enzymes  such as hepatic catalase, glutathione peroxidase, glutathione S transferase etc are found to vary considerably among species of fish. The muscles of some mollusks, notably tidal organisms, accumulate metabolites other than lactate (eg. Pyruvate, succinate, alanine, octopine during anaerobic glycolysis) reflecting a different enzyme pattern.
+
+A novel cysteine protease is reported to present at high concentrations in the dark muscles  of several fish. Examples of other enzymes that  are noteworthy to seafood technologists include phenolase in crustacean species pertaining to browning reaction, thiaminase in some fish and shellfish, carnosinase in Anguillidae and TMAO dimethylase in gadoid fish.
+
+Numerous enzymes influence the physical properties of seafood. Among the most important enzymes that can influence the seafood texture are those involved with energy metabolism and the onset of rigor mortis, endogenous and exogenous proteolytic enzymes and trans glutaminases. Among all the enzymes, the nucleotide degrading  enzymes are comparatively well studied as they directly affect the quality of seafood during post mortem. After death ATP levels are quickly depleted as the muscle enters rigor mortis. Enzymatic catabolism of ATP and related compounds, determines the ultimate eating quality of fish. In post mortem muscle, the conversion of ATP to ADP, ADP to AMP, AMP to IMP takes place within 24 h or less. These changes are thought to be totally enzymatic. The enzymes, involved in the post mortem degradation are ATPase, AMP deaminase, 5 nucleotidase, Inosine nucleosidase and xanthine oxidase.
+
+Another enzyme which is important in determining the quality of fish is myosin ATPase which favours protein denaturation. Inactivation of myosin ATPase in fish muscle to prevent or retard denaturation may be a method in the future to facilitate effective utilization of fish and shellfish.
+
+There is increasing interest in recovering valuable byproducts such as enzymes and pharmaceuticals from fish processing wastes. The processing of marine animals generate byproducts such as fish guts, that can serve as sources of new enzymes. Certain digestive proteinases from marine arnimals are more efficient catalysts at low reaction temperature, more heat liable and have superior ability to denature native protein substrates. The comparative advantages of these proteinases over the existing commercial proteinases would make them the enzymes of choice for many food processors.
+
+Lipases are enzymes are largely used in the pharmaceutical and the food industry. They are used for the preparation of pure drugs and for the production of fats and oils. Research on fish lipases to use it as drugs and for flavour, texture and fat modifications is being undertaken in many parts of the world. Fish phospholipases are lipolytic enzymes of great importance because of their role in diverse physiological functions, ranging from the biosynthesis of eicosanoids to the deterioration of fish during frozen storage. Unfortunately at present not enough information on fish phopholipases is available.
+
+Biogenesis of aroma in freshly harvested fish is initiated by the position- specific peroxidation  of poly unsaturated fatty acids by 12 and 15 lipoxygenases. Researchers have attempted to utilize fish derived lipoxygenase for generation of fish-like aroma.
+
+Exploitation of fish and shellfish enzymes for biotechnological application in the food and feed industry is complicated by variable availability of raw material and expensive production process because of the comparatively low enzyme concentration.  In future, some of these enzymes may be produced more profitably by recombinant DNA or gene technology. Another approach to enzyme engineering is the site directed mutagenesis, which makes small modifications in the nucleotide sequence of the gene.
+
+Pollutants and toxicants
+
+Proteins are complex organic nitrogenous substances formed from sub units called amino acids and found in the cells of all animals and plants.The term, protein is derived from the Greek world, protos, meaning first . This shows the importance of this group of compounds in the scheme of things in the living organism. Proteins occupy a central position in the architecture and functioning of living matter. The chemical and physical activities in the living organisms are catalyzed by enzymes, all of which are proteins.
+
+Quantitatively, protein is the second major component in muscle tissues of fish and is generally present in the range of 16-18%.  Protein content of fish is considered low if it is below 15%. The extent of variations in protein level is comparatively low. Feeding habits, spawning cycle etc. affect the level of protein in the tissues.
+
+Classification of proteins
+
+And Proteins of fish muscle are classified into three groups based on their solubilities in salt solutions. The fractions soluble in salt solutions of low ionic strength (<0.15) are called sarcoplasmic proteins. These include myogen, globulin etc. This fraction is constituted mainly of enzymes of muscle metabolism and accounts for 25-30% of the total proteins . Sarcoplasmic protein content is generally higher in pelagic fish such Sardinella longiceps, Rastrelliger kanagurta etc., while lower in demersal species.
+
+Protein fractions soluble in solutions of higher ionic strength (>0.5) are known as myofibrillar proteins. Actin, myosin, actomyosin, tropomyosin, troponins etc. which are the proteins which give muscle its power of contraction are included in this fraction and they form about 65% of the muscle proteins . The myofibrillar proteins play important part in determining the functional properties. The gelling properties of fish meat and the rheological characteristics of the gel depend on the properties of myofibrillar fraction in the muscle. This is very important in surimi and products based on surimi.
+
+Stroma proteins account for about 3% of total proteins in teleosts and 10% in elasmobranches. These are insoluble in neutral salt solutions or in dilute acids or alkalies. Connective tissues of the muscle are made up of stroma proteins. The characteristic texture of fish muscle is due to the low content of stroma proteins in it. Collagen, present in skin, air bladder etc. is another form of protein, similar to the stroma proteins.
+
+Source: 
+

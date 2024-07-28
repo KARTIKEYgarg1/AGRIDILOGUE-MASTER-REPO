@@ -1,0 +1,196 @@
+Pm kisan maandhan yojana
+
+Pradhan mantri kisan maan-dhan yojana (pm-kmy) is an old age pension scheme for all land holding small and marginal farmers (smfs) in the country. It is a voluntary and contributory pension scheme for the entry age group of 18 to 40 years. The scheme is effective from the 9th august, 2019.
+
+Salient features
+It is voluntary and contributory for farmers in the entry age group of 18 to 40 years and a monthly pension of rs. 3000/- will be provided to them on attaining the age of 60 years.
+The farmers will have to make a monthly contribution of rs.55 to rs.200, depending on their age of entry, in the pension fund till they reach the retirement date i.e. The age of 60 years. The farmers will have to make a monthly contribution of rs.55 to rs.200, depending on their age of entry, in the pension fund till they reach the retirement date i.e. The age of 60 years.
+The monthly contributions will fall due on the same day every month as enrolment date. The beneficiaries may alsochose an option to pay their contributions on quarterly, 4-monthly or half-yearly basis. Such contributions will fall dueon the same day of such period as the date of enrollment
+The spouse is also eligible to get a separate pension of rs.3000/- upon making separate contributions to the fund.
+The life insurance corporation of india (lic) shall be the pension fund manager and responsible for pension pay out.
+In case of death of the farmer before retirement date, the spouse may continue in the scheme by paying the remaining contributions till the remaining age of the deceased farmer. If the spouse does not wish to continue, the total contribution made by the farmer along with interest will be paid to the spouse. If there is no spouse, then total contribution along with interest will be paid to the nominee.
+If the farmer dies after the retirement date, the spouse will receive 50% of the pension as family pension. After the death of both the farmer and the spouse, the accumulated corpus shall be credited back to the pension fund.
+The beneficiaries may opt voluntarily to exit the scheme after a minimum period of 5 years of regular contributions. On exit, their entire contribution shall be returned by lic with an interest equivalent to prevailing saving bank rates.
+The farmers, who are also beneficiaries of pm-kisan scheme, will have the option to allow their contribution debited from the benefit of that scheme directly.
+In case of default in making regular contributions, the beneficiaries are allowed to regularize the contributions by paying the outstanding dues along with prescribed interest. Until 1 month from first unpaid contribution, no late fee would be charged. Three payment cycles demand would be raised for payment of contribution without any interest.
+
+Entry age specific monthly contribution
+Entry age (yrs) (a)
+Superannuation age (b)
+Member’s monthly contribution (rs) (c)
+Central govt’s monthly contribution (rs) (d)
+Total monthly contribution (rs) (total = c + d)
+
+18
+60
+55.00
+55.00
+110.00
+
+19
+60
+58.00
+58.00
+116.00
+
+20
+60
+61.00
+61.00
+122.00
+
+21
+60
+64.00
+64.00
+128.00
+
+22
+60
+68.00
+68.00
+136.00
+
+23
+60
+72.00
+72.00
+144.00
+
+24
+60
+76.00
+76.00
+152.00
+
+25
+60
+80.00
+80.00
+160.00
+
+26
+60
+85.00
+85.00
+170.00
+
+27
+60
+90.00
+90.00
+180.00
+
+28
+60
+95.00
+95.00
+190.00
+
+29
+60
+100.00
+100.00
+200.00
+
+30
+60
+105.00
+105.00
+210.00
+
+31
+60
+110.00
+110.00
+220.00
+
+32
+60
+120.00
+120.00
+240.00
+
+33
+60
+130.00
+130.00
+260.00
+
+34
+60
+140.00
+140.00
+280.00
+
+35
+60
+150.00
+150.00
+300.00
+
+36
+60
+160.00
+160.00
+320.00
+
+37
+60
+170.00
+170.00
+340.00
+
+38
+60
+180.00
+180.00
+360.00
+
+39
+60
+190.00
+190.00
+380.00
+
+40
+60
+200.00
+200.00
+400.00
+
+Eligibility
+Small and marginal farmer (smf) - a farmer who owns cultivable land upto 2 hectare as per land records of the concerned state/ut.
+Age of 18- 40 years
+
+Farmers who are not eligible for the scheme
+The following categories of farmers have been brought under the exclusion criteria:
+Smfs covered under any other statuary social security schemes such as national pension scheme (nps), employees’ state insurance corporation scheme, employees’ fund organization scheme etc.
+Farmers who have opted for pradhan mantri shram yogi maan dhan yojana (pm-sym) administered by the ministry of labour &amp; employment
+Farmers who have opted for pradhan mantri laghu vyapari maan-dhan yojana (pm-lvm) administered by the ministry of labour &amp; employment
+Further, the following categories of beneficiaries of higher economic status shall not be eligible for benefits under the scheme:
+
+All institutional land holders; and
+Former and present holders of constitutional posts
+Former and present ministers/ state ministers and former/present members of lok sabha/ rajya sabha/ state legislative assemblies/ state legislative councils,former and present mayors of municipal corporations, former and present chairpersons of district panchayats.
+All serving or retired officers and employees of central/ state government ministries/ offices/departments and theirfield units,central or state pses and attached offices/ autonomous institutions under government as well as regular employees of the local bodies (excluding multi tasking staff / class iv/group d employees)
+All persons who paid income tax in last assessment year.
+Professionals like doctors, engineers, lawyers, chartered accountants, and architects registered with professional bodies and carrying out profession by undertaking practice.
+
+How to apply
+The enrollment to the scheme can be done through self registration online or through the common service centres in various states. The enrollment is free of cost.
+
+For enrollment through common service centre
+The common service centres will charge rs.30/- per enrolment which will be borne by the government.
+
+Registration process
+The eligible smfs desirous of joining the scheme shall visit nearest common service centre(csc) along with his aadhaar card and bank passbook or account details.
+The village level entrepreneur (vle) present at the csc shall complete the on-line registration process after taking details of aadhaar number, name, date of birth, spouse and nominee particulars, mobile number (optional), address and a few other details.
+The on-line registration process includes capturing of bank account particulars and completion of an auto-debit mandate to the bank account of the subscriber for debiting contribution amount to the subscriber’s bank account every month. The demand will be made by the sponsor bank/idbi, on behalf of lic of india.
+The data would be checked by the csc through manual verification of bank particulars from supporting documents, demographic authentications of aadhaar, etc.
+The mobile number (optional) given by the subscriber will be verified by otp verification process.
+The subscriber will authenticate the data in on-line generated enrolment form by putting his / her signature.
+The vle will upload scanned copy of signed enrolment-cum-debit mandate form and thereafter enable his/her online payment of initial contribution and give him a receipt.
+At this stage, the online registration process would be complete and the system would generate a pradhan mantri kisan maan-dhan (pm-kmy) pension card with a unique pension account number prominently printed on it.
+Upon completion of enrolment process and payment of initial contribution, an enrolment-cum-auto-debit-mandate form for taking consent of farmers for auto-debiting from their pm-kisan benefits through their bank accounts will be generated and signed by the subscriber.
+

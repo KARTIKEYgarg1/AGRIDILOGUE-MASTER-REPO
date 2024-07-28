@@ -1,0 +1,25 @@
+Alternaria Leaf Spot of Cotton
+
+Symptoms
+Early infections of leaves produce small, circular, brown to tan spots with purple margins varying in size from 1 to 10 mm in diameter. These spots often show a concentric growth that derives in concentric rings pattern, defined more clearly on the upper surface of leaves. As they grow, their center gradually becomes dry and turns grayish, occasionally cracking and falling out (shot-hole effect). These spots may also come together and produce irregular dead areas in the middle of the leaf blade. Under humid conditions, the fungi produce and release large amounts of spores, which may result in the sooty black appearance of the lesions. On stems, the development of lesions begins as small sunken spots which may later develop into cankers, splitting and cracking the tissue. Flowers buds may be shed in the case of severe infections, which eventually may lead to the failure of boll development.
+
+Product Recommendations
+Organic Control
+Seed treatment with Pseudomonas fluorescens (10g/kg seeds) can provide some protection to crops. Spraying a solution of Pseudomonas fluorescens 0.2% every 10 days can reduce an infection significantly.
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments if available. Usually, the disease is not lowering the yield to the extent that justifies a specific fungicidal treatment. In severe cases, fungicides like maneb which contains mancozeb (2.5 g/l), hexaconazole (1 ml/l), tebuconazole and difenoconazole can be used to control Alternaria leaf spot. Seed treatment with strobilurins (e.g. trifloxystrobin) or sterol biosynthesis inhibitors (e.g. triadimenol, ipconazole) can be used to make seeds resistant to the pathogen.
+
+What caused it?
+The symptoms are caused by the fungus Alternaria macrospora, which survives on cotton residues if no living tissue or alternative host is available. The pathogen spreads through air-borne spores and water splashing onto healthy plants. The production of spores within the leaf spots as well as the infection process is favored by wet weather and temperatures of about 27 °C. Plants are most susceptible at the seedling stage and late in the season during the senescence of leaves. The infection risk decreases from the lower to upper cotton leaves. Under favorable conditions for the fungi, susceptible varieties of cotton can lose a large number of leaves rapidly (defoliation), especially where the boll stalk becomes infected. Symptom development is favored by added physiological or nutritional stress for the plant e.g. heavy fruit load or premature senescence.
+
+Preventive Measures 
+Plant resistant or tolerant varieties if available in your area.
+Provide sufficient space between plants to increase air circulation.
+Regularly monitor for symptoms of the disease.
+Remove plant residues and burn them at a distance from the cotton field.
+Avoid plant stress, especially potassium deficiency.
+Remove severely infected cotton plants and destroy them.
+Remove tall grasses and weeds in the field.
+Tilling in fall aids in breaking down the remaining residue left from infected plants.
+Practice crop rotation with non-hosting crops, e.g.
+cereals.

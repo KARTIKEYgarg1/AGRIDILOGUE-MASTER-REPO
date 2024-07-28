@@ -1,0 +1,19 @@
+Rust of Cotton
+
+Symptoms
+The first symptoms of tropical rust appear on older leaves. They are mostly visible in the form of minute, bright yellow to orange lesions on the upper leaf surface. On the underside, spots of similar color but slightly bigger and rougher in appearance appear. As the disease progresses, they turn into large, raised, pale-brown fungal pustules surrounded by a yellow halo. As they burst open and release their spores, they often coalesce and form irregular dark brown spots. On stems and petioles these pustules are usually elongated and are not much raised. Plants become prematurely defoliated as the disease develops, resulting in reduced boll size.
+
+Product Recommendations
+Organic Control
+Products containing essential oils of Corymbia citriodoria at 1%, Cymbopogon nardus at 0.5%, and Thymus vulgaris at 0.3% have been used with other rusts to reduce their severity and occurrence.
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatment if available. Selecting the right fungicide and applying it at the right time is crucial. Apply fungicides based on hexaconazole and propiconazole (1-2 ml/l of water) about 75 days after sowing at 15 days interval and up to 120 days to limit the yield losses. Spray mancozeb 0.25% prior to the formation of spores from gramma grass.
+
+What caused it?
+Rust of cotton is an aggressive disease caused by the fungus Phakopsora gossypii. It is not seed- or soil-borne and thus needs green living tissue to survive. During the season, the spores produced in the pustules of cotton infect gramma grasses (Bouteloua spp.) around the fields and produce elongate brownish or black spots on their leaves. At the beginning of the next season, it is the spores produced on these grasses that will infect cotton plants to complete the cycle. The spores penetrate the plant cells directly, rather than through pores or wounds in the leaf tissue. High humidity, leaf wetness and moderate to warm temperatures are conducive for the disease.
+
+Preventive Measures 
+Plant early and if possible choose an early maturing cultivar.
+Alternatively, plant late to take advantage of drier periods.
+Use wider row spacing to hasten canopy drying.
+Monitor your plants regularly and weed out alternative hosts, particularly gramma grasses.

@@ -1,0 +1,285 @@
+Disease management
+
+
+Introduction
+
+When a plant cannot function normally, it is diseased. The primary causes of disease in trees are pathogens and environmental factors. Trees have many disease pathogens: viruses, bacteria, fungi, nematodes, mycoplasma-like organisms, and parasitic higher plants. Fungal pathogens are the most prevalent. They cause seed rots, seedling damping-off, root rots, foliage diseases, cankers, vascular wilts, diebacks, galls and tumors, trunk rots, and decays of aging trees. Unfavorable weather and environmental factors such as temperature and moisture extremes, high winds, or ice can damage trees directly and predispose the trees to pest attack.
+
+Objectives of disease management
+
+The major objective of disease management is to prevent or minimize losses while preserving tree quality. Absolute disease control is rarely achieved or even attempted. More often, management efforts are directed toward preventing disease or reducing it to the status of a tolerable nuisance. In most instances, forest disease management requires preventive methods over a long period of time and considers the stand as a whole rather than specific diseased individuals. Management measures must be economically feasible - expenditures must not exceed the expected benefits. Direct control of disease in the forest is limited by many factors, including:
+
+
+The vast areas involved
+The inaccessibility of many stands.
+The long life cycle of trees.
+The relatively low per acre or per individual tree values.
+
+Thus, spraying, dusting, or other direct control procedures commonly employed with high-value crops such as Christmas trees, forest nursery crops, and valuable seed orchards are rarely applicable in the forest. Occasionally, however, disease epidemics of introduced forest pests warrant drastic and costly direct control measures to meet the emergency
+
+Timing of disease control measures
+
+When chemical disease control application is economically feasible, as in the case of forest nursery stock, it is essential that the pest manager understand the life cycle of the disease to be controlled. For many diseases, only one short window of control may be available in a calendar year, or the control spray may have to be applied preventively—before any signs or symptoms of disease are present. Chemical control measures must be applied to the plant when infection is most likely to occur or it will be a waste of time, effort and money. By understanding the life cycle of the disease organism, you will be able to make proper and timely management decisions.
+
+Forest disease management
+
+The most important principle in forest protection is that preventing attack by an insect or disease pest and/or preventing further development of the pest problem is far more effective than attempting to stop the damage after it is underway. The wise application of forest management practices ultimately has more enduring and less expensive results than more direct methods of protection. Most forest disease control is achieved through adjustments in forest management practices. General methods of silvicultural control may include:
+
+
+Decay reduction through rotation
+Fire prevention and care when logging
+Reduction of disease through timber stand improvement operations and the use of partial cutting methods.
+Use of prescribed burning. 
+Maintenance of high stand densities where applicable. 
+Salvage to reduce losses.
+
+Planted stands are particularly liable to disease. The impact of disease will become increasingly important as more planting is done and as plantations become older. The critical period for most stands is from about 20 to 40 years of age, the period when the stands make the greatest demands on the site. Vigorous early growth is no assurance of satisfactory long-term development. The major effort toward disease control in plantations is through avoidance. Selecting a site with favorable growing conditions and then a species suited to that site is of primary importance. Planting stock must be free of disease. Pure stands are at more risk than mixed stands, as are large areas of even-aged trees. Spacing, thinning and weed control are also important for maintaining stand vigor.
+
+Disease surveys
+
+Disease surveys are important and are the first step in application of control measures. Detection, appraisal, and control surveys are made for early recognition of disease; for information on scope of attack, extent of damage, possibilities for control, estimates of costs, and delimitation of control areas; and for assessing the effectiveness of control programs.
+
+Disease management of important tree crops
+
+Neem (Azadirachta indica)
+
+Earlier reports show that a few fungi are known to cause diseases in nurseries and plantations of neem. They are fungi like species of Alternaria, Cercospora, Colletotrichum, Fusarium, Oidium, Ganoderma and Corticium.  A brief description of the various diseases and their control measures in nursery is given below:
+
+
+Damping off: 
+
+ Among the nursery diseases, damping-off is the most prevalent and highly destructive disease and cause heavy loss of seedlings. It is referred to a group of disease namely preemergence and post-emergence damping off depending on the stage of growth of seedlings when they are attacked. 
+This disease is caused by various soil fungi such as Pythium, Phytophthora, Fusarium and Rhizoctonia of which the last two fungi are quiet prevalent in forest nurseries in India. 
+High soil temperature, excessive soil moisture, high soil pH (alkaline), high nitrogen content, low light intensity due to shading, stiffy or clayey soil with poor drainage, dense sowing are the conditions which favour the disease development in serious proportion. In case of Neem seedlings, the disease was caused by Fusarium oxysporum (Mehrotra and Pandey, 1992).
+Control Measures: The disease has been managed through: 
+
+Cultural practices aimed at favouring plant growth and discouraging the growth of plant pathogen;
+Use of chemicals like formalin and suitable fungicides. Formalin is applied as soil fumigant and the fungicides can be applied either as soil drench or soil mix.  Also, seed dressing with fungicide (Bavistin) in certain cases found very effective. Potting media should be properly sterilized by solar heating before use.
+
+
+Leaf Web Blight 
+
+It is caused by Rhizoctonia solani. The disease appears in the nursery after the regular monsoon rains set in (Mehrotra, 1990; Sankaran et al., 1986).
+Symptoms: Development of greyish brown blotches which increase in size with the advancing fungal hyphae and ultimately engulf the entire leaf blade. The infected adjoining leaves get joined together by the fungal hyphae as if caught in a spider’s web, hence the name web blight. The leaflets or the entire pinnae become detached prematurely. The disease spreads through contact of the overlapping foliage.
+Control Measures: The disease has been managed through interacted approach which includes measures such as sanitation and cultural practices. Application of fungicide (Bavistin 0.1% a.i.) is found effective.
+
+Colletotrichum Leaf spot and blight:
+
+ It is caused by Colletotrichum gloeosporioides. It has been recorded in a serious form at New Forest, Dehra Dun. It appears in nursery at the end of the September or first week of October (Mehrotra and Pandey, 1992).
+Symptoms:The fungus causes leaf spots which increase rapidly in size covering large leaf areas. The infected leaves present a blighted appearance and are eventually shed. Severely infected seedlings show premature defoliation.
+Control Measures: Application of Blitox fungicide (0.2% a.i.) twice at weekly intervals is found effective in controlling the disease. 
+
+ Alternaria Leaf spot and blight:
+
+ It is caused by Alternaria alternata. It is a destructive pathogen. It appears late in the growing season in the last week of October or early November.  It attacks the leaves when the leaves become old and contain less soluble sugars. 
+Control Measures: Application of Blitox fungicide (0.2%) at fortnightly intervals is found very effective.
+
+Pseudocercospora Leaf spot: 
+
+It is caused by Pseudocercospora subsessilis. The disease occurs throughout the natural distribution of neem. 
+Symptoms: The infection spots are brown in colour interspersed with white patches. The fungus sporulates on the under surface of the leaf and produces conidia which appear grayish in mass. The heavily infected leaves turn pale and are shed prematurely. 
+Control Measures: Application of Mancozeb in combination with Brestan is found effective in controlling the disease. 
+
+
+Powdery Mildew:
+
+ This disease is caused by Oidium azadirachtae.
+Symptoms: White patches seen on the surface of the leaves. These patches coalesced and covered the whole leaf lamina giving greyish white appearance. Severely infected leaves and leaflets defoliated prematurely.
+Control Measures: Foliar spray of Bavistin fungicidal solution (0.01%) is found to be effective in minimizing the disease.
+
+Other Foliar Diseases:
+
+Bacterial leaf spot: Bacterial leaf spot is caused by a bacterium, Xanthomonas azadirachtii and Pseudomonas viticola. 
+Leaf spot and Blight: Leaf spot is caused by Colletotrichum capsici. Leaf Blight and stem rot are caused by Sclerotium rolfsii. 
+Seedling wilt: Seedling wilt is caused by Fusarium solani. Twig canker and shot hole in leaves are caused Phoma sp.
+
+
+Diseases of Albizia spp.
+
+
+Leaf spot and blight:
+
+ Different pathogens such as Cercospora albizziae, Colletotrichum sp., Alternaria alternata, Camptomeris albizzia, Pleiochaeta setosa and Epicoccum sp. have recorded to attack of leaves of Albizia lebbeck in nurseries (Mehtrotra et al., 1992).
+Symptoms : The disease manifests on older leaves of seedlings as a small water soaked yellowish spot which later develops into a circular light brown lesion with a distinct yellowish margin.  The spot hole develops in the advanced stages of infection causing premature defoliation.  The disease is aggravated under high humid conditions.  The tender shoots of seedlings are also infested and damaged.
+Control measures :  Application of Captaf (0.2%) fungicide solution as foliar spray is found effective in controlling the disease problem.
+
+Seedling wilt:
+
+It is caused by the fungal pathogen, Fusarium oxysporum.
+Symptoms: The lower leaves initially turn yellow and then fall off. The yellowing proceeds towards the growing shoot and within a month the seedling dies. The roots of affected seedlings get discoloured.
+Control Measures: Application of Dithane M-45 (0.3%) or Bavistin (0.2%) fungicidal solution is found effective in controlling the disease problems. Also, treating the seed beds with 0.2% Bavistin solution before sowing prevents the occurrence of disease pathogens.
+
+Rhizoctonia Leaf Web Blight
+
+It is caused by Rhizoctonia solani. The disease has been reported for the first time in Assam (Mehrotra, 1989; 1990). This disease was also reported on other broad leaved trees.
+Symptoms: It first appears on leaves close to the ground, as water soaked silvery grey blotches.The infected adjoining leaves become joined together by the fungal hyphae if caught in a spider’s web hence the name web blight.The fungal invasion of foliage is rapid over the wet leaf surface during rains (Mehrotra, 1990).
+Control Measures: It can be managed through an integrated approach involving measures such as sanitation, cultural practices and use of fungicides.  Sanitary measures recommended are disposal of leaf litter by burning and segregation of diseased seedlings soon after such seedlings are spotted. This will help in preventing lateral spread of the disease through contact of the overlapping foliage of the adjoining seedlings thereby minimizing the disease incidence. Cultural practices include raising of seedlings in poly bags instead of beds; keeping seedlings in lots of 250-300 seedlings instead of 1000 seedlings in nurseries. Application of Bayleton (0.1% a.i.) as foliar spray is found very effective in controlling the disease.
+
+Leaf Rust:
+
+It is caused by Ravenalia clemensiae. The pathogen attacks leaflets of the seedlings.
+ Profuse development of pustules takes place on the leaf surface adversely affecting the metabolic activity of the plants resulting even in death.
+Control Measures: The disease is controlled by application of 0.2% Dithane M-45 or Sulfax fungicide.
+
+Little leaf disease:
+
+The disease caused by Pytoplasma like organisms is often observed in seedlings after the germination of seeds.
+ The cotyledons and first pair of leaves turn yellow.
+ Later, the foliage becomes bunchy with much reduced sized of leaves.
+
+
+Gmelina arborea
+
+Most of the diseases on G. arborea have been recorded from nurseries and plantations raised in different parts of the country. A brief description of various nursery diseases recorded in G. arborea is given below:
+
+
+Foot rot: 
+
+This is caused by Fusarium oxysporum. It has been recorded from  on 1-month old seedlings.
+Symptoms:  Infected portion exhibits water-soaked depression which late turns dark brown causing wilt and subsequent death of plants.
+Control Measures:  Soil drenching with 0.2% Bavistin or Dithane M-45 at monthly intervals effectively controls the disease (Jamaluddin et al., 1988).
+
+Poria root-rot:
+
+Poria rhizomorpha has been recorded as a root parasite of Gmelina arborea in part of India in north Bengal and Assam (Bagchee, 1953).
+Symptoms: The severity of the disease has been noticed more on clayey sites where the soil becomes periodically waterlogged. The fungus perennates in the forest on woody debris in the soil and humus from which it spreads to the host through white coloured cord-like rhizomorphs often to a distance of 30 meters, disseminating the disease from one tree to another. It causes brown cuboidal rot in the root resulting in death of root cambium followed by die back and death of affected trees both in natural regeneration and plantations.  The sporophores of the fungus effused thin, brittle, poroid, crust, inseparable from the substrate, or white to pinkish cinnamon, pores round to angular, basidiospores hyaline, ellipsoid in shape.
+
+Root rot and Collar rot:
+
+The diseases are caused by Sclerotium rolfsii and recorded in 1-2 months old seedlings in Kerala (Florence and Sankaran, 1987).
+Symptoms:  Paling of foliage and leaf shedding and subsequent death of the seedlings.  In Kerala, the disease causes premature defoliation and is reported to be in mild form.
+Control Measures: Soil drenching with 0.2% Bavistin or Dithane M-45 at monthly intervals effectively controls the disease.
+
+Leaf spot:
+
+Leaf spot is caused by Pseudocercospora ranjita and reported from Assam and Kerala.
+ Deptoshaeria gmelinae causing leaf spot and die-back of twigs has been reported from Madhya Pradesh. 
+Other leaf spot fungi recorded from Madhya Pradesh are Phoma tropica, Alternaria laternata and Macrophomina phaseolina (Jamaluddin et al., 1988) and Corynespora cassicola is from Kerala (Sharma et al., 1985).
+Symptoms: Paling of foliage and shedding of leaves are the common symptoms.
+Control Measures:  Application of Bavistin (0.1%) and Dithane M-45 (0.1%) are found effective against the diseases in nursery.
+
+Leaf and shoot blight:
+
+Colletotrichum state of Glomerella cingulata in association with Fusarium solani has been reported from Kerala causing severe blight disease in 5-6 month old seedlings during May and June.
+Symptoms: The disease spreads rapidly after initial appearance in patches, causing large scale mortality of nursery stock. Infected plants exhibit blighting of shoots and leaves.  Subsequent colonization by Fusarium solani hastens blighting.
+Control Measures: The disease has been effectively controlled by two applications of Bavistin at weekly interval (Sharma et al., 1985).
+
+Powdery Mildew:
+
+It is caused by Phyllactinia suffulta var. gmelina and recorded from Maharashtra.
+Symptoms: The pathogen produces infection spots on the lower surface of the leaves with corresponding pale yellow colour on the upper surface (Patil, 1961).
+
+Phoma stem rot:
+
+Stem rot disease caused by Phoma nebulosa is recorded in 3-4 months old seedlings from Kerala (Sharma et al., 1985).  The disease flares up under warm and humid conditions especially in over crowded seedlings.
+Symptoms:  The infected seedlings wilt and eventually die. Numerous pycnidia develop on dead stem, and spore masses ooze out from them on maturity.
+Control Measures: It can be effectively controlled by removing the affected seedlings from the seed beds, regulating the water to bare minimum and applying 2-3 foliar sprays of Dithane M-45 (0.05% a.i.) at weekly intervals.
+
+Canker disease:
+
+Stem canker disease caused by conidial state of Thyronectria pseudotricha and  Hendersonula toruloidea has been recorded from Kerala.
+Symptoms: The pathogen causes depressions and necrosis of the bark on which numerous conidia (imperfect state) are produced resulting in formation of perennial cankers which increase in size due to fungal invasion to the surrounding healthy tissues. The bark later splits and peels-off exposing the dead wood (Sharma et al., 1985).
+
+Phomopsis Die back
+
+Twig blight caused by Phomopsis sp. and stem canker caused by P. gmelinae have been reported from Madhya Pradesh and Kerala respectively (Jamaluddin et al., 1988; Sankaran et al., 1987).
+
+
+Pongamia pinnata
+
+Pongamia is attacked by few diseases. A brief description of the nursery diseases is given below:
+
+
+Leaf spot and blight:
+
+Leaf spot and blight diseases caused by Fusicladium pongamiae on Pongamia pinnata. 
+The pathogen causes severe leaf deformities. 
+ Microstroma pongamiae causes white to cream-coloured spots giving a yellowish appearance to the leaves. 
+Other fungi such as Phyllochora pongamiae, Robillarda makatii and Urohendersonia pongamiae cause leaf spot disease.
+ Cercospora pongamiae and Sphaceloma pongamiae cause anthracnose spots on leaves, tender shoots and pods resulting in severe damage and early defoliating in young seedlings and trees.
+Control Measures:  Foliar spray of Bavistin fungicidal solution (0.1%) is found to be effective in minimizing the disease.
+
+
+Leaf Rust: 
+
+The rust fungus, Ravenelia hobsoni infects the leaves and produces numerous chest-nut brown teliospore heads on the lower surface of the leaves.
+ Another rust fungus, R. stictica is also known to attack the leaves.
+Control Measures:  Dusting or foliar spray of sulphur based fungicide (0.05%) is found to be effective in minimizing the disease.
+
+Powdery mildew:
+
+Powdery mildew disease caused by Oidium sp. was also reported on Pongamia seedlings.
+Symptoms:  The pathogen formed irregular white patches, consisting of mycelium and asexual conidia on the surface of the leaves. These patches coalesced and covered the whole leaf lamina giving grayish white appearance.  Severely infected leaves and leaflets defoliated prematurely.
+Control Measures:  Foliar spray of Bavistin fungicidal solution (0.01%) is found to be effective in minimizing the disease.
+
+
+Teak (Tectona grandis)
+
+Different disease problems of Teak were recorded in nursery.  The symptoms, causative organisms and their management are as follows:
+
+
+Leaf blight:
+
+This is caused by Rhizoctonia solani. 
+Symptoms:  The infected plants show water soaked grayish brown patches that enlarge rapidly and cover a large part or the entire lamina. The blighted leaves often show holes in the infected portion as a result of shedding of infected tissues during heavy rains.  The infected leaves dry up and are eventually shed.  The disease spreads laterally in the nursery through overlapping foliage of the adjoining seedlings often resulting in group blighting of seedlings.   In each case of severe infection, defoliation is high.
+Control Measures:  Immediate removal of infected plants helps to prevent the disease spread. Application of Dithane M-45 (0.1%) is found effective in controlling disease.
+
+Leaf rust:
+
+This disease is caused by Olivea tectonae.
+Symptoms:  The infected leaves are almost plastered with yellowish brown fruit bodies of the fungus.  The upper leaf surface presents a grey appearance due to the formation of fleeks, which correspond to the position of sori on the lower surface.  Infected leaves fall off prematurely resulting in retardation of plant growth.  The disease is common in nursery and young plantations.
+Control Measures:  The infected seedlings can be segregated and kept in isolation.  Severely infected and dead seedlings can be burnt away from the nursery to prevent the spread of the disease.  The disease may be controlled in the nursery by the application of sulphur based fungicide (Sulfax) on both sides of the leaves.
+
+Leaf spots:
+
+Leaf spot diseases are caused by different fungal and bacterial pathogens on teak.
+Symptoms:  The symptoms are brown to greyish brown, which develop near the tip and along the margin of the leaves. The disease spreads laterally in the nursery through overlapping foliage of the adjoining seedlings often resulting in group blighting of seedlings.  In each case of severe infection, defoliation is high.
+Control Measures: Immediate removal of infected plants helps to prevent the disease spread.
+
+Powdery mildew:
+
+Members of the family Erysiphaceae have been recorded to cause mildews in teak. Phyllactinia corylea is recorded to attack teak laves (Bagchee, 1952).  Phyllactinia guttata is also recorded to attack teak from other countries.  Uncinula tectonae, widely occurs in nurseries and forests in central and southern India.
+Symptoms:  The fungus forms white powdery coating on the undersurface of teak leaves and later develops dark coloured cleistothesia over the white fungus weft (Spaulding, 1961).  Uncinula tectonae is restricted to the upper leaf surface and the infected leaves are coated with a dull white mycelium and conidia borne on conidiophores. Conidia are air-borne which are produced abundantly and cause fresh infection. The metabolic changes in plants take place which lead to drying of infected leaves.
+Control Measures:  Sulphur dust was most effective in controlling powdery mildew in two year old seedlings followed by Baycor, Mortesan and Calixin (Kulkarni and Siddaramaiah, 1979).
+
+
+Sisso - Dalbergia sissoo
+
+Dalbergia sissoo is attacked by a number of diseases and the details are given below:
+
+
+Leaf spot:
+
+ Different fungi viz., Cercospora sissoo, Colletogloeum sissoo, Phyllachora dalbergiae, Phyllachora spissa, Phyllosticta sissoo, Mycosphaerella dalbergiae, Myrothesicum roridum and Alternaria alternata causing leaf spots on this tree species and recorded from the region this tree species grows. 
+Symptoms:  The pathogen, Cercospora sissoo attacks the leaves mostly on the lower surface, producing yellowish to grayish-green discoloration. Pustules are mostly intra-epidermal. Stomata are brown with simple or forked conidiophores (Sydow and Mitter, 1933).
+The pathogen, Colletogloeum sissoo causes imperceptible leaf spots and is recorded from Varanasi,  (Pavgi and Singh, 1971).The pathogen, Phyllachora dalbergiae attacks the upper leaf surface and produces shining black cushion-like stromata which may occur scattered or in clusters (Saccardo, 1883).
+The pathogen, Phyllachora spissa attacks the leaves and forms densely aggregated dot-like dark stromata on irregular brownish infection spots and recorded from Wynaad, Kerala and Meghalaya (Bakshi, 1976); Khandala, Maharashtra (Ananthanarayanan, 1964).
+The pathogen, Phyllosticta sissoo causes infection on leaves. The spots are round to irregular, greyish-brown which sometimes cover the entire leaf surface. Dark brown pycnidia are produced on lower leaf surface in densely aggregated groups (Saccardo, 1931).
+The pathogen, Myrothecium roridum causes leaf spots in seedlings of sissoo from Bareilly and Dehra Dun (Uttar Pradesh) and Ambala (Haryana). Infection spots appear in June or eearly July. They are grey or light brown with dark brown margin on the concentric sones, coalescing to form larger leaf spots. The necrotic tissues usually fall off resulting in formation of shot holes (Tivari et al., 1991). 
+The pathogen, Alternaria alternata appears in July continues throughout humid months and declines after September in Dehra Dun. The disease incidence is reported be as high as 100 per cent and almost 80-100 per cent leaflets are infected. Infection spots are dark brown, vary in size and shape and coalesce to form larger spots. The fungus sporualtes on the lower surface of the leaves. The heavily infected leaves are shed prematurely (Mehrotra, 1992a). 
+
+Leaf Blight:
+
+ Rhizoctonia web blight of sissoo caused by R. solani an anamorph of Thanatephorus cucumeris was recorded from Dehra Dun (Mehrotra (1992b). 
+Symptoms:  The disease first appears on leaves close to the ground as water soaked grayish brown blotches which increase in size with the advancing fungal hyphae and ultimately the entire leaf blade is invaded by the fungus. 
+The leaflets show stromatid aggregates on the under surface and eventually turn brown. The infected adjoining leaflets often join together by the fungal hyphae as if caught in a spider’s web hence the name web blight. Leaflets or entire leaf become detached prematurely but they remain clinging to the stem for a considerable period as they are invariably joined together by the fungal hyphae. 
+There is a cluster of hyphae at the base of the petiole or petiole. The disease spreads laterally through contact of overlapping foliage of the adjoining seedlings resulting in group infection of seedlings in the nursery.Control Measures: The disease can be effectively managed through proper sanitation, weeding and foliar application of fungicide solution (Bayleton – 0.1% at fortnightly intervals). 
+
+Powdery Mildew:
+
+ Phyllactinia dalbergiae causes powdery mildew on sissoo seedlings and recorded from Dehra Dun and Allahabad (Uttar Pradesh), Pusa (Bihar), Poona, Bombay and Nagpur (Maharashtra) and Chichrauli and Seonti (Haryana) (Pirozynski, 1965; Mukerji, 1969; Singh, 1973; Mehrotra, 1992c). 
+Symptoms: The fungus produces yellowish, persistent, dense mycelium on the lower surface of sissoo leaves. 
+ Control Measures:  Application of sulphur based fungicide was found most effective followed by Baycor, Mortesan and Calixin in controlling powdery mildew disease on D. sissoo seedlings in nursery.
+
+Rust disease
+
+ Maravalia achroa is recorded on seedling in nurseries from Uttar Pradesh, Bihar, Maharashtra and Assam (Patil and Thirumalachar, 1971; Bakshi, 1976; Mehrotra, 1987). The disease also occurs on young plantations but not in as severe form as in the nurseries. 
+Symptoms:   The disease appears in February-March on leaves and juvenile twigs and continues attacking the foliage and young twigs up to July-August. The infection declines following monsoon rains. The affected parts are killed resulting in die-back and subsequent death of affected seedlings.  Uredinial sori are yellowish and formed on the lower surface of the leaves. Telia are colourless and pulvinate. The infected leaves are often deformed and the infected plants show perceptible retardation in growth and look stunted and weak. The disease incidence is recorded as high as 100% in the nursery at Dehra Dun. 
+ Control Measures:  The disease may be effectively controlled by foliar application of 0.08% Bayleton at fortnightly intervals (Mehrotra and Pande, 1993). 
+
+
+Sources
+
+
+
+

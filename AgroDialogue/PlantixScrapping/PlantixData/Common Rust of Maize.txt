@@ -1,0 +1,21 @@
+Common Rust of Maize
+
+Symptoms
+Minute flecks appear on both sides of the leaves and slowly develop into small, tan, slightly raised spots. These mainly elongated spots later turn into powdery, golden-brown pustules loosely scattered in patches on upper and lower sides. The color can change to black as the plant matures. Contrarily to other rust diseases, symptoms are not usually present on other plant parts, such as stalks, sheath leaves or husks. However, stalks tend to grow weak and soft and are prone to lodging. Younger leaf tissue is more susceptible to fungal infection than mature leaves. Plants infected during the early stages can show chlorosis of leaves and death, leading to high yield losses if upper leaves are affected.
+
+Product Recommendations
+Organic Control
+No alternative treatment against Puccinia sorghi is available so far. Please get in touch with us in case you know of anything that might help to fight this disease. Looking forward to hearing from you.
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments if available. The application of fungicides can be beneficial when used on susceptible varieties. Apply a foliar fungicide early in the season if rust is bound to spread rapidly due to the weather conditions. Numerous fungicides are available for rust control. Products containing mancozeb, pyraclostrobin, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad, azoxystrobin + propiconazole, trifloxystrobin + prothioconazole can be used to control the disease. An example of treatment could be: Spraying of mancozeb @ 2.5 g/l as soon as pustules appear and repeat at 10 days interval till flowering.
+
+What caused it?
+The disease is caused by the fungus Puccinia sorghi. The fungus overwinters in an alternate host (a species of Oxalis) and releases spores during the spring. The spores can be transported over great distances by winds and rain. They start the infection process when landing on the leaves. Secondary infection from plant to plant can also occur due to wind and rain. The development of the disease is favored by high relative humidities (nearly 100%), dew, rain and cool temperatures between 15 and 20°C (may vary depending on area). Hot, dry weather will in turn slow or hinder the development of the fungus and the incidence of the disease. It is more a problem in plants used for seed production and sweet corn. Plants cultivated as livestock feed, for industrial products, or to make processed foods are not concerned. Yield is reduced due to lower plant productivity and lodging.
+
+Preventive Measures 
+Plant resistant varieties available locally.
+Plant early to avoid optimal conditions for infection.
+Use shorter season varieties that mature earlier.
+Monitor your crop regularly for signs of the disease, even more so during overcast weather.
+Ensure balanced fertilization with split applications of nitrogen.
+Plan a crop rotation with non-susceptible crops.

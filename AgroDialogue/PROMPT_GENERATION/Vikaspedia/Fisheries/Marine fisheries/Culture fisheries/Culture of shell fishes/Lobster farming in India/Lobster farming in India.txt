@@ -1,0 +1,72 @@
+Lobster farming in India
+
+
+Introduction
+
+Capture fisheries have reached a peak in production; hence stock enhancement or aquaculture appears to be the only hope of meeting the ever-increasing demand for high-value seafood like lobsters. For aquaculture, the pressing need is to solve the dilemma of promoting expansion while at the same time demanding the development of environmentally sound technologies and farming practices. Lobsters have great market demand and price, and especially live lobsters are the most preferred. Customers in affluent countries are ready to pay more for fresh seafood. Lobsters are exported in different forms: live, frozen tails, whole frozen, whole chilled, whole cooked, frozen and as lobster meat.
+
+
+
+Anatomy_Of_Lobster_Cycle
+
+Due to the increasing demand, lobsters of all sizes are caught and marketed, and the resource is under extreme fishing pressure. Until hatchery technology is commercialized, value addition to the lobsters is possible through short-term fattening. Holding low-value lobsters intending to value addition and harvesting wild pueruli for commercial grow-out appears to be technically as well as economically feasible. Among the spiny lobsters, tropical species have more favourable characteristics and are amenable to farming conditions. Tolerance to high stocking in controlled conditions, communal living without cannibalism, acceptance of pelleted feed and strong market demand are some of the characteristics, which make lobster a widely accepted aquaculture species.
+
+However, for a sustainable aquaculture practice, hatchery production of seeds is vital, which is yet to be achieved, though the larval phase of a few species has been completed.Seed Availability Panulirus homarushomarus, P. ornatus, P. polyphagus and Thenus unimaculatus are the promising species in India. These species can be easy identified by colour and morphological characters. The hatchery production of T. orientalis is established, however, the farming depends on the wild or post larvae. It significantly sourced from the artisanal gears such the trammel nets (around 50%), gill net, and traps and lesser in trawler especially in Maharashtra, Gujarat and .
+
+Breeding and Hatchery Production
+
+The captive breeding of P. homarus, P. polyphagus, P. ornatus, P. longipes and P. versicolor
+
+
+
+P. homarus
+
+have been successfully done in India. The lobsters maintained in broodstock holding system, mate and breed when an optimum environmental condition is present. Repetitive breeding is also reported. Juveniles of P. homarus and P. ornatus are reared to maturity in captivity and its successful breeding has been achieved in India too.
+
+
+T orientalis
+
+Egg-bearing lobsters are procured from fishermen and are also suitable for egg hatching and rearing. Phyllosoma larvae of P. homarus is reared to stage 8 in 42 days with a mixed diet of Artemia and plankton. The Phyllosoma larvae are predators. However, the survival ranges between 0.01 to 10 percent and it is mainly affected by contamination of culture environment by microorganisms including the protozoans. The commercial seed production technology is still doubtful for most of the lobsters due to its prolonged larval phase (>300 days) and poor survival. Thereby, lobster farming is primarily reliant upon naturally available seeds of wild pueruli.
+
+Seed source
+
+There is a large number of fishing gears employed to capture the swimming pueuli as they move inshore after their oceanic development stage. About 50 percent of lobster are caught through trammel gill net. About 2 – 3 million pueruli are caught every year during October and March, which comprises of P. ornatus (70%) and P. homarus (25%).
+
+
+
+P. ornatus
+
+Collection and transportation of juveniles
+
+Lobsters are kept in wet sand until sale or traders come. They are kept in holding tanks with recirculating facility or cages with higher stocking density till they are traded. Larger size lobster has a greater price. The lobster is weak and susceptible to disease when it is reared in a poor water quality condition and greater stocking density. Hence these are not suitable for grow-out purposes. When it is transported to longer distance, it may also die slowly after being stocked.
+
+When the shell colour of the lobster becomes reddish in colour, it is indicative of stress. The juveniles are prone to stress thereby it should be kept in the water soon after they are brought to shore. It is better to keep them in the wet sand instead of keeping in a poor quality cage with high stocking. Thorough care should be given while removing the net, to avoid the injury below the abdomen. During holding in an unhealthy condition, they are infected by deadly pathogens through these injuries, and there are instances of high mortality due to infection by pathogenic bacteria.
+
+Grow-out in Land-Based Holding System
+
+Lobster rearing is successfully done in land-based holding systems with appropriate environment condition. Critical water quality parameters include the concentration of dissolved oxygen, ammonia, nitrite and carbon dioxide concentration. The concentration of nitrate, pH, salinity and alkalinity levels within the system is also necessary. The unionized ammonia is more toxic than the ionized ammonium. Ammonia concentration in culture water should be less than 2 mg/l and it depends on the water temperature and pH. The demand for oxygen is higher at the time of moulting and after the feeding. These typically occur during night hours. If optimum oxygen is not provided it directly affects the growth of lobster as they are capable of adjusting the metabolism even at the very low level of oxygen. Though lobsters can tolerate gradual changes in salinity to a limited range, sudden dilution can lead to stress, susceptibility to disease and mortality.
+
+Water quality parameters for culturing of lobster
+
+
+
+
+
+Indoor Tank
+
+There are two system being used for grow-out lobsters viz recirculating and flow through.
+
+The majority of the water is reused in the recirculating system after removal of the waste products. The recirculating system removes all the solid waste, ammonia and nitrite, carbon dioxide and aerates the water that returns to the fattening system. The solid wastes are removed by mechanical filtration and the ammonia and nitrite by biological filtration and carbon dioxide by a provision of air and water interface. It has some limiting factors such as dissolved oxygen and increased concentration of unionized ammonia.
+
+In flow through systems, the water is pumped into another tank. The rate of water flow is determined by the stocking density and feeding intensity. The incoming water should be free of sediments.
+
+Stocking density and Feeding practices
+
+Good healthy lobsters can be stocked at about 1.0–1.25 kg/m2 after the segregation into different size groups; the difference between higher and lower weight should not be greater than 20g. Hideaways are provided to assemble the lobster in day hours which prevent the energy loss. Lobsters can be fed with natural feed (mussels, clam, squid, trash fish and smaller crab and shrimp meat) and the artificial feed (shrimp pellets). The night feeding is suggested for lobster which helps to reduce the feed waste and spoilage.
+
+Open Sea Cage Farming
+
+The Central Marine Fisheries Research Institute (CMFRI) has conducted the field trials of open sea cage farming for lobsters.  The HDPE cage (140mm) with a 6m dia were placed at a depth of 10' or more than that.
+
+The juvenile P. homarus with an average weight of 114.8 + 25.7 g stocked in the cage grew to 226.0 + 43.0 g in 135 days with an increase in weight of 0.82 g/day and survival of 75 %. Lobsters were fed twice daily with mussel and trash fish. However, for commercial production, the formulated diets have to be prepared and its acceptability and conversion rates determined. That study concluded that open sea cage farming is a cost-effective and biologically feasible way of growing juvenile lobsters to market size, in comparison to indoor tanks even with a high biomass of animals. Factors such as a supplemental feed from biofouling, reduced stress, natural light levels and photoperiod are likely to have contributed to the good performance of the sea cages.
+

@@ -1,0 +1,20 @@
+Rust of Coffee
+
+Symptoms
+The earliest symptom is the development of a yellowish spot of 2-3 mm in diameter on the leaves of the coffee plant. The spots expand into larger round spots that turn bright orange to red and finally brown with a yellow border. On the lower side of the leaf, the corresponding spots begin to produce spores that look like powder ranging from orange to brown colour. The leaves eventually fall off the tree. Due to the absence of leaves, photosynthesis cannot take place, and the plants lack nutrients thus having significantly lower coffee yields.
+
+Product Recommendations
+Organic Control
+Commercial biocontrol strategies for controlling the disease are not highly available. Taking prevention into account will provide the most significant results in controlling the disease.
+Chemical Control
+Always consider an integrated approach along with preventive measures and available biological treatments. Prophylactic spraying of Bordeaux mixture or Copper Oxychloride 50% WG can be done, once before the occurrence of favourable environmental factors to the disease and again after cessation of this period.
+
+What caused it?
+Damage is caused by the fungus Hemileia vastatrix. Coffee rust spreads very quickly and environmental factors play a significant role in the spread of the fungus. The most significant means of spread is through wind or water. They are transmitted when the dust and the fungal spores drift across the field and infect another field, or when they fall to the ground and splash onto the next plant when it rains. Coffee rust thrives in wet humid environments and the splashing of rainwater on leaves contributes to the spread of the spores from tree to tree. Coffee berries of affected trees may develop poorly and feel light. An outbreak of coffee rust can cause yield losses of over 75% where outbreaks are severe.
+
+Preventive Measures 
+Plant more than one coffee variety and avoid monocultures.
+Practice wider spacing and appropriate pruning to prevent prolonged wetness and to increase penetration of fungicides sprayed into the tree canopy.
+Use more plants and shrubs that act as natural barriers to the spread of the disease.
+Ensure proper nutrition for healthy coffee trees to effectively resist coffee rust.
+Destroy infected plants.

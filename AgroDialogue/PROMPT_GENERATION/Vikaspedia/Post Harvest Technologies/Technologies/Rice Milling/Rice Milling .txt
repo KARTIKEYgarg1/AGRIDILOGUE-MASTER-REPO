@@ -1,0 +1,57 @@
+Rice Milling 
+
+
+Rice milling : process description
+
+
+Paddy Cleaning - Essential for removal of undesired foreign matter, paddy cleaning is given utmost importance to ensure proper functioning of the Rice Milling machinery.  Rough rice is passed through a series of sieves and closed circuit aspiration system is provided to remove dust and light impurities through positive air suction. Undesired material, heavier than rough rice (but of similar size) is removed through a de-stoner/gravity separator.  This machine works on the principle of specific gravity. Stones and other heavy impurities, being heavier, stay on the screen surface whereas rough rice, being lighter, fluidizes into the positive air gradient created by an external source.
+Paddy De-husking - A streamlined paddy flow is directed into a pair of rubber rolls, rotating at different speeds, in opposite directions.  A horizontal inward pressure is applied on the rubble rollers, pneumatically. Due to the difference in the seed of rotation, a shear force is generated on the surface of hull (with two sides being rubber by tow rubber rolls) that breaks apart of the surface/hull. Husk, being of lower specific gravity, is then separated form brown rice by a closed circuit aspiration system. This process leads to breakage of brown rice.  Although a proper horizontal inward pressure is mot important factor for breakage or rice, de-husking efficiency is equally important and should be maintained between 75 to 85%.
+Paddy Separation -  Rice surface is smooth as compared to rough paddy surface. This difference in surface texture is utilized to separate brown rice from paddy through paddy separator. Grain surface with smooth texture, being of higher width, is removed off along with red grains by precision sizes.
+Rice Whitening -  Brown rice is rubbed with a rough surface, created using emery stones of specific grid size.  The rough emery removes off the brown bran layer.  The radial velocity of the stone wheels, grid size of the stones, clearance between stone surface &amp; the other screen and the external pressure on the outlet chamber of the whitening machines determine the extent of whiteness. The bran layer removed from the surface if pneumatically conveyed to a separate room for further processing /storage.
+Rice Polishing - The surface of whitened rice is still rough and is smoothened by a humidified rice polisher.  The process involves rubbing of rice surface against another rice surface with mystified air acting as lubricant between the two surfaces.  Usually a modified version of this process is used to produce superfine silky finish on rice surface. The bran layer removed from the surface if pneumatically conveyed to a separate room for further processing/storage.
+Rice Grading - Broken rice is removed from whole rice by passing the lot through a cylindrical indented screen rotating at a particular speed. The broken/small grains, fit into the indents of the rotating cylinder, are lifted by centrifugal force and gravitational pull falls the grains into a trough.  Adjusting the rotational speed and angle of trough can vary the average length of grains.
+ Rice Colour Sorting - Discoloured rice grains are removed off from the like coloured grains by Rice colour sorting machines. Photo sensors/CCD (Charged Coupled Device) sensors generate voltage signal on viewing discoloured grains, which are then removed off by air jet generated through solenoid valves.
+
+Rice milling - present status
+
+God is a perfectionist.  So is his creation; Nature, where no two things are the same. We experience this is Rice Kernel.  No two rice kernels are the same.  It is the similarity in their appearance, physiological and chemical characteristics that make a flock homogeneous.  This flock helps Rice Technologist device milling machines.
+
+A milling machine should ensure consistency in quality of the end product and hence enhance the economic value of the raw material. Energy  conservation, proper utilization of human resource and consistently  large volumes with least recurring costs is also a need of the hour.  With over  94% of Rice Milling units in India relying completely on conventional  Paddy and Rice Processing techniques, there is still lot to be done in  the field of Rice Milling Technology adoption and up-gradation.
+
+As  observed, a modern rice processing unit, as compared to conventional  unit, produces consistent quality product with as much as 3-5% less  breakage of kernel, a net power saving of 15-20% and practically  negligible down time.  The  performance of Rice mill in terms of Milled Rice recovery and quality,  not only depends on the type or the condition of the equipments but also  on the quality of rough rice (paddy) to be converted into milled rice.
+
+Parameters that affect rice milling
+
+The milling potential of rough rice largely determines the performance  of the rice mill in terms of milled rice recovery and quality.  These  milling potentials can be varietal origin, can be related to the quality  condition of rough rice, or can be added through the pre-milling  processes. A  brief review of the impact of rough rice quality, specific varietal  characteristics and parboiling on the performance of the rice mills is covered in the sections below.
+
+Varietal Characteristics
+
+Varieties of rough rice are differently grouped.  They are classed as short, medium, long and extra long.  A sub-classification – round, bold and slender refers to ratio between length and breadth of brown rice.  Most of the short varieties (e.g. Japonica) are round and bold.  Most of the medium varieties are bold or slender and most of the long and extra long varieties (e.g. Indica varieties) are bold or slender.
+
+
+ Hull weight of rough rice - The weight of hull as a percentage of the weight of rough rice varies from 17 to 24%.  The thicker grains have the lowest percentage of hull weight and the thinner grains have the highest.  The milled rice recovery is directly related the brown rice yield.  Therefore a lower hull weight will result in higher miller rice recovery and vise versa.
+Grain Shape - This refers to the length-width ratio of the brown rice.  Round grains with low ratio are difficult to break, whereas the slender grains with higher ratio are easy to break.
+Hardness - The surface hardness of the brown rice kernel is a varietal characteristic that determines the extent to which the grain can resists the forces applied during milling.  Lower surface hardness facilitates breakage during milling, resulting in lower milled rice recovery and quality.
+Chalkiness - Chalkiness can be developed as a result of prevailing weather conditions during the growth period or introduced as a result of pre-milling processes such as improper parboiling.  Chalkiness reduces the grain’s resistance to applied milling forces.
+
+Quality parameters of rough rice
+
+The extent of quality aspects is determined by prevailing weather conditions during the production period, applied production practices, soil condition, applied harvesting methods and applied post harvest practices such as field handling, threshing, winnowing, drying and storage.
+
+
+Moisture Content - Rough rice has optimum milling potential at moisture content of about 14%.  The drying process is therefore critical, for it determines whether or not fissures and/or full cracks are introduced in the grain structure.  These are important as presence of fissures and/or cracks lead to breakage in milling, resulting in lower milled rice recovery and quality. Milling of very dried rough rice (&lt;11% moisture content makes grains too brittle) results in unnecessary breakage during milling.
+Cracked Grains - Over exposure of matured rough rice to fluctuating weather conditions leads to development of numerous fissures resulting into breakage during the milling process.
+Immature Grains - Immature grain has a high hull weight and consequently a low yield of brown rice.  Immature grains are very slender and dominantly chalky, resulting in excessive production of bran and broken.
+Damaged Grains - Presence of black spots around the germ end of the brown kernel, caused by the development of micro-organisms (fungi) leads to excessive breakage of rice during milling.
+Varietal impurities - Grains of different varieties vary not only in length-width ration but also in tensile strength.  Grains of lower tensile strength / higher length-width ration therefore break in a higher proportion when milled along with other varieties.
+
+Impact of Parboiling
+
+Hydro Thermal treatment of rough rice leads to breaking of the tight hull seal, a structural change of the outer bran layer, gelatintization of the starchy endosperm, hardening of the grains and discoloration of the grain.
+
+
+Breaking of the hull seal - Enormous swelling of the brown rice leads to breakage of the hull seal during soaking and steaming of the rice.
+Structural changes in the bran layer - As a result of steaming and soaking the structure of bran layers are changed and their components redistributed; heat treatment results in more sticky bran.
+Gelatinization of starchy endosperm - This leads to elimination of all fissures and crack.  The overall structure of the starchy endosperm becomes more compact and its tensile strength increases many a fold.
+Discoloration of grain - During the parboiling process, the color of brown rice kernel changes from translucent white to a yellowish and sometimes a brownish color.  Color changes result from microbiological activities, chemical changes and the pigment of hull being absorbed in brown rice along with water.
+Increased hardness - The hardness of brown rice kernel increases after parboiling and drying, improving the grain’s resistance to the milling forces.

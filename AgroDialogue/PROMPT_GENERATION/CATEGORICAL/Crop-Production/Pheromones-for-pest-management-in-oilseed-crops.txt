@@ -1,0 +1,49 @@
+Pheromones for pest management in oilseed crops
+
+Introduction
+
+In india, oilseeds follow cereals, sharing 14% of the country’s gross cropped area and accounting for nearly 3% of the gross domestic product and about 6% of the value of all agricultural products. The productivity of oilseed crops is low in india as compared to world and vulnerability of these oilseed crops to insect pests is one of the main factors.
+
+The traditional method of control for these insect pests relies upon applications of synthetic insecticides at regular intervals from planting to harvest. The indiscriminate and injudicious use of wide spectrum insecticides induced insecticide resistance in insects, pest resurgence, toxic effect on non target organisms including natural enemies. Under such circumstances, the insecticidal control of insect pests should be minimized by means of the population monitoring for timely application of insecticides coinciding with vulnerable stages of the insect pests.
+
+Recent studies have demonstrated potential of pheromones as a tool for monitoring pest populations and integrated pest management.
+
+Pheromones in pest management
+
+Pheromones are chemicals that are secreted to the outside by an individual and received by a second individual of the same species in which they release a specific reaction.
+
+Based on purpose of production, pheromones are sub-divided into several categories, the most common types used in pest management are
+
+Sex pheromones are used for mate location and courtship. It is released by one sex triggers of a series of behavior pattern in the other sex of the species and thus facilitates mating. It is generally originate from females and attract males for mating. In certain species of insects the males are known to produce the sex pheromone which attracts the females. Sex pheromones consist in individual molecules or specific blend of compounds in a given ratio. The most studied, and used in ipm, sex pheromones are that emitted by lepidoptera.
+Aggregation pheromones cause insects of both sexes to crowd around the source of the pheromone for feeding or reproduction. This may benefits increased chances of mating, security from predation and maximum utilization of scarce food resources. They are mainly emitted by coleopterous species. 
+Alarm pheromone causes alarm behavior serve to rapidly disperse a group of insects usually as a response to predation. These pheromones, characteristic of social or gregarious insects, occur in some important insect pests including aphididae and thripidae.
+Trail pheromones in social insects used mark their trails to food and the nests. 
+Host marking pheromones reduce the competition between members of the same species, like it is observed in parasitoids that mark a host in which they have laid an egg. Among the categories of pheromones, sex pheromones and aggregation pheromones have been used for monitoring and management of insect pests in oilseed crops.
+
+Pheromones in monitoring of insect pests of oilseed crops
+
+Traps baited with pheromone lures will be helpful in early detection of pest, pest monitoring for action thresholds/decision support, mapping pest distribution, quarantine inspection, estimation of population dynamics and timing of management procedures based on the threshold (nandagopal et al., 2008).
+
+Sex pheromone of tobacco caterpillar (spodoptera litura) @ 10-12 traps/ha have been recommended for the monitoring of the pest in soybean, castor, groundnut and sunflower.
+
+Sex pheromone trap for gram pod borer (helicoverpa armigera) @ 10-12 traps/ha have been recommended for the monitoring of the pest in soybean, groundnut and sunflower.
+
+Pheromones in management of insect pests of oilseed crops
+
+Pheromones have been successfully used in pest management through mass trapping and mating disruption techniques. Large number of pheromone baited traps can be used in the fields to capture males of newly emerged moths and reduce the number of males for mating.
+
+Sex pheromone trap of leafminer, aproaerema modicella @ 25 traps/ha found effective in mass trapping of the moths and reducing the infestation in groundnut. Use of aggregating pheromones on the preferred host of white grub beetle on community basis found effective in management of the pest in groundnut and other crops.
+
+The pheromone, methoxy benzene (anisole), isolated from the abdominal glands of calling female adults of holotrichia consanguinea have a unique property of acting as aggregating pheromone, attracting both the sexes from a distance of 15 meters. Use of this pheromone has made beetle control operation easier, economical and less hazardous as only one tree within a radius of 15 meters is required to be sprayed with insecticide and loaded with "pheromone dispensers". For the purpose, a single tree from a group of host trees within a radius of 15 meters could be selected and sprayed with imidacloprid 17.8 sl or quinalphos 25 ec at 1.5 ml/litre during day time. "pheromone dispensers" be placed (3-4 dispensers/tree) on this host tree in the evening, continuously for three evenings after beetle emergence. This technique was found effective in attracting and killing of the beetles and reducing the white grub infestation.
+
+References 
+
+All india network project on white grubs &amp; other soil arthropods. .
+Cork, a. 2004. Pheromone manual. Natural resources institute, chatham, maritime, uk, pp. 1-73.
+Nandagopal, v., anand prakash and rao, j. 2008. Know the pheromones: basics and its application. Journal of biopesticides, 1(2): 210-215.
+Srinivas, k. And rao, p.a. 1999. Management of spodoptera litura (f.) infesting groundnut by mating disruption technique with synthetic sex pheromone. Journal of entomological research, 23(2): 115-119.
+Saroj singh, p.p., thirumalaisamy, p., harish, g., ram, d., sushil, s.n., sinha, a.k., asre, r.,
+Kapoor, k.s., satyagopal, k., jeyakumar, p., birah, a., sharma, o.p., bhagat, s., verma, p.v., kumar, s., chattapadhyay, c. And yadav, m.s. Integrated pest management package for groundnut. National institute of plant health management, hyderabad, india, pp. 49. 
+
+Source : p. Duraimurugan, icar-indian institute of oilseeds research, rajendranagar, hyderabad, telangana, india
+

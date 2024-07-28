@@ -1,0 +1,68 @@
+Storage of pulses
+
+What is storage?
+
+“storage” means keeping the products in a manner that guarantees food. Over a period of time, all stored foods will degrade in nutrients and palatability until it reaches the inevitable end where it is not safe even for the animals.
+
+Pulses can remain in edible condition for several years, if properly stored. However, pulses are more difficult to store than cereals and suffer much greater damage from insects and microorganisms. This not only results in quantitative losses, but also in qualitative reduction of the nutritive value because of vitamin loss and deterioration of protein quality. The milling losses in insect-damaged grains are even higher as more breakage and powdering occur with such grains. Pulses are susceptible to infestation, both in the field and during storage, by weevils, which are prolific, breed rapidly, and cause serious deterioration in the nutritive value of the grain. Damage ranging from 30–70% of the grain has been reported in various publications. At 30 °c and 70% relative humidity (rh), some species of bruchids take only a few weeks to develop from egg to pupa. Higher humidity are conducive to more rapid proliferation of all species.
+
+Influence of environmental factors
+
+To conserve the quality of products over long-term storage, degradation processes must be slowed down or even stopped. Degradation of grains during storage depends principally on a combination of five factors viz. Time, temperature and humidity, moisture, oxygen content and light. During storage, as during other phases of the post-harvest system, the combined effects of these factors can sometimes cause severe losses.
+
+Interaction between grain moisture content, temperature and relative humidity
+
+Most important factors of grain deterioration are the interaction of temperature, humidity and moisture, which are the determining factors in accelerating or delaying the complex phenomena of the biochemical transformation (especially the “breathing” of the grain) that are the basic origin of grain degradation. Furthermore, these have a direct influence on the speed of development of insects and microorganisms (moulds, yeasts and bacteria), and on the premature and germination of grain without season. In general, the higher these three factors are, the more rapidly the grain deteriorates.
+
+Grain moisture content is associated with ambient relative humidity. Grains are hygroscopic in nature and absorb or lose moisture from or to the atmosphere until seed moisture content and atmospheric relative humidity reach the equilibrium. Grains reach a moisture content equilibrium with the
+
+Rh of the air, not with the absolute humidity. Equilibrium level varies according to:
+
+Ambient temperature : the lower the temperature, the higher the moisture content of seeds at a given relative humidity.
+Chemical composition of the grain : the equilibrium moisture contents of different grain lots at the same rh will not be the same. Grains differ in their chemical compositions (lipid, protein, starch). Oils do not absorb moisture, protein absorb the most water per unit of weight, and starch absorbs less than proteins.
+Hysteresis phenomenon.
+Rh of the ambient air : it is the main determinant of the grain moisture content.
+
+Some important tips
+
+The best way to increasing the shelf life of stored grain is to lower the temperature of the area of storage. The storage lives of most foods are cut in half by every 10 °c increase in temperature.
+The temperature of the storage area, if possible, should be below 25°c but above freezing temperature. Similarly, the relative humidity of the storage chamber should be of 15% or less, especially when grains are stored for seed purpose.
+For each 1% reduction in moisture content, the storage life of grain is doubled, when grain moisture content is between 5 and 14%.
+For each 5 °c lowering of storage temperature, the storage life of the grain is doubled, when temperature is between 0 and 50 °c.
+
+Choice of storage methods
+
+There are basically two methods of storage : in bags and in bulk. Bags can be stored either in the open air or in warehouses, bulk grain is stored in bins or silos of various capacities. The choice between these methods and the degree of technological sophistication of the storage buildings depend on many technical, economic and socio-cultural considerations. The traditional storage systems used by small farmers is the most widely used structure. These systems are fabricated with the use of artesian construction techniques and local materials.
+
+Storage in bags
+
+This method consists of conserving dried and cleaned grain in bags made of plant fiber or plastic, and neatly stacking the bags in carefully prepared areas. This method is little used in developed countries but is widespread in developing countries. It is economical and well-adapted to local grain transport and marketing conditions. There are several ways of storing grain in bags. The bags of grain can be stacked outdoors under tarpaulins, or placed inside storehouses, sheds or warehouses. Sometimes, especially for seeds, grain is stored in bags in refrigerated warehouses.
+
+Outdoor storage
+
+These are storage systems in which the bags are not stacked in solidly constructed buildings. The main systems of open-air storage are : storage in pyramids, and storage in flexible silos. The advantage of these systems is that they can be set up quickly and fairly easily. For this reason, they are generally used when storage needs are specific and urgent.
+
+Storage in pyramids
+
+This system is often used for short-term storage in dry areas. It consists of stacking bags in pyramids on platforms that can be protected in case of bad weather. The platforms on which the bags are stacked must effectively protect the grains against termite attacks. Covered by concrete or tar or made up of a layer of building-blocks covered with tarpaulins or plastic, the platforms must prevent the grain from exposure to rising damp. To achieve this end, not only the sites of the storage areas must be carefully chosen but drainage ditch for rain-water runoff must be dug around the platforms. To keep rain-water from falling on the grain, it is important to cover the pyramids of bags with tarpaulins.
+
+Storage in flexible silos
+
+Storage in flexible silos is often used for setting up a security reserve and is very similar to storage in pyramids. The main difference is the greater complexity of the storage facility. A flexible silo is made on a concrete platform, generally circular in shape. Walls of galvanized screening about 2.5 meters high are erected around it and the inner walls lined with a thick film of plastic. On the outside, about 50 cm from the walls, galvanized metal sheets about 1 m high surround the silo to protect the grain from rodent attacks. The bags stacked in the silo are covered with a conical tarpaulin attached to the walls and kept in place by a system of ropes. Because these buildings are almost completely sealed, it is important to store the grain when it is very dry. Flexible silos of 500 tonnes are the most common, but some are also built with storage capacities of 250-1000 tonnes. The costs of building these silos are fairly modest, but their useful life is relatively short, seldom exceeding five years.
+
+Warehouses and storehouses silos
+
+To store grains, warehouses are used to stack the bags. Periodical checking of the stored lots is done for timely spray of insecticides for any visible insect activity. At rural levels, even huts are used to serve the purpose. A warehouse must prevent the grains from getting wet, protect the grains from high temperatures, prevent the access of transport the bags. For effective protection of stored grains against atmospheric factors (sun, rain, humidity) and smooth operation of storage, systems must be located in relatively dry sites not prone to flooding, outside towns, near to electricity and water distribution systems, aligned on a north to south so that the sides with the smallest area get the strongest sun.
+
+Bulk storage
+
+This method consists of storing unpackaged grain in structures built for this purpose (bins, silos). The types of construction vary. There can be relatively simple low capacity structures for storage of agricultural surpluses in production areas, or large complex installations for commercial or industrial storage of products. In general, there are two categories of bulk-storage structures : low capacity silos or bins for storage on the farm and high capacity silos. Bulk storage is quite popular in developed countries as it significantly curbs storage losses, but in developing countries like india, high initial investment and lack of bulk material handling systems prevent wider adoption of this technology.
+
+Low capacity silos for farm storage
+
+On-farm storage for home consumption is the basic form of rural storage in india. There are several types of traditional storage structures, each adapted to the climate of the region. Their common feature is the use of locally available materials. Improvements have been made in the construction of earthen granaries by mixing small quantities of cement with the earth or giving smooth finish to the silo walls. Silos made of bricks are easy to construct and maintain. Concrete, reinforced concrete, or metal silos have also gained popularity in rural areas. Metallic bins have become a household item in recent past. In view of their low capacity, metal drums are best adapted to rural storage. The security of metal bins against rodent and features of air-tightness make the bins more versatile.
+
+High capacity silos
+
+High capacity silos are complex structures intended for the commercial or industrial storage of large quantities (several thousand tonnes). Two types of silos are quite common in use, vertical or horizontal silos. Vertical silos are made up of several sheet metal or reinforced concrete storage bins stacked vertically. This category includes silos composed of round bins made of flat or corrugated galvanized sheet metal, polygonal bins made of painted or galvanized metal panels and round bins made of reinforced concrete. Horizontal silos are also made of sheet metal or concrete and are composed of juxtaposed square or rectangular bins laid horizontally. The relatively common round metal bins require less investment and are easy to erect. Polygonal bins are similar to round ones and their diameters are easily adjustable. Round concrete bins guarantee good thermal insulation and permit much higher vertical stacking that can be obtained with metal bins. Square or rectangular bins are generally flat bottomed. Such bins require a higher per quintal investment but make the best use of the available sites. In order to avoid the disadvantages of a potential rise in temperature and to guarantee good storage, storage bins are often equipped with aeration systems. Ventilation systems can be used to lower the temperature of the grain in order to slow down biochemical degradation processes (cooling ventilation), to keep the grain at a constant temperature, by systematically evacuating the heat produced by the grain mass itself (maintenance ventilation) and to dry the grain slowly (drying ventilation). It can also be used to fumigate the bin whenever any insect activity is observed. In addition to that, in airtight silos oxygen level depletes due to respiration of grains or living insects and microorganisms, this is called controlled atmospheric storage, making internal atmosphere difficult for survival of insects. Injection of inert gases (nitrogen, carbon dioxide) in airtight structures is also followed as a technique to control infestation within stored mass. Despite the obvious advantages of these storage systems, airtight silos still have limited distribution because of technological complexity especially for the high capacity bins.
+

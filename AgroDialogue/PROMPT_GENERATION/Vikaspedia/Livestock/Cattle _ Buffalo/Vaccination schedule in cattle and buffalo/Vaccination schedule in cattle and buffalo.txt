@@ -1,0 +1,428 @@
+Vaccination schedule in cattle and buffalo
+
+
+Vaccination for dairy animals
+
+ 
+
+
+
+
+Sl. No
+Name of Disease
+Age at first dose
+Booster dose
+Subsequent dose
+
+
+1
+Foot and MouthDisease (FMD)
+4 months and  above
+1 month after first dose
+Six monthly
+
+
+2
+HaemorrhagicSepticaemia (HS)
+6 months and  above
+-
+Annually in endemic areas.
+
+
+3
+Black Quarter (BQ)
+6 months and  above
+-
+Annually in endemic areas.
+
+
+4
+Brucellosis
+4-8 months of age(Only female calves)
+-
+Once in a lifetime
+
+
+5
+Theileriosis
+3 months of age and above
+-
+Once in a lifetime. Only required for crossbred and exotic cattle.
+
+
+6
+Anthrax
+4 months and  above
+-
+Annually in endemic areas.
+
+
+7
+IBR
+3 months and  above
+1 month after first dose
+Six monthly (vaccine presently not produced in India)
+
+
+8
+
+Rabies (Post bite therapy only)
+
+Immediately after suspected bite.
+4th day
+7,14,28 and 90 (optional) days after first dose.
+
+
+
+Source :  
+
+Vaccination schedule for buffaloes
+
+
+
+
+
+Infection
+
+
+Manufacturer
+
+
+Ingredients/adjuvant
+
+
+Dose
+
+
+Primary
+
+
+Booster
+
+
+Revaccination
+
+
+
+
+FMD
+
+
+
+
+Bovilis®Clovax
+
+
+Intervet India
+
+
+Binary  ethyleneimine (BEI)   inactivated FMD mineral oil emulsion vaccine  containing a mixture of virus   serotypes O, A and Asia-1
+
+
+2ml, i/m
+(Vial: 100 ml)
+
+
+3 months onwards
+
+
+I   After 4-6 weeks of primary vaccination
+II After 24 weeks of first booster
+
+
+Every 44-48 weeks after 2nd booster vaccination
+
+
+
+
+Raksha
+
+
+Indian Immunologicals
+
+
+Inactivated tissue culture FMD   virus strains O, A and Asia-1 adsorbed on Al (OH)3 gel and saponin   as an adjuvant
+
+
+3 ml in the mid-neck region, s/c
+(Vial: 30 ml)
+
+
+4 months
+
+
+2-4 weeks after primary vaccination
+
+
+Every 6 months after booster and   every 4 months in endemic areas
+
+
+
+
+Raksha Ovac
+
+
+-do-
+
+
+Inactivated tissue culture FMD   virus strains O, A, and Asia-1 adjuvanted with mineral oil
+
+
+2 ml  in the    mid-neck region, deep i/m
+
+
+4 months
+
+
+9 months after primary vaccination
+
+
+Annually
+
+
+
+
+Haemorrhagic   Septicemia (Galghotu/Ghurrka)
+
+
+
+
+Raksha HS
+
+
+Indian Immunologicals
+
+
+Formaldehyde inactivated culture of   Pasteurella multocida adsorbed on   aluminium hydroxide gel
+
+
+2 ml, mid-neck region, s/c
+(Vial:100 ml)
+
+
+6 months and above
+
+
+Annually and in adverse climatic   conditions like unseasonal rains and cyclones, etc.
+
+
+
+
+Compound   Vaccines of FMD/HS/BQ
+
+
+
+
+Raksha biovac
+(FMD+HS)
+
+
+Indian Immunologicals
+
+
+FMD inactivated antigens against O,   A, and Asia-1 strains and formaldehyde inactivated Pasteurella multocida culture mixed together in light mineral oil   emulsion
+
+
+3 ml, midneck, deep i/m
+(Vial: 30 ml)
+
+
+4 months
+
+
+9 months
+
+
+Annually
+
+
+
+
+Raksha triovac
+(FMD+HS+BQ)
+
+
+-do-
+
+
+FMD inactivated antigens against O,   A, Asia-1 and formaldehyde inactivated Pasteurella   multocida culture, inactivated Clostridium   chauvoei culture mixed together in light mineral oil emulsion
+
+
+3 ml, mid-neck, deep i/m
+(Vial: 30 ml)
+
+
+4 months
+
+
+9 months
+
+
+Annually
+
+
+
+
+Raksha HS+BQ
+
+
+-do-
+
+
+Formaldehyde inactivated cultures   of Pasteurella multocida and Clostridium chauvoei adsorbed on   aluminium hydroxide gel
+
+
+3 ml, mid-neck region, s/c
+(Vial: 90 ml)
+
+
+6 months and above
+
+
+Annually and in  adverse climatic conditions like unseasonal   rains and cyclones, etc.
+
+
+
+
+Brucellosis
+
+
+
+
+Bruvax
+
+
+Indian Immunologicals
+
+
+Live Brucella abortus strain 19 freeze dried bacteria, each dose ≥   40x109 organisms
+
+
+2 ml., s/c
+(Vial: 5 dose freeze dried vaccine   with 10 ml sterile diluent)
+
+
+4-8 months old serologically negative   female calves
+
+
+
+
+
+
+Note:Only    serologically negative female calves should be vaccinated with live  B.   abortus strain 19 while bulls and pregnant animals should not be  vaccinated
+
+
+
+
+Depending   upon prevalence in a given area, vaccination against following diseases may   also be taken up Anthrax
+
+
+
+
+Raksha-Anthrax
+(Prophylactic only)
+
+
+Indian Immunologicals
+
+
+Suspension of live spores of   attenuated non-capsulated strain of B.   anthracis in 50% glycerinated saline, each dose ≥ 1x108 viable   spores
+
+
+1 ml, i/m or s/c
+(Vial: 50 ml)
+
+
+one month before grazing season or   prior to the time the disease usually occurs
+
+
+
+
+Note:    Protect animals from overexertion 3   days following vaccination. Do not vaccinate the animal 60 days before   slaughter
+
+
+
+
+Sterne Vaccine
+
+
+Institute of Veterinary Preventive   Medicine, Tamil Nadu
+
+
+**Live spores of highly antigenic   nonencapsulated avirulent Sterne strain (34 F2) of B. anthracis in glycerine saline
+
+
+1 ml, s/c
+
+
+Approx. 4 weeks prior to the time   the disease usually appears
+
+
+Revaccinate after 2-3 weeks in   heavily contaminated areas
+
+
+annual vaccination in endemic areas
+
+
+
+
+Note:    Use  boiled milk from lactating animals   up to 1 month after vaccination,  do not vaccinate within 42 days before slaughter,   do not give  antibiotics to animals being vaccinated; burn, autoclave or   chemically  disinfect container and all unused contents; adrenalin should be    administered immediately if anaphylactoid reaction occurs, immunity  6m-1year
+
+
+
+
+Rabies
+
+
+
+
+Raksharab, Prophylactic
+
+
+Indian Immunologicals
+
+
+***Tissue culture rabies virus, CVS   strain adjuvanted with Al(OH)3 adjuvant, antigen potency &gt;2.5 IU/ml
+
+
+1 ml by s/c or i/m route
+(Vial: 1 ml, 5 ml, 10 ml)
+
+
+3 m and above
+
+
+In case primary vaccination is   given below 3 months of age, a booster dose should be given at 3 months age
+
+
+3 years, annual vaccination   recommended in endemic areas
+
+
+
+
+Post-exposure therapy (PET)
+
+
+
+I-Day Zero of dog bite or  within 24 hrs, II-Day 3, III-Day 7, IV-Day   14, V- Day 28 and VI-Day 90
+
+
+
+
+Note:  Vaccinate  only healthy animals;   malnutrition, helminth infestation,  administration of immunosuppressive   agents like corticosteroids,  radiation therapy, etc. will suppress immune   response to vaccine; generally  no   adverse reactions are noticed, occasionally a transient, palpable  nodule may   occur at the site of injection; in rare cases  hypersensitivity may occur,   immediate treatment with antihistaminics  is advocated.
+
+
+
+
+Points to be noted
+
+
+Animals should be in good health at the time of vaccination. Do not vaccinate animals which are already in stress (Like bad weather, Scarcity of fodder &amp; water, Disease outbreaks, after transportation etc.) 
+Try to deworm animals &amp; remove ecto-parasites one to two weeks prior to vaccination.
+ Strictly follow vaccination schedule after consultation with veterinary experts. 
+Keep records of vaccination for name of vaccine manufacturing company, Batch number, Expiry date, Dose &amp; route of vaccine.
+ Maintain cold chain for vaccines which may have to keep for 2-8 degree Celsius temperature. 
+Create stress free environment for animals after vaccination.
+
+Source :  
+

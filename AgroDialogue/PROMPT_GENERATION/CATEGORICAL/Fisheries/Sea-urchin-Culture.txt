@@ -1,0 +1,87 @@
+Sea urchin culture
+
+Introduction
+
+Sea urchins are members of a large group of marine invertebrates in the phylum echinodermata (spiny skinned animals) that also include starfish, sea cucumbers, sea lilie and brittle stars.
+
+All sea urchins have a hard-calcareous shell called a test, which is covered with a thin epithelium and is usually armed with spines. The spines are used for protection and for trapping drifting algae for food. Between the spines, they have tube feet that are used in food capture, in locomotion and for holding on to the substrate.
+
+The sea urchins are found all along our coastline usually on the shallow rocky bottom, although some species live in deep water or sandy or silty substratum. They are herbivores grazing on attached marine plant and drifted algal fragments.
+
+Sea urchins were well known to the ancient greeks and romans and have frequently been mentioned in their writing as food, together with oysters, snails and other seafood. In recent years, countries like japan, california, spain, ireland, france and greece in europe have the regular and regulatory fishery for the sea urchins. Among these japan, europe and france are the world's largest consumers and marketers. Sea urchins are harvested for their internal roe. The gonads of both sexes are equally valuable and are referred to as roe or "uni” in japanese. Uni is known as a delicacy in japan and sushi bars worldwide. Sea urchin uni is primarily sold fresh rather than frozen. Uni has a lovely flavour as it melts in your mouth.
+
+Sea urchins that are eaten are distributed among many orders of regular echinoids as follows (adapted from hagen 1996).
+
+Class: echinoidea
+
+Order: diadematoida
+
+Family: diadematidae
+
+Genus: centrostephanus
+Genus: diadema
+Order: phymosomatoida
+
+Family: arabaciidae
+
+Genus: diadema
+Order: echinoida
+
+Family: echinidae
+
+Genus: echinus
+Genus: loxechinus
+Genus: paracentrotus
+Genus: psammechinus
+
+Family: echinometridae
+
+Genus: anthocidaris
+Genus: colobocentrotus
+Genus: echinometra
+Genus: evechinus
+Genus: heliocidaris
+
+Family: strongylocentrotus
+
+Genus: hemicentrotus
+Genus: strongylocentrotus
+
+Family: toxopneustidae
+
+Genus: lytechinus
+Genus: pseudoboletia
+Genus: pseudocentrotus
+Genus: toxopneustes
+Genus: tripneustes
+
+The world sea urchin and other echinoderm production were 97,213 t in 2008, whereas the production in asia was only 25,782 t. The average worldwide landings are still stable but are obviously not sustainable in the near future, since the commercial harvest of sea urchin population for their gonads is steadily increasing worldwide that leads to a decline in their population. Further, the heavy demand for sea urchin gonad has created opportunities for sea urchin culture.
+
+Echinoculture
+
+The term “echinoculture” refers to the cultivation of echinoderms, i.e. To both sea urchin (echinoidea) and sea cucumber (holothuroidea). Sea urchins are more valuable than sea cucumber and their cultivation is more advanced. There are two methods of sea urchin culture: the first involves spawning adult brood stock and rearing resultant larvae/juveniles to marketable size and the second involves enhancing the gonads (i.e., increasing yield and quality) of wild-caught adults held in captivity by feeding them with natural or prepared diets.
+
+The stock enhancement techniques include habitat improvement (artificial reef), artificial feeding, translocation, and building of hatcheries that produce several million of seeds a year that are transplanted to the field. Hatcheries may be a solution to ensure recruitment where harvesting eliminates adults before they spawn, but good natural habitats are required, like giant tide pools, to give enough protection to juveniles released in the field.
+
+The ultimate step in the aquaculture production of sea urchin is independence from natural resources, that is, to control the whole life cycle in culture, from spawning to gonad enhancement. Somatic growth of juveniles until they reach marketable size is a process that requires significant improvements in current technology and is key to the successful development of closed-cycle echinoculture.
+
+Hatchery technology
+
+Reduced natural recruitment in many sea urchin fishery countries had led to increased interest in hatchery systems that could provide stock for replenishing natural population and out planting of juvenile to aquaculture lease sites for sea ranching of sea urchins. The japanese have developed an effective and well-documented hatchery system to produce small animals (sea urchins) for out planting, and the depletion of wild population was being compensated through the large-scale seed stock release programme to get a sustainable yield of sea urchins from the wild.
+
+Larviculture
+
+Larviculture in japanese hatcheries commences with the mixing of gametes from several animals. Excess sperm is rinsed off, and the fertilized eggs hatch after approximately 20 h. Three to four days later, they reach pluteus stage which requires planktonic microalgae as food. Diatom chaetoceros gracilis is commonly used in commercial hatcheries as food for larvae at the rate of 5,000 cells/ml in which the amount is gradually increased to 10 l/tank/day in the final stages of cultivation. The larvae are cultivated in 1,000 l tanks with a continuous flow of 1 um filtered seawater. Circulation in the larvae tanks is provided by two large airstones with a gentle flow, one on the bottom and another near the surface. The density is initially 1.5 larvae/ml but is decreased to 0.8 larvae/ml at the time of settlement. The metamorphosed juveniles are approximately 0.3 mm in size.
+
+Early juvenile
+
+Rearing larval settlement in sea urchin is induced by placing small rocks taken from the low inter tidal area where the parents were collected. Transparent polycarbonate plates inoculated with the desired algae can also be used. Feeding with the soft seaweeds commences when the juveniles reach 3–4 mm size.
+
+Nursery culture 
+
+The settled juveniles are transferred to nursery tanks with open mesh cages or hanging cages, which are suspended 1–2 m below the surface. The juveniles are fed with preferred seaweeds. Juveniles can be released to the environment 6 months after fertilization, when they are 7–10 mm. The large juveniles are ready to be recaptured 2 years after release, when they reach a diameter of more than 40 mm.
+
+Grow-out system 
+
+Closed-cycle cultivation requires grow-out facilities. These can be constructed by expanding existing nursery techniques, by adapting technology developed for the intensive cultivation of abalone. The french adopted the last alternative and developed a prototype of multi-layered grow-out tanks which consist of four stacked, sloping shelves. Water is pumped up to the top shelf from a reservoir tank under the shelves and then runs down through the stack of shelves in a zigzag pattern. The accumulation of sea urchin faeces in the reservoir tank is siphoned off at regular intervals. Marine groundwater gradually replenishes the recirculated water. The commercial scale grow-out facility would require a stable food supply. Closed-cycle cultivation is capital intensive and has high operational costs. Full-scale hatchery and nursery technology are well established in japan.
+

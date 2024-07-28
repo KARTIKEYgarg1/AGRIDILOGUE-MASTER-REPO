@@ -1,0 +1,34 @@
+Online services for vessel registration and fishing license
+
+Realcraft is a web enabled registration and license issuing system to indian fishing vessels of the department of fisheries, government of india. 
+
+Objectives
+
+The main objective to develop a modern , comprehensive and transparent vessel data management system in the country with the aim to enhance security features and to bring efficiency, transparency, accountability and reliability in services.
+
+To bring all the indian fishing vessels (about 2.5 lakh ) under one hub 
+To prepare national database for fishing vessels.
+To regulate the movements of fishing vessels
+To strengthen coastal security and security of fishermen in the sea. 
+To prevent iuu - illegal, unregistered and unreported vessels in the territorial waters
+To facilitate optimum utilization of the fishery resources
+Assists the coastal security agencies – is as a part of comprehensive coastal monitoring, control and surveillance system)
+Back bone for other services to the fishermen like insurance claim, subsidy claim, fuel permit, monitoring the movements of crews etc
+
+Services provided
+
+Online submission of vessel registration.
+License and renewal.
+Mobile application for dept officials for field level verification.
+Other services affecting the dimension of the vessel.
+Other services not affecting the dimension of the vessel.
+Vehicle registration.
+Transfer of ownership.
+Hypothecation addition/termination.
+Alteration of vessel dimension .
+Conversion of vessel.
+E-payment .
+Permits and allied services on permits.
+Catch details by integrating with sagara .
+Security agencies solution.
+

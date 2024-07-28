@@ -1,0 +1,133 @@
+Ground Water Irrigation scheme
+
+
+Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) has Ground Water components which are being implemented by the Ministry of Water Resources, River Development and Ganga Rejuvenation (MoWR, RD & GR).
+
+The operational guidelines for the sub-component is as follows.
+
+Creation of irrigation potential through ground water
+
+Creation of irrigation potential through ground water depends upon yield potential of underlying aquifers. Hence, any new construction of ground waterwell should be based on the data/ knowledge available for the area with the Central/ State Agencies involved in ground water development and management. The important points to be considered while planning any ground water development are as below:
+
+
+The scheme is not to be planned in areas classified as over-exploited, critical and semi critical areas. Further eligibility criteria has been laid down in subsequent paras.
+Some of the areas have not been classified. Scheme in such unclassified areas shall be considered on case to case basis depending upon various criterions laid down in the guidelines.
+Groundwater development will be carried out preferably through Dug wells, Dug Cum Bore wells in hard rock area tapping shallow aquifers and shallow/deep tube wells in alluvium areas tapping prolific aquifers. Bore wells are to be taken up in areas where hydro-geological setup and ground water aquifers justifies their suitability.
+Each well to be provided with electric/solar pumps for water lifting. Provision of 75% electric and 25% solar pumps may be considered for a cluster/proposal. The ratio of solar pumps may be relaxed in Tribal/LWE/ infested/difficult areas. Further, wherever electric power is not available, the whole scheme may be permitted with Solar pumps. However, the final decision in this regard shall rest with MoWR, RD &amp; GR.
+Promotion and adoption of water use efficiency&amp; conservation practices viz. drip/sprinkler, diversification to low water demand crops, promoting on-farm rainwater harvesting etc shall be encouraged by the State Govt/ Project Authorities.
+The State agencies involved in planning and execution of ground water schemes shall formulate the proposals in consultation with State Ground Water Department &amp; CGWB duly considering nature of aquifer system in the area, spatio-temporal behaviour of water level, ground water resource availability, artificial recharge structures suitable for that area, sites for their construction etc.
+To minimize the failure of wells geophysical and hydro-geological investigations may be carried out for proper site selection.
+
+Eligibility criteria
+
+
+Ground Water irrigation facility through Dug wells, Dug cum Bore wells, Tube wells and Bore wells etc. can be funded for schemes in areas other than Over Exploited (OE), Critical or Semi-Critical meeting the following criteria:
+
+Less than 60 per cent of the annual replenishable groundwater resources have been developed.
+Average annual rainfall of 750 mm or more to have availability of enough water for recharge; 
+Shallow groundwater levels within range of 15m below ground level or less during pre-Monsoon period.
+Ground water development for irrigation can be planned in such a way that after implementation of the project, stage of Ground Water Development (SOD) in an area should not exceed 70% at any time. However, as already mentioned Scheme in unclassified areas shall be considered on case to case basis depending upon various criterions laid down in the guidelines. 
+
+The beneficiary under this scheme shall be small and marginal farmers only with priority to be given to SC/ST and Women farmers
+The scheme is applicable for individual farmer, group of farmers/ cooperatives, Govt. Scheme utilising Govt. Land etc.
+
+Measures to prevent over-exploitation and facilitate recharge to ground water
+
+
+Farmers will be encouraged for undertaking activities through combination of rain water harvesting and ground water extraction.
+To the extent possible convergence with PMKSY-Watershed Component and MGNREGA will be made for supporting water harvesting and groundwater recharge interventions to ensure the long term ground water sustainability.
+States to be advised to ensure that suitable recharge measures are taken up under NRM component of MGNREGS or any other recharge scheme in the target area of the present scheme to provide sustainability to ground water.The type of recharge interventions / structures to be constructed will depend upon the local hydro-geomorphological condition of the area, rainfall pattern, geomorphic set up and shall be identified based on ground water conditions and other scientific studies and utilizing appropriate technology, including remote sensing studies. These activities wherever proposed and possible, may be executed with convergence of MGNREGA / other similar scheme with ground water harvesting/ conservation components.
+States are advised to utilize Micro-Irrigation Fund Corpus for adoption of micro irrigation facilities in area proposed to be covered under this scheme, to the extent possible.
+Project Authorities/ State Government Department shall monitor ground water levels in the areas where project is implemented to ensure that the ground water development level do not exceed 70% in any of the areas. Proper monitoring and review arrangements would be put in place by Project Authorities in this regard.
+
+Implementation
+
+
+State Government to identify potential areas where assured ground water irrigation under this scheme can be provided in consultation with CGWB and State Ground Water Department for ensuring aquifer potential, yields and sustainability.
+Scheme is to be advertised at State/district/ block/Panchayat level and applications from beneficiaries shall be obtained at Panchayat/ Block level along with agreement document in case of more than one beneficiaries for one well. Formats for Individual/WUA are attached as Annexure I &amp; II. State Governments may suitably amend these formats, in consultation with their Legal Department, as per the requirement.
+The State govt shall prepare the feasibility report/DPR for Ground Water Irrigation including the cost estimates and technical details in consultation with CGWB (concerned Regional Director, CGWB). The implementing agency/line department shall take approval of State Level Technical Advisory Committee (TAC) in which the RD, CGWB shall be invited as member when such proposals are considered. Further, the proposal would be approved by State Level Sanctioning Committee (SLSC), already constituted for PMKSY ensuring that the areas proposed under the scheme are not already being irrigated through any other irrigation scheme and there is no duplicity in funding the scheme. Further, the RD, CGWB shall also be made member of SLSC.
+The State Governments shall ensure that such projects/schemes should be part of DIP/SIP prepared under PMKSY.
+Approved proposals from SLSC will be submitted by the State Govt. to concerned Regional Director, CGWB in the prescribed format along with prescribed documents, who will forward the complete proposal with recommendations to MoWR, RD&amp; GR.
+In case of community wells participatory approach involving stakeholders shall be adopted by creating Water User Associations (WUA). The number of tube wells/water structures may be worked out based on the availability of ground water, hydraulic properties of aquifer, yield capacity and unit draft of wells etc.
+The work under this project/ scheme shall be executed by the respective State Govt. For executing the work on ground necessary tendering etc shall be carried out by them as per laid down standard operating procedures/ tendering guidelines/ financial guidelines etc. as applicable in the respective States. States shall institute suitable mechanism to oversee the work right from procurement stage to final commissioning in the most efficient and transparent manner.
+Implementation period shall be two years which can be extended with the approval of Secretary (WR,RD&amp; GR) in case sufficient justification is provided by the State Govt.
+
+Cost component
+
+
+In the absence of any equivalent Central Scheme norms/rates, the Standard Schedule of Rates as prescribed by the respective State governments shall be used to prepare the cost of proposals. The funds shall be released for the following four components.,a) construction of ground water abstraction structure, b) cost of pump (Solar/ Electrical), c) water supply pipe of length upto 200m and, d) investigation cost for site selection for well .
+
+
+Maximum cost norms for different type of wells in Alluvium and Hard Rock formation, pumps (Electric/ Solar), Investigation for site selection and distribution pipe etc has been worked out based on certain data received from certain States and are given below as per Table:1.
+
+
+
+
+Sl.NoStructure TypeFormationCost (Rs in Lakh)
+
+
+1.
+Tube Well ( dia 155 mm, depth upto 90)
+Soft Rock
+3.00
+
+
+2.
+Dug Well (Large Dia up to 6 m depth 20 m )
+Hard Rock
+6.50
+
+
+3.
+Dug-Cum Bore Well(Large Dia upto 6m depth 40)
+Hard Rock
+7.00
+
+
+4.
+Bore Well ( dia 155 mm, depth up to 100)
+Hard Rock
+3.00
+
+
+5.
+Electrical Pump with Lt panels etc up to 5 HP
+
+0.75
+
+
+6.
+PV Solar Pumps with LT panels etc (3 to 5 HP) As per benchmark cost of MNRE
+
+0.77/ HP (Pan India except NE regions)
+
+
+7.
+Hydro geological and geophysical Investigation for site selection
+
+28,000/-
+
+
+8.
+Distribution Pipe (Canvas Hose Pipe ) 200 m
+
+20,000/-
+
+
+
+
+The cost of structures having different specifications shall be suitably calculated on pro-rata basis.
+Costs of proposal exceeding the above mentioned cost norms (refer Table:1) shall be absorbed by the respective State Govt from their own budgetary provisions/State share.
+The assets would be created on either Government land or on the land of beneficiary/ farmer after obtaining the agreement of beneficiary/ farmer for sharing the asset with WUA. Cost of land shall not be funded under the scheme.The assets created through this programme shall be handed over  to the beneficiary/ farmer/ Water User Associations / PRIs/State Govt who will further periodically maintain the assets through their own resources.
+
+Funding mechanism
+
+
+
+Funding pattern shall be made in the ratio of 90:10 (C:S) in case of NE/Hilly areas and 60:40 (C:S) in case of other areas.
+
+
+
+
+
+

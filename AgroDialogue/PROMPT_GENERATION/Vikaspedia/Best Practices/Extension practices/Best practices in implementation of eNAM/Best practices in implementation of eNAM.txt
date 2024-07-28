@@ -1,0 +1,193 @@
+Best practices in implementation of eNAM
+
+Introduction
+e - National Agriculture Market (e-NAM) is a pan-India electronic trading portal which networks the existing APMC Mandis for creating a unified national market for agricultural commodities. The e-NAM Portal provides a single window service for all APMC related information and services. This includes commodity arrivals and prices, buy and sell trade offers, provision to respond to trade offers, among other services.
+
+The focus areas with regards to implementation of e-National Agriculture Market, are as follows:
+Notifying and trading commodities on e-NAM.
+Increasing the participation of traders on e-NAM.
+Increasing the quantity and value of commodities being traded on e-NAM.
+Increasing the number of bids quoted by traders.
+Promoting cashless transactions, e.g. online payments to farmers.
+Promoting inter-market trade between Mandis.
+Providing access to Soil Testing Laboratories for farmers
+Conducting awareness and farmer orientation programmes.
+Providing basic amenities and facilities for cleaning, sorting and packing to farmers in Mandi.
+Making logistics and infrastructure available to promote inter-market trade on e-NAM platform.
+Providing assaying lab facilities to farmers for grading the produce.
+Ensuring transparency and accountability in implementation of the scheme.
+
+Best Practices for Replication
+
+Awareness:
+For effective implementation of the programme, it is imperative that proper awareness related to e-Mandis is created by Agriculture, Horticulture, Revenue and other allied departments to farmers and other stakeholders using both print and digital media.
+Training programmes and workshops for farmers, traders and APMC’s staff along with banks may be conducted to educate them about cashless transactions, benefits and modalities of the programme.
+Residence from existing network of commission agents/middlemen in the system needs to be hand-held with proper awareness drives.
+
+Direct Purchase Centre (DPC):
+For inter-state APMC trading, unified licenses may be obtained by districts. Direct Purchase Centre (DPC) platform at mandis facilitates trading without a commission agent at Nizamabad, Telangana.
+
+Infrastructure:
+Upgrading the infrastructure by setting up facilities like Assaying lab, Soil Testing lab, Krishi Soochna Kendra, Godowns and Kisan Vishram Grah, installation of LED screens to display all India market prices for commodities, CCTV cameras for transparency may enhance performance of mandis.
+Use of technology must be promoted. SMS Informing about the highest bid price of the produce should be sent to each farmer on his mobile at Rajkot, Gujarat.
+A helpdesk and complaint cell for redressal of grievances of the farmers should also be established.
+
+Convergence:
+In addition to other interventions, it is extremely important that other Government schemes such as Solar Photo Voltaic Pump, Soil Health Card Scheme, National Food Security Mission, Beej Gram Yojana, among others, be converged with e-NAM for multifold results.
+
+Suggestions for Effective Implementation
+Strengthening of the farmer value chain through effective utilisation of e-NAM platform is essential. This will result in increase the quantity of each commodity traded at a better price.
+It was observed that the biggest challenge is dependency on local traders or commission agents for selling the produce which can be taken care of with the use of Direct Purchase Centres (DPC).
+Proper access to logistics and infrastructure facilities for trading on e-NAM should be made available in the premises of e-Mandi.
+Facilities for solid and liquid waste management should also be built in the premises. Direct Marketing should be encouraged by providing transport and storage facilities in the local markets.
+Further, marketing intelligence and price forecasting models should be used to help farmers in deciding their crops.
+In addition to that, use of digital or cashless payment systems should be encouraged for reducing the delay in payments caused due to presence of middlemen.
+There may also be integration of mandis into a common farmer net to link all services such as irrigation subsidies, loans, input subsidies, e-trade, cold storage facility based on Aadhaar. These may be further linked with agricultural census, village revenue accounts and distress relief.
+
+Enabling e-Selling for Farmers
+Jaisbir Singh, a resident of village Sahuwala in Sirsa, Haryana grows cotton and wheat. Most of the farmers in the area were dependent on local traders/commission agents for selling their produce.
+
+However, things changed for better when Singh got to know about e-National Agriculture Market (e-NAM) through pamphlets displayed as part of an information dissemination process at the Gram Panchayat office. He then participated in the awareness and training camp organised in the local mandi.
+
+To put things in perspective, Singh quotes an example in which he got `5,950 per quintal for cotton while making sales and transaction online through e-NAM. Whereas on the other hand, the offline local price for the same commodity, on the same day was `5,850 per quintal. It turned out to be a significant difference for a farmer dependent on agricultural produce. Singh attributes the rise in return on investment and consequent prosperity to e-NAM.
+
+The mandi adopted e-NAM programme in October 2016. Since then, the market has about 706 licensed commission agents, 366 traders and 1,40,328 farmers up to March 31, 2018 who primarily deal in commodities like wheat, paddy, cotton, mustard, guar, barley, gram etc.
+
+e-NAM facilitates cashless transactions, which reduce the cost and burden of handling cash, which in turn facilitates farmers to strike a deal even during late hours.
+
+However, it was not easy to implement the Scheme in the District. The biggest challenge was farmers’ dependency on local traders/commission agents for selling their produce.
+
+Another key issue was the lack of access to logistic support for trading on e-NAM for which infrastructure facilities were made available in the premises of e-Mandi.
+
+Assaying labs were setup within the market yard. To enhance the infrastructure to support e-NAM facilities, high speed lease-line internet facility is provided for gate entry, exit control and system for e-bidding.
+
+As a result, Sirsa has obtained one unified license for inter-state APMCs trading. The mandis are charging only 1-2% as mandi tax from traders and farmers are exempted from any additional levy on their produce.
+
+Case Studies
+
+Case Study 1: Solan,Himachal Pradesh 
+Agricultural Produce Market Committee (APMC) Solan was selected as one of the markets to roll out e-NAM with the belief that it would positively influence both economy and farming community of the region.
+
+Approach Adopted:
+For effective implementation of e-NAM, several steps were undertaken by APMC Solan. These include initiatives such as
+Allowing farmers to directly sell their produce to buyers without bringing it to mandi.
+Establishment of private markets receiving at par treatment as APMCs.
+Removal of legal barriers for entry of organised and modern capital and investments into agricultural marketing and rationalisation of market fee and commission charges. In order to ensure effective rollout of e-NAM, training programme, for the officers of APMC Solan, was organized under the chairpersonship of Additional Chief Secretary, Agriculture.
+
+CCTV cameras, display boards, electronic balances, soil testing lab, mobile van, cleaning and sorting facility, packing facilities were created in the mandi. Amenities, such as Kisan Bhawan, canteen, water, toilets, parking, etc. were also provided in the mandi.
+
+Awareness Generation:
+89 awareness camps were organised which garnered participation of 7,120 participants. Awareness campaigns were undertaken to popularise the e-NAM system and its benefits.
+APMC Solan displayed hoardings, signboards and banners on different public places to create awareness about e-NAM. Other channels used for propagation included daily newspapers, radio, jingles, pamphlets, etc.
+Live chat shows were also broadcasted on Doordarshan from time to time. Village level training programme was organised in clusters to create awareness about e-NAM.
+District level and block level farmer awareness programmes were organised in notified areas. Farmers were contacted through messages and WhatsApp.
+
+Impact
+The key outcomes of the initiative between April 1, 2015-December 31, 2016 are as follows:
+Three commodities, 50% of the commodities proposed in DPR are traded on e-NAM platform.
+APMC registered 196 traders, 90 commission agents and 3,843 producers under e-NAM.
+70% of the registered traders (196) participated in trade on e-NAM platform.
+Total value traded on e-NAM platform is Rs 4.09 crore
+
+
+
+Case Study 2: Dhalli, Shimla
+
+Approach Adopted:
+Commodities traded in the mandi included Apple, Peas and Cauliflower. Entry and Exit gates were created for recording the arrival and sales summary, respectively. e-weighing facilities were also installed at the gates. For facilitating e-auction, IT infrastructure was installed at the auction hall. Assaying labs were set up to help farmers with quality testing of products. Cameras were installed to keep a watch on all activities taking place in the market area. Amenities such as canteen, drinking water, ATM, rest house, sulabh shauchalaya, ticker board and TV sets were provided.
+
+Complaint and Grievance Cell was set up to address farmers’ issues. Farmers were provided training on cashless transactions.
+
+Awareness Generation:
+To popularise and create more awareness about the e-NAM initiative, an extensive strategy was formulated.
+Personal contact programs with BDOs, Pradhan Gram Panchayats, BDC members, growers and bankers were organised.
+Awareness was also imparted through pamphlets, camps, meetings and social media tools.
+Radio talks and documentary films have also been developed to generate awareness.
+
+Impact
+The key outcomes of the initiative between April 1, 2015-December 31, 2016 are as follows:
+One commodity, out of three proposed in DPR is being traded on e-NAM platform.
+100% of the registered traders (47) participated in trade on e-NAM platform.
+Total value traded on e-NAM platform is Rs 2.77 crore.
+Total volume traded on e-NAM was 4,299.2 Qtls.
+
+Case Study 3: Nizamabad, Telangana
+Approach Adopted:
+Complete automation of weighing, cleaning and grading systems for better price realisation was done at the Mandi. Electronic weighing machines were integrated to Point of Sale (PoS) machines.
+
+Assaying Labs were setup within the market yard and grading was done by market authorities on a day-to-day basis. Amenities such as meeting halls, rest houses, canteen, etc. were also created.
+
+A Direct Purchase Centre (DPC) platform was set up to facilitate trading without a commission agent, and a farmer’s help desk was provisioned on DPC platform. The helpdesk consisted of a Deputy Tehsildar, Agricultural officer and AMC supervisor.
+
+Market fee has been regulated as per the norms and e-Takpatti was introduced for generation of e-Sale bill.
+
+Increased accountability of APMC and enhanced transparency in the deductions made for services to the farmers was established.
+
+The arrangement of spot payments and reduced deductions to farmers was made. Electronic display boards were installed which displayed various market rates of commodities and winners’ transaction details.
+
+Facility of SMS alerts to farmers was developed to ensure transparency at every stage of trade operation.
+
+Facility for financing purchasers and providing interest-free loans to farmers, for parking their produce in warehouses was also put in place. Bank linkage for instant payments to farmers and purchasers was established.
+
+Awareness Generation:
+Awareness was generated by means of market talk by concerned authorities. Farmers were motivated through FM radio and local TV channels on a regular basis. Pamphlets, print and electronic media were used to promote e-NAM.
+
+Training of farmers was conducted through farm visits and group communication.
+
+Impact
+The key outcomes of the initiative between April 1, 2015-December 31, 2016 are as follows:
+Five commodities, 100% of the commodities proposed in DPR, are traded on e-NAM platform.
+103 traders have participated in trade on e-NAM platform.
+Total value traded on e-NAM platform is Rs 77 crore.
+
+Case Study 4: Rajkot, Gujarat
+
+Approach Adopted:
+To implement e-NAM, a comprehensive framework including infrastructure upgradation, capacity building initiatives, monitoring and grievance redressal mechanism was put in place. Infrastructure was significantly upgraded and new facilities, such as farmers training hall, soil testing laboratory, grading centers, weigh bridges, warehouses, banks and fully equipped e-NAM centres were established.
+
+Cleaning and sorting facilities have been set up for 12 commodities, such as wheat and cumin. e-transaction facilities have made all transactions cashless and commodity finance available to all farmers.
+
+For effective implementation of the programme, capacitybuilding sessions were organised for different stakeholders at both District and village levels. Bhaskaracharya Institute for Space Applications and Geo Informatics (BISAG) was roped in for conducting capacity building workshops.
+
+To ensure smooth operations in the Mandis, volunteers were deployed for assisting the farmers and traders. APMC also developed a new website and mobile application for capturing daily updates. The e-NAM system has been certified and audited by Control Union Netherland, an international level certification body.
+
+Mandis have been charging only 0.50% as mandi tax from traders. Farmers are exempted from any additional levy on their produce. For transparency and security, entire APMC has been put under CCTV surveillance. A Grievance cell has also been set up to ensure 100% accountability and transparency.
+
+Awareness Generation:
+Mass awareness campaign ‘IT in Agriculture’ was undertaken to promote the scheme. Awareness was generated through communication channels like printed pamphlets, banners, SMS, krushi shibirs, krushi mela, one to one interaction, etc. District level seminars involving farmers, traders and commission agents were organised where all stakeholders were apprised about the scheme and encouraged to register on the e-NAM portal.
+
+Impact
+The key outcomes of the initiative between April 1, 2015-December 31, 2016 are as follows:
+Three commodities, 100% of commodities proposed in DPR, traded on e-NAM platform.
+100% of the registered traders (80) have participated in trade on e-NAM platform.
+Total value traded on e-NAM platform is Rs 101 crore
+100% transactions at APMC Rajkot are done on e-NAM platform and are cashless.
+Revenue generated by Mandi has increased by 10%.
+
+
+
+Case Study 5: Madanapalli,Andhra Pradesh
+
+Approach Adopted:
+To ensure effective implementation of e-NAM, amenities like open auction platform and digital electronic weighing machines have been installed in the market yard. High speed broadband facility has also been provided to traders and commission agents. Farmer friendly amenities like drinking water plant, dispensary, canteens, washrooms etc. were also constructed.
+
+Various measures like improving general connectivity were undertaken to strengthen the overall supply chain. Link roads providing access from tomato farms to main approach road and mandi were built with the convergence of MGNREGAS and funds of Agricultural Market Committee (AMC).
+
+All India market prices of commodities were displayed on LED display board in market premises and daily tomato prices were sent to farmers through messages.
+
+Soil testing laboratory was established in the market yard with technical support from Agricultural Department.
+
+To ensure transparency in the process, all licensees i.e. commission agents (local buyers) as well as the external buyers were made to register with the mandi and everyone was allocated a unique ID and password for quoting the price.
+
+Farmers were trained in grading of tomatoes and in adopting post-harvest technologies like plastic crates to reduce transportation losses.
+
+Awareness Generation:
+To popularise the initiative, several workshops and awareness programs involving farmers, traders and market committee members were conducted. Through these all stakeholders were made aware about the advantages and benefits of e-NAM. Information was also disseminated through press, electronic media, brochures and pamphlets.
+
+Impact
+The key outcomes of the initiative between April 1, 2015-December 31, 2016 are as follows:
+All traders and commission agents have been registered on the e-NAM portal.
+88% of the registered traders (32) have participated in trade on e-NAM platform.
+Total value traded on e-NAM platform was Rs 1.6 crore.
+Total volume traded was 24,484 MTs on e-NAM platform.
+Farmers are getting additional benefit of Rs 3,000 to Rs 5,000 through e-NAM.

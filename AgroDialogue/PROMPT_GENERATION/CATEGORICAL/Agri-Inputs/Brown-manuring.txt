@@ -1,0 +1,28 @@
+Brown manuring
+
+Weeds are one of the most important biotic constraints to global agricultural production. They compete with crops for resources like sunlight, water, nutrients, and space, and harbour insects and pathogens. Weeds reduce the quantity as well as quality of agricultural output and increase the total cost of cultivation. Weeds, along with pathogens, pose the highest potential yield loss to crops, and it is estimated that weeds cost indian agricultural production over usd 11 billion each year (gharde et al., 2018). Yield losses in crops due to weeds depend on multiple factors such as type of weeds and crops, weed density, weed emergence time, critical period of competition etc. And can even result in 100% yield loss if left uncontrolled.
+
+Manual weeding which used to be the most common practice of weed management in developing countries is becoming less prevalent because of growing agricultural wage expenses and migration of rural labour to cities. Use of herbicides are rapidly replacing the practice of hand weeding. However, herbicide-resistant weeds have evolved as a result of unscientific practice of over-reliance on herbicides with similar modes of action. Currently, over 500 unique cases of herbicide-resistant weeds have been reported around the world (heap, 2019). These issues and concerns have necessitated and encouraged agronomists to develop new eco-friendly weed management strategies such as brown manuring, and to consider the potential for integrating them with herbicide use.
+
+What is brown manuring?
+Brown manuring is the ‘no-till’ form of green manuring wherein a selective herbicide is applied to desiccate green manure crops before flowering rather than using cultivation (das et al., 2021). The existing bm technique involves growing green manure crops preferably legumes with the main crop as a co-culture for the initial 25–30 days after sowing and thereafter desiccated by a selective herbicide. It is a ‘no-till’ version of green manuring, where the desiccated green manure crops are left standing in the field along with main crop without incorporation and is allowed to decompose itself in the soil. The desiccated leaves of green manure crops turn brown due to herbicide spray and hence the method is called brown manuring.
+
+Considerations for choosing brown manure crops
+Choice of the brown manure crop is important as severe competition with main crops could cause detrimental effects and result in yield penalty. Ideally, the main crop and brown manure crop should have complementary resource use and niche differentiation in space and time to achieve optimisation in resource use. Crop species that are able to fix atmospheric nitrogen and help to maximize weed control while minimizing input cost and risk are the best suited ones. Other preferred criteria are affordability and easy availability of seeds, rapid crop growth and high dry matter production in less span of time, high competitiveness with target weeds, high ground cover to conserve moisture and reduce wind erosion.
+
+Leguminous crops which fix nitrogen into the soils along with addition of organic matter are preferably used, such as dhaincha, sun hemp and cowpea; whereas the non-leguminous crops such as niger and wild indigo which provide only organic matter are less used. The combination of cereal and legume is considered ideal because cereals can utilize a portion of the nitrogen biologically fixed by legumes and the combination may provide multiple benefits like enhancement of yield, maintenance of soil fertility and production sustainability along with greater ecosystem services.
+
+Benefits of brown manuring
+Brown manuring is an eco-friendly weed management practice which suppresses the weed population and growth during the early stage of crop growth.
+Legume brown manuring crops supplies nitrogen to component crop plants through biological nitrogen fixation and thus, a significant part of nitrogenous fertilizer can be replaced.
+It increases organic carbon content of soil and improves the physicochemical and biological properties of the soil.
+Brown manuring can conserve soil moisture and reduce runoff and wind erosion.
+Enhanced soil fertility, lesser weed competition as well as other benefits accrued under brown manuring, leads to higher crop productivity and economic gain to farmers.
+
+Conclusion
+Brown manuring is an unconventional and eco-friendly approach of weed management that not only supresses weeds but also improves soil health, conserves soil moisture and leads to higher crop productivity and more economic benefits to the farmers. As the technology is cost effective and easy to adopt, it is also suited for resource-poor marginal farmers and need to be popularised among farming community.
+
+References
+Das, t. K., ghosh, s., nath, c. P. (2020). Brown manuring optimization in maize: impacts on weeds, crop productivity and profitability. The journal of agricultural science 1–12. 
+Gharde, y., singh, p. K., dubey, r. P., and gupta, p. K. (2018). Assessment of yield and economic losses in agriculture due to weeds in india. Crop protection 107: 12–18.
+Heap, i. (2019). International survey of herbicide resistant weeds. Available online at: www.weedscience.org (accessed april 23, 2022).

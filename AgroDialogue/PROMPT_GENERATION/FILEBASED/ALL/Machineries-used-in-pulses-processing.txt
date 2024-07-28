@@ -1,0 +1,46 @@
+Machineries used in pulses processing
+
+The major part of pulse produced in india is converted into dal. Many products are made from whole or dehusked pulses. Roasted pulses, pulse flour, 'sattu', sprouts, fermented products etc., are quite commonly produced at domestic and commercial level to cater the requirement of consumers. For most of the pulse based products, dehusking is an essential operation. It improves textural and culinary properties of the grain. Normally, the dal milling machineries are fabricated by local artisans, who fabricate the machine at the site as per available space and process requirement of individual dal miller. Power requirement, capacity, operating parameters and machine specifications vary from place to place and artisan to artisan. However, these artisans work on the basis of their personal experiences and mostly depend on trial and error approach, which often results into poor dal yield with high energy loss.
+
+Conventionally, in northern india, two or more storied buildings are used for milling of pulses. Higher structure reduces the space requirement but requires more power as grain has to move vertically with the help of elevators. These multi-storied mills are commonly called as ‘agra type’. In southern india, single storied structure is preferred for pulse milling. Such mills are popularly known as ‘hyderabad type’. Commonly used machineries in dal milling plants for different unit operations are:
+
+Cleaning and grading
+
+Raw pulses need to be cleaned before milling. Normally rotary or reciprocating screen cleaners are used. Rotary screen graders are common in northern part of the country, whereas in the southern part, reciprocating screen graders are used. These graders separate the grains into different fractions based on size. Light impurities are removed with the help of blower or suction fans. Rotary screen cleaner/grader mainly consists of four compartments fitted with screens in sequence of increasing opening size. Smallest grains falls at the first compartment, whereas the largest one falls in the last column. Slope is given towards the direction of grain flow for ease of grain movement. Low rpm around 18–30, is maintained to ensure proper grading of raw material. Mild steel or wooden body is used to house these compartments depending upon choice of the customer. Reciprocating flat screen grader usually consists of three screens to separate the grain fractions. Blower is provided to remove dust, dirt and other fine impurities. Stroke length of 4-5 cm is provided for the reciprocating unit.
+
+Dehusking
+
+Typically carborundum/emery coated rollers are used for dehusking of different pulses. Cylindrical or taper rollers are used for the purpose. The foundation of taper rolls is kept horizontal whereas cylindrical rolls are mounted with inclination to the horizontal. This system facilitates ease of grain movement inside the drum. Normally, a slope of 15 cm for entire length of machine is recommended. Body of the roller is made of wood or steel on which mixture of carborundum/emery, chemical cement and salts are applied in layer of uniform thickness. The granule size of emery varies for crop to crop and type of operation to be performed on the grain. Recommended grades of emery are tabulated as below :
+
+The inlet and outlet of the roller can be adjusted for regulation of flow and retention time. These rollers are available in different sizes depending on power requirement, capacity, roller size and speed varies with every manufacturer.
+
+Oil/water applications
+
+This machine is used for mixing of oil/water to the pitted pulses. Screw conveyors with full flight or cut screw are used. The screw slowly moves the grain forward, with the oil/water application at the entry of the conveyor. The grain gets thoroughly mixed with oil/water while traveling the mixer length. Cut screw flights, commonly used in southern india, also serve the purpose of agitator and increases retention time for better mixing.
+
+Drying
+
+Generally, sun drying on rooftop or in open drying yard is practiced. Since sun drying is a weather dependent process, the operation of the mill stops during rainy and cloudy seasons. To make conventional milling plants operational round the year, artificial or mechanical drying is essential. Accordingly, various manufacturers developed some batch or continuous dryers for use in dal mills. In order to avoid sun drying, cftri, mysore has developed thermal treatment process using dryers.
+
+Splitting
+
+To split the dehusked pulses and pulse seeds, roller mills, under runner disk made of medium size (24–30 no.) granules. Under disk runner machine consists of two horizontal disks with 1.25 cm emery coating. One of the disks is fixed whereas other one rotates. This rubbing action causes splitting of dehusked whole (i.e., gota). It can also be used for splitting of urdbean, chickpea, lentil, mungbean and soybean. The capacity of the machine depends upon size and speed of the disk. Attrition mills are vertical or horizontal stone or emery disks. Some millers to minimize breakage during splitting use elevator and hard surface combination. Dehusked splits are dropped from a height of about 3-5 m on a hard surface to obtain splits. Impact splitter machine consists of mild steel blades mounted on shaft inside an enclosed casing. Rotating blades throw the ‘gota’ on stationary hard casing splits. The ‘gota' is split by impact in the machine
+
+Dal grading and gota separation
+
+‘gota’ separation from milled fractions is a big challenge. Whenever the grain is passed through emery roll, some part of grain is converted into dehusked whole called “gota'. It is difficult to separate dehusked whole grain from almost similar size whole grain using normal size grading machines. ‘gota’ separating machine, based on surface properties was developed by cftri, mysore. Combination of rotary and reciprocating screens are used in modern pulse milling plants to separate 'gota'. This machine is used for separation of ‘gota' and whole grains, splits and broken.
+
+Polishing
+
+Dal polishing denotes to removal of powder from dehusked splits and application of oil and water to impart shine and luster to the finished dal. Cylindrical hard rubber roll, leather belts or emery cone polisher is used for the purpose. Rollers mounted with brushes can also be used to impart shining to the dal. Powder particles are removed by rubbing action. Battery of screw conveyors with mild abrasive surfaces, like nylon rope or velvet cloth, can also be used for repeated rubbing. Accordingly they are named as nylon or velvet polisher. Depending upon level of polishing 2, 3, 4 or 5 screw conveyors can be used. Oil and water polisher is similar to the oil/ water treating machine. Water or oil is applied at the entrance of the unit, worm inside the mixing unit acts as a polisher, often dal is required to be dried prior to final packaging.
+
+Powder and husk separation
+
+Husk and powder is separated from dehusked pulses, using suction fan or blower. This unit may end into a cyclone separator and collected in bags, in order to reduce environmental hazard of fine dust in the plant premises.
+
+Material handling
+
+Bucket elevators are widely used in dal mills for vertical grain movement. Usually drying of grains takes place on the roof. This saves time and energy lost in material handling. In large capacity plants, bucket elevators often control feeding inside the mill.
+
+ 
+

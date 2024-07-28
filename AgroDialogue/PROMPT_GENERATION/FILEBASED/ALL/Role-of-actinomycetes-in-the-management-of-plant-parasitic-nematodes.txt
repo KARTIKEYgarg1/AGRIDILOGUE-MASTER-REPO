@@ -1,0 +1,40 @@
+Role of actinomycetes in the management of plant parasitic nematodes
+Actinomycetes are a group of filamentous bacteria that play an important role in the management of plant-parasitic nematodes. Certain species of actinomycetes produce secondary metabolites that exhibit nematicidal properties, which contribute to nematode management. Actinomycetes control nematodes either directly or indirectly by exhibiting certain mechanisms.
+
+Mechanism of actinomycetes in the control of nematodes
+Direct effect on nematodes
+Production of nematicidal compounds : actinomycetes produce a variety of secondary metabolites, including antibiotics and other bioactive compounds, which have detrimental effects on nematodes. These metabolites interfere with the vital functions of the nematodes, such as feeding, reproduction, and mobility, leading to their death or reduction in their population densities.
+
+Suppression of nematode eggs : some actinomycetes such as s. Colombiensis, s. Monomycini, and s. Youssoufensis were reported with nematicidal activities. The metabolites produced by these kinds of actinomycetes, penetrate the eggshell and inhibit embryonic development, thereby preventing the hatching of viable nematodes.
+
+Indirect effects on nematodes
+Altering the soil microbial community : actinomycetes indirectly affect the nematodes by influencing soil microbial communities. These organisms, by the production of certain compounds, modify the microbial composition and activity in the rhizosphere. The altered microbial community can create an environment that is less favorable for nematode survival and development, thereby reducing the nematode population.
+
+Enhancement of plant defense mechanisms : actinomycetes can stimulate the natural defense mechanisms of plants against nematodes. They can induce systemic resistance in plants, making them more resistant to nematode infestation. This can be achieved by triggering the production of defense-related compounds in the plants and activation of specific signalling pathways. 
+
+Actinomycetes as biocontrol agents in nematode management 
+The effectiveness of actinomycetes in nematode management varies depending on various factors such as actinomycete strain, nematode species, crop type, soil conditions, and application methods. 
+
+Among the different genera, streptomyces has shown its potential in managing nematode populations. Some species of streptomyces produce secondary metabolites with nematicidal properties, which can help to control nematode populations in organic agriculture. 
+
+Streptomyces as biocontrol agents can be applied to the soil or incorporated into organic amendments before planting to target nematodes. Incorporation of streptomyces into the soil can enhance the population of beneficial bacteria and fungi, and create an environment that is less favorable for nematodes. Streptomyces can establish antagonistic interactions with nematodes through the production of enzymes or volatile compounds that deter nematodes from feeding on plant roots or disrupt nematode behavior. Secondary metabolites produced by the actinomycetes were reported to exhibit nematicidal activity against plant parasitic nematodes. 
+
+Actinomycetes metabolites increase stress tolerance by modifying the plant's defense mechanisms. Significant metabolites released by s. Hydrogenans strain dh-16 caused the host plants infected with root-knot nematode to activate their defense mechanisms. The nematode-infested plants were given bio metabolites in the form of cell filtrate (supernatant) and extract from s. Hydrogenans, which resulted in an increase in growth parameters, photosynthetic pigments, and phenolic compounds. Additionally, these metabolites increased the activities of both enzymatic and non-enzymatic antioxidants, which helps to regulate the level of ros under stress (sharma et al., 2020). 
+
+The chitinase-producing s. Sampsonni was found to increase the nematode juvenile mortality by 81.67% and decreased the nematode egg hatching by 2% when exposed to root-knot nematode juveniles and eggs (kim et al., 2011). Similarly, s. Albogriseolus, s. Firmicarius, and s. Avermitilis were reported to increase the mortality of m. Incognita by 89 - 90% (hu et al., 2021).
+
+Application methods of streptomyces to combat nematodes
+Streptomyces can be added as one of the components in the integrated management practices for the control of nematodes, which will help in reducing the nematode populations and minimizing crop damage.
+
+Soil drenching, root dipping, and foliar application of spore suspension of streptomyces cultures along with water allows the release of bioactive compounds from the culture which will inhibit the growth of the nematodes.
+
+Conclusion
+The reduction of biotic stress in the plant is greatly aided by streptomyces species. Metabolites of streptomyces play a major role in the reduction of root-knot nematode, m. Incognita. application of proper strain of streptomyces at the right amount can aid in the greater reduction of the nematode population. The basis for the development of new nematicides against root-knot nematodes is provided by the presence of hydrosoluble macromolecule polymers present in a few streptomyces strains that are effortless for application. Furthermore, more investigation can be focussed to clarify how the use of actinomycetes increases the host plant’s resistance to nematodes.
+
+References
+Kim, s. S., kang, s. I., kim, j. S., lee, y. S., hong, s. H., naing, k. W. And kim, k. Y. 2011. Biological control of root-knot nematode by streptomyces sampsonii kk1024. Korean journal of soil science and fertilizer, 44(6): 1150 - 1157.
+Hu, q., yang, m., bo, t., li, y., wu, c., mo, m. And liu, y. 2021. Nematicidal streptomyces against meloidogyne incognita by hydrosoluble macromolecules. Research square. 1-14.
+Sharma, n., khanna, k., manhas, r.k., bhardwaj, r., ohri, p., alkahtani, j., alwahibi, m.s. And ahmad, p. 2020. Insights into the role of streptomyces hydrogenans as the plant growth promoter, photosynthetic pigment enhancer and biocontrol agent against meloidogyne incognita in solanum lycopersicum seedlings. Plants, doi: 10.3390/plants9091109.
+
+Contributors
+Sankari meena, k., sakthivel, k., rajesha, g. And madhavan, s. 

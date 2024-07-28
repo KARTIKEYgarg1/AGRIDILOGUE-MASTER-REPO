@@ -1,0 +1,37 @@
+Blockchain in agriculture
+
+What is blockchain technology?
+
+Databases are currently using ict (information and communication technology) to track data and manage information flow. The use of blockchain technology to power these databases is a novel concept. They distribute privileges to all network members rather than having a single server and administrator. Multiple parties can then access and validate new database additions, increasing security and lowering the risk of corruption.
+
+How blockchain technology can revolutionize agriculture sector?
+
+Blockchain is a technology that can bring breakthroughs in the agri sector with its potential. By allowing information to be traced across the agricultural supply chain, blockchain agriculture enhances food safety. The ability of blockchain to store and manage data allows for traceability, which is used to aid in the development and implementation of intelligent farming and index-based crop insurance systems.
+
+Uses of blockchain technologies in agriculture
+
+Blockchain technologies can track all types of information about plants, such as seed quality, and crop growth, and even generate a record of the journey of the plant after it leaves the farm. This data can improve supply chain transparency and eliminate concerns associated with illegal and unethical operations. In the case of a recall, they can also make it easier to track any contamination or other issues back to their source. The primary goals of these technologies are sustainability and food security. When consumers have this amount of transparency, they can make informed purchasing decisions. They frequently utilize this information to reward farmers and producers that implement good farming methods.
+
+Barriers to using blockchain technologies
+
+Concerns have been raised that blockchain technology could be misapplied or misused, putting food security at risk. For example, privately held blockchains are easier to hack and less secure. Because these blockchains are based on private organisation norms, it's easy to see how the wrong people could take advantage of them. Small-scale farmers, on the other hand, who lack the necessary size, technological know-how, and scalability to take advantage of blockchain technology, may be left behind.
+
+Many issues must be resolved before blockchain technology can be completely incorporated into agriculture.
+
+First, blockchain implementation must be decentralized to accommodate small farmers and rural dwellers. Otherwise, food security will remain a problem. Implementation must enable sustainable and equitable food systems, allowing consumers to make a better decisions.
+
+Those who lack the digital literacy required to engage in blockchain technology must be educated. This is part of the system's decentralisation process. Because of aged infrastructure and a lack of digital literacy, the world's poor may be unable to participate.
+
+Why blockchain technology can be the game-changer for boostering farming in india?
+
+While the food goes through many different players on its journey from the farm to the food plate, there is a strong urge by consumers today to know what are they eating. Also, as supply chains have become longer, any user becomes more concerned about the origin and journey of the produce.
+
+Blockchain is the only way that traceability can be brought reliably to farm produce with the distributed market architecture.
+
+Iot devices and sensors are being introduced by agritech companies, and blockchain technology can be used to consolidate data on a variety of topics, including seed quality, crop tracking, and the path of crops from the farm to the market.
+
+Apart from increasing transparency in the food supply chain, blockchain technology can also improve security by prohibiting unethical crop production and distribution, which endangers farmers' livelihoods.
+
+Consumers will be able to make more educated decisions thanks to blockchain's data collection, and they may even be able to help small-scale farmers who are often in need of food and financial security.
+
+Before the data can be preserved, it must first be formatted and made comprehensible. Blockchain technology makes it easier to add meta information to data and structure. It can be saved after that, making compliance enforcement easier. Data compliance ensures that the information gathered is kept secure and secured.

@@ -1,0 +1,171 @@
+Infertility in farm animals 
+
+Infertility in farm animals is due various causes such as nutrition, physiological disturbances and infectious causes, which may work separately or in combination.
+
+Economic losses can be considerable, both in terms of the cost of keeping a cow and the lost cash opportunity from fewer calves available to market. Additional losses occur if the subsequent calving period is extended, resulting in higher production costs and lighter calves weaned in the following year.
+
+Major infertilities are anoestrus and repeat breeding.
+
+Types of infertility
+
+Anestrous
+
+Anestrous is considered as a problem when cows are not seen in heat. Failure to observe heat and heat detection must always be ruled out as the primary problem. Review the heat detection procedures and heat detection efficiency with the producer. Pregnancy can be a prominent cause of anestrous and must always be ruled out before anything else.
+Other reasons for anoestrous are ovarian aplasia. Which is a rare condition when one or both ovaries are absent. It is caused when the gonadal ridge does not form correctly. Palpation is the best diagnostic method. There may be partial aplasia, when 'only one ovary' does not form.
+Ovarian hypoplasia: where one or both ovaries are smaller than normal. This is a recessive trait in the swedish highland breed and is caused by a single autosomal recessive gene with incomplete penetration. True anestrus must be ruled out. There may be partial hypoplasia with this condition. Sucking by the calf inhibits cyclic activity in the cow by decreasing lh release. Summer heat stress occurs, when the combined effects of heat and humidity produce a high "apparent temperature". If you compare estrus duration at 33.5°c vs 18.2°c, then the estrous cycle is longer and the estrus duration is shorter and estrus intensity is less.
+Ovarian atrophy : ovarian atrophy is caused from nutritional problems and is most often seen in dairy cows with high production.
+Mummy : a mummy in the uterus simulate a pregnancy and prevent the normal luteolytic mechanism. This results in anestrous. Treatment for this condition is administration of prostaglandin to lyse the corpus luteum.
+
+Non-infectious infertility
+
+1. Managemental causes
+
+Breeding health can be judged from the conception rate within the herd. High conception rates within the herd can be maintained to certain extent by making adequate provisions for timely services from high fertile bulls over a suitably long period of time to give enough chance to the cows to express their fertility at proper time. The conception rate of a herd should be estimated as the percentage of females becoming pregnant to the first service. The conception ability of the individual animals and of the herd thus can be known and is not vitiated by the presence of individuals having sporadic type of transient forms of infertility. It is possible to as certain the accuracy of the conception rate by subjecting all females to pregnancy diagnosis with in 6 to 8 weeks after service. A satisfactory conception rate in a herd can only be maintained with the high degree of breeding fitness in majority of animals in the herd. It is usually observed that draught type breeds have better conception rates than the dairy type.
+
+Conditions of overstocking, lack of spacious accommodation and poor hygiene predispose the stock to known and unknown infections. In the assessment of herd infertility a detailed history should be obtained from the owner, which should include 1) size of the herd. 2) name of the breed 3) the management practices 4) feeding standards 5) data on all calvings, service dates and 6) reproductive disorders - abortions, retained placenta, abnormal discharges and infertility treatments. Cognizance should also be taken of all the fresh introductions to the herd. The clinician should make a comprehensive study and then examine each cow irrespective of the symptoms of breeding inefficiency.
+
+2. Nutritional infertility
+
+Post partum nutrition is most important for fertility. If tdn is low both prepartum and postpartum, fertility suffers. Vitamin a had no effect on fertility, but may cause irregular cycles. Vitamin d deficiency suppresses signs of estrus and delays ovulation. Vitamin e deficiency may cause reproduction problems.
+
+If the blood urea nitrogen (bun) is greaterthan 20 mg/dl cows may have low conception rates. The high bun is from excess dietary protein. True anoestrus, lack of ovarian activity may be caused by anemia due to anaplasmosis, internal or external parasites, and deficiency of protein, iron, copper, cobalt or selenium. Impaired reproduction is also found in phosphorus deficiency, energy deficiency, cows losing flesh due to high production and/or underfeeding. Selenium or vitamin e deficiency may be associated with metritis. Vitamins and minerals are often suspected in infertility and anestrus but little hard evidence supports these claims.
+
+Urea has no effect on reproduction. Carotene is needed by the corpus lntuem (cl) if it is low the cow may have low progesterone and irregular cycles. Copper requirement is 10 ppm. Less than this level may cause anestrus. Similarly, a cobalt deficiency may cause a delayed first estrus and irregular heats. Manganese requirement is 40 ppm. Less than this level may cause anestrus or irregular heats. Phosphorus is hard to separate from energy. It is associated with the seed portion of plant. Over feeding may predispose cows to many health problems at the time of calving or during early lactation; these include retained placenta, metritis, acetonemia and displaced abomasum.
+
+3. Hormonal infertility
+
+Silent heat : silent heat is generally not a problem and usually is manifested by unobserved heats by farmer. However, the first postpartum heat is normally silent, because there are no estrogen receptors. This is a result of the low postpartum progesterone.
+Delayed ovulation: if a cow ovulates more than 18 hours after end of heat, then ovulation is said to be delayed. This may be diagnosed by palpation and can be treated with gnrh. This only occurs in &lt; 2% of cows and is more likely to be a heat detection problem.
+
+4. Cystic ovarian disease or follicular cysts :
+
+The definition of a follicular cyst is: a fluid filled structure on the ovary greater than 2.5 cm in diameter. The cyst may persist for more than 10 days or regress and be replaced by another cyst. There are two types of cysts, follicular and luteal. A follicular cyst consists of a fluid filled cavity (unovulated follicle) lined by a small layer of thecal cells.· the the cal cells produce progesterone, but do not have prostaglandin receptors. If there are no prostaglandin receptors, the normal luteolytic cascade can not occur, resulting in anestrus. If the granulosa cells persist in an untransformed state (not large luteal cells), the cow shows signs of constant estrus because of the estrogen production.
+
+Etiology : it is a hereditary disease. The cysts are caused by a lack of lh surge. The lh may actually be present, but may not be released. This results in no ovulation, minimal luteinization. Aberrant estrogens in cotton seed meal, or possibly in poultry litter fed to cows may' cause a large number of cysts in a dairy. Stress may also contribute to lack of lh release.
+
+Infectious infertility
+
+Diseases resulting in bovine reproductive failure can be an infection with a bacterium, virus or parasite. Symptoms are usually similar and diagnosis requires the services of a trained veterinarian and often the veterinary laboratory. The symptoms of infections in most animals are similar regardless of the cause of infection. Cows may return to heat regularly after breeding or may miss a few heats only to start cycling again early in. The season. Aborted fetuses are usually not found, but cows may have a creamy white discharge from the vulva. Some farmers may not even realize that there is a problem until an unusually large number of cows are diagnosed "empty" at the time of pregnancy checking. Some of the important causes are discussed below.
+
+1. Repeat breeder
+
+A repeat breeder is defined as a cow that has calved before, is less that 10 years old, has normal heat cycles, has no palpable abnormalities has been bred 3 or more times and is not pregnant. Also if you look at fertility expectations in normal animals you see that 9% of normal cows would be repeat breeders. We normally assume a problem exists when the incidence is 10-15 %.
+
+2. Fertilization failure
+
+In normal heifers 100 % fertilization has been found one day after breeding. This drops to 85 % in cows, and to 60-70 % in repeat breeders. Therefore, repeat breeders seem to have more of a fertilization failure. If embryos are fertilized and transferred, one can have normal pregnancy rates.
+
+Release of pgf from inflammatory conditions such as mastitis can cause luteolysis and pregnancy loss. Inability to prevent pgf release (shown experimentally in a repeat breeder in response to oxytocin administration) causes return to estrus.
+
+Fertilization rates are normal in heat stressed cows, but day 1 to 2 embryos are affected most by the heat. As blood flow to uterus decreases to shunt it to the rest of the body for cooling, the uterine temperature rises, nutrients decrease, and waste products increase. Salpingitis, metritis and cervicitis can cause a change in the uterine environment that leads to infertility.
+
+3. Metritis
+
+Inflammation of the uterus is known as metritis. Cows normally have a red-to-brown discharge during the first two weeks after calving. If discharge persists beyond 2 weeks or if the discharge is foul-smelling, this is evidence of metritis. Possible factors involved are retained placenta, injury to the reproductive tract can occur due to a difficult calving or excessive force used to assist at calving. Injuries can also occur at the time of breeding or uterine treatment. Post breeding infusion in these cows is not routinely helpful.
+
+4. Pyometra
+
+A pyometra is a uterus filled with pus that has a closed cervix and a corpus luteum on the ovary. The pus prevents the normal luteolytic mechanism from happening. This results in anestrus. The fluid in the uterus mimics a pregnancy, so the cow do not return to heat. Treatment for this condition is administration of prostaglandin to lyse the corpus luteum.
+
+Abortions
+
+1. Definition and incidence
+
+Abortion is defined as fetal death and expulsion between 42 (an estimated time of attachment) and 260 days (the age at which a fetus is capable of surviving outside the uterus) of gestation. The condition does not include fetal maceration and mummification. Pregnancies lost before 42 days are usually referred to as early embryonic deaths, whereas a calfthat is born dead between 260 days and full term is defined a stillbirth.
+
+A rate of 3 to 5 abortions per 100 pregnancies per year is often considered "normal." however, the loss of any pregnancy can represent a significant loss of (potential) income to the producer and appropriate action should therefore be taken to prevent abortions and to investigate the cause of abortions that may occur.
+
+Abortion is the most important condition that limits cow's ability to produce a calf and considerably erodes the profit. The greatest risk of fetal loss is during the first trimester of gestation and then progressively decreases as gestation advances with a slight increase in the risk toward the last month of gestation.
+
+2. Causes: infectious and non-infectious
+
+Either infectious or non-infectious agents may cause abortion. The infectious causes include bacterial, mycotic, viral, and protozoal. Historically, it has been suggested that 50-65%,. 20-25%, and 15-25% of infectious abortions were caused by bacterial, fungal, and viral causes respectively. The non-infectious causes include nutritional factors, chemicals, drugs, toxins, poisonous plants, and hormonal agents. .
+
+2.1 infectious causes of abortion
+
+2.1.1 bacterial 
+Bacterial abortions result from brucellosis, leptospirosis, campylobacteriosis (vibriosis), listeriosis, haemophilus somnus complex, and ureaplasmosis. Bacteria like salmonella, actinomyces, escherichia coli, streptococcus, staphylococcus, bacillus, pseudomonas, proteus, pasteurella, nocardia, and chlamydia species, as determined by the microbiological findings, can cause abortion. All these organisms and few others that are not listed have been isolated from sporadic cases of abortion. These are secondary to either a septicemia in the dam or ascending infection through the vagina and cervix or due to persistent endometritis.
+
+2.1.1.1 brucellosis
+
+Bovine brucellosis is the well known and most controversial infection of the bovine reproductive system. Brucellosis generally has been thought of as a cattle disease, but it is also seen in swine, sheep, goats, dogs, horses, and wildlife, and can be readily transmitted to humans. The disease represents a real occupational hazard for veterinarians, slaughter men, and cattle producers.
+
+Brucellosis is caused by the bacterium brucella abortus. The organism has an affinity for certain body tissues such as the udder, uterus, lymph nodes, testicles, and accessory sex glands. Because of its affinity for the uterus, abortion is the usual sign of the disease.
+
+Brucellosis is a particularly difficult disease as there is no sure way to identify infected cattle by their appearance, all infected cattle do not abort. In addition, the incubation period for brucellosis is variable. Brucellosis is primarily transmitted to susceptible animals by direct contact with infected animals. Essentially, the only time an infected cow transmits the organism is at or around calving or abortion. Aborted fetuses, placental membranes, placental fluids, and the vaginal discharges that persist for several days after an infected cow has calved or aborted contaminate surroundings all around with virulent brucella organisms. The organism may be transmitted to other animals that contact the environment that has been contaminated with discharges from infected animals. Milk and colostrum from infected cows are the readily available source of infection for calves and the human population.
+
+2.1.1.2 leptospirosis
+
+Leptospirosis is a contagious, bacterial disease of animals and humans. In cattle, horses, pigs, sheep, goats, and dogs, it has been characterized by a wide variety of conditions including fever, icterus (jaundice), hemoglobinuria (bloody urine), abortion, and death. However, the concept of this disease has recently changed. It is used to be considered a highly fatal disease, but is now thought to be a widespread, mostly subclinical infection of many species of wild and domestic animals.
+
+Signs of leptospirosis in cattle range from mild, unapparent infections to acute infections that end in death clinical signs that precede abortions may suggest leptospirosis, highest abortion rate occurs in the last 3 months of gestation.
+
+Antibodies first appear in the serum of infected animals by the sixth or seventh day, and titers rise rapidly to a high level. Titers then decline to a more or less constant level and may persist for months. Samples sent to the laboratory for culture must be collected and shipped as rapidly as possible because leptospiras do not survive long in dead tissue.
+
+2.1.1.3 campylobacteriosis, vibriosis
+
+Campylobacteriosis (vibriosis) is a venereal disease of cattle caused by the organism campy/obacter fetus subspecies fetus. Before 1973, this organism was known as vibrio fetus subspecies venerealis, campylobacteriosis is characterized by infertility with an increased number of services necessary for conception. Early embryonic deaths are common. In a herd that has never been exposed, and where no immunity exists, an acute type of infertility problem develops. In this case, infertility caused by endometritis results in early embryonic death and a prolonged period (up to 120+ days) passes before successful conception occurs. Spread of the organism to the male is primarily by way of copulation with an infected female.
+
+A definite diagnosis of genital campylobacteriosis can be difficult and laboratory test results are often disappointing. Although blood tests are available, they are not reliable because it is not a systemic disease and antibodies are rarely found in the blood stream.
+
+2.1.1.4. Listeriosis
+
+Listeria monocytogenes is a well-recognized cause of abortion, encephalitis and septicaemia in cattle. L. Ivanovii has also been implicated as a cause of abortion in cattle but occurs less frequently than l. Monocytogenes. Listeric infections and abortions usually develop in the late winter or early spring.
+
+2.1.1.5 mycotic
+
+Fungal or mycotic infection of the placenta is one of the most common causes of sporadic bovine abortion. Providing good health (via good management and nutrition) and avoiding moldy feeds can reduce the incidence. When possible, depending on the availability and demand decrease the period of confinement, decrease cow density, and improve ventilation.
+
+2.1.2 viral
+
+2.1.2.1 ibr (infectious bovine rhinotracheitis or "red nose") :
+
+Infectious bovine rhinotracheitis virus is the cause of respiratory disease of cattle. However, in cows and heifers, this virus can also cause vulvovaginitis (inflammation of the vulva and vagina) and abortion. Abortion typically occurs about 20 to 45 days after infection. The control of ibr infections can be accomplished by the use of vaccines.
+
+2.1.2.2 bvd (bovine virus diarrhea) :
+
+Bovine virus diarrhea virus infection can cause abortion, weak calves at birth, calves with brain damage (cerebellar hypoplasia) or other abnormalities of fetal development. Clinical signs in newborn calves infected with bvd can include fever, nasal discharge, diarrhoea and inability to move about normally (ataxia).
+
+A diagnosis of bvd virus infection requires laboratory examination of the fetus or calf. A blood test may aid in the identification of infected cattle.
+
+2.1.3 protozoal :
+
+Protozoal diseases causing abortion are trichomoniasis, sarcocystosis ("sarcosporidiosis") and neosporosis.
+
+Trichomoniasis :
+
+Trichomoniasis, is a venereal disease of cattle. It is caused by the protozoan, trichomonas fetus. These organisms are harbored in the reproductive systems of infected animals, and are transmitted from one cow to other cow by infected bulls. Cows will generally get rid themselves of the disease after 60 to 90 days of sexual rest, but infected bulls appear to be unable to develop immunity. Infertility is the most common clinical sign of a trichomoniasis infection. Abortion generally occurs early in gestation (first 3 months). Because little tissue is shed during these early abortions, they often go undetected. Commercial vaccines are now available. Proper immunization requires two injections, usually administered two to four weeks interval. Annual revaccination may be recommended.
+
+2.2. Non-infectious causes of abortion
+
+Nutritional : starvation may result in placental insufficiency and abortion, however, it rarely occurs in a modern dairy practice. Vitamin a deficiency has been suggested to result in thickening and degeneration of placenta and abortion in late gestation. Iodine deficiency has also been suggested as a cause of abortion.
+Chemicals, drugs, and toxins : toxic agents may also cause abortions or early embryonic deaths. Cattle are susceptible to fertilizer nitrites and nitrates or the nitrates found in plants under certain conditions (e.g. Drought-stress). If a cow is exposed to sufficiently high levels of nitrates/ nitrites (-.55 % or greater nitrate in forage), abortions may occur, especially in late gestation. Mycotoxins from the fungal agents are suspected to cause abortion. Bacterial endotoxin is responsible for sporadic abortions. Among the hormonal agents, estrogen, glucocorticoids, and prostaglandin are important. They cause abortion depending on the dose and the stage of gestation they are used. Stress may also cause abortion.
+
+Important points to improve fertility
+
+When reproductive efficiency reduces there is need to take help of veterinarian, artificial insemination (ai) technician, feed company representative and other resource people to troubleshoot the causes and determine solutions to the problem.
+
+1. Management causes of infertility
+
+Surveys and infertility camps in field by field veterinarians will provide information about fertility status. This will also help to plan future reproduction and production programs in livestock industry. 
+As reproduction is directly related with production, better fertility will reduce the production loss and improve the economy of dairy industry.
+Use of advance scientific knowledge to reach root causes of the problem and use of technologies like synchronization of estrous, ultrasonography, culture and antibiotic sensitivity test for diagnosis etc by field workers will help to improve fertility status.
+
+There is need of training farmers for estrous detection. Ai is an important biotechnology available at door step of farmers but well trained technician/veterinarian is essential to get optimum results. Untrained/ raw inseminator is responsible for not only low conception rate but also for increase risk of damaging reproductive system of animals, hence this job should be assigned to a well trained professional. Proper timing of ai can enhance the conception rate.
+For the maintenance of high breeding efficiency, it is primarily essential to maintain good level of general health, and thus prevent the onset of debilitating diseases. Animals do resist field by field veterinarians will adverse influences which might interfere with the genital functions, but the resistance is largely dependant on the inherent power of constitutional fitness to a great extent.
+Balanced feeding including greens and mineral mixture is essential for normal reproductive performance. Sufficient greens, mineral supplementation and correction of negative energy balance improve fertility. Additional feed allowance and mineral supplementation during last trimester of pregnancy and peak of lactation i.e. Steaming up is advised to get a healthy calf and consistent yield.
+
+2. Endocrinological (hormonal imbalance) infertility
+
+Feeding of areca leaves/ waste should be avoided. In delayed ovulation consult a veterinarian for assistance. Use of hormones should be limited and only be done when unavoidable.
+
+3. Infectious infertility
+
+Maintain a history of herd vaccinations, movement of cattle to and from other premises, and management and origin of bulls. Keep reproductive history records of cows, including number of abortions, conception rate, and approximate breeding dates.
+
+Whenever there is abortion identify aborting cows and isolate them from the rest of the herd. This helps to prevent spread of infection. Testing for brucella should always be a part of every pre-breeding evaluation. Always conduct test for specific infections. Use blood tests as well as bacterial or viral cultures in diagnosing specific infections. If an infection is identified, treat, vaccinate or cull infected cows as indicated.
+
+Most of the diseases that cause abortions in cattle are zoonotic and can be easily transmitted to humans. Aseptic procedures in handling aborted fetuses and associated tissues, when examining the animal's reproductive system is essential. Use of disposable sterilised plastic gloves protects both the. Technician and animal from contamination.
+
+Source : 
+

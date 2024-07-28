@@ -1,0 +1,140 @@
+Revenue Insurance Scheme for Plantation Crops
+
+The Revenue Insurance Scheme for Plantation Crops (RISPC) is a Department of Commerce scheme for protecting growers of tea, coffee, rubber, cardamom and tobacco from the twin risks of weather and price arising from yield loss due to adverse weather parameters, pest attacks etc. and from income loss caused by fall in international/domestic prices through crop insurance mechanism.
+
+Duration
+The duration of the pilot scheme shall be one crop cycle commencing from the year 2016-17 which may spread over 2 years.
+
+Coverage of the scheme
+The Insurance premium subvention under RISPC is for small growers of Rubber, Tea, Coffee (Robusta and Arabica), Tobacco and Cardamom (small and large) having 10 ha. or less landholding. The scheme will be applicable to mature standing crops only.
+The Scheme is compulsory for growers registered with the respective Commodity Boards (CBs) in the pilot districts/member growers availing themselves of benefits under other schemes of Government through CBS and/or growers availing themselves of loans from public financial institutions/bodies including the CBS.The Scheme is optional for other small growers. Large growers can also participate in the scheme by paying the the actuarial premium as they are not eligible for premium subsidy.
+The scheme would be implemented initially on pilot basis in selected eight districts of seven States. The total number of small growers expected to be covered are around 1.8 lakhs with all area coverage of around 2.10 lakh hectares. 
+The scheme will operate on the principle of 'Area Approach' in the selected districts. Commodity Board, in consultation with the concerned State Government shall designate an area as Insurance Unit (IU), which can be a village/village panchayat or any other equivalent unit.
+Scheme will cover income loss arising out of yield loss /price fluctuations or both. Yield loss can be due to non-preventable risks viz., drought, dry spells, flood, inundation, pest and diseases, landslides, natural fire, lightening, storm, hailstorm, cyclone etc. Price fluctuation can be due to fall in international/domestic prices below the average price of last 5 years excluding the current year.
+Losses arising out of war and nuclear risks, malicious damage and other preventable risks are excluded.
+
+List of 8 Pilot Districts under RISPC
+Crop
+State
+Pilot District 
+No.of growers (upto 10 Ha)
+Area Covered (Ha)
+
+
+Rubber
+Kerala
+Paliakad
+71900
+36000
+
+
+Tea
+Tamil Nadu
+Coonoor (Nilgiris)
+38311
+27000
+
+West Bengal
+Jalpaiguri
+9000
+8000
+
+Assam
+Golaghat
+10044
+9224
+
+
+Coffee  (Robusta)
+Karanataka
+Chikmagalur
+14853
+25574
+
+
+Coffee (Arabica)
+Karnataka
+Chikmagalur
+45520
+
+
+Tobacco
+Andhra Pradesh
+West Godavari
+11424
+24406
+
+
+Cardamom(Small)
+Kerala
+Idukki
+25000
+28925
+
+
+Cardamom (Large)
+Sikkim
+East Sikkim
+5200
+6204
+
+
+Total
+185732
+210853
+
+
+Methodology for Implementation:
+At least two months prior to the commencement of the crop season, Commodity Boards in consultation with the concerned State Government shall convene a meeting of all stakeholders to finalize the terms and conditions, issuance of bid notice and select Insurance Companies to carry out implementation of the pilot scheme during file insurance period.
+Adequate publicity shall be given in all villages of the pilot districts using all possible means of electronic and print media, grower's fair, exhibitions, SMS, short films, and documentaries etc. The Commodity Boards in collaboration with lnsurance Companies and concerned State Governments shall organize training/ workshops/ sensitization programmes.
+Commodity Board shall provide 5 years authentic historical yield and price data to Insurance Companies for calculations of indemnity limits, premium rates etc. in respect of insurance units, If the data is not available, data at next higher unit /weighted average of contiguous units shall be given.
+Till standardised yield estimation method is finalized in consultation with NSSO, IASRI etc., during the pilot period, the existing method of yield estimation by the Commodity Boards or methodology acceptable to Commodity Boards/ Insurance Companies and growers shall be applicable.
+The Average price shall be based on average domestic-auction/international auction/Indicator price of last 5 years depending upon the crop. Before the commencement of the crop season, in consultation with stakeholders the Commodity Boards shall decide the modalities, mechanisms and work out the average price of the insured crops.
+Indemnity for the calculation of Sum Insured which shall not be below 80% shall be fixed by the respective Commodity Board. The average yield of the insured crop in an Insurance Unit shall be taken as equal to the average yield of last 5 years excluding the current year. Average Income is equal to Average yield (per ha of last 5 years) X Average price (Rs./ ha of last 5 years). Sum Insured in respect of a crop shall be average income of past five years multiplied by applicable indemnity level for that crop.
+
+Sample Calculation
+If Average Income is calculated as Rs,2,00,000 per Ha (based on last 5 years moving average of yield and price) and Indemnity level is predefined to 90% :
+(All amounts in Rs/Hectare)
+Sum insured = Rs 2,00,000 X 90/100 = Rs 180000/-.
+Premium quoted by Insurance Company =5% of sum Insured (SI) =Rs 9000/-
+If actual income =Rs 1,60,000/-
+Claim amount payable to grower =Sum Insured minus actual income = Rs 1,80,000 -1,60,000 = Rs 20,000/Ha
+If actual income is equal to or more than the Sum Insured in an insurance unit, growers are not eligible for any payment during the crop insurance period. The Insurance Companies will work out premium on the Sum Insured (SI) and will declare the same for each crop.
+
+The rate of insurance premium payable by the Government of India (through Commodity Boards), State Government and growers is in the ratio of 75:15:10. In case the State Government in the area/region covered by the scheme does not contribute its share of premium, the share of premium by growers shall increase to that extent.
+
+Commodity Board, in consultation with the State Government, shall also ensure the circulation to all concerned agencies/ Departments at least 1 month in-advance of the commencement of the crop season the necessary details Incorporating all essential details about insured crops, areas, sum insured, premium rates for farmers, Government subsidy, seasonality discipline (cut- off dates) for each activity etc. This shall be done digitally and uploaded on the website of the Boards, State Governments and the Insurance Companies also.
+
+Commodity Boards shall provide seasonality discipline (time-limit/cut-off date) for following activities under the scheme :
+Submission of insurance proposals by growers to bank branches/PACS/ Regional offices of Commodity Boards etc;
+Submission of consolidated proposals by the Regional Offices of Commodity Boards/Bank branches/Primary Agriculture Cooperative Societies (PACS) to Commodity Boards/ Nodal Banks;
+Submission of consolidated proposals to Insurance Companies by the Commodity Boards/ Nodal Banks;
+Submission of yield/ price data by the Commodity Boards to Insurance Companies,
+Settlement of claims by Insurance Companies.
+Online payment of admissible claims to Nodal Banks by Insurance Companies,
+Crediting of admissible claims to growers' account by Bank branches/ PACS.
+Placing of list of insured growers in the notice board of the bank branch/PACS both digitally and manually for information
+Uploading of details of beneficiaries on the website of Commodity Boards and Insurance Companies.
+
+Regional Offices/Designated Agencies of Commodity Boards/branches of designated Commercial Banks/Regional Rural Banks (RRBs)/Primary Agriculture Cooperative Societies (PACS) shall receive proposals from growers. Insurance Company may also avail the service of Insurance Regulatory and Development Authority of India (IRDA) approved Insurance Agents/ Insurance Intermediaries for the coverage of non-loanee rowers.
+
+For loanee growers, whenever banks/PACS sanction loans for an insured crop in an insured area, the crop loan amount to file extent of scale of finance for insured crop and acreage of individual insured crops of loanee growers only shall be taken into consideration for compulsory coverage.
+
+Non-loanee growers desirous of' availing insurance shall fill up proposal form and submit the same along with premium to the nearest bank branch/ authorized insurance intermediaries/ directly by post to Insurance Companies, On-line portal of concerned Insurance Company can also be used for availing the crop insurance.
+
+The proposals to be submitted by Nodal Banks/Regional Office of Commodity Boards/Insurance Agents (non-loanee growers) shall contain details like name of the Insurance Unit, Sum Insured per unit, premium per unit, total area insured, number' and category of growers covered (small/large), number of farmers under SC/ST/Other/Women along with their bank account details, Aadhaar number etc. as per the format to be designed by the Commodity Board.
+
+Insurance Company retains the right to accept or reject insurance proposal(s) in case the proposal is incomplete or not accompanied by necessary documentary proof, or insurance premium- ordinarily with 1 month of receipt of proposal by Insurance Companies. If the proposal is rejected, the Insurance Company will refund the collected premium in full without any deductions or charges.
+
+In case of adverse seasonal event, Joint Committee of concerned State Government, Commodity Board and Insurance Company(s) shall be formed before a crop season for each pilot district which shall issue a report on yield loss due to adverse seasonal events within 7 days from the occurrence of the event based on weather data, Satellite imagery etc. Based on the above report, Joint inspection of affected area may be done by Insurance Company along with State Government and Commodity Board officials to arrive at the extent of losses. If the entire crop in an insurance unit is damaged due to the occurrence of adverse seasonal events, average yield of the previous 5 years should be taken as the yield of the affected insurance unit in the crop season.
+
+In case of growers covered through Financial Institutions, claims shall be released only through electronic transfer, followed by hard copy containing claim, particulars to nodal banks. Bank branches/ PACS at grass root level will credit the claim amount into account of individual" growers within a week of receipt of funds `from the Insurance Companies and shall provide a certificate to the Insurance Companies along with list of growers benefited. Bank branch/PACS shall display particulars of beneficiaries on notice boards. The same shall be uploaded on file Websites of Commodity Boards/Insurance Companies.
+
+In case of growers covered on voluntary basis through intermediaries, payable claims shall directly be credited to the concerned bank accounts of insured farmers and details of the claims may also intimated to them by post. The list of beneficiaries shall also be uploaded on the website of the Commodity Boards / Nodal Banks/ Insurance Companies immediately.
+
+Insurance Companies shall resolve all the grievances of the insured growers and other stakeholders in the shortest possible time.
+
+Disputed claims/substandard claims, if any, may be referred to Commodity Boards with three months of claim disbursement for consideration and decision in the matter" Interpretation of provisions of the scheme or disputes by the District Level Committee constituted by the respective Commodity Board for the monitoring of the Scheme and redressal of grievances will be binding on Insurance Companies/ Banks/ PACS and the farmers.
+
+Claims should be settled within 3 weeks from file date of receipt of yield/price data from the Commodity Board. No relaxation in file cut-off date shall be normally considered/granted, once it is fixed by the Commodity Board for a crop season. The liability of payment of all claims shall be of the Insurance Companies.
+

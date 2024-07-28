@@ -1,0 +1,136 @@
+General insurance companies empanelled under crop insurance schemes
+
+Details of insurance companies empanelled under crop insurance schemes
+Insurance company name
+Insurance company code
+Short name
+Toll free number
+Headquater email
+Headquater address
+
+Agriculture insurance company
+1001
+Aic
+1800116515
+Fasalbima@aicofindia.com
+Office block-1, 5th floor, plate-b &amp; c, east kidwai nagar, ring road, new delhi-110023
+
+Bajaj allianz general insurance co. Ltd
+1004
+Bajaj allianz
+18002095959
+Bagichelp@bajajallianz.co.in
+Bajaj allianz house, airport road, yerawada, pune 411 006
+
+Bharti axa general insurance company ltd.
+1019
+Bharti axa gic
+18001032292
+Customer.service@bharti-axagi.co.in
+7th floor, merchantile house, k.g.marg, new delhi - 110 001.
+
+Cholamandalam ms general insurance company limited
+1002
+Chola ms
+18002005544
+Customercare@cholams.murugappa.com
+2nd floor, "dare house", no.2, nsc bose road,chennai - 600001, india. Phone: 044-3044 5400
+
+Future generali india insurance co. Ltd.
+1005
+Future generalli
+18002664141
+Fgcare@futuregenerali.in
+Indiabulls finance centre, 6th floor, tower 3, senapati bapat marg, elphinstone west, mumbai, maharashtra 400013
+
+Hdfc ergo general insurance co. Ltd.
+1006
+Hdfc ergo
+18002660700
+Grievance@hdfcergo.com
+D-301, 3rd floor, eastern business district (magnet mall), lbs marg, bhandup (west). Mumbai - 400078 state : maharastra , city : mumbai, pin code : 400078
+
+Icici lombard general insurance co. Ltd.
+1009
+Icici lombard
+18002669725
+Customersupport@icicilombard.com
+Icici lombard house414, p.balu marg,off veer sawarkar marg,near siddhivinayak temple, prabhadevi,mumbai-400025.
+
+Iffco tokio general insurance co. Ltd.
+1007
+Iffco tokio
+1800 103 5499
+Cgo@iffcotokio.co.in
+Iffco tower ,plot no. 3 , sector 29 , gurgaon -122001,haryana(india)
+
+National insurance company limited
+1016
+National insurance
+18002007710
+Customer.relations@nic.co.in
+National insurance co. Ltd.3 , middleton street , kolkata -700071,west bengal
+
+New india assurance company
+1014
+New india assurance
+18002091415
+Customercare.ho@newindia.co.in
+87, mg road, fort, mumbai - 400001
+
+Oriental insurance
+1015
+Oriental insurance
+1800118485
+Ykrao@orientalinsurance.co.in
+The oriental insurance company ltd.crop cell, head office, new delhi
+
+Reliance general insurance co. Ltd.
+1003
+Reliance gic
+180030024088
+Rgicl.services@relianceada.com
+Reliance centre , south wing , 4th floor,off western express highway, santacruz (east), mumbai - 400055
+
+Royal sundaram general insurance co. Limited
+1018
+Royal sundaram gic
+18604250000
+Crop.services@royalsundaram.in
+Vishranthi melaram towers, no. 2/319, rajiv gandhi salai (omr), karapakkam, chennai - 600097
+
+Sbi general insurance
+1012
+Sbi gic
+18001232310
+Crop.help@sbigeneral.in
+101,201,301, natraj. Junction of western express highway &amp; andheri - kurla road. Andheri east mumbai - 400069
+
+Shriram general insurance co. Ltd.
+1017
+Shriram gic
+180030030000/18001033009
+Chd@shriramgi.com
+E-8, epip, riico industrial area, sitapura jaipur (rajasthan) 302022
+
+Tata aig general insurance co. Ltd.
+1010
+Tata aig
+18002093536
+Customersupport@tataaig.com
+Peninsula business park, tower-a, 15th floor, ganpat rao kadam marg, lower parel, mumbai, maharashtra-400013,india.
+
+United india insurance co.
+1013
+United india
+180042533333
+Customercare@uiic.co.in
+Customer care department, no.24, whites road, chennai-600014
+
+Universal sompo general insurance company
+1008
+Universal sompo
+18002005142
+Contactus@universalsompo.com
+Unit no 401, 4th floor, sangam complex,127, andheri – kurla road, andheri (e),mumbai-400059.
+

@@ -1,0 +1,112 @@
+ drying
+
+Why is drying important?
+
+After threshing, the moisture content of grains remains generally higher than the desired for safe storage of grains (13-14%). Drying is the phase of the post-harvest system during which the product is rapidly dried until it reaches the “safe-moisture” level. The aim of drying is to lower the moisture content of the grain for safe storage and further processing.
+
+Methods of drying
+
+For drying grain, essentially two methods, viz., natural drying and artificial drying are used.
+
+Natural drying
+
+The natural drying method consists essentially of exposing the threshed products to the air (in sun or shade). To obtain the desired moisture content, the grain is spread in thin layers on a drying-floor, where it is exposed to the air. The duration may vary depending upon the moisture content required for safe storage. To achieve uniform drying, the grain must be stirred frequently, especially if it is in direct sunlight.
+
+Furthermore, for drying to be effective, the relative humidity of the ambient air must not be higher than 70%.
+
+ some important points to remember: 
+
+Grains must not be exposed at night. In fact, by bringing about an increase in the relative humidity of the air, the grains getre-humidified.
+This method should not be used in humid regions or during the rainy seaso11.
+It must be remembered that insufficient or excessively slow drying can bring severe losses in product during storage from the selfgenerated heat of “green” grain.
+Finally, prolonged exposure of grain to atmospheric factors, results into pest attack (insects, rodents, birds) and micro-organisms (moulds) development.
+Grains should be sun-dried in the middle of the day only (when air is dry).
+Do not dry grains in bags on a concrete floor. Use bag dryer which forces heated air through the grains in sacks.
+
+Advantages
+
+Very low initial cost 
+Reduces the cost of drying
+Flexible capacity
+
+Disadvantages
+
+Slow drying process 
+Depends on the weather
+High risk of contamination e possible loss due to birds and rodents
+High labour input
+
+Artificial drying
+
+In artificial drying, heated air (dryers) or unheated air (dehumidifiers) is blown through a grain mass.
+
+Forced hot-air drying
+
+This is the most wide spread practice in semi-humid and humid conditions where natural drying cannot be used. Artificially heated air is forced to flow through a mass of grain in bulk or in bags to absorb released moisture from grain mass
+
+Advantages
+
+Facilitates early harvesting 
+Reduces shattering losses in the field
+More rapid drying in terms of capacity
+Independent of weather conditions
+
+Disadvantages
+
+Heavy initial cost
+High cost of drying
+Risk of seed damage due to high temperature 
+Requires skilled personnel and regular monitoring
+Risk of breakdown or fuel shortage at critical times
+
+Dehumidified air-drying
+
+In case of dehumidified air-drying, unheated dehumidified air is circulated through the grain mass, until the moisture content of the grain is reduced to the desired level. It is more commonly applied when small quantities of grain must be dried to very low moisture content for being used as seed.
+
+Advantages
+
+Easy and simple to manipulate
+Low risk of seed damage from hot air
+
+Disadvantages
+
+Not suitable for large-scale production 
+High cost of investment
+
+Drying systems and types of dryers
+
+For artificial drying of grains, two types of dryer are used :
+
+Static or discontinuous dryers or batch dryers
+
+These types of dryers are comparatively less expensive and can handle only modest quantities of grain, thus they are better suited for small and medium scale centers for the collection and processing of grains. Three following types of batch dryers are generally used :
+
+Floor dyers : suitable for all grains of all sizes.
+Bag dryers : suitable for small grain lots to be used as seed where many varieties are handled (breeder and foundation seed). All types of grains in sacks.
+Box dryers: suitable for large grain lot where slow drying is required.
+
+Continuous dryers
+
+These are high-flow dryers that need a more complex infrastructure, complementary equipment and special planning. They are, therefore, more appropriate for big centers, silos or warehouses, where very large quantities of product are handled. Continuous dryers are generally of three types
+
+Continuously flowing vertical dryers: suitable for quick and normal drying and free flowing grains of single variety. Can handle large volume of grain. Not suitable for small lots of different varieties.
+Continuously flowing belt dryers : suitable for quick and normal drying seeds, small to very small lots and chaffy seeds.
+Rotary dryers: suitable for quick and normal drying grains, chaffy grains with moderate moisture. Suitable for large capacity drying. Not suitable for grains with high moisture.
+
+How to choose an appropriate drying system?
+
+The selection of a suitable drying system depends on the following factors
+
+Drying capacity: capacity of the dryer should be sufficient enough to handle the volume of grain to be dried
+Initial investment : initial cost and maintenance cost. 
+Fuel and power: availability and cost.
+Kind and chemical composition of grain : grains are of three types based on their tendency to release excess moisture :
+
+Slow drying grains (maize, rice, legumes, lupin) 
+Normal drying grains (cereals)
+Fast drying grains (sugar beet, grass seed)
+Size of the grain lot : how the grain is to be delivered (bulk, sacks).
+Moisture content : initial and the desired moisture content after drying.
+Flowing properties of the grain : there are two main categories: free flowing grain and grains with poor flowing characteristics such as chaffy seeds.
+Temperature and relative humidity of the ambient air : cool and damp weather will increase the drying cost, whereas same will be much less in hot and dry weather.
+

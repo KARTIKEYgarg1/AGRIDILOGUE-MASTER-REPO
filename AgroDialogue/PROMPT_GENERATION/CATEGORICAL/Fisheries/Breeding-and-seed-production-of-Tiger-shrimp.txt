@@ -1,0 +1,85 @@
+Breeding and seed production of tiger shrimp
+
+Introduction
+
+Shrimp has remained as a luxury commodity due to high popularity and delicious taste. In recent times, shrimp has become a more popular source of protein food, which commands high prices in the international market. This great importance increased the exploitation of shrimp, which resulted in the sudden decline in the natural stock. Thus, it has become imperative to culture commercially important shrimp species.
+
+The aquaculture operation of the shrimp basically requires an abundant, reliable and inexpensive source of seed supply. Without such source, the production will not be possible. Hence, the captive shrimp seed production has received much attention. A variety of techniques for hatchery production of shrimp seed have been developed in different parts of the world, which is generally capital intensive and uses high technology. In india, it is important to have a technology which is low-cost and simple enough to be used even by semi-skilled labourers.
+
+Biology of shrimp
+
+Phylum: arthropoda
+Class: crustacea
+Order: decapoda
+Family: penaeidae
+Genus: penaeus
+Species: monodon
+
+Distribution
+
+Penaeus monodon occurs in the brackishwater areas, in estuaries and in the inshore waters of the east and west coasts, but its availability in the world is much lesser when compared to other marine shrimps like p. Indicus. P. Monodon completes its life cycle in two environments, namely, marine and estuarine environment. It is a euryhaline species with high tolerance to fluctuations in salinity.
+
+P. Monodon is the fast-growing and largest shrimp in the world. The female grows to a length of 363 mm (440 g), while the maximum size attained by males is 270 mm (180 g). In shrimp culture farms, they are usually harvested at about 160–165 mm (30–35 g) in size. The stocked seed (15–20 mm) attain this harvest size in about 4 months in 15–25 ppt salinity. The males are usually smaller in size and have an external reproductive organ called petasma, which is found in the first pair of pleopods. The females are larger in size and can be identified by the presence of the external reproductive organ called thelycum, which is situated at the base of 4th and 5th pair of walking legs.
+
+Shrimp life cycle
+
+Broodstock collection and transport
+
+A commercial hatchery depends on the wild caught breeders in addition to its own reared stock. Typically, the live breeders are collected from the commercial trawler operation or county boat operation. A collapsible pvc sheet tank or fibreglass tank (1 – 2 t capacity) and battery-operated aerators are provided to transport the live breeder from the sea to shore. Live animals holding tanks are transported in trucks with the provision of continuous aeration by using oxygen cylinder. A double-walled plastic bag with cool sea water (22 – 24oc) with oxygen and packed in the styrofoam boxes are used. The shrimp rostrum is covered with a small rubber tube to prevent the puncturing of plastic bags or the spawners are immobilized in separate pvc pipes. The spawners are kept in the quarantine before being introduced into the brood’s section. They are treated with formalin dip at 25 ppm for about 15 – 20 mins, malachite green dip at 0.5 ppm for about 2 – 3 mins and furazolidone at 0.4 ppm for about 5 – 10 mins to prevent diseases.
+
+Broodstock maturation and spawning
+
+Larval development stage
+
+Breeding tank
+
+A spawning tank should have both a minimum water volume and depth. The fertilization rate of the egg depends on the concentration and active movement of the sperm which is inturn influenced by the mating environment. An ideal stocking is about 4 – 6/m2 with a ratio of one male and one female. However, three female and one male is economically viable due to higher egg and larval production. Before stocking, ablate the female with one eyestalk, which induces the development of ovary.
+
+Eyestalk ablation
+
+The male and female are isolated into different cisterns. The males are transferred into tanks with 20 ppm otc (oxytetracycline). Hold the animals for about half an hour then transfer into the maturation tank. During, eyestalk ablation the moulted animals are not suggested as they will not survive ablation. Typically it is done to destroy the x-sinus gland in one of the eyestalks which produce and store gonad-inhibiting hormone (gih), this process accelerates the gonad growth. An ablated female takes 3 -7 days to mature. This is done by the following methods
+
+Pinching the eyestalk and eyeball with or without the prior incision on the eyeball.
+Cauterisation of the eyestalk with heated surgical clamps, forceps or soldering iron.
+Direct cutting of eyestalk with a pair of scissors.
+Lighting the base of eyestalk.
+
+The ablated females are maintained in the same tank with the unbalanced male. They are normally fed with chopped fresh clams, mussels and oysters. The water exchange is done depending on the faecal matter and condition of the water.
+
+Spawning and production of nauplii
+
+When the ovaries have developed to the ripe stage (dark green in colour), the brooders are transferred to the spawning tank. The eggs produced from early spawning are usually more and of good quality than that of the subsequent spawning. The fertilized eggs are spherical and hatch into the nauplii within 12 – 15 hrs of spawning. These nauplii can be harvested with the help of light source, as they are phototactic in nature. Harvested nauplii can be stocked in larval rearing tanks for further rearing.
+
+Larval rearing 
+
+The tanks should be disinfected with 200 ppm chlorine water for 8–10 h and then thoroughly scrubbed with a mixed solution of 200 ppm chlorine and 5 % detergent by using sponge pads. Then the tank is thoroughly rinsed with freshwater and dried for at least 24 h. The tank is filled to 60 % capacity with treated and filtered seawater. Prophylactic treatment with fungicide (treflan 0.05 ppm) and an antibiotic should be given to the tank water 1 h before stocking. Just before stocking, algae (chaetoceros sp.) should be added at a density of 100,000 cells/ml. The tank water should be sufficiently aerated throughout the culture operation. Recommended stocking density is 100,000 nauplii/tank. If the tank is newly constructed, it should be thoroughly leached with freshwater and seawater, for 2–3 days before the preparations are carried out.
+
+The nauplii (n5/n6) received from the maturation section should be acclimated by adding the larval tank water to the acclimation buckets slowly by using a flexible tube (1 cm dia.) for about 10–20 min. Aeration should be given during acclimation. The nauplii can be released into the tanks slowly in small quantities at different points of the tank. One hour after stocking, the population should be estimated and recorded.
+
+The nauplii of shrimp are reared for 13 – 15 days till they reach pl3 or pl5. These passes 6 nauplius consisting of three zoeal and three mysis stage before reaching the postlarvae stage. Larval rearing is very critical in shrimp life cycle. They require clean and very healthy environment, timely feeding and utmost care. The larvae are fed with algae in zoeal stage. The chaetoceros sp. And skeletonema sp. Are also appropriate feed for shrimp larvae. Mysis stage onwards, the artemia nauplii is to be introduced as a feed along with algae. Micro encapsulated supplementary diets are also essential to get better results as well as to use as substitutes during the scarcity of live feeds. For larval rearing, the recommended salinity is about 28 – 35 ppt with the temperature of 28 – 32oc. Seawater ph is a good indicator for chemical quality of the seawater. The seawater ph should be within the range of 8.2–8.5 for larval rearing operations.
+
+Larval rearing operation of p.monodon
+
+Mix all the ingredients into a custard form by using a mixer. Cook it in a pressure cooker for about an hour. Take the required quantity of the cooked material, and sieve it through screen (500 μm) which gives fine granules. Wash the granules till all the fat content is removed. Squeeze out the water and mix it with water and broadcast it in the pl tank. Remaining part can be stored in a refrigerator for further use.
+
+Harvesting and packing of postlarvae
+
+Harvesting
+
+Make sure timing is well coordinated with the packing section, i.e. The pl section should be informed at least 24 h. In advance so as to organise manpower and setting of packing area (arrangement of basins as per the quantity of shipment setting of oxygen cylinders, regulators and boxes).
+Once water volume has been reduced to the desired level, install harvesting apparatus in a drainage ditch in position to catch outflow from outside standpipe of the culture tank and allow it to fill with water coming out of the tank. Also, start a flow of clean-filtered seawater such that a circular flow of water is generated inside the inner harvesting chamber.
+When harvest chamber is filled, remove screened inner standpipe of the tank and allow pls to flow to harvest chamber.
+Transfer the pls from the harvesting chamber into 60 l trash can. See that continuous mild aeration is maintained.
+Five 25 ml samples are collected at random from the 60 l trash can and kept under vigorous aeration (mild aeration is maintained once the sampling is finished)
+Population of harvested postlarvae can be estimated as follows:
+
+Total no of pls harvested = samples /total volume of sample ml x total volume of trash can
+
+Packing
+
+After arriving at the overall population in the known volume of water in the trash can, pls per litre can be calculated.
+Distribute the pls into the tubs containing 8 l of water. Care should be taken that the basins are also provided with gentle aeration.
+The temperature in the tubs is then reduced to 5 degree c below the normal water temperature. This is important because lower temperature reduces the normal activity of the pls.
+Once the temperature is reduced to the desired degree, the pls along with the water in the tub are transferred into double-layered polythene bags and packed at the ratio of 1:5 (water/air).
+The bag is sealed in a cardboard carton lined inside with thermocol sheet to maintain temperature. Few bags of ice are also placed adjacent to the polythene bag in the box to maintain the low temperature.
+

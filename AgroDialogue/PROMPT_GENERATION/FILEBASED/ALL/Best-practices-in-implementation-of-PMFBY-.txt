@@ -1,0 +1,216 @@
+Best practices in implementation of pmfby 
+
+Introduction
+Pradhan mantri fasal bima yojana (pmfby) is a crop insurance scheme which envisages an efficient insurance support for farmers of the country. Pmfby aims at supporting sustainable production in agriculture sector by:
+Providing financial support to farmers suffering crop loss/ damage arising out of unforeseen events
+Stabilising the income of farmers to ensure their continuance in farming
+Encouraging farmers to adopt innovative and modern agricultural practices
+Ensuring flow of credit to the agriculture sector the priority programme contributes to food security, crop diversification and enhancing growth and competitiveness of agriculture sector, besides protecting farmers from production risks.
+
+The focus areas with regards to implementation of pmfby are as follows:
+Spreading awareness through publicity campaigns
+Educating farmers about the benefits of the scheme to persuade them to get coverage under pmfby
+Wide coverage of non-loanee farmers under the scheme
+Coverage of maximum cropped area under the scheme
+Timely upload of information for insured farmers on crop insurance portal by financial institutions
+Electronic submission of submitting crop cutting experiment (cce) results
+Ensuring timely settlement of claims
+Ensuring transparency/accountability in the implementation of the scheme
+
+Because every one loves a good crop
+In a country where farmers toil to feed a population of 1.3 billion, the pradhan mantri fasal bima yojana is indeed a farmer-friendly scheme, eliminating complexities to meaningfully address crop losses faced by farmers. In baghpat district of uttar pradesh, village level workers organise regular discussions at short intervals to motivate and create awareness for adopting the scheme.
+
+Many training programmes and farmer fests have been organised in the area to educate farmers on various aspects of the scheme including the need for crop insurance, climatic conditions of the district, procedure of enrolment, nearby facilitation centres, etc.
+
+District level officials of department of agriculture, insurance company representatives and other officials of cooperative departments participate in village campaigns which enhance their impact and assure farmers about the insurance company activities.
+
+In some villages, farmers who already benefited in such schemes also share their experiences. This boosts the confidence of other farmers to continue farming despite natural calamities like drought and flood. They are also motivated to adopt innovative and modern agricultural practices.
+
+Owing to the success of the promotions, for the kharif crops season, over 12,000 farmers were covered and for the rabi crops season nearly 3,000 farmers were covered.
+
+Best practices for replication
+
+Awareness:
+Most important factor to ensure effective implementation of pmfby is awareness. Concerted efforts should be undertaken to create awareness amongst the farmers with the aim to increase the number of non-loanee farmers enrolled and to increase the coverage of total cropped area.
+Kisan melas, farmer goshthis and fortnight campaigns may be organised by the district administration to publicise pmfby.
+Farmers should be made aware of the cut-off dates of kharif and rabi insurance timelines under the scheme by distribution of calendars, regular village meetings, helpdesks at village centres and cscs, etc.
+Mobile vans and all types of media, social, electronic and print may be leveraged to create awareness.
+
+Implementation:
+Capacity building of the officials is important to upload crop cutting experiment (cce) data and farmer’s information on the crop insurance portal (cip). Cce data and beneficiary information should be regularly uploaded on the cce app and cip, respectively.
+Village level entrepreneurs (vle) in common service centres (cscs), aaple sarkar seva kendras (maharashtra) etc. Are important agents who provide assistance to farmers in the process of filling and submitting applications.
+Banks should open more counters and help desks to support and help farmers in completing documentation before the cut-off date. In beed, strategic police deployment was done to avoid law and order issues due to rush towards the cut-off date.
+Zero balance accounts can be opened in cooperative banks to bring non-loanee and loanee farmers in the cooperative fold for speedy premium collection and claim amount distribution.
+Additionally, primary agriculture credit societies (pacs) are involved as they have grassroot connectivity and are working as agencies for insurance companies.
+Policy interventions by districts to accommodate the needs and requirements of farmers such as keeping banks open on holidays and sundays close to the cut-off date.
+District level monitoring committee (dlmc) has been actively monitoring in many districts and they meet at regular intervals to discuss the progress of the scheme implementation.
+In sivaganga, crop signatures from remote sensing based information and insurance for crops in emerging economies (riice)-satellite technology was used to avail the total claim of the enrolled farmers previously denied by the insurance company.
+Implementation of the scheme also saw aadhaar authentication, linkage to jan dhan account and transfer of claim directly to beneficiary’s account by direct benefit transfer (dbt).
+Transparency should be made by steps like presence of both village level workers (vlw) and insurance company representative in west tripura during processing of application and assessment of crop damage.
+Grievance redressal mechanism should be in place. Redressal of complaints may be done directly via whatsapp groups, call centres, toll free call numbers and weekly/ monthly meetings with all the stakeholders.
+
+A trump card for india’s agrarian society
+One of the reasons for rising farm distress in india is crop failures and yield losses triggered by vagaries of climate. Moreover, dwindling rainfall fill the farmers’ lives with uncertainty. Nagapattinam district of has traditionally been called the paddy granary of south india, where most precipitation occurs within a very short span of 45 days. However, the actual rainfall received was only 1714.03 mm in 2017.
+
+To mitigate the effects of farm issues like these, the benefits of pmfby were publicised in the district which is aimed at shielding farmers from uncertainty through insurance. The scheme was heavily promoted to motivate farmers and create awareness amongst them to enrol in the programme. The authorities enlightened farmers with various aspects of pmfby - from the need for crop insurance, procedure of enrolment, nearby facilitation centres, enrolment centre for the village and compensation amount details, amongst other things. Additionally, radio talks and cultural programmes were conducted at village level to enrol more farmers. As a result, nearly a million of farmers enrolled under pmfby during rabi season 2016-17 and 2017-18.
+
+Suggestions for effective implementation
+Pmfby has multiple challenges due to diversity of cropped area, different terrains, coordination among stakeholders viz. Banks, insurance companies. This section contains suggestions, to overcome some challenges, made by various districts who applied for pm awards.
+Motivating farmers to adopt pmfby for risk coverage required behavioural change. Generally, when the crop doesn’t fail, farmers feel cheated as there is no return and in such scenarios coverage gets reduced in the following year. In efforts to overcome this challenge premium could be reduced for farmers when there is no claim in a year. This could be on pattern of no claim benefit as in case of car insurance. Another suggestion was that centre and state may bear full cost and premium be recovered from farmer in case of failure.
+Cash incentive could be given to best performing field functionaries which will motivate them to conduct awareness campaigns and convince farmers of the scheme benefits.
+The other challenge is the non-inclusion of some horticulture crops in the scheme and the high premium amount for horticulture crops (5%) compared to other crops (2%). For this farmers’ premium for horticulture crops should be reduced and made at par with agriculture crops.
+There is requirement of proper capacity building and training as states and districts should be made aware about provision such as of extending of cut-off dates that can be adopted by the state depending on the kharif and rabi crop cycle of that particular state/district.
+Technologies like satellite imagery can be used for assessing crop damage. In addition, geotagging of the crop cutting experiment could be linked with digitization of land records to shorten the process of testifying land records at the level of circle officer/tehsildar.
+The scheme’s scope is limited for districts in north-east where they have unique problems such as destruction of farm by wild animals, greater number of farmers producing horticulture crops, difficult terrain and low network connectivity. Special policy interventions should be taken to increase coverage.
+There should be a robust grievance redressal mechanism provided by insurance companies in addition to the one provided by common service centres (cscs) / officials.
+In the current system documents such as 7-12 extract, sowing certificates, bank passbook photocopy, aadhaar card copy etc. Are required for filling of the application. In order to save time of farmers record of rights (ror) should be linked with aadhaar.
+
+Together through the unpredictable
+The cuckoo’s call chimed through the sky as a farmer looked up at the rising sun and the paddy field he was working upon was suddenly doused with golden sunrays. In ramanathapuram district in tamil nadu, climate and other geographical factors like lack of major rivers, rainfall, etc. Routinely affects the agricultural produce. Apart from this, natural disasters are a commonplace, with floods and droughts spontaneously tormenting the natives.
+
+For the benefit of the farmers who harvest crops, the most important element for sustenance, the government has launched and successfully applied the pmfby scheme in the district.
+
+Sitting in the village’s common area, villagers were explained in local language, the important features offered by pmfby, including crop insurance, climatic conditions, enrolment procedure, nearby facilitation centres, required documents, and amount of premium, compensation amount details and the schedules.
+
+The farmers’ queries are also handled with understanding and patience, giving them further assurance. The successful campaigning has brought nearly 29,659 more farmers into the ambit of pmfby.
+
+Case studies
+
+Case study 1 : west tripura, tripura
+Initiatives undertaken awareness and promotion initiative:
+109 publicity campaigns and farmers awareness programmes have been conducted in 2016-17 and 140 have been conducted in 2017-18 at district, block and sector and gram panchayat level. Publicity has been done through social and electronic media and m-kisan state portal.
+
+Involvement of district machinery:
+Regular co-ordination and review meetings with all stakeholders is conducted along with intensive awareness campaigns by district administration to incentivize newly insured farmers
+
+Involvement of community/external agencies:
+Village level entrepreneurs (vles) operated at common service centers (cscs) for increased participation of farmers. Shgs, farmer’s club spread awareness about the programme. There were presence of both village level workers (vlw) and insurance company representative during processing of application and assessment of crop damage.
+
+Use of technology/ict:
+Information was uploaded timely regarding insured farmers on crop insurance portal by various financial institutions. Geo-tagging and photo uploading during crop cutting experiment (cce). Under electronic submission of cce 63.2% of the target has been achieved for kharif 2016 and 61.4% for rabi 2016. Compensation was directly transferred into bank accounts of farmers.convergence with other government schemes like national e-governance plan (negp) and agricultural technology management agency (atma) scheme.
+
+Impact (01.04.2016 to 31.12.2017)
+In kharif 2017, applications were received from 123 insured farmers out of 358 non-loanee farmers.
+In rabi 2017, 92.1% of insured farmer applications were for non-loanee farmers, as compared to 70.8% in rabi 2016
+
+Innovations adopted in implementation
+Involvement of village level entrepreneurs (vles)
+Operating common service centers (cscs)
+Involvement of pri members, shgs, farmer’s club in spreading awareness about the programme
+Presence of both vlw and insurance company representative during processing of application and assessment of crop damage
+Publicity through m-kisan state portal
+
+Local policy interventions to facilitate implementation
+Regular co-ordination &amp; review meetings with all stakeholders
+Intensive awareness campaigns by district administration
+Incentivisation of newly insured farmers
+
+Use of technology in implementation
+Processing of applications through cscs
+Geo-tagging and photo uploading during cce
+Photo uploading during crop damage assessment
+Electronic transfer of compensation directly into bank accounts of farmers
+Projection of short videos &amp; ppts 
+
+Case study 2 : uttarkashi, uttarakhand 
+Initiatives undertaken awareness and promotion initiative:
+20 awareness campaigns were conducted through krishak mahotsava during kharif and rabi season to create awareness about crop insurance 20 awareness campaign were conducted rabi and kharif at nyay panchayat level and krishak goshthi/ field day programmes were conducted under atma scheme. Awareness was generated through banners, hoardings and posters at bank branches, block headquarters and through agriculture insurance vans. 200 farmer goshthis conducted where pamphlets/posters/publicity materials were distributed containing brief description of the scheme. Uttarkashi focused on women farmers via self-help groups to get benefits of pmfby.
+
+Involvement of district machinery:
+Most of the farmers of the district are members of pacs and so secretary of these primary agriculture co-operative society (pacs) were trained for this programme. Insurance facilities were provided to the farmers by customer service centers (csc) at block and nyaya panchayat level. For proper monitoring of programme, agriculture department was given the responsibility for collecting and compiling information.
+
+Use of technology/ict:
+Farmer portal was used for registering of farmer data and whatsapp groups were used for quick information sharing among various departments and banks.
+
+Convergence:
+The scheme is converging with other schemes such as pradhan mantri suraksha bima yojna and pradhan mantri jeevan jyoti bima yojana. During the district level monitoring committee (dlmc) meetings all the banks were instructed to cover all crop insured farmers under pradhan mantri suraksha bima yojana once saving accounts of non-loanee farmers were opened.
+
+Impact (01.04.2016 to 31.12.2017)
+In kharif 2016, the scheme was not completely implemented in uttarkashi but in kharif 2017, 51% of insured farmer applications, were for non-loanee farmers.
+In rabi 2017, 66% of insured farmer applications were for non-loanee farmers as compared to 20.3% in rabi 2016.
+
+Innovations adopted in implementation of priority programme
+Use of technology (farmer portal, common service centre)
+Focus on non-loanee farmers.
+All the patwaris of district were instructed to provide land record of individual farmer.
+Publicity through agriculture insurance van.
+
+Local policy interventions undertaken to facilitate the progamme
+Employees of various departments deployed in the task of conducting village level awareness campaign, collecting their insurance form and submitting it to the bank.
+Most of the farmers of the district are members of pacs so secretary of these pacs trained for this programme.
+For proper monitoring of the programme, agriculture department was given the responsibility for collecting, compiling information from persons deployed in this task.
+Use of whatsapp group to quick share crop insurance information among various departments and banks.
+
+Case study 3 : beed, maharashtra 
+Initiatives undertaken awareness and promotion initiative:
+The district administration conducted special gram sabhas in all 1,031 gram panchayats to educate the people about pmfby. Additionally, 2,949 common service centres (csc) were established providing technical assistance to village level entrepreneur (vle). In order to disseminate information about pmfby and to reach out to the farmers district level call center, print media and electronic media was used such as all india radio, local cable channels, published bulletins and posters along with whatsapp groups created including ministers, mlcs, mlas and officers for planning.
+
+Involvement of district machinery:
+Pmfby was launched by hon. Rdd & wcd minister along with public representatives. Training was provided to agriculture, rdd & revenue staff at village level for effective participation of farmers and to village level entrepreneur (vle) for filling of crop insurance form through csc centers. Senior officers like divisional commissioner and agri. Commissioner were involved in district level discussion groups and for law and order related issues, dist sp, sdpos and other officers were involved. Banks were also opened on sundays and public holidays for farmers to submit applications and krishi mitras participated by assisting in filling application forms.
+
+Involvement of community and external agencies:
+Farmer producing organisations, ideal farmers in the district, gat sheti farmers, ideal farmers in the district. Assisted in the process. Ngos like global parli, manavlok and chief minister rural development fellows in villages also got involved in the programme implementation.
+
+Use of technology:
+Applications were uploaded online via online portal (http://agri-insurance.gov.in/login.aspx). Cce results were submitted through mobile app (cce agri) and compulsory usage of geo-tagged photo took place.
+
+Convergence:
+The scheme used competed aadhar authentication via usage of aadhaar number (de-duplication, etc.) and linkage to jan dhan account. It also leveraged with other schemes like nanaji deshmukh krishi sanjivani yojana, gat sheti yojana, magel tyala shet tale and magel tyala vihir.
+
+Impact (01.04.2016 to 31.12.2017)
+In kharif 2017, 92.8% of insured farmer applications were for non-loanee farmers as compared to 84.4% in kharif 2016.
+In rabi 2017, 98.6% of insured farmer applications were for non-loanee farmers as compared to 97.8% in rabi 2016.
+Percentage cropped area increased to 53% in kharif 2017 from 48.8% in kharif 2016 and 19.7% in rabi 2017 from 9.5% in rabi 2016.
+
+Case study 4 : nanded, maharashtra
+Initiatives undertaken awareness and promotion initiative:
+Farmers meetings and trainings were conducted in all 1,575 villages through “unnat sheti samruddh shetkari abhiyan” to give information about pmfby. A gramsabha was organized on 1st may especially for pmfby, samadhan shibir” was conducted by revenue department and 80 kisan goshthi programmes by atma. 25 workshops and exhibitions, 8 sessions of farmer trainings and 78,000 kisan sms were sent. For the purpose of publicity, the district used mobile vans (iec van), local radio channel and other electronic, press and print media. Additionally, crop loan mela was conducted at every revenue circle hq along with distribution of posters, leaflets, etc.
+
+Involvement of district machinery:
+Common service centers (csc) network and aaple sarkar seva kendra were effectively used for timely enrollment of applications. Bank help desk and field officers help desk were established in all villages along with regular district committee meetings. Skill development of all stakeholders was done such as those of village level field officers, cscs and group of master trainers, etc.
+
+Use of technology/ict: 
+Online monitoring of crop cutting estimation programme (e-crop estimation) was practised at taluka and district level. At taluka level, daily data updated to cce and at district level, data was checked, locked and submitted to commissioner level. Cce agri. Mobile app was used for capturing and uploading of gps based photos. E-crop estimation software and crop insurance portal were also made useful.
+
+Convergence:
+The scheme was converged with various other schemes such as unnat sheti samruddh shetkari abhiyan by agriculture department, samadhan shibir conducted by revenue department, kisan goshthi – atma, mregs - iec van, jalyukt shivar abhiyaan - publicity campaign, etc.
+
+Impact (01.04.2016 to 31.12.2017)
+In kharif 2017, 87.3% of insured farmer applications were for non-loanee farmers as compared to 73% in kharif 2016.
+In rabi 2017, 95.4% of insured farmer applications were for non-loanee farmers as compared to 68.8% in rabi 2016.
+Percentage cropped area increased to 52.3% in kharif 2017 from 40.4% in kharif 2016 and 6.6% in rabi 2017 from 0.8% in rabi 2016.
+
+Case study 5 : sivaganga, tamil nadu
+Initiatives undertaken awareness and promotion initiative:
+Every fortnight, farmer awareness programmes were organized. 78 facilitation centers were opened in 2016-17 period and 154 in 2017-18. Daily awareness campaigns were also conducted during the cropping season and 6 knowledge exhibitions were conducted in 2016-17 and 14 in 2017-18. Extensive use of pamphlets, posters, banners, wall writing advertisements in newspapers was opted for publicizing the scheme.
+
+Involvement of district machinery:
+For speedy premium collection, and claim amount distribution, district central cooperative banks were instructed to augment more non-loanee farmers and loanee farmers into cooperative folds to open zero balance saving bank accounts in its all branches. Adangal gathering meetings were organized on every wednesday at all the primary agricultural co-operative societies where each society was provided with one helpdesk. District level monitoring committee (dlmc) meeting and coordination meeting was conducted to monitor the pmfby progress on regular basis.
+
+Use of technology:
+Pmfby-mobile app was used to monitor scheme implementation via features of farmer enrolment, premium payment to insurance agency, crop cutting experiments and claim disbursement. Dlmc under the district collector has uploaded data of individual farmers into the crop insurance portal via financial institutions.
+
+Pico mini projectors were used in campaigns for educating farmers about pmfby and crop signatures from remote sensing based information and insurance for crops in emerging economies (riice)- satellite technology by tnau, coimbatore to avail claim settlement to the farmers enrolled.
+
+Convergence:
+Farmers insured for crops in government of india subsidy schemes like nfsm, nadp were given preference. Ssepersatma farm information dissemination component and ssepers-atma farmer friends were utilised in reaching the farmers during campaign.
+
+Impact (01.04.2016 to 31.12.2017)
+Out of total farmers in the district 63.32% have enrolled and are insured in the pmfby scheme in the year 2017- 18 (kharif and rabi).
+In kharif 2016, scheme was not implemented in sivaganga but in kharif 2017, 111 applications which was 66.5% of insured farmer applications, were for nonloanee farmers.
+In rabi 2017, 87.7% of insured farmer applications were for non-loanee farmers, as compared to 84.4% in rabi 2016.
+Percentage cropped area increased to 76.6% in rabi 2017 from 69.7% in rabi 2016.
+
+Innovation adopted in implementation of priority programme including innovative use of available resources
+Farmers meeting conducted in 100% villages.
+Details published on krushi varta falak in all grampanchayat.
+Gramsabha on 1st may
+Involvement of public representative
+Effective use of “unnat sheti” campaign
+Effective use of csc network and aaple sarkar seva kendra.
+Social media
+Poster stuck on prominent places
+Mobile van – iec van
+Local radio channel.
+Farmers groups, fpo’s
+

@@ -1,0 +1,50 @@
+Electronic Negotiable Warehouse Receipt
+
+Negotiable Warehouse Receipt (NWR) system in the country enables farmers to store their produce for safe and scientific storage and preservation in warehouses near their farms and to seek pledge loan from banks against the NWRs issued against deposit of their stock. Hence, the NWR help the farmers to avoid distress sales of agricultural produce during the peak marketing season and to avoid the post harvest storage loss.
+
+Warehousing Development and Regulatory Authority (WDRA), Government of India ensures implementation of the NWR as per the provisions of the Warehousing (Development & Regulation) Act, 2007.
+
+Paper based NWR
+
+WDRA initially implemented paper based NWR system in the country. The applicant warehouses fulfilling the prescribed norms of WDRA are registered and are eligible to issue NWRs on the security stationery of NWR supplied under the regulatory framework of WDRA.
+
+Risks involved in paper based NWRs
+
+There were many risks involved in the paper-based warehouse receipts viz. risk of mutilation, fudging, overwriting, damage, loss, issuance of WR without receiving goods, issuance of duplicate WR without following the procedure, issuance of multiple WRs for the same stock, possible delivery of stocks without surrender of warehouse receipt, fraudulent overstatement of value of stocks in the warehouse receipt etc. Even many non-registered warehouses were issuing paper-based receipts wherein they could deliberately mention it as a negotiable warehouse receipt which would lack regulatory back up.
+
+During 2014-15, WDRA initiated the implementation of IT based platform for registration and monitoring of warehouses and setting up Repositories for issuance of NWRs in electronic form (e-NWR). The eNWR was launched in 2018.
+
+Characteristics of an electronic NWR (e-NWR)
+
+Following are the characteristics of an eNWR:
+
+
+An eNWR is available only in electronic form;
+The single source of information for the eNWR will be the Repository;
+Confidentiality, Integrity &amp; Availability of the eNWR information will be provided by the repository;
+An eNWR has a time validity that is co-terminus with the shelf-life of the commodity or withdrawal of the commodity fully from the warehouse, after which it expires;
+An eNWR can be auctioned under certain conditions such as loan not repaid, delivery not taken on expiry and on damage or spoilage of the commodity in the warehouse;
+All eNWRs can be traded through off-market or online trading platforms/exchanges;
+eNWR once entered with a transaction, be it pledge or transfer or withdrawal, cannot be simultaneously used for any other purpose. Thus, dual use of same eNWR is fully restricted.
+
+The NWR in electronic form could be issued either as an electronic Negotiable Warehouse Receipt (e-NWR) which has negotiability and can be used for deposit and withdrawal of commodities as well as trade transactions such as transfer and Pledge or in the form of an electronic Non-Negotiable Warehouse Receipt (e-NNWR) which can be used only for deposit and withdrawal of commodities (generally issued for goods received in the warehouse with pending final assaying reports or if assaying is not desired by the applicant) without the facility of trade / transfer.
+
+Mandatory issuance of eNWR
+
+Rule 27 of the Warehousing (Development and Regulation) Registration of Warehouses Rules, 2017 provide that with effect from such date as may be specified by the Authority, no warehouseman shall issue any negotiable warehouse receipt in physical form, and shall register with one or more repositories registered with the Authority for issuing negotiable warehouse receipts in electronic form. WDRA has since specified the date as 01st August, 2019.
+
+Licensed Repositories
+
+The WDRA has licensed two Repositories namely,  and .
+
+All the registered warehouses of WRDA are on boarded to Repository System for issuing eNWR against the deposits. The depositor can use eNWR to get loans against underlying commodities from banks and lien will be marked by the repository.
+
+Source : 
+
+Related resources
+
+
+
+
+
+

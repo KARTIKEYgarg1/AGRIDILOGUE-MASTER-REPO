@@ -1,0 +1,92 @@
+Clonal forestry
+
+
+Introduction
+
+Due to rapid deforestation and depletion of genetic stocks, concerted efforts must be made to evolve new methods for mass propagation and production of short duration trees with a rapid turnover of biomass and induction of genetic variability for the production of novel fruit and forest trees which are high yielding, resistant to pest and disease associated with increased photosynthetic efficiency. Tissue culture techniques have already revolutionized the mass scale propagation of many horticultural crops. The following are some of the areas of tissue culture which are of prime interest in forestry.
+
+Clonal propagation in trees
+
+The clonal multiplication reproduces clones, which contain all the  genetic information of the parent tree. The term clone is used to mean a  genetically uniform plant material derived from a single individual and  propagated exclusively by vegetative means.
+
+Clonal selection and deployment is receiving attention as an intensive forest management tool for increased wood production. Many wood based industries in particular, pulp and paper industries are involved in plantation establishment programme using clonal forestry approaches in the recent past.
+
+Utility of clonal propagation in trees
+
+
+Production of quality planting stock - In the intensive management of forests it is very important of develop fast and economical methods of raising superior planting stock. The somatic propagation of trees has an edge over raising of stock through seeds. These techniques have also become important in forestry owing to their potential in propagating trees, which possess superior traits, in an effort to increase volume and quality of production.
+Propagation of problem trees - There are many tree species, which normally produce little or no viable seeds, and some tree seeds have poor germination capacity. Such trees can easily be propagated vegetatively. Propagation by vegetative means is easy, more rapid and economical than by seed. In some tree species, germination is very poor or slow or there may exist complex dormancy problems or the seed may lose its viability very quickly. Moreover, seedlings of many species grow slowly and take a long time to reach marketable size. In all these cases, use of vegetative multiplication is a more convenient method of propagation.
+Maintenance of genetic uniformity - Most of the tree species are cross-pollinated and naturally they are highly heterozygous. The progenies of such cross-pollinated trees are not true to type and loose many of their unique characteristics. Hence, asexual clonal propagation helps in maintaining the genetic characteristics of each species.
+Production of disease free plants - Certain tree species are often susceptible to some pests and diseases and others may be partially or entirely resistant. Vegetative approaches using grafting will help to produce resistant clones.
+Early flower induction - Vegetatively propagated plants are precocious in bearing i.e. Flower earlier than seed propagated plants. This will help to reduce the rotation of the tree species and also to increase the productivity. This will ultimately help to speed up the reproductive cycle for accelerated breeding and testing.
+Clonal repository - Vegetative propagation helps to preserve the genotypes in clonal banks. This will also help to evaluate genotypes and their interaction with the environment through clonal testing. This method of propagation will help to conserve and multiply the valuable trees in a centralized area such as in a laboratory or green house for intensive study and breeding.
+Maintenance of genetic gain - Vegetative propagation ultimately helps to capture maximum genetic gains when used for regeneration in operational planting programme.
+
+Limitations of clonal propagation
+
+
+Clonal propagation in many forestry tree species is more expensive than seed propagation. It is a specialist’s job and requires special training and knowledge on the part of the propagator. 
+Vegetatively propagated plants are comparatively short lived. Lack of tap root system in vegetatively propagated trees results in poor anchorage in the soil; consequently such trees are easily uprooted during heavy winds or storms.
+
+Vegetative propagation in forest trees
+
+The goal of vegetative propagation is to reproduce progeny plants identical in genotype to a single source plant. The biological process is known as cloning and the resulting population of plants is called a clone. Cloning can occur in nature by special vegetative structures (bulbs, tip layers, rhizomes, and runners). These structures provide a special advantage for colonizing a specific site, but generally, cloning is not favoured in nature because the process does not provide opportunity for the variation and evolutionary advancement that result from sexual production. Vegetative propagation provides a powerful tool in the selection of clones grown in cultivation. Immediate selection of a single superior plant genotype is possible and can be followed by more or less indefinite multiplication.
+
+The following are the successful vegetative propagation methods that have been developed for economically important species.
+
+Neem - Azadirachta indica
+
+Neem can be successfully propagated by means of   hardwood, semi hardwood and softwood cuttings. Summer is the best season for   collection of propagules.
+
+
+Hardwood cuttings - 1-2 cm diameter hardwood cuttings are collected from   healthy vigorously growing branches. The terminal portion of leaves is   excised and branches are made into 15-20 cm long cuttings. 1000 ppm of IBA   treatment has been given as basal dip. Then the cuttings are planted in   nursery beds under 50-60% shade. The per cent of rooting is however, low   (Mohinderpal, 1995).
+Semi Hardwood Cuttings - These cuttings are collected from fresh growth during   early morning hours and made into 10-15 cm long cuttings by retaining a pair   of leaves near the upper end of the cuttings. 2000 ppm IBA is the best   treatment which will give maximum rooting under mist. Rooting is taking place   from 6 to 8 weeks.
+Softwood Cuttings - Shoots from fresh growth flush are collected in the   morning and the terminal softwood portions are used for making 4-7 cm long,   binodal, leafy cuttings. These cuttings are planted in vermiculture or coarse   sand medium and kept in mist chamber condition. The cutting roots with in 4   weeks. This has to be hardened before planting in the main field.
+
+Bamboos spp
+
+
+Culm cuttings - The binodal cuttings are taken from 2-3 year old   healthy clump by just cutting above the first node during March-April. The   leaves and side branches are trimmed. Care should be taken not to injure the   axillary  buds while removing leaves and branches. The cuttings should   be transported to nursery either by wrapping in moist gunny bags or embedding   in boxes containing moist saw dust. Two holes are made in the centre of the   internode. About 100ml of 100 ppm NAA solution is poured into the culm cavity   and the hole is closed by wrapping and tieing with a polythene strip (60 cm   x  6 cm). The cuttings are placed horizontally across the nursery bed.   The cuttings are covered with thin layer of soil (2-3 cm). Sprouted cuttings   can be used for planting in main field.
+Layering - Some species are propagated by layers, the culm being particularly cut   through near. The base, bent over and pegged down below the ground, would   eventually result in development of roots and shoots at the nodes. The inter   nodes are then cut through and the resulting, plants are separated and   planted out. However, the resulted propagules by vegetative methods of   production liable to flower with the parent clumps and that their life is   short and uncertain.
+
+Casuarina equisetifolia
+
+Vegetative propagation through cladode is cuttings is cuttings or sprigs, the common  method used in Casuarina species. Cladodes of 5 to 7 cm in length are found to be an excellent plant material for vegetative propagation. The cladodes are treated with 0.01% mercuric chloride for 30 sec. to avoid fungal attack and different rooting hormones are applied at the cut end of cladodes. After treating with hormone the cladodes are transferred to pre-soaked vermiculite and kept in mist and mist less system for 48 hrs (ICFRE, 1994). It has also been reported that 60-80% of rooting is obtained when the cladodes are treated with 2000 ppm IBA for 5 min. The rooted cuttings are transferred to a mixture of sand, red soil and farm yard manure (2:1:1) for hardening. After 15 days, the hardened propagules are transferred to the field.
+
+Dalbergia sissoo
+
+This is one of the commercially important timber species. It can be propagated through hardwood cuttings, softwood cuttings and rejuvenation.
+
+
+Hardwood Cuttings - Cuttings of 15-20 cm long and 10-20 mm thick are generally used for this purpose. Cuttings collected during June – August posses more rooting ability. The cuttings treated with IAA or IBA 100 ppm in dilute water solution by basal dip method for 24 hrs gave profuse rooting (Sunil Puri and Verma, 1996). After treating with the growth hormone, the pecklings are planted either in nursery beds or polythene bags which are filled with sand and soil at 1:1 propotion. Rhizogenesis will take place in 4 to 6 weeks. During summer, regular watering should be done to prevent their desiccation. These do not require any hardening.
+Softwood Cuttings - Terminal soft wood portions of the actively growing shoots are taken in the months of June – August. They are cut into 4 – 8 cm long leafy cuttings. Except the upper two leaves are excised. It can be planted on the vermiculite or coarse sand medium directly without any auxin treatment. Rooting will occur within 3 weeks. Hardening has to be done before out planting.
+Rejuvenation - Coppice shoots and root suckers are the good source of juvenile cuttings which can be easily rooted under mist condition.
+
+Eucalyptus spp
+
+Eucalyptus hybrid can be propagated vegetatively by coppice shoot cuttings, epicormic shoots, lignotubers and semi hard wood cuttings.
+
+
+Coppice Shoots  Coppice shoots are the best juvenile material for mass propagation of Eucalyptus hybrid by cuttings. To obtain coppice shoots, the trees should be coppiced about 15 cm above the ground level in the month of February. The cut portion should be given antifungal treatment (1g red lead + 1g copper carbonate in 1 litre seed oil). The coppice shoots may be harvested after 6-8 weeks. The coppice shoots are collected in the early hours of morning and made into bimodal leafy cuttings. The leaves are trimmed to half the original size and treated with talc preparation of 5000 ppm IBA. The base of the cuttings may be treated with 0.1% bavistin or any other suitable fungicide to prevent fungal attack. Treated cuttings are planted in plastic trays or root trainers filled with sterilized vermiculate, perlite or coarse sand. These are maintained under high humidity (RH 80%) in mist chamber and about 30ºC temperature is adequate for quick rooting. The cuttings develop good rooting system within about 35 to 45 days (Piare Lal et al., 1992). The rooted cuttings are transferred from plastic trays to polythene bags filled with soil and sand in 1:1 ratio. These are retained in the mist chamber for another week and subsequently shifted out for hardening. The rooted cuttings hardened under partial shade of trees or in the manipulated shade conditions under net house. Initially these are maintained under frequent misting but the frequency of misting is slowly reduced to nil over a period of 6 weeks. At the end of hardening period, the rooted cuttings are treated with 100 ppm N, 100 ppm P and 50 ppm K for boosting their growth. The stock is then handled in the routine way until planted out. The limitations in this method are that the tree has to be coppiced and very mature trees coppice very poorly.
+Epicormic Shoots Very young epicormic shoots collected from near the basal region of the main stem are generally easy to root. These epicormic shoots should be collected in summer or rainy season. These are treated like the coppice shoots for making cuttings, rooting, hardening etc. Though these are comparatively lesser juvenile than coppice shoots, these can be used if coppicing of the tree is not possible due to any reason.
+ Semi Hardwood Cuttings Non-leafy semi hardwood cuttings of seedlings less than l year old can be rooted by treating with 100 ppm IBA by basal dip method or 5000 ppm IBA in talc preparation. Rainy season is the most suitable season for propagation by this method. This method has only limited applications
+
+Gmelina   arborea 
+
+This   species can be propagated by hardwood cuttings, semi hardwood cuttings or   young bud sprouts. Spring season is the best season for rooting of cuttings.
+
+
+Hardwood Cuttings - The cuttings are collected lower and out portion of the canopy from healthy vigorous branches measuring 1-2 cm in diameter. The leaves and terminal soft portions are excised and treated with 5000 ppm IBA for by basal dip method. Rooting occurs in about 12 weeks, with 55 per cent).
+Softwood Cuttings - The branches representing the epicormic or coppice shoots are collected. Their upper soft wood portions are cut and made into 4 – 7 cm long bimodal leafy cuttings. The leaves are then trimmed to 1/3 of its size and treated with 5000 ppm IBA containing 0.1% bavistin or any other suitable fungicide. These cuttings are placed in 80% relative humidity and around 25 - 30ºC temperature. The rooting takes place within 4 – 6 weeks. The hardwood rooted cuttings can be planted in the field directly.
+Bud Sprouts - Young bud sprouts, about 2-4 cm length with half open first pair of leaves are removed from the shoots during morning hours. The sprouts are treated with 2000 ppm IBA mixed with the fungicide planted in vermiculite or coarse sand based medium and placed in mist chamber. These sprouts will strike roots within 20-30 days (Gurdev Singh et al., 1992). They are hardened before out planting. The per cent success is almost 100% when bud sprouts are used for propagation.
+Branch cuttings are collected from the lower one third of the crown. The length of the cuttings is approximately 20cm with thickness of 12 to 15 mm. Since rooting medium require proper drainage, sand, soil and silt in the ratio of 2:1:1 is used. Fungicide treatment is given as soil drench with bavistin 0.2 percent before planting. The base of the cutting is dipped in IBA 200 ppm. It is found to be effective and showed fifty percent rooting of cuttings. The rooted cuttings are transferred to hardening chamber and kept for 15-25 days. After hardening the cuttings are ready for field planting.
+
+
+Madhuca latifolia
+
+Conventional method of propagation using seeds is invaluable because of pest and disease problem and also due to short viability. Hence, Madhuca is propagated successfully using cleft grafting method.
+
+Seeds are collected from a selected plus tree and root stocks are established in polybags containing standard nursery mixture of soil:sand:FYM (1:1:1). The rootstocks of 8-12 months age with pencil thickness stem size are used. The scions (15 cm length and pencil thickness diameter) are collected from the leading shoots of the tree and brought back to green house using a water holding compound (commercially known as Jalshakthi). The top portion of the root stock is cut and  a wedge is made on the stock using a knife. The leaves in the scion are trimmed and the basal portion of the scion is sized to “V” shape and is injected into the wedge made on the root stock. Then, the inserted portion is tied with a polythene film likely to avoid the entry of air and kept inside the mistless poly tunnel system. At 45 to 50 days after grafting, the grafted plant is tested for union and a success rate of 70% is achieved during August to February.
+
+Source : 
+

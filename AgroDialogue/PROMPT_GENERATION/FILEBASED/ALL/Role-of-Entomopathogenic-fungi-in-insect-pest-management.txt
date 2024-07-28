@@ -1,0 +1,47 @@
+Role of entomopathogenic fungi in insect pest management
+
+A group of fungi that kill an insect by attacking and infecting its insect host is called entomopathogenic fungi.
+
+Entomopathogenic fungi is identified as a promising biocontrol agent in the regulation of insect pest population without harming the non-target insects. Over 800 species of entomopathogenic fungi and 1000 species of protozoa pathogenic have been described and identified. Most research on entomopathogenic fungi has been aimed at developing them as inundative biological control agents of insects, mites and ticks, despite the great potential for use in conservation and classical biocontrol strategies.
+
+In 1980s, the first insect pathogenic studies were carried out and their focus was to find the methods of disease management of the silkworm. Bassi in 1835, first time formulated the germ theory by the use of white muscardine fungus on the silkworm that was then named in his honor as beauveria bassiana. Gilbert and gill (2010) described that this silkworm disease gave the idea of using insect infecting fungi for the control of insect pest management.
+
+Host range
+
+Fungal diseases are common in lepidoptera (particularly larvae), homoptera (particularly aphids, whiteflies, cicadas, scale insects), hymenoptera (bees), coleoptera (beetles) and diptera (flies and mosquitoes).
+
+Mode of action and host reaction
+
+The mode of action of insect pathogenic fungi varies and kills the insect by different ways such as causing starvation to toxin production. These insect pathogenic fungi produce many toxins and extracellular enzymes such as proteases and chitinases which aid penetration of the host physical defenses. Cuticle is the main hurdle to infection in insects as it is the main path of fungus penetration. Hence, it needs some physical or enzymatic means to pierce the hard cuticle.
+
+The infective unit in most fungi is a spore, usually a conidium. In many cases, the conidia are adhesive to the cuticle, or secrete adhesive mucus as the conidium swells during pregermination. In favourable conditions, the conidium, germinates into a short germ tube which gives out small swellings called appressoria. The appressorium attaches itself to the cuticle and sends out an infection peg which provides a firm attachment that the fungus needs to physically force its way into the host. The hyphae then penetrate the layers of the integument by enzymatic dissolution of chitin and protein, ramify first in the cuticle and then reach the haemocoel and internal organs. The invasion by the fungal mycelium continues until the insect is virtually filled with the fungus and becomes quite firm to touch. Conidiophores are then produced which erupt through the cuticle and produce spores on the outside of the insect, infecting nearby healthy insects also. Death of the host is by obliteration (choking) of the tissues and also by the toxins produced by the fungus.
+
+Symptoms
+
+Loss of appetite and an attempt to climb higher up are the early symptoms of the fungal disease. They are followed by decreased irritability, general or partial paralysis, discoloured patches on integument and increased acidity in the blood. The body hardens and the insect in upright on its legs at the time of death. Death occurs within a week or even within 24 hours. The causes of death may be as follows: hyphae may force apart muscles, blood cells may stop circulating due to increased hyphae, blockage of the gut and by the toxin produced by the fungus.
+
+Commercial production of epf
+
+Most of the commercially produced fungi are species of beauveria, metarhizium and lecanicillium that are relatively easy to mass produce. Attention has focused predominantly on the technical aspects of biopesticide development, such as mass production and formulation, and the selection of strains with rapid kill (shahid et al., 2012).
+
+Production requirements include reasonable cost, long-term stability, and, most importantly, consistent efficacy under field conditions. The prevalent methods involve the production of diaspores (dispersal units) by induction of aerial conidiation on solid growth media, production of blastospores by yeast-like growth in liquid media or growth of hyphal biomass in liquid or solid media (faria and wraight, 2007).
+
+Use of epf in pest management
+
+Epf are a major component of integrated pest management techniques as biological control agents against insect pests and other arthropods and are an integral part of myco-insecticides in horticulture, forestry and agriculture.
+
+Some of the commonly used epf are as follows.
+
+Beauveria bassiana – these enter the host insects body through food or in contact with the host cuticle and reproduce inside the insect body. It produces toxins namely beauvericin, bassianocide etc. Inside the host body causes paralysis of the host insects and ultimately kills the insects within four or five days. They are used particularly to control sucking pests and caterpillars infesting crop plants. These fungi are used to control the caterpillars of yellow stem borer and leaf folder of rice, white grub of groundnut, sugarcane pyrilla, coconut rhinoceros beetle, caterpillars of pulses, tomato and cotton, diamond back moth, leaf eating caterpillars of tobacco and sunflower etc.
+Lecanicelium lecanii – this beneficial fungus is mainly used to control whiteflies, aphids, thrips, brown plant hopper, scale insects, mealy bugs and other sucking insect pests of crop plants.
+Metarrhizium anisopliae – this pathogenic fungus is used to control mainly coconut rhinoceros beetle, groundnut cut worm, rice brown plant hopper, diamond back moth and early shoot borer, top shoot borer and internode borer of sugarcane.
+Nomuraea rileyi – it is used to control pod borers, cut worms, cabbage borers etc.
+Hirsutella thompsonii – these fungi are used to control different hoppers and bug pests, whiteflies, red mites etc.
+Paecelomyces fumosoroseus – this fungus is used to control yellow and red mite, whiteflies etc.
+
+References
+
+Gilbert, l.i. And s.s. Gill. 2010. Insect control: biological and synthetic agents. Academic press, elsevier, london, pp. 1-5
+Faria, m.r. And s.p. Wraight. 2007. Mycoinsecticides and mycoacaricides: a comprehensive list with worldwide coverage and international classification of formulation types. Biological control, 43: 237-256
+Shahid, a.a., a.q. Rao, a. Bakhsh and t. Husnain. 2012. Entomopathogenic fungi as biological controllers:new insights into their virulence and pathogenicity. Archives of biological science, belgrade, 64(1): 21-42.
+

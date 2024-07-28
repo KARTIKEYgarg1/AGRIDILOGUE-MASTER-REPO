@@ -1,0 +1,66 @@
+Use of drones in agriculture 
+
+The drone operations are being permitted by ministry of civil aviation (moca) and director general of civil aviation (dgca) through the conditional exemption route. Moca has published ‘drone rules 2021’ vide gsr no. 589(e) dated 25th august 2021 to regulate the use and operation of drones in india.
+
+Sop for use of drone application in agriculture
+
+Crop specific sops for application of pesticide with drones
+
+To widen the scope of drone assisted pesticide application for different crops grown under diverse climatic conditions, there is urgent need to have crop specific sops taking into considerations the relevant parameters like temperature, humidity, wind speed, terrain and crop as well as other environmental parameters.
+
+The sops cover ten selected crops i.e. Rice, maize, cotton, groundnut, pigeon pea, safflower, sesame, soybean sugarcane and wheat. Based on the information collected from different institutions/industries, the crop specific sops were developed for application of different pesticides/ fungicides through use of drones. The sops are mainly based on drone parameters (drone flying speed, height of drone above the crop canopy), sprayer parameters ( nozzle and swath characteristics), crop parameters (crop canopy volume, crop growth stages, water volume per hectare, pesticide concentration and dosage, suitable time of spray), weather conditions (temperature, humidity, wind speed) as per location and climatic zone with major emphasis on optimum bioefficacy and no phytotoxicity.
+
+The crop specific sops developed considering a standard drone with tank capacity of 10 liters and overall drone weight less than 25 kg.. The height of the drone above the crop canopy is related to overall weight of the drone, downwash effect over the crop canopy and sprayer characteristics. The drone has to fly near the crop canopy as much as possible to avoid drift during operation and to safeguard the environment. However, the drone should maintain a vertical clearance above the crop, while flying, so that the thrust created by the former should not lead to lodging of the latter. Therefore, operation at optimum height is important. Similarly, the drone flight speed affects the uniformity of spray and needs to be optimized. The procedure for the selection of the drone speed and nozzle height from the crop canopy is covered in the sops.
+
+As per the data received for different crops and included in the report, no crop damage or phytotoxicity was observed at the tested concentrations of the selected pesticides at different selected doses and their respective combinations when sprayed using drones. The experiments on the above aspects were conducted in southern plateau and hills, trans – gangetic plains agro-climatic region by selected institutions/industries.
+
+To access the complete sop, .
+
+Standard operating procedures for use of drones with pesticides for crop protection and for spraying soil & crop nutrients in agricultural, forestry. Non-cropped areas, etc
+
+Considering the unique advantages of drone technologies in agriculture, the ministry of agriculture & farmers welfare, (department of agriculture & farmers welfare) in consultation with all the stakeholders of this sector, has brought out standard operating procedures (sops) for use of drones in pesticide and nutrient application that provides concise instructions for effective and safe operations of drones.
+
+The use of unmanned aerial vehicles (uavs) commonly known as drones have great potential to revolutionize indian agriculture and ensure country’s food security. The national drone policy has been notified and the drone rules 2021 have been made significantly easier for people and companies in the country to now own and operate drones. The requisite fees for permissions have also been reduced to nominal levels.
+
+Drones are well-equipped with many features like multi-spectral and photo cameras and can be used in many areas of agriculture sector such as monitoring crop stress, plant growth, predict yields, deliver props like herbicides, fertilizer and water. Drones can be used for assessing the health of any vegetation or crop, field areas inflicted by weeds, infections and pests and based on this assessment, the exact amounts of chemicals needed to fight these infestations can be applied thereby optimizing the overall cost for the farmer. Drone planting systems have also been developed by many start-ups which allow drones to shoot pods, their seeds and spray vital nutrients into the soil. Thus, this technology increases consistency and efficiency of crop management, besides reducing the cost.
+
+The farmers face many problems like unavailability or high cost of labours, health problems by coming in contact with chemicals (fertilizers, pesticides, etc.) while applying them in the field, bite by insects or animals, etc. In this context, drones can help farmers in avoiding these troubles in conjunction with the benefits of being a green technology. Use of drones in agriculture may also give ample opportunities to provide employment to people in rural areas.
+
+The standard operating procedure (sop) for drone regulation for pesticide application covers important aspects like statutory provisions, flying permissions, area distance restrictions, weight classification, overcrowded areas restriction, drone registration, safety insurance, piloting certification, operation plan, air flight zones, weather conditions, sops for pre, post and during operation, emergency handling plan.
+
+To access the complete sop, .
+
+Standard operating procedures (sop) on aerial spraying using aircraft/helicopter/drone for control of desert locust
+
+Directorate of , quarantine & storage, has released the standard operating procedures (sop)on aerial spraying using aircraft/helicopter/drone for control of desert locust.
+
+Objective
+
+The objective of the standard operating procedures (sop) for desert locust aerial control is to give concise instructions for effective and safe control perations against the desert locust using aircraft/helicopter/drone. Considering the legal requirements envisaged under the relevant provisions of the insecticides act 1968 and insecticides rules 1971 for undertaking safe and effective control of desert locust by aerial spraying using aircraft/helicopter/drone these instructions required to be followed. These instructions are intended for use by the field staffs who are involved in desert locust aerial operations (including locust officers and pilots/ operators) to help them avoid dangerous, ineffective or wasteful operations. They are based on the fao desert locust guidelines for aerial spraying where more detailed information and references are available.
+
+The instructions focus on:
+
+Aerial survey operations
+Aerial spraying of insecticides
+Aerial spray equipment’s
+Techniques for safe and efficient operations
+
+To access the complete sop, .
+
+Government support to promote drone use in agriculture 
+
+In a major boost to promote precision farming in india, the union ministry of agriculture and farmers welfare has issued guidelines to make drone technology affordable to the stakeholders of this sector. The guidelines of “sub-mission on agricultural mechanization” (smam) have been amended which envisages granting upto 100% of the cost of agriculture drone or rs. 10 lakhs, whichever is less, as grant for purchase of drones by the farm machinery training & testing institutes, icar institutes, and state agriculture universities for taking up large scale demonstrations of this technology on the farmers’ fields.
+
+The farmers producers organizations (fpos) would be eligible to receive grant up to 75% of the cost of agriculture drone for its demonstrations on the farmers’ fields.
+
+A contingency expenditure of rs.6000 per hectare would be provided to implementing agencies that do not want to purchase drones but will hire drones for demonstrations from custom hiring centres, hi-tech hubs, drone manufacturers and start-ups. The contingent expenditure to implementing agencies that purchase drones for drone demonstrations would be limited to rs.3000 per hectare.
+
+In order to provide agricultural services through drone application, 40% of the basic cost of drone and its attachments or rs. 4 lakhs, whichever less would be available as financial assistance for drone purchase by existing custom hiring centers which are set up by cooperative society of farmers, fpos and rural entrepreneurs. The new chcs or the hi-tech hubs that will be established by the cooperative societies of farmers, fpos and rural entrepreneurs with financial assistance from smam, rkvy or any other schemes can also include drone as one of the machines along with other agricultural machines in the projects of chcs/hi-tech hubs.
+
+Agriculture graduates establishing custom hiring centers would be eligible to receive 50% of the basic cost of drone and its attachments or up to rs.5 lakhs in grant support for drone purchases. Rural entrepreneurs should have passed class tenth examination or its equivalent from a recognized board; and should have remote pilot license from institute specified by the director general of civil aviation (dgca) or from any authorized remote pilot training organization.
+
+For individual purchase of drones, the small and marginal, scheduled caste/scheduled tribe, women and north eastern state farmers are provided financial assistance @ 50% of the cost up to a maximum of rs. 5.00 lakhs and other farmers @ 40% up to a maximum of rs. 4.00 lakhs.
+
+The subsidized purchase of agriculture drones for farmers/chcs/hi-tech hubs will make the technology affordable, resulting in their widespread adoption. This would make drones more accessible to the common man in india and will also significantly encourage domestic drone production.
+
+Source : ministry of agriculture & farmers welfare

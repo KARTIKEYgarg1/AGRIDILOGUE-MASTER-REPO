@@ -1,0 +1,62 @@
+Pest management
+
+Introduction
+
+All parts of a tree—roots, stems, foliage, shoots and terminal leaders—are vulnerable to attack by pests. Pest damage can range from slight damage that has no effect on the value of the harvested product to severe damage that stunts or kills the trees or reduces their market value.tree pests include insects and mites, diseases, weeds, vertebrates, and nematodes. Managing tree pests effectively should be based on thorough consideration of ecological and economic factors. The pest, its biology, and the type of damage are some of the factors that determine which control strategies and methods, if any, should be used. Pest management decisions largely determine the degree and amount of pesticide used.ultimately, pest management decisions represent a compromise between the value of the product, the extent of the pest damage, the relative effectiveness and cost of the control measures, and the impact on the environment.
+
+Integrated pest management (ipm)
+
+The goal of ipm is to use all appropriate tools and tactics to prevent economically important pest damage without disrupting the environment. Information gathering and decision making are used to design and carry out a combination of measures for managing pest problems. Ipm is the best approach to manage pests of trees.
+
+Monitoring (scouting)
+
+Monitoring (scouting) forests and newly established plantations will help detect problems early, while there is still time to take action. The information gathered through monitoring is a key element in any ipm program. for example, when monitoring or scouting an area,examine the center of the area as well as the margins. Note competition levels among trees and other plants. Note types, quantity, and location of weeds. Look for signs of animal activity. Check a representative sample of trees for signs and symptoms of insect and disease problems. Inspect all parts of the tree, from top to bottom and from branch tips to trunk. Depending on the pest, the use of traps or microscopic examination may improve the information gathered by visual examination. Record your observations. The destructive forms of many insect pests are generally most active from april through august, but infection by many disease organisms is more dependent on weather conditions than on calendar date. Scouting and monitoring for all pests and pest problems must be done regularly and frequently to avoid surprises.weather plays an important part in the development of most insect and disease pests. Keeping track of the daily weather conditions (high and low temperatures,humidity, and the amount of rain) will make you better at forecasting pest problems.
+
+Identification
+
+Identification of pests and the diagnosis of pest damage are key elements of ipm. If you find perennial weeds present and/or signs of insect, disease, or vertebrate presence or damage, try to determine:
+
+What kind of pest is present?
+What stage of the pest is present?
+What is the size of the pest population?
+How much damage has occurred?
+How much damage is likely to occur if no control measures are taken?
+Does the pest or damage require immediate attention, or can control measures be postponed until the trees are near harvest?
+
+Certain tools are useful in carrying out an ipm program. A hand lens is essential for magnifying disease signs, insects, and weed plant characteristics. If pests are in the tops of trees, binoculars may be beneficial. Pruning shears and a pocket knife are needed when probing for insects or disease or collecting weed specimens. Field guides, extension bulletins, or other references with pictures and biological information on tree id, weed id,insects, and diseases will help with identification. Have plastic bags, vials, and containers available in case you have to take samples of the pest or pest damage to someone else for identification. For weed id, collect as much of the whole plant as possible, including flowers, leaves and stems.it is important to know where to find help in diagnosing pest problems. The local county extension office can provide you with forms and instructions for sending samples to michigan state university for diagnosis.
+
+Threshold level
+
+Determine the threshold level the point at which the pest or its damage becomes unacceptable. The threshold level may be related to the beauty, health, or economic value of the tree crop. Once the threshold level has been reached, you must determine what type of control procedure is needed. This decision will be based on the size of the pest population, the kind of damage the pest is causing, and the control measures that are available. It is also very important to consider the cost effectiveness of potential controls. You must carefully weigh the cost of control, the value of the tree, and the impact of the pest damage on the value of the tree.
+
+Management strategy
+
+Decide on management (control) strategies. Management options may be very different for high-value christmas tree species than for other lower value trees. The following are some examples of management strategies. In situations where the pest does not damage the crop value or the crop value is so low it is not cost effective to apply a control measure, no action is needed.
+
+Cultural management
+
+Cultural management manipulates the environment to make it more favorable for the plant and less favourable for the pest. Cultural controls such as good site selection, planting resistant varieties, or selective pruning make it less likely that the pest will survive, colonize, grow, or reproduce. Cultural management can be very effective in preventing pests from building to unacceptable levels. Mechanical management some measures exclude or remove the pest from the habitat. Mechanical traps, screens, fences, and nets can remove the pest or prevent access by the pest. Tillage and mowing are used to mechanically manage weeds. Biological management biological controls include the beneficial predators, parasites and pathogens that kill pests. There are many more known natural enemies of insect pests than there are natural enemies of disease pests. Biological weed control is generally aimed at non-native introduced weeds.
+
+Ladybugs, lacewings and certain mites are common predators of insects. Some tiny wasps and some fly species are parasites of insects. Many beneficial parasites are host specific and do not control a wide range of pests. Parasites and predators are often very effective at keeping insect pests at low levels. For example, aphids, scales, and mites rarely build to damaging levels in pine or spruce forests because their populations are controlled by predators and parasites. Insects are also affected by a variety of bacterial, fungal, and viral diseases that affect only insects. Biological control organisms are very sensitive to pesticides. Pesticide applications to control a pest may have the unwanted side effect of wiping out part of the natural predator and parasite population along with the pest. This, in turn, may cause a population explosion of a different pest in the void left by the predators and parasites.
+
+Pesticides
+
+Pesticides are a very important tool in ipm when large pest populations threaten high-value trees. Knowledge of the pest’s life cycle, selection of an appropriate pesticide, proper timing of the application, and use of the right application equipment will improve coverage and effectiveness. The ability to recognize beneficial bio control organisms, combined with cultural and mechanical controls, may allow you to reduce, delay, or eliminate pesticide treatment of a minor pest problem.
+
+Evaluation
+
+Evaluate the results of management strategies. It is very important to determine how effective your management and control tactics are. This information will determine whether any follow-up treatment is needed and will improve your management strategies for next year.return to the area after applying a treatment and compare post treatment pest activity to pre treatment. This is where a pest management logbook will become invaluable. Include your observations about where pests first showed up, what kinds of natural enemies you observed, where and when specific treatments were applied, and what the results were. Sound ipm practices pay off both economically and environmentally.
+
+Methods of application
+
+The method you choose to apply a pesticide will depend on the nature and habits of the target pest, the site, the pesticide, available application equipment, and the cost and efficiency of alternative methods. Your choice is often predetermined by one or more of these factors. Some common application methods are described below. Broadcast application is the uniform application of a pesticide to an entire area.
+
+A directed-spray application targets pests in a specific area in an effort to minimize pesticide contact with the crop or beneficial insects.
+Foliar application directs pesticide to the leafy portions of a plant.
+Spot treatment is application of a pesticide to small, discrete areas.
+Soil application places pesticide directly on or in the soil rather than on a growing plant.
+Soil incorporation is the use of tillage equipment to mix the pesticide with the soil.
+Soil injection is application of a pesticide beneath the soil surface.
+
+Source: 
+

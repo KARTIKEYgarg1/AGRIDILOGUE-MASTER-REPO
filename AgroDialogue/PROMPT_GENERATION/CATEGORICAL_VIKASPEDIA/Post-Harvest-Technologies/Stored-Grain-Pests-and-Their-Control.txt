@@ -1,0 +1,277 @@
+Stored Grain Pests and Their Control
+
+
+Insects-pests of stored pulses
+
+
+The most important insect damaging pulses in field and storage are referred as bruchids or pulse beetles. The genus Callosobruchus has large number ofspecies representing C. maculatus (Fabricius), C. chinensis (Linnaeus), C. analis (Fabricius) and C. phaseoli (Gyllenhal) are more common in subtropical regions. However, C. rhodesianus (Pic) and C. sunnotatus (Pic) are also present in tropical region. C. theobromae (Linnaeus) is also found in pods of pigeonpea in India. Acanthoscelides obtectus is serious pest in rajmash. Other insects pests which cause damage to stored legumes are Trogoderma granarium (Everts), Rhyzopertha dominicia (Fabricius), Tribolium castaneum (Herbast), Ephestia cautella (Walker), Corcyra cephalonica (Stainton), Latheticus oryzae (Waterhouse), Lasioderma serricorne (Fabicius), Stegobium paniceum (Linnaeus), Oryzaephilus surinamensis (Linnaeus), Cryptolestes ferrugineus (Steph) and few species of mites. Fungi from genera Penicillium and Aspergillus in association with these insects enhance the rate of deterioration. In India, pulses are mostly consumed in form of dal or dehusked split, which in absence of seed coat are prone to moisture gain and fungal infestation, besides preferred by insects other than bruchids. The split pulses are attacked by Rhizopertha dominica, Trogoderma granarium, Tribolium castaneum and Cadra cautella under storage conditions. The losses due to insect activity during storage are physical loss, loss in carbohydrates and proteins, nutritional losses and contamination of product with uric acid, fragments and faecal matter.
+
+Sources of infestation
+
+There are several sources of infestation :
+
+
+Fields
+Carried-over commodities, waste and rejects.
+Agricultural machineries
+Processing plants Farm grain stores and re-used sacks
+Means of transportation
+Alternative hibernation sites and hosts
+
+Basic steps for insect control
+
+In order to control insects in a storage warehouse or processing plants the following steps must be followed:
+
+
+Monitoring : Have an inspection or surveillance programme which will yield prompt awareness of a possible problem (presence, level, source) before it occurs
+Identification : Determine the extent and nature of the possible problem (species, type, level, means of transmission)
+Control: Devise a plan for controlling the problem (integration of all possible means to achieve good, cheap and safe pest control)
+
+Monitoring tools for infestation detection
+
+The easiest way to avoid damages by insect pests is to prevent their occurrence and spread. Inspection and monitoring are excellent tools for early detection of insect infestation.
+
+ Inspection : It should be carried out frequently and thoroughly to detect actual problem or the potential of it and evaluate its seriousness. It is important that it is scheduled routinely and is carried out by trained and qualified staff who has adequate knowledge about the stored-grain pests.
+
+ Monitoring insect infestation : Monitoring for insect infestation should be carried out as per the following method(s):
+
+
+Visual observations involving sampling, sifting and counting
+Detection of latent infestation through chemical, x-rays and sound amplification
+Use of chemical attractants : Synthetic pheromones and food attractants are valuable where insects are difficult to locate and their population is hard to assess
+Use bait stations : Attractive sticky food, especially for moth and beetles
+Use of traps: Light traps function as an early warning monitor system nets, aspirators may be used 
+Combination of the above methods is the best
+
+Presence of either of the following states in the sample of grain is an indication of the presence of insects:
+
+
+Clustering of grains
+Decay or powder
+Foul Smell
+Grain bag temperature higher than the ambient Presence of white spots on seed coat indicate the existence of eggs
+Larvae skin
+
+Identification of the problem
+
+In order to minimize the damage caused by insect infestation, a proper control measure strategy must be developed. Identification of the insect(s) involved is an important step in this direction. Different species of the insects behave differently and may not respond to one control measure in the same way. Identification of the species of the insect and its means of propagation is, therefore, helpful in devising a suitable control measure.
+
+Insect control measures
+
+Plan for control
+
+
+Assess the magnitude of the problem.
+Select control measure based on
+
+Potential risk of contamination 
+Physical facilities available 
+Risk to employees
+Cost
+
+
+The efforts to protect grain against insects can take two forms :
+
+
+A preventive effort before storage of the grain, from the time it is received, even if no insects are visible
+A curative effort during or even before storage, if necessary
+
+In both cases, the insects must be destroyed without altering the food quality of the grain. But, to accomplish this, some general hygienic measures and steps for treatment of the premises must be observed.
+
+Treatment of premises
+
+Before any application of insecticide to storage buildings (warehouse, silo), the entire premises must be thoroughly cleaned. The range of available insecticide products is broad enough to treat different surfaces according to their characteristics. Different treatment should be given as follows:
+
+
+Uneven surfaces (bricks, breeze-block, raw wood, etc.) : Treat by spraying with powder mixed with water.
+Smooth, non-porous surfaces (metal, polyester) : Spraying with a stickier concentrate is preferred.
+Ambient treatment : It is designed to destroy flying insects by aerosols in hermetically sealed premises. This treatment should preferably be carried out in the evening, when flying insects are most active.
+
+Types of control measures
+
+Insect control measures can be any one or a combination of following methods:
+
+
+Physical and mechanical methods 
+Chemical methods
+Sanitation
+Exclusion
+Integrated pest management
+
+Physical and mechanical methods
+
+Drying and disinfestation
+
+Generally all agricultural commodities need to be dried to safe moisture level, below 11-12%, prior to storage. Crops are usually harvested at high moisture content to avoid shattering losses. Solar drying of legumes can be done on cemented platform, mat, jute cloth or metal sheets. If grain temperature is increased up to 60°C and maintained for 10-15 minutes, all live stages of pulse beetle present in pulses are killed. Solar absorbance surfaces can effectively be used for disinfestations of pulse grains by raising the grain temperature.
+
+Reducing intergranular Space
+
+Adult pulse beetles, being very weak and having a short life, cannot move in grain mass and are restricted to top 15 cm layer. Even the adults emerging out of the infected material cannot move in the inter-granular space and could die before mating. The inter grain space varies according to size of different pulses. Movement of adult pulse beetle can be prevented by placing a 7-10 cm layer of dry sand at the top of grain mass. Dry activated clay can also be used for the purpose. To prevent mixing of sand or clay with the material, a paper or polythene sheet can be placed on the top of surface of pulse grain and then sand or clay is placed.
+
+Coating with clay or oil
+
+Small quantities of pulse produce are kept at farmers’ level for consumption or seed purpose. The quantity ranges from 10-100 kg and kept in mud container. The pulse can be treated with clay (a) 1-2% clay uniformly mixed with whole grains and kept in closed container. Vegetable oils can also be used to prevent pulse beetles. Non-drying oils, such as castor, niger, sesame etc., are preferred for the purpose. A dose of 0.5-1.0% is mixed with the whole grains to be stored. The insect stages already present before treatment, would survive. But application of oil will prevent laying of eggs and/or larvae hatching on grain surface and the insects would be killed before entry into the pulse. Neem oil has also been found effective @ 2-5 ml/kg to prevent insect activities.
+
+Use of improved storage Structures
+
+Moisture proof, air tight, low cost and low thermal fluctuation structures have been designed as an improvement over old traditional structures. Some of such structures are Pusa bin, Pusa kothar, Pusa cubicle and improved bamboo basket. These structures were found effective for chickpea, lentil, pigeonpea and mungbean in humid and dry regions. The seed retained very high germination and insect damage was less than 1%. Use of these improved structures in keeping small bags as moisture proof facility has made them quite acceptable at farm level storage. Metal bins up to 1 tonne capacity are used for storage of seed legumes in dry regions. Bamboo basket pasted with mud and kept at high place also serves the purpose of pulse storage. Coal tar drums and biscuit tins can also be used with some modifications. The use of polythene lined bags to retain low moisture is found useful. For non-airtight structures, fumigation is often required which is usually not feasible under rural setup.
+
+Air tight storage
+
+C. maculatus and C. chinensis infested mungbean subjected to air tightness results into check in insect population build-up. Accumulation of carbon dioxide and depletion of oxygen levels adversely affects the insect growth. Incorporation of eucalyptus and mint oil in airtight conditions results in quick arrest of infestation and ensure better protection in small quantity of legumes.
+
+Chemical methods
+
+Treatment of grain with contact insecticide
+
+Most of the physical methods suggested earlier may not give total insect control. Application of chemicals, therefore, sometimes becomes essential for complete insect mortality and prevention of insect growth. It features two broad types of treatment:
+
+
+ Treatment by contact insecticide
+ Treatment by fumigation
+
+This consists of covering the grain with a film of insecticide that acts on contact with insects, with effects that vary in rapidity and persistence. These products come in various forms (powders for dusting, powders to be mixed with water, liquid concentrates or fumigants) that dictate their techniques of application. For grain that is to be stored in bulk, the insecticide is incorporated directly into the grain by spraying before the silos are filled. For storage in bags, previously cleaned grain is mixed with powder or sprayed before bagging. In order to avoid re-infestation of grain stored in bags, further repeated dustings or sprayings are carried out while the bags are being stacked and during the storage period. The machinery used for dusting grain can range from the simple mechanical duster to motorized dusters, however, with this type of equipment, the grain is not treated uniformly, some areas receiving more dust than others. Spraying can be mechanical (pressure sprayer), pneumatic or thermal, and provides a better distribution of the product over the grain. In big storage centres, in order to obtain an even more regular distribution and a good coating of insecticide, the grain is fine-sprayed by a compressor equipped with a mist nozzle. Although contact systems of treatment are certainly effective on fully developed insects, they have little or no effect on the eggs or larvae. Furthermore, some residues of the product, though not highly toxic, may linger in foodstuffs.
+
+Treatment of grain by fumigation
+
+Fumigation is a treatment that rids stored grain of insects by means of a poisonous gas called a fumigant. This substance, produced and concentrated as a gas, is lethal for specific living species. Unlike contact powders, the fumigant penetrates to the interior of the grain mass and reaches the largely invisible incipient forms (eggs, larvae) developingthere. Fumigants spread throughout the area where released, therefore, used in totally sealed enclosure. Thus, when grain stored in bulk is fumigated, the bins must be perfectly airtight. For grain stored in bags, the usual method is to cover the bags with a tarpaulin whose edges are sealed to the ground or the walls. The effectiveness of fumigation depends, on the one hand, on the actual concentration of the gas and, on the other, on the length of time during which the grain is fumigated.
+
+Which fumigants to use?
+
+Generally two types of fumigants are available for fumigation purposes in grain storage programme.
+
+
+Methyl bromide: It has a quick action and the grains can be aerated after 12-24 hours of its application. However, it is highly toxic, colourless and odourless, has residual effect in the grain and accumulates in the human body. For this reason, methyl bromide should not be used as a fumigant in grain storage programme.
+Magnesium or Aluminium phosphide : Gas released from this chemical is known as Phosphine. This fumigant has a small molecular weight (34.04) and thereby has excellent penetration capacity. The weight of phosphine gas is similar to that of air, so it easily gets mixed with air and spreads all along the stored grains. This eliminates the need to have re-circulating fans to circulate the air. This is very effective against most pests but does affect taste or smell of the fumigated grain. At the same time, it leaves no residues on the grain, so it can safely be used for food grains.
+
+Moreover it does not affect the germinability of seeds and therefore, can safely be used for storage of seeds also. However, it is inflammable at normal temperature, so proper care should be taken at the time of its application. This has a delayed release and, therefore, requires longer period of fumigation than other fumigants.
+
+Depending on weather methyl bromide or phosphine is used, the duration of fumigation should be 24–48 hours for methyl bromide, or a minimum of five days for phosphine. The latter product is more commonly used, since its application, in the form of pellets spread throughout the grain mass, is simpler. It is essential to recognize, however, that fumigants are very poisonous to people and therefore the staff that is to use them must be carefully trained in their application. For all these treatments, it is important to scrupulously observe the recommended protective and safety measures (masks, gloves, hand-washing, hermetic sealing of phosphine containers, etc.).
+
+Conditions for application of phostoxin
+
+Remember that these treatments are curative, and have no persistence overtime, therefore, a combination of the techniques of contact insecticide and fumigation is recommended.
+
+ Location : Any space that can be enclosed and made air-tight can be used for fumigation of grains.
+
+Temperature: The duration of fumigation treatment is highly dependent on ambient temperature condition. Higher is the temperature, more effective is the treatment. Some important guidelines are as follows:
+
+IPM strategies against pulse beetle
+
+
+Relative Humidity : Humidity of the ambient air influences the rate of release of phosphine gas. Higher the RH, higher is the rate of release of gas. There is no release of gas below 30% RH. Under this condition, water containers should be placed below the fumigation sheet.
+
+Right concentration : It is essential to maintain the required concentration of fumigant in the sealed space and for sufficient time in order to have effective control of all stages of the pest. The fumigation sheet, therefore, should be air-tight and properly sealed with the floor with the help of paper tape. The floor should preferably be of concrete.
+
+ Proper hygiene: Fumigants are not persistent and therefore, the possibility of re-infestation should be avoided. This can be done with carrying out surface treatment of the storage area with Malathion. This has a volatile action and is effective against flying insects.
+
+Some do’s and don’ts
+
+After fumigation, the grain storage should be aerated and thoroughly cleaned. The collected trash should be removed away from the storage area to prevent further breeding of insects and re-infesting the grains.
+
+Before carrying out fumigation operation, it is important to know how to detect and measure the concentration of released gas in the air and the precautions to be taken to avoid hazards.
+
+Do’s 
+
+
+Fumigants should be kept safely and outside the reach of ordinary persons. Only trained persons should carry out the fumigation work.
+Use a gas mask with the correct filter.
+Wash and preferably take bath after fumigation.
+Use a display board indicating the fumigant being used, date of application and person in charge.
+Do keep gas monitoring device to determine the gas concentration during fumigation.
+Aerate after uncovering. 
+Fumigation should be carried out away from office/residential areas.
+Collect the residues after fumigation and throw in water. Bury the used containers.
+Keep first aid treatment box handy to deal with accidental exposures to the fumigants.
+
+Don’ts : 
+
+
+Never work alone.
+Do not eat, drink or smoke during or immediately after fumigation.
+
+Limiting values of fumigants
+
+Gas concentration in the air which is safe for human being is known as threshold limit value of the fumigant. Threshold limit values of the two commonly used fumigants are:
+
+
+Rodents and their control
+
+Rodents and types of damage
+
+The second most important pest in pulse storage is rodents. Rodents invade and multiply in or near storage places, where food is available in abundance. It causes serious damage not only to stored products but also to packaging and even to storage buildings. The principal rodents, those most common and likely to attack stored products, belong to the following species:
+
+
+Black rat, also called roof rat (Rattus rattus) 
+Brown or Norway rat, also called sewer rat (Rattus norvegicus)
+Mouse (Mus musculus)
+
+Rodents not only feed on the grains but also contaminate more than 20% what consumed with their faeces, urine and hair. Prolonged attacks by these pests inevitably results in serious quantitative losses, up to 3-4%, of stored products. These losses must be added to those arising from the decrease in quality of the foodstuffs, caused by the filth (excrement, secretions) rodents leave behind in the stored products. This contamination is as important from the marketing standpoint as it is for hygiene and health. Indeed, rodents are often the vectors of a number of serious diseases like rabies, leptospirosis etc.
+
+Control Measures
+
+Rodent control is a difficult task. Simple measures cannot be adopted for rodent control. A combination of following measures often becomes essential :
+
+
+Sanitation : Keeping the storage and surrounding area clean
+Exclusion : Keeping them out
+Killing : Killing those that get in 
+
+Sanitation
+
+Sanitation, both outside and inside the storage structures and processing plants, helps in proper control of rodents.
+
+Outside and surrounding areas should be kept clean so that rodents do not find shelter near the storage area. The following measures should be taken :
+
+
+Keep bushes/weeds cut and grass well mowed.
+
+
+Make pavement around the building for 1-2 meters to reduce cover. This will help prevent rats digging under the building.
+Keep the entire area well drained. Care should be taken not to have any garbage bins near the building.
+Discarded equipment and boxes should not be dumped around the building. Do not have a garbage dump near the storage area.
+
+Inside area of the building should be kept clean. This creates distraction for the rats to stay inside the building. Some suggested measures are :
+
+
+Walls and floors of the storage should be smooth. This helps in easy cleaning. Walls and corners should be kept free of dust, trash and spider webs.
+All the wastes products, dust etc., should be removed immediately after any operation.
+Bags should be stacked on pallets and not directly on floor. This helps in reducing hiding cover for the rats.
+A minimum of 75 cm distance should be kept in between wall and stacks. This helps in easy movement of workers and also reduces cover for rats.
+Walls should be painted with light colour. This reduces dark corners where rats prefer to stay.
+
+Exclusion
+
+It is an important idea to prevent the rats and birds from entering inside the storage area. Although it is a difficult task yet constructing rat-proof building and then careful operations greatly helps in controlling the entry of rats into building. Some suggested measures are
+
+
+The outer wall of the building should be of a material that rats cannot chew and should be smooth.
+A 25 cm wide rat shield should be installed at a height of 1-1.5 m all around the building. This helps in preventing the entry of rats. 
+Floor of the building should be constructed at the height of truck bed height. 
+Doors and window frames should be of steel and properly fixed with wall avoiding any gap between frame and wall.
+Windows should be screened with metal mesh to keep out flying insects.
+Lower 20 cm of tightly fitted doors should be covered with metal sheet lining.
+
+
+Doors should not be left open when not in use.
+Doors which are required to be left open for longer durations should be provided with transparent plastic panels to prevent entry of birds.
+Provide proper cement plaster slopes below the windows to prevent birds from making nests.
+Ensure that no board or bags etc. are kept outside the building touching the wall otherwise rats can jump over the rat shield and make entry into the building.
+
+Killing
+
+Rats that get inside the building must be killed immediately. Different methods can be used to kill the rats.
+
+
+Field rats live in burrows. To kill these rats, one zinc phosphide tablet per burrow is required and mouth of burrows need to be sealed with mud after placement of the tablets.
+Rodents in storage premises are controlled using physical, chemical and mechanical means.
+Various kinds of rat traps can also be used to catch the rats.
+Chemical method of rat control involves poison baiting to kill rats. Zinc phosphide in food bait or ready to use single dose anticoagulant can be used for poisoning rats. Other chemicals for the purpose are barium carbonate, red squill and ANTU. Baits with slow-killing and anti-coagulant poisons are accepted by rats better than fast-killing poisons. Initially baits should be offered without poison to lure the rats to the feeding place.
+Poisoned water and feeders should be kept at strategic places inside the building. In such cases, no other water should be allowed inside the building.
+Sonic and ultrasonic repellents are also being used to repel rats.
+
+Integrated management of bruchids
+
+To control the bruchid infestation during storage, it is essential to understand the factors, which promote the insect growth. Usually the infestation starts from the field itself and is carried to Store houses. In order to kill these insects at various stages of growth, Sun drying is the most common and preferred method. Proper drying not only kills the insects, germs and fungi, but also reduces grain moisture to the limits of safe storage. Lack of sanitation and improper storage creates environment conducive for reinfestation. This ultimately results into deterioration in quality of stored produce. Researchers have developed several strategies to control or eliminate field infestation before storing the grains followed by preventive measures to check cross infestation. Since bruchids, like other stored grain pests, increase ten folds with each generation, controlling bruchids at early stage is a must. If delayed, considerable damage could take place, making grain unfit for human consumption.
+
+

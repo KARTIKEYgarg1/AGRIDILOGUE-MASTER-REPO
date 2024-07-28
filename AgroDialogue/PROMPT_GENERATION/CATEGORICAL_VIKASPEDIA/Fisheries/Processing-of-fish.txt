@@ -1,0 +1,493 @@
+Processing of fish
+
+
+Handling
+
+The intrinsic and extrinsic qualities of fish vary considerably depending upon the location of the fishing ground, species, water quality and harvesting techniques. The primary objective of any handling method is to preserve the quality of the fish by bringing down the temperature near to 0oC  as quickly as possible. The factors such as delay in handling and chilling the catch, poor temperature control in the fish hold, damage from rough handling, poor standards of gutting, bleeding and washing the fish and mechanical damage due to the overfilling of the containers have a deleterious effect on the quality of fish and result in reduction of shelf life and loss of weight.
+
+Handling of fish at harvest / Onboard
+
+Maintaining the quality of fish begins with harvest and carries through the harvest-to - consumption. Careful handling of fish and shellfish on board the vessel or during transport to the processing plant is critical if the high quality of the product is to be maintained. There are, however, several constraints on handling the fish; the important among them are the bacteriological, chemical and physical processes that cause degradation of fish. The surface of dead fish & shellfish are ideal growth habitats for bacteria and the end result of such activity is spoiled fish. Reduction of temperature can prevent the growth of many bacteria that cause the spoilage Chemical breakdown due to oxidative and enzymatic reactions can lead to off odours and flavours and rancidity. Digestive enzymes can initiate decomposition in the dead fish. Physical factors can enhance the bacteriological or chemical processes: bruising, tearing, cutting etc. can expose fish muscle to more rapid bacteriological growth, cause internal bleeding which darkens the fillets and expose greater surface area for chemical oxidation.
+
+Post Harvest Handling on land
+
+Post harvest handling of the fish on land involves transportation of the catch, preprocessing the raw material and processing it to the desired product. Handling the fish on land has the same hazards as onboard handling such as autolysis, microbial and chemical spoilage that will affect the quality of the final product. These quality hazards vary linearly with temperature, being twice as fast at 2.5 oC, as at -1 oC. At 10 oC it is four times as at 0 oC. Hence during handling the temperature of the fish should be kept as low as possible to maintain the quality. The time taken to cool the fish will depend on the thickness of the fish.
+
+Handling during preprocessing and processing
+
+The type of handling the fish receive on land during preprocessing and processing will determine the quality of the final product. Every stage from capture, handling and processing, and eventually to sale, to the consumer, involves some loss of quality. Different raw material specifications are used for each product. For example, chilled fish for immediate sale on the local market may not be perfectly fresh but may still be acceptable to the consumer. But in the case of a product such as frozen fillets, fresh raw material will be required as it will have to withstand the rigors of the freezing process and extended cold storage before it reaches the consumer. Hence during pre processing stage raw material is graded according to the suitability for various processing methods. Handling the fish (raw material) during processing varies with type of the fish, the processing methods and the intended final product. However, there are some important good practices to be followed, which are described below:
+
+
+As far as possible, every precaution should be taken to avoid the warming of fish, as this will favour the action of enzymes and bacteria.
+Avoid mishandling of the fish. This will damage the skin and flesh and accelerate the process of bacterial contamination and enzymatic action.
+Cool the fish as quickly as possible by any convenient method. Whatever be the method, it is important to cool the entire fish.
+The fish, which are caught at different times, have to be kept apart since they will be at different stages of spoilage.
+Small fishes have to be kept separately from large fishes, as they tend to spoil more rapidly than the latter.
+Soft-bellied fishes are to be kept separately and if the guts are being removed or the belly has burst, the body cavity has to be washed to remove any traces of the gut.
+The containers used for the transportation of fish should be cleaned after every use. Chlorinated water should be used, whenever possible for every fish washing operation.
+Do not put fish on the ground; it can be kept on simple concrete / wooden platforms, which, if frequently cleaned, will reduce contamination. 
+Fish handlers at every pre processing and processing stage should learn about and adopt good hygienic practices.
+
+Storage
+
+Chilled storage
+
+Chilling is an effective way of reducing spoilage in fish if it is done quickly and if the fish are kept chilled and handled carefully and hygienically. The objective of chilling is to cool the fish as quickly as possible to as low a temperature as possible without freezing. Chilling cannot prevent the spoilage together but in general, the colder the fish, the greater the reduction in bacterial and enzyme activity.
+
+The important chilling methods of fish and fish products at non-freezing temperature are:
+
+
+Iced storage.
+Chilled seawater (CSW) storage.
+Chilled freshwater (CFW) storage.
+Mechanically Refrigerated seawater (RSW) storage.
+Cold air storage.
+
+Iced Storage
+
+The major advantage of using ice for chilling the fish is that it has a high latent heat of fusion so that it is capable of removing large amount of heat as it melts without changing the temperature at 0oC. During transition from ice to water 1 kg of ice absorbs 80 k cal of heat and this will be sufficient to cool about 3 kg of fish from 30oC to 0oC. Hence theoretically about 30 % of ice is needed to bring down the temperature from ambient conditions to 0oC. However, ice is needed to maintain the temperature as well as to accommodate the heat from the environment. Hence in tropical conditions a 1: 1 fish to ice ratio is ideal for ice storage.
+
+Since the spoilage of the fish starts immediately after the death which is largely dependent on the temperature conditions, the sooner the fish can be cooled the better will be the quality and shelf life. In ice storage it is not enough that there is sufficient quantity of ice to preserve the fish but the effectiveness of icing depends on how well the ice is dispersed among the fish. Also the smaller ice particles such as ice flakes do a more effective job of cooling than large pieces. This is because smaller particles give greater contact between fish and ice and the rate of heat removal depends on the size of the contact area. Another advantage of small ice particles is that it avoids damaging fish. Large pieces can exert point forces and thereby damage the fish.
+
+A considerable amount of experimental work has been done in different parts of the world on the storage life of commercially important fish species in ice. The results confirm that there are wide variations in storage life between the species and that the same species can have different storage life under different conditions. However some general conclusions can be made based on the experimental work on several species of marine and freshwater fish.
+
+
+Non fatty fish keeps longer than fatty fish
+Freshwater fish keeps longer than marine fish.
+Fish from tropical conditions keeps longer than those from temperate conditions.
+
+Types of Ice
+
+
+Block Ice - Ice is conventionally manufactured in the block form, which is crushed to smaller pieces for icing. Crushed ice has a large surface area, which will ensure rapid cooling than the large blocks. For making the block ice, water in ice cans is placed in tanks of refrigerated sodium or calcium chloride solution. Ice blocks are formed within 12 - 24 hours.The ice blocks are formed in few hours in a rapid block ice plant. In one type several tubes are arranged in a tank of water through which a refrigerant is passed. The ice as it builds up fuses with the ice on the adjacent tubes to form a block with a number of hollow cores. The block are released from the tubes by a hot gas defrost. In another type the refrigerant is circulated through a jacket around each can of water and also through pipes running through the centre of the can. Blocks are removed by gravity after a hot gas defrost.
+Flake Ice - Ice with smooth contours and in the shape of very thin flakes is called flake ice. It has an area of 100 - 1000 mm2 and a thickness of 2 - 3 mm. Flake ice has a very high area per unit mass and can cover large quantity of fish for a given weight when compared to crushed block ice. Flake ice is usually made by spraying water onto the surface of a refrigerated drum. The ice sheet formed is scraped off in the form of dry sub-cooled flakes. In some other models the scraper and the water spray is rotated inside a stationery drum and the ice is formed on the inner surface. The refrigerant temperature is in the range of -20 to -25oC and the flake ice production is automatic, continuous and quick.
+Plate Ice - Plate ice is made by spraying water on to the surface of vertical hollow plates through which a refrigerant passes. A flat sheet of ice will be formed on the surface of the plate and when it attains the desired thickness it is separated by pumping hot gas through the plates In some cases a water spray. Plate ice has the advantages of flake ice, the process is quick and the thickness of ice can be varied as per requirement.
+Tube Ice - Ice is made as hollow cylinder of about 50 ´ 50 mm with a wall thickness of 10 to 12 mm. The ice is formed on the inner surface of a series of hollow cylinders, the outer surface of which will be surrounded by a refrigerant. Ice released by hot gas defrosting will be chopped at about 50mm length. Tube ice will have to be crushed to the required size before icing and has all the advantages of the flake ice.
+Liquid ice or Flow ice - Liquid ice or flow ice looks like jelly. It actually consists of amorphous ice micro particles suspended in a non-corrosive, non-toxic solution. Liquid ice generator system yields a substance with ten times more cooling capacity than chilled water. Because of this it requires smaller flow rates for the same cooling capacity. The liquid ice at about 50% ice concentration is pumped into the fish box. Because of its fluid properties, it buries the fish, making close contact with the entire surface.
+Soft Ice - Soft ice is made by freezing a weak brine or seawater in a drum provided with refrigerated walls. The crystals of fresh water ice forms slurry in the brine as temperature falls and it is pumped into a storage tank. Ice crystals are skimmed off from the tank to be used as soft ice slurry. It has the advantage of making perfect contact with the material. Besides it does not cake, or forms air pockets as it can happen with other forms of ice.
+
+Chilled Sea Water (CSW) storage
+
+In this case, the fish is surrounded with a mixture of ice and water. When enough ice is added to the system it will bring the temperature of the water near to 0oC. The water will remove the heat from the fish. The transfer of heat from fish to water and from water to ice will continue until the system is brought to a state of equilibrium. The surface contact of the fish and chilling medium will be maximum in CSW than in ice alone.
+
+Because of the maximum contact between the cooling medium and the fish the cooling rate of the fish in CSW is higher than that of fish in ice. CSW can be adopted in fishing vessels as it has many advantages over ice storage. CSW system is used for the containerized bulk storage of the catch onboard the vessels. This expedites the handling of the catch. The main advantages of the CSW system are listed below:
+
+
+Faster cooling rate.
+Maintenance of a uniform temperature.
+Less damage to fish.
+Easy unloading of fish using pumps.
+
+Refrigerated Sea Water (RSW) storage
+
+In this system the seawater is cooled by mechanical refrigeration. The advantage of RSW over CSW is that there is a reasonable control of temperature over a range, which is not possible in CSW. At 3.5% salt, the sea water has a freezing point of about -2oC and if refrigerated it is possible to reduce the temperature to -1oC where maximum storage life for chilled fish can be obtained.
+
+RSW systems, although more complicated than CSW systems, are not necessarily more expensive to operate. The basic components of this system are a heat exchanger to remove heat from seawater, a mechanical refrigerator to discharge heat from the system and a circulatory system to transport the refrigerant between the heat exchanger and the refrigerator.
+
+Freezing
+
+Water accounts for 75-80% of the weight in most of the fish. This water contains several dissolved organic and inorganic substances like sugars, salts and other compounds. Besides more complex organic molecules like proteins are also present in colloidal suspension. Hence the water in fish is actually a suspension of solids which will have to be cooled down to a temperature at which the solute phase and the solvent phase will have the same vapour pressure. So the freezing begins in the fish usually at a temperature of -1 to -2oC.
+
+Freezing Process
+
+In the simplest terms refrigeration means removal of heat from the body or atmosphere, which is desired to be cooled and its transfer to another medium. It is usually accomplished by the evaporation of a liquid refrigerant, which extracts heat from the medium to be cooled. The refrigeration cycle involves steps to remove the heat from the evaporating refrigerant by again converting it into the liquid state in order that it may be used repeatedly in a continuous process.
+
+Quantity of heat to be removed for freezing the fish
+
+Freezing involves removal of heat from the product in distinct stages. In the first stage specific heat is removed from the product lowering its temperature to a stage when freezing begins. The second stage involves change of state of water from liquid to solid .the temperature will remain relatively steady and the latent heat of fusion is removed. About 80% of the water freezes between -1 to -5oC. This temperature zone is called the zone of maximum crystallization.
+
+Quick freezing and slow freezing
+
+The freezing process in which the fish passes through the zone of maximum crystallization in 30 minutes or less is arbitrarily referred to as quick freezing. Quick freezing is the process employed in commercial freezing of fish. Slow freezing has the following disadvantages over quick freezing :
+
+
+Large ice crystals are formed during slow freezing which can damage the cell walls. This may cause textural changes and increased thaw drip.
+Water tends to freeze out as pure water leading to a higher concentration of salts and enzymes in the unfrozen water. This can accelerate autolysis.
+Some bacteria may remain alive at 0oC causing spoilage to continue in fish.
+
+Freezing methods and equipment
+
+Direct and indirect systems
+
+In the direct expansion system, the refrigerant absorbs heat directly from the material to be cooled. In the indirect or brine system, the refrigerant absorbs the heat that the brine absorbs from the material to be cooled. Both these systems are commonly employed in commercial freezing operations.
+
+Freezing methods are broadly classified into
+
+
+Freezing in air 
+Indirect contact freezing 
+Immersion freezing
+Cryogenic freezing
+
+Freezing in air
+
+Air is the most common freezing medium. Air freezing  systems are of two types- still air freezing and forced air freezing.
+
+Freezing in still air 
+
+The freezer consist of an insulated room or a cabinet maintained at -28 to - 45oC.  Fish, packaged or otherwise, placed in aluminum trays, is kept on   shelves made of pipes or coils through which the refrigerant is   circulated. Time taken for freezing may be 12 hours or more. Freezing in   still air is the least expensive method of freezing; however, is the   slowest method as well.
+
+Air Blast Freezer
+
+Air blast freezer consists of an insulated room or a tunnel. Air is cooled by blowing a fan through the finned cooling coil of the refrigeration system. Cool air passes over the fish to be frozen and picks up the heat from the product, walls of the freezer etc. Temperature is maintained at -35 to -40oC.
+
+Advantages
+
+
+Versatile method - applicable to any size and shape.
+Easy for producing IQF fish, fish fillets or coated products.
+Suitable for operation in batch or continuous process.
+
+Disadvantages
+
+
+Occupy large space
+Consume more energy
+Excessive dehydration if the fish is unpacked.
+Fish will swell giving a bulged appearance if not confined between rigid surfaces during freezing.
+
+Continuous air blast freezer
+
+This is an improvement in the air blast freezer where a conveyor belt is used to move the fish continuously through the room or the tunnel. The speed of the conveyor can be adjusted to suit the type of the fish to be frozen. Air flow can be either countercurrent to the movement of the material or across the belt. Air velocity maintained at 150- 300 m/ sec. Makes intimate contact with the fish and accomplishes freezing at a fast rate. Freezing is quicker and any type of fish can be frozen in large quantities in shorter periods. Spiral belt freezers are an example.
+
+Fluidized Bed Freezing
+
+Fluidized bed freezer is an improvement over the continuous belt freezer. Fluidization is a method of keeping the solid particles partially supported in a rising column of cold air. The particles kept on a mesh are individually suspended in an upward stream of cold air at a velocity sufficient to float the particles in the cold air. Each particle is surrounded by air and is kept suspended separated from each other. Freezing is rapid as the best possible heat transfer is ensured between the cold air and the product. Air velocity of 120m/min. And operating temperature of -35 to -40 o c is common in fluidized bed freezing. This is most suitable for small sized and uniform products like shrimp, small fish etc.
+
+Advantages
+
+
+Rapid rate of freezing
+Less product dehydration
+Short freezing time
+No distortion of shape.
+
+The major disadvantage is that large and non-uniform products cannot be fluidized at reasonable air velocity.
+
+Indirect Contact Freezing
+
+Indirect contact freezing can be defined as freezing a product by keeping it in contact with a metal surface which is cooled by some refrigerant. They are of two types - The horizontal plate freezers and the vertical plate freezers.
+
+Horizontal plate freezer
+
+These freezers in general have 15-20 plates. The product to be frozen contained in metal freezing trays are loaded between freezing plates and are maintained in close contact with top and bottom plates under slight hydraulic pressure to ensure maximum heat exchange. The freezing trays are also covered with tightly fitting lids which will help to provide contact with the freezing plates at the top. Temperature is maintained between -35 and -40oC. Fish freezes in 2-2.5 hours.
+
+Advantages
+
+
+Produces well shaped uniform blocks.
+Minimum floor area requirement.
+Quick freezing
+Product dehydration - minimum 
+
+Disadvantages
+
+
+Needs much handling in loading and unloading
+Package should be compact without air spaces - freezing will become slow if there are air spaces.
+
+Vertical Plate Freezer
+
+These are most commonly used for freezing fish at the sea. They consist of number of vertical freezing plates that form partitions in a container called stations. Fish are loaded between the plates until each station is full and then the plates are closed together to form fish blocks. Temperature ranges between -30 to -40oC.
+
+Contact plate freezer is very economical to operate. Dehydration of the product will be minimum and it remains in uniform blocks without bulging.
+
+Rotary Drum Freezer
+
+This is a refrigerated stainless steel drum revolving at a pre-set speed. The material to be frozen is fed on the external surface of the drum through a conveyor. It adheres immediately to the surface of the drum by freezing the water on the surface of the material. At the end of one revolution the frozen product is scraped off and is passed through an automatic glazer before packing. As there is no movement of the air and the freezing is rapid, there will be little or no loss of weight during freezing.
+
+Immersion Freezing
+
+In this method freezing is achieved by immersion in, or spraying with, a refrigerant that remains liquid throughout the process. Refrigerated aqueous solutions of propylene glycol, glycerol, sodium chloride, calcium chloride and mixtures of sugars and salt can be used as medium for freezing. Immersion freezing allows for intimate contact of every surface of the material with the freezing medium and thus ensures very efficient heat transfer.
+
+Freezing in brine
+
+Saturated brine freezes at -21 o c and this is the most common medium used in immersion freezing. Brine freezing is rapid and is adaptable for continuous operation. However the fish will absorb some salt, which will depend on several factors such as temperature of the brine, duration of immersion, fat content of the fish and the surface area. Salt absorption can, to a great extent, be reduced by using mixture of glucose or corn syrup and salt as the freezant. The glucose- salt solution will give a protective glaze to the product and hence it will not stick together. Contamination of the medium and subsequent cross contamination of batches is a major disadvantage of this process.
+
+Brine spray freezing
+
+Chilled brine is sprayed over the fish placed in trays. Heat is removed from the fish by the chilled brine in 1-2 hours.
+
+Cryogenic Freezing
+
+In cryogenic freezing very rapid freezing is achieved by exposing the fish , unpacked or with a very thin package, to an extremely cool freezant undergoing a change of state. The important difference between cryogenic freezing and liquid immersion heating is the change of state in the former while removing heat from the body. The most common food grade cryogenic freezants are boiling nitrogen and boiling or subliming carbon dioxide.
+
+Cryogenic freezing is much faster than air blast or contact plate freezing ; but is only moderately faster than fluidized bed or liquid immersion freezing. For example, shrimp takes nine minutes to freeze in a commercial liquid nitrogen freezer whereas in fluidized bed freezer it will be 12 minutes and in contact plate or air blast freezers it will be 1-2 hours.
+
+Freezing using liquid nitrogen
+
+In freezing using liquid nitrogen, liquefied nitrogen gas is sprayed over the product as it travels in a tunnel over a conveyor belt. The nitrogen gas passes countercurrent to the movement of the fish so that the fish gets pre-cooled before reaching the liquid nitrogen spray. After the spray the product is allowed to temper for a while being discharged from the tunnel.
+
+Advantages
+
+
+Negligible dehydration loss.
+Exclusion of oxygen protects the product against any oxygen induced changes.
+Attains individual quick freezing of the product and the freezing damage is minimum.
+Equipment is simple in structure, adaptable to various production rates and product sizes, capable of continuous operation and high product turnout.
+Low initial investment.
+
+Freezing using liquid / solid carbon dioxide
+
+Liquid carbon dioxide is sprayed over the fish as it travels through a tunnel on a moving conveyor. The carbon dioxide is sprayed through the nozzles and while spraying the pressure is quickly reduced and about 50 % of it suddenly changes to tiny particles which absorbs the heat from the surroundings and gets converted to gas resulting in rapid cooling of the fish. Freezing can be done by exposing the fish to powdered solid carbon dioxide.
+
+Freezing with carbon dioxide has most of the advantages of freezing with liquid nitrogen. However, unpacked foods may absorb or entrap carbon dioxide to the extent of causing undesirable swelling.
+
+Freezing using liquid refrigerant
+
+The most common liquid refrigerant used is dichlorodifluromethane (Freon -12). Fish is placed in a mesh belt is conveyed to an insulated chamber. Fish is frozen either by spraying the product with good food grade Freon or by a combination of initial immersion in liquid Freon followed by spraying with it. In both cases the vapours are collected for reuse.
+
+The process has all the advantages of liquid nitrogen freezing and the added advantage of cost. However, owing to the concerns over the effects of Freon -12 in ozone depletion in the atmosphere its use has rapidly declined.
+
+Double freezing
+
+It is a common practise to preserve the fish by freezing onboard vessels when the voyage lasts for few weeks. On reaching the shore the fish is thawed and reprocessed. Use of fish frozen in bulk onboard for further processing to fingers, reprocessing bulk frozen shrimp into IQF shrimp are examples of double freezing.
+
+Quality-wise, re-freezing of fish is considered to be undesirable. Lean fish, as fillet, suffers loss in quality, particularly the texture becomes tough.
+
+Partial freezing
+
+Partial freezing or super chilling, involves lowering the temperature of the fish to about -2 to -3 o C. By cooling the fish to this temperature range, approximately half of the unbound water present in the fish will get converted to the solid phase. Storage life of partially frozen fish is almost double that of fish stored in ice. However, some loss of sensory quality is experienced when the storage period extends to five days mainly due to the fluctuations in temperature. A change in 0.5 o C can be instrumental in intermittent melting and freezing of water in the fish and can have profound effect on protein denaturation. Storage life of partially frozen fish, if subsequently frozen, will be very short. Maintaining strictly constant temperature in the storage is very essential to avert loss of quality in partially frozen fish.
+
+Curing
+
+The traditional methods of processing fish by salting, drying, smoking pickling etc. are collectively known as Curing. Curing is the oldest method of fish preservation. Though traditional it is still widely practiced in developed and developing countries. Though produced in coastal areas, cured fish is usually consumed in the interior markets and hilly areas. This is the cheapest method of preservation also, since no expensive method or technology is used.
+
+About 20 % of the fish caught annually is used for curing in India. It is also an important form of export.
+
+The process
+
+Curing is a process by which the fish is preserved by sun drying, salting, pickling, smoking, artificial drying etc. This can be done either by any single method or a combination of these methods. Traditionally, simple sun drying was practiced widely. Here preservation was achieved by removing the water in the fish, thereby retarding the activity of bacteria and fungi. The heat was able to destroy the bacteria to a certain extent. Later on it was a combination of both salting and then drying or salting, smoking and drying. In the current market situation both wet and dry cured fishery products have commercial importance.
+
+Methods
+
+
+Drying
+Wet curing
+Dry curing
+Smoking
+Mona curing
+Colombo curing
+
+Drying
+
+There are basically two methods of drying fish. The common one is by utilising the natural heat available from the sun. This is known as sun drying. The other is by using artificial means like mechanical driers for removal of moisture from the fish.
+
+Sun drying
+
+This is the simplest method of drying fish . The fishes dried in this way are small, lean ones, which are available in plenty during the glut season. They are usually spread out on the seashore as whole with little preprocessing. Sometimes they are given a washing in the seawater. Drying takes place usually by the removal of moisture from the surface and later from the interior of the fish. Depending on the relative humidity, temperature, air velocity, the removal moisture takes place continuously.
+
+Factors, which affect the rate of drying, are:
+
+
+Size of the material, larger fish takes a longer time to dry where as smaller ones lesser
+Surface area, large surface area will increase the rate of drying.
+Temperature, the higher the temperature the faster will be the rate of drying
+Relative humidity, the lower the RH the faster will be the drying
+Air velocity, the greater the speed of the air, the faster the drying
+Fat Content, fatty fishes will take a longer time to dry than lean fishes
+Water content, the higher the water content the faster is the drying
+
+Fish is also conventionally dried on coir mats, cement platforms, bamboo mats and jute sacks. Often this sort of drying gives a product, which is contaminated with sand, and other foreign matters. The fish dried on cement platform gets partially dried due to the excessive heat. It becomes necessary that the fish is turned over often to ensure a uniform dried material.
+
+The advisable method for drying fish is drying them on rack. Here the fish is dried on a raised platform above the ground. This can be made by tying old webbing to poles made of locally available materials like casuarinas, bamboo etc. which are fixed at regular intervals. Here the main advantages are that there is a circulation of air from both top and bottom. There is no contamination of the product, hence a quality product is assured.
+
+Solar Drying
+
+This is a method by which the sun’s heat is converged and utilized for drying. Converging of solar heat can be effected by using a black surface which absorbs heat far more effectively than a light coloured one. Solar tent driers and cabinet driers work on this principle.
+
+Mechanical driers
+
+In mechanical driers the removal of water from fish requires an external input of thermal energy. This is brought about by burning fuel. This is an expensive method since there is need for fuel for heating and maintenance of the temperature. The drying chamber consists of a long tunnel in which the product is placed on trays or racks. A blast of hot air is passed over the material to be dried. After the required degree of drying the product is removed from drier and packed.
+
+Dry Curing
+
+This is the most widely used method of fish curing. All types of fishes except fatty fishes big or small are cured by this method. Here, the fish is gutted, beheaded or ventrally split open and the viscera removed. The fish is then washed clean. Larger fishes are dorso-ventrally split open and cleaned thoroughly. Scores are made along the thick flesh portion for better penetration of salt. Salt is then applied in the ratio 1:3 to 1: 10 (salt to fish) depending upon the size of the fish. The fish is then salted in cement tanks or containers. The bottom of the tank is covered with salt and a layer of fish is placed. Both fish and salt are alternately placed in the tank and wooden planks are over put down on the top and weighed down. The salt draws out the water in the fish and the weight placed keeps it under pressure. The fish is kept in this condition for 24-48 hours. After this the fish is taken out, washed in brine solution to remove adhering salt and drained. It is then dried in the sun to required level of moisture. Yield of the product by this method is about 35-40%. This product has a shelf life of 6-10 weeks.
+
+Wet Curing
+
+The initial stages of processing and salting are the same as for dry curing. Once the fish is put into the tank it is allowed to remain in the self-brine. The fish is not dried at all. The wet fish is then drained and packed in Palmyra leaf baskets or coconut leaf baskets and taken to the market. The fish is taken out only when there is demand. This method is particularly suitable for fatty fishes. This is mainly done for fishes like oil sardines, mackerels, and ribbon fishes etc. wherein the fat gets oxidised on exposure to air during exposure to air. That is why it is not dried. When immersed in the tank there is no contact with outside air.
+
+These products have moisture content of 50-55% and the salt content around 25%. They are most susceptible to fungal attacks, bacterial degradation and general putrefaction. They have a very short shelf life.
+
+Smoking of fish
+
+Smoking is another traditional method of `preservation of fish. Smoking is generally a combination of salting, and drying. Smoking is usually done in a kiln or a room, which is specially prepared for it. The source of smoke is wood or sawdust or coconut husk, depending on the particular flavour required. The fish that is salted and partially dried is used for smoking. Smoking can be cold, hot or liquid. If the temperature is below 35 °C, it is cold and which is 70 to 80°C it is hot.
+
+In a tropical country like ours hot smoking processes is preferable. Hot smoked products are partially cooked due to the heat of smoke. The preserving effect of smoking on fishery products is attributed to a combination of surface drying, salting and deposition of phenolic and other anti microbial constituents of smoke on the fish. Both salted and unsalted fishes are smoked. Small fishes are smoked whole whereas larger ones are smoked as fillets or chunks. Freshness of the fish is an important factor determining quality of smoked product. Smoked fish have the potential danger of containing certain carcinogenic compounds of smoke such as 3-4, bensopyrine harmful due to the presence of carcinogenic compounds.
+
+Salting
+
+Precautions to be taken before salting:
+
+
+The fish used for salting should be as fresh as possible. It should be borne in mind that fresher the fish the better will be the end product.
+The water used for washing and brining should be potable and should not be coloured or contaminated.
+Salt used should be of good quality and should not contain high amounts of Magnesium and Calcium chlorides. These being hygroscopic in nature will delay the drying process.
+While dressing the fish care should be taken to clean and wash the same. The intestine should not be ruptured since this will contaminate the flesh
+All utensils and tanks used for drying and allied purposes should be cleaned properly and dried before use
+Cement tanks should be scrubbed scrupulously and kept clean
+Workers engaged in drying should be free of illness and should have an idea about handling practices
+No waste should be left unattended; the waste should be disposed off properly.
+Drying racks should be kept clean.
+
+Canning
+
+Canning is a method of food preservation in which preservation is achieved by the destruction of micro-organisms by the application of heat. The use of an appropriate container for packing fish averts the possibility of re-entry of micro-organisms and further spoilage. Since the canned foods are sufficiently cooked products and free from micro-organisms they offer consumer safety besides being ready to consume. Canning has the unique distinction of being an invention in the field of food processing/ preservation whereas all other methods can be considered as adaptation of natural processes or their modifications. Because of their very long shelf life and ready to consume feature canned products have become very popular and a variety of food stuffs, both plant and animal origin and their combinations are produced and distributed. Canned products possess the following salient features.
+
+
+Consumer safety: Canned foods are free from micro-organisms and protected against any further contamination
+Ready to consume products: they are sufficiently cooked products and hence can be consumed without any further preparation
+Canned foods are concentrated foods: Only the edible portion is packed after removing all waste parts
+No special storage facility needed: Can be stored at ambient temperature
+Very long storage life: Properly processed canned foods keep well for more than one year.Processing methods are simpleThe process can be applied to a wide variety of foods of both plant and animal originThe process renders itself suitable for automation
+
+The important operations involved in a canning process are :
+
+
+Selection and preparation of raw material.
+Pre-cooking / blanching
+Filling in to containers.
+Addition of liquid medium
+Exhausting
+Seaming
+Heat Processing / Retorting
+Cooling
+Drying, warehousing, labelling and casing
+
+The general steps involved in a canning process remain the same, but slight variations are introduced to suit a particular case.
+
+Selection and preparation or raw material
+
+A great variety of fish and shellfish suitable for canning are available in our country. Sardine, mackerel, tuna, seer fish and shellfishe like shrimp, clam, oyster, mussel, crab etc. are suitable for canning.
+
+Raw material quality is very important for canning. Only fresh fish should be taken for canning. Since the heat processing is standardised with respect to a known level of microbial spore population, the number in excess will result in the failure of destruction of micro-organisms. Therefore it is essential that, the bacterial load in the fish prior to canning should be kept as low as possible. This can be achieved by using very fresh fish, proper dressing and thorough washing in potable water and keeping properly iced.
+
+Preparation of raw material include de-scaling, beheading, gutting, removal of fins, tail and cutting in to small pieces etc. In the case of shrimps, peeling and de-veining is done Bivalves like clams, mussels, oysters etc require a purification process called 'depuration` for improving the bacterial quality of the meat. The depuration technique is to subject the organisms to starvation for 18 to 24 hours in filtered water collected from the natural habitat and chlorinating the water lightly 2 hours prior to taking out the shell fishes. The shellfishes are then heated in open vats till their shells are opened. The meat is picked out or sieved and collected and thoroughly washed in potable water. In the case of crab, the legs, outer shell (carapace) body flap, gills etc. are removed and the body is split in to two or four pieces. The pieces are then thoroughly washed in potable water.
+
+Blanching/Pre-cooking
+
+Cold blanching
+
+The dressed fish is subjected to this process before filling in to cans. The process is to keep the fish pieces immersed in a salt solution, the concentration and dipping time varies depending on the species and size of fish. This process removes blood, slime, dirt, etc and gives firmness to the texture and imparts a salty taste to the product. It also reduces the bacterial population.
+
+Hot blanching
+
+For shell fish including shrimps and crabs, blanching process is done in boiling brine. During this process the shrimp meat gets their characteristic red colour, curls and shrinks in size permitting adequate filling in to cans.
+
+Pre-cooking of fish is carried out in steam with or without pressure either before or after packing in to cans. The fish is cooked for such a length of time that no further water is exuded while the cans are subjected to heat processing. For sardine, the cooking time is found to depend on the fat content, lean fish taking larger cooking time. This process will expel the cellular gases and improve vacuum in the can, inactivate the enzymes and reduce the bacterial population.
+
+Filling into containers
+
+Widely used container is the tin plate can commonly known as the 'open top sanitary can` (OTS cans). The tin plate can is 98% steel and 2% tin coating on either side. (The can used for canning fish is internally coated with a sulphur resistant lacquer (SR lacquered cans) for preventing black discoloration in canned fish. The sulphur from the sulphur containing amino acids in the fish muscle reacts with iron in the tin can and forms black iron sulphide, which results in what is known as sulphide blackening. The tin coating applied to the can is expressed in grams per square metre (GSM). The two practices employed in tin coating are the Even coating and Differential coating. In Even coating, equal quantity of tin is deposited on both sides, e.g. E.5.6/ 5.6 indicates a coating weight of 5.6 GSM on either side of the tin sheet. When the coating thickness is different on both sides, it is called Differential coating, eg. D 11.2/5.6 indicates a tin coating weight of 11.2 GSM on inner side and 5.6 GSM on the external surface of the can.
+
+The most commonly used lacquer in fish cans is the oleoresinous C- enamel lacquer. C- enamels contain Zinc oxide, which reacts with sulphur compounds producing zinc sulphide, which is white in colour. The colour of the product thus remains unaffected.
+
+An ideal container is expected to possess the following features.
+
+
+Strong enough to protect the contents during transportation and handling.
+Light enough for economic handling
+Should be impervious to air, moisture, dust and disease germs once the can is sealed air tight.
+Pleasing and sanitary appearance
+Internal lacquer should not impart toxicity to the contents
+Should withstand the sterilisation pressure and temperature
+Inexpensive, preferably cheap enough to discard after use
+Capable of sealing at high speed.
+
+The OTS cans meet most of these requirements and hence it is widely used in the food industry. One practical difficulty met with OTS can is in opening the can. Tin cans with easy opening lids (EOE cans), Aluminium cans with EOE facility etc. are the innovations in this direction for easy opening.
+
+Addition of liquid medium
+
+The liquid medium besides serving as a constituent of the product and improving taste, texture, flavour, it also facilitates rapid heat penetration enhancing the sterilisation process. Brine is the most satisfactory liquid medium for most fatty-fishes where as non- fatty fishes require special additives to improve their flavour and texture.
+
+Oil, usually double refined and de-odourised vegetable oil, is the principal additive for many canned fish products. The oil used should be such that it should not undergo any change during heat processing. It also should not impart any colour or flavour to the product.
+
+Tomato sauce is an important additive in mackerel, oyster and the like. The tomato sauce for use as packing medium should be prepared out of good quality tomato and the colour of the sauce should not deteriorate during heat processing. The consistency of the sauce should be adjusted to a solid content of 28 to 30%.
+
+There are a number of other additives such as carboxy methyl cellulose (CMC}, monosodium glutamate (MSG}, sugar, vegetables, spices etc. added in specific cases to yield canned products of specific qualities. While filling with liquid medium a head space of 6 to 9 mm from top of the can should be provided for adequate vacuum formation in the can.
+
+Exhausting
+
+Exhausting is the process of removal of air from the contents and headspace of the can before it is seamed. This is a very important operation and has the following functions to perform.
+
+
+Minimises the strain on the seams through expansion of air during heat processing.
+Removes oxygen and eliminates the chances of can corrosion.
+Ensures proper vacuum. During exhausting the air in the can is replaced by steam which on cooling creates vacuum. Certain amount of vacuum in the can is a product quality criterion.
+Oxidation of fat and consequent deterioration in quality is prevented.
+Vitamin C- is preserved
+
+Exhausting is achieved by one of the following three methods.
+
+Sealing
+The objective of sealing is to provide an air tight seal between the can body and the can end (lid) so that micro-organisms cannot gain entry in to the cans. Perfect sealing is a critical operation stage in a canning process. For providing perfect sealing to the can adjustments to the seaming machine are done before starting the seaming operations and the double seam formed is examined with standard measurements. The sealed cans are also subjected to pressure testing for checking the seam perfection. The can seaming machine should be checked daily for its performance before the cans are taken for sealing.
+
+For providing a hermetic sealing a rubber sealing compound is applied to the groove (curl) of the can end. The successive operations of the first and second rollers of the seaming machine gives the double seam, the perfectness of which should be checked as per the guidelines given by the manufacturer.
+
+The exhausted cans are sealed without any delay. The delay may cause cooling of the contents and air may occupy the headspace thereby leaving no room for vacuum formation.
+
+The sealed cans are washed using a detergent. The adhering meat particles, grease or oil from the sealing machine etc are washed before taken for the next operation.
+
+Heat Processing
+Heat processing is the most important operation in canning process. In heat processing/ the product is subjected to heat at a high temperature (say 110°C or above) to sufficient length of time to cause destruction of all pathogenic organisms and inactivate or destroy the micro-organisms causing. Among the pathogenic bacteria, Clostridium botulinum is the most important, since it is able to grow in sealed cans under vacuum if it present and lead to the development of a potentially lethal toxin. In general, proper thermal processing prevents spoilage, helps to retain most of the organoleptic qualities and assures consumer safety.
+
+The temperature and duration of heat processing depend on the type and nature of micro organism and heat penetration characteristic of the food.
+
+When micro-organisms are subjected to heating in steam, it is observed that 90% of the population is destroyed at equal intervals of time at a particular temperature. This time to reduce the bacterial population by 90% is known as the 'D' value or the decimal reduction time at that temperature. The 'D' value is in fact, a measure of the heat resistance of the micro-organisms. Safety from botulism, is assured by giving a process equivalent to 12 decimal reductions (12D) in the population of Cl.botulinum.. This is made more reliable and reasonable by assuming an initial Clostridium botulinum spore level of 1 organism per gram of the food material by reducing the spore level to 10-12.
+
+In the case of non-pathogenic spore, a comparatively higher initial spore level and final spore survival is accepted on grounds that health risk and spoilage is not so severe as compared to that of Cl.botulinum.. If a very low spore survival in the case of non-pathogenic thermophilic organisms such as 10-12 is considered, it will require heat processing for longer periods leading to unfavourable situations, like loss of quality, increase in energy consumption, decrease in production output etc. Hence a compromise on heat processing time for obtaining safety from Clostridium botulinum and non-spoilage due to thermophilic non-pathogenic organisms is an acceptable practice. The sterility condition arrived on this concept is known as commercial sterility. In relation to canned foods, FAO/WHO Codex Alimentarius Commission (1983), defines commercial sterility as the condition achieved by the application of heat, sufficient alone, or in combination with other appropriate treatments, to render the food free from micro-organisms capable of growing in the food at normal, non- refrigerated conditions at which the food is likely to be held during distribution and storage.
+
+The cans are stacked in crates and placed in retorts for heat processing. Before closing the lid of the retort, air from the retort is completely fleshed out by flushing with steam. The air vent is then closed and steam is admitted in to the retort in such away that the temperature and pressure is raised slowly till the required temperature and pressure is attained. Heat processing is carried out at the designated temperature, pressure and duration till the heat processing value designated as F0 is attained. F0 value is the heat processing time at 121°C (250°C). In practice, the lethal rates of all temperatures above 90°C is integrated in terms of heating at 120°C and the total lethal rates of the heating process is expressed as equivalent to heating at 121°C. When the heat processing is over steam is released slowly till the pressure is brought down to zero. Aluminium cans and flexible pouches require super imposed pressure cooling for preventing bursting while steam pressure is released. The cans are taken out and transferred to cooling tanks immediately after heat processing.
+
+Cooling
+The heat from the can as well as the pressure developed inside the can has to be reduced rapidly for preventing straining on the seam and excessive cooking. The seam in a heated can is in an expanded condition. There can be microscopic openings in a seam through which cooling water may be sucked in. If this water is contaminated, it will lead to spoilage of the cans. This calls for maintaining proper water quality .The cooling water must be of potable quality chlorinated to an available chlorine of 5 ppm. Continuous use of the same water for cooling helps in building up bacterial load, particularly in later stages when there will be ample nutrients in cooling water in the form of fish particles washed off from can exterior. The cans must be cooled to 37°C retaining sufficient heat for drying the can surface which also protects against rusting.
+
+Drying, warehousing, labelling and casing
+
+The processed cans must not be cased hot because the loss of heat by radiation from the cases will become slow which will provide favourable condition for the development of thermophilic bacteria which might have survived heat processing. Cans should not be stored adjacent to steam pipes or humid environments. Warehouses should be away from chemical and fertiliser factories where the fumes of chemicals/fertilisers are harmful to food cans. Warehouses should be clean, cool and dry. Water condensing on surface, high humidity or temperature, corrosive fumes etc. leads to rusting of the cans
+
+Battered and breaded products
+
+Battered and breaded seafood offers a convenience food valued widely by the consumer. Battered and breaded items are included in the value added products because the process of coating with batter and breadcrumbs increases the bulk of the product thereby reducing the cost element. The pick up of coating on any product can be increased either by adjusting the viscosity of batter or by repeating the process of battering and breading. As a convention 50% fish portion is expected in any coated product. Fish fingers, fish portions, fish cakes etc. are the staple breaded seafood lines, while breaded shrimp, lobster, oyster, scallops etc. cater to a luxury market are widely used in restaurant trade. The production of battered and breaded fish products involves several stages. The method varies with the type of products and pickup desired. In most cases it involves seven steps. They are portioning/forming, pre-dusting, battering, breading, pre-frying, freezing and, packaging and cold storage.
+
+Portioning/forming
+
+Portioning is an important stage in the production of coated fishery products. Cutting loss and surface area of the portions are the two important points which determine the economics of coated products. Key factors in the product of fish portions are the speed and accuracy with which the frozen fish blocks can be processed at minimum cost.
+
+A recent innovation for the catering sector is forming of skinless and boneless fish fillets into a predetermined shape and size using specially designed forming machines. The shapes vary from conventional fillet shapes to several other imaginative ones.
+
+Pre-dusting
+
+The purpose of pre-dusting is to prepare the surface of the portion so that batter can adhere uniformly. Pre-dusting also improves the adhesion of batters to frozen or greasy food surfaces. Pre-dust normally consists of a very fine raw flour type material. A more sophisticated and expensive pre-dust may contain spices and seasonings for both functional and flavouring purposes.
+
+Application of the batter
+
+Conventional batters are of low to medium viscosity and hence can be applied with total submersion or overflow batter applicators. Low viscosity batters are normally applied in an overflow configuration. Medium viscosity batters may require a total submersion system depending on the product requirements.
+
+The pre-dusted product is conveyed to the batter applicator and transferred to the next conveyor, which will draw it through the batter. The fish portion is totally submersed in the batter as it is drawn through it. Other applicators may use a pour-on application in addition to the submersion method. Irregular shaped products should be placed on the line with any concave surface upward to prevent air pockets from inhibiting batter pickup.
+
+Application of breadings
+
+There are many types of breading applicators available and the appropriate machine depends on the ingredients used. The speed of the breading machine is so adjusted to closely match the belt speed of the batter applicator.
+
+For soft products the crumb depth should be maintained as thin as possible to avoid product damage when leaving the breading machine; however, frozen or hard products should have a deep bed of crumbs. Pressure rollers are used to apply sufficient force to press crumbs onto the battered product.
+
+Pre-frying
+
+After coating with batter/bread crumbs many products are often flash fried prior to freezing. The purpose of pre-frying is primarily to set the batter/bread coating on the fish portion. Flash frying develops a characteristics crust and gives the product a characteristic fried (oily) appearance and taste. Therefore the temperature of frying oil and the time of frying are critical. The normal frying temperature is between 180-190 °C and the frying time 20-30 seconds. The term pre-frying is used because the final product frying is completed by the consumer. The battered/breaded fish portions enter the frying medium through a conveyor system, the speed of which is adjusted so as to keep the fish portion in the hot vegetable oil for the required time.
+
+Freezing
+
+The fish portion leaves the frying oil with a coating temperature equivalent to that of the oil but still frozen in its center. Although the fish flesh center is frozen the surface flesh may be partially thawed. Therefore a quick and efficient freezing method is very essential to keep the quality of the coated product.
+
+The first step in preparing the fried fish portion for freezing is air cooling. This is usually accomplished with the use of a fan or a series of fans. This allows the coating temperature to drop, while at the same time allowing the batter coating to recover from the frying shock and also to stabilise itself. The coated fish portions are then fed to the freezer through conveyor belts. Freezing is usually carried out in spiral freezers. Freezing is completed when the internal and external temperature of the fish portion drop to about -10°C.
+
+Packaging and storage
+
+Most of the battered and breaded products like fish fingers or portions are individually packed into small boxes on a weight basis or by a specified number of pieces. When individually packed, layers of the product will be separated by a waxed paper to prevent further product damage. The boxes are labeled and over wrapped with a polythene film to prevent moisture loss and freezer burn during storage. The packed boxes are stored at around -20 o C until shipped.
+
+Battered and breaded seafood offers a convenience food valued widely by the consumer. Battered and breaded items are included in the value added products because the process of coating with batter and breadcrumbs increases the bulk of the product thereby reducing the cost element. The pick up of coating on any product can be increased either by adjusting the viscosity of batter or by repeating the process of battering and breading. As a convention 50% fish portion is expected in any coated product. Fish fingers, fish portions, fish cakes etc. are the staple breaded seafood lines, while breaded shrimp, lobster, oyster, scallops etc. cater to a luxury market are widely used in restaurant trade. The production of battered and breaded fish products involves several stages. The method varies with the type of products and pickup desired. In most cases it involves seven steps. They are portioning/forming, pre-dusting, battering, breading, pre-frying, freezing and, packaging and cold storage.
+
+Source: 
+

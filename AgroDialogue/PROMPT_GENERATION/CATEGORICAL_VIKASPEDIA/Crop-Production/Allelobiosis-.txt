@@ -1,0 +1,82 @@
+Allelobiosis 
+
+Introduction
+
+Plants are capable to respond to environmental fluctuation, in terms of adaptation in their morphology, biochemistry and physiology in changes (Callawayet al., 2003). In the presence of competing plants, plants may alter their biochemistry related to defence. The biochemical plasticity of plants in response to biotic environments may have consequences for plant fitness. In particular, plants may detect neighbouring competitors and respond to them through the release of allelochemicals and non-toxic signals (Chenet al., 2012).
+
+What is Allelobiosis
+
+The plant–plant interactions through allelochemicals and signalling compounds are allelopathy and allelobiosis respectively.
+
+The term ‘allelopathy’ was first used by Hans Molisch in 1937 when describing any direct or indirect effect (commonly negative) of one plant on another, mediated through the production and release of allelochemicals (Molisch et al., 1937; Rice., 1974). 
+
+The term 'allelobiosis’ is relatively new and denotes interactions in which exchange of phytochemicals has an informative value for the receiving plant and the response of the receiving plant affects its growth strategy and relations with herbivores and their natural enemies. This term was defined from a tritrophic perspective, but its focus is plant–plant signalling interactions mediated by non-toxic chemicals. Therefore, in contrast to allelopathy, which has a mostly negative effect, allelobiosis usually exerts a positive or neutral effect on the receiving plants (Ninkovic et al., 2006; Glinwood et al., 2011). There is a wealth of information on plant–plant allelopathic interactions in natural and managed ecosystems.
+
+Allelopathy and allelobiosis in plant–plant interactions mediated by allelochemicals and non-toxic signals may take place above ground and below ground. Above ground interactions have been studied in greater detail in part, because of the accessibility of aerial tissue. In particular, allelobiosis defined as plant–plant signalling interactions in most cases involves aerial volatile chemicals, including methyl jasmonate (derivatives of jasmonic acid), methyl salicylate (derivatives of salicylic acid) and several volatile terpenes (Baldwin et al., 2006). However, the chemical signals in below ground interactions are largely unknown. 
+
+The three key aspects of the definition of allelobiosis are
+
+
+the chemical interaction occurs between undamaged plants
+the interaction may be beneficial for the receiving plant
+the responses of the receiving plant affect organisms at other trophic levels.
+
+The aim in coining this term was not to challenge the established definition of allelopathy, but rather 
+
+
+To draw attention to the fact that chemical exchange between undamaged plants may have biological effects beyond those on the receiving plant, which has not been widely addressed
+To have a concise term to describe these interactions without the need to repeat the above definition and
+As a framework that can be used to stimulate and test new ideas on plant - plant interaction.
+
+Allelobiosis and Plant–Plant Communication 
+
+In theory, chemicals released by one plant may have an informative value for a neighbouring plant, and represent a stimulus that promotes changes in the growth strategy of the ‘listening plant’. Potential effects on growth are changes in biomass allocation that, in the longer term, increase a plant’s capacity to exploit resources such as light, water and soil nutrients. The altered growth strategy may also affect the physiological status of the plant, with implications for other organisms such as herbivores and their natural enemies.
+
+Karban et al. (2000) showed that mechanically damaged Artemisia tridentata plants increase production of methyl jasmonate and induced defensive responses to herbivores in wild tobacco, Nicotiana attenuata, although a recent study suggests that methyl jasmonate is not the active signal in this interaction (Preston et al. 2004).
+
+Allelobiosis and Insect Responses
+
+The plant–plant communication on insects have focused almost exclusively on interactions in which the responding plant is exposed to volatiles from herbivore- or pathogen-attacked plants. Volatiles produced by plants attacked in this way can induce responses in neighbouring undamaged plants, making them less attractive to herbivores (Bruinand Dicke, 2001) and more attractive to the herbivores’ natural enemies (Dicke and Van Loon 2000). The biochemical and genetic level have started to clarify the set of changes induced in responding plants by exposure to volatiles from herbivore- or pathogen-attacked plants (Pickett et al. 2001). However, volatile communication between undamaged plants, and its implications for higher trophic levels, i.e. insect herbivores and their natural enemies, has been less studied.
+
+Allelobiosis causes changes in exposed barley plants that make them less suitable for aphid settling than unexposed plants. The responding plant, allelobiosis can be viewed as a route for obtaining information on plant competitors, which should give an advantage. Alternatively, it can be considered as a chemical disturbance (detrimental).
+
+However, for the herbivore, it should be advantageous to detect the changes in plant status associated with either situation, if these make the plant less suitable as a host. Aphids are well known for their capacity to detect and use chemical indicators of plant condition, and can detect barley plants that are engaged in allelobiosis with neighbouring plants, via volatile cues before contacting the exposed plant itself. Owing to their sophisticated host selection behaviour and mechanism of feeding, aphids represent an excellent indicator of allelobiosis effects in plants. Further work is to be done on identifying the changes that occur in exposed plants, and their importance for the herbivore as well as the plant itself.
+
+Ladybirds are polyphagous predators, representing the third trophic level in the barley crop system. The above finding indicate that they respond positively to volatiles released by barley exposed to allelobiosis from other plant species. This supports the idea that the habitat-searching behaviour of adult ladybirds is influenced by indicators of plant status, and contributes to understanding of the mechanisms behind the effects of habitat diversity on natural enemies of pests in managed systems (Ninkovic et al., 2006).
+
+Conclusion
+
+Ecological and evolutionary understanding of allelobiosis is still at a very early stage, and further knowledge of the potential benefits and costs to both emitting and responding plants is necessary to understand the importance of plant interactions of this type in natural and managed habitats. Deeper understanding of how plants receive and translate volatile signals will fascinate perspective research on the signalling systems involved. The most exciting question will be to what extent allelobiosis represents a source of information to the listening plant.
+
+References
+
+
+Baldwin IT, Halitschke R, Paschold A, von Dahl CC and Preston CA (2006). Volatile signaling in plant–plant interactions: ‘talking trees’ in thegenomics era. Science 311:812–815.
+Bruin J, Dicke M (2001). Chemical information transfer between wounded and unwounded plants: backing up the future. Biochem Syst Ecol 29:1103–1113.
+Callaway RM, Pennings SC and Richards CL(2003). Phenotypic plasticity and interactions among plants. Ecology 84:115–1128.
+Chen BJW, During HJ and Anten NPR (2012). Detect thy neighbor: identity recognition at the root level in plants. Plant Sci 195:157–167.
+DickeM, van Loon JA (2000). Multitrophic effects of herbivore-induced plant volatiles in an evolutionary context. Entomol Exp Appl 97:237–249.
+Glinwood R, Ninkovic V and Pettersson J (2011). Chemical interaction between undamaged plants – effects on herbivores and natural enemies. Phytochemistry 72:1683–1689.
+Karban R, Baldwin IT, Baxter KJ, LaueG, Felton GW (2000). Communication between plants induced resistance in wild tobacco plants following clipping of neighboring sagebrush. Oecologia 125:66–71
+Molisch H (1937). Der Einflusse iner Pflanze auf die andere – Allelopathie. Gustav Fischer Verlag, Jena, Germany
+Ninkovic V., Glinwood R., Pettersson J. (2006). Communication Between Undamaged Plants by Volatiles: the Role of Allelobiosis. In: Baluška F., Mancuso S., Volkmann D. (eds) Communication in Plants. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-540-28516-8_28.
+Pettersson J, Ninkovic V, Glinwood R (2003). In: Plant activation of barley by intercroppedconspecifics and weeds: allelobiosis, vol 2. BCPC Crop Science and Technology, pp 1135–1144.
+Pickett JA, Rasmussen HB, Woodcock CM, Matthes M, Napier JA (2001). Plant stress signalling:understanding and exploiting plant-plant interactions. Biochem Soc Trans 31:123–127.
+Preston CA, Laue G, Baldwin IT (2004) Plant-plant signalling: application of trans or cismethyljasmonate equivalent to sagebrush releases does not elicit direct defenses in native tobacco. J Chem Ecol 30:2193–2213.
+Rice EL(1974). Allelopathy. Academic Press, New York, NY 
+
+Content contributors 
+
+
+
+Pratap A. Divekar, Division of Crop Protection, ICAR-Indian Institute of Vegetable Research, Varanasi-221305
+
+
+Suresh Nebapure, Division of Entomology, ICAR-Indian Institute of Agricultural Research, New Delhi -110012
+
+
+Sujan Majumder, Division of Crop Protection, ICAR-Indian Institute of Vegetable Research, Varanasi-221305
+
+
+Chandan Kumar Verma, Division of Crop Protection, ICAR-Indian Institute of Vegetable Research, Varanasi-221305
+

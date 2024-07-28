@@ -1,0 +1,200 @@
+Guidelines for Sea Cage Farming in India
+
+
+Mariculture – the  farming  of  marine  organisms  for  food - is  the  fastest  growing  sub-sector  of   aquaculture.   Enhancing  fish  production  from  inland  sector  has  limited   scope and the major portion of the additional demand has to come from mariculture.
+
+Sea cage farming is viewed as a major option for increasing the seafood production and has been  expanding rapidly in recent years at global level. he ICAR-Central Marine Fisheries Research Institute (CMFRI)  has  projected  that  even  if  1%  of  the  inshore  waters  is  used  for  cage  farming,  we  can  deploy   8,20,000 cages with a production potential of 3.2 million tonnes.
+
+The National Fisheries Development Board (NFDB) has released the Guidelines for Sea Cage Farming in India with the objective to augment fish production in a sustainable manner through sea  cage farming to meet the increasing demand for seafood.
+
+Sea Cage Culture
+
+Sea  cage  culture  involves  growing  fishes  in  the  sea  while  being  enclosed  in  a  net  cage  which   allows  free  flow  of  water.  It  is  a  production  system  comprising  of  a  floating  frame  of  varying   dimensions and shape, net materials and mooring system, to hold and culture a large number of  fishes.
+
+Advantages of Sea Cage Farming
+
+
+Cage  farming can  be undertaken in open seas, sheltered bays or lagoons having suitable  water quality and with prior permission from concerned government authorities. Thus, the  vast unutilized areas in the sea can be brought under mariculture practices. 
+Production per unit (m3) in cage culture is 50 times more than shore based systems. 
+Recurring  expenditure  associated  with  development  and  maintenance  of    infrastructure  are  lower in cage farming compared to shore based farming practices. 
+Stock  monitoring  is    simple  in    cage  farming,  facilitating  regular  observation  of  behavior,  feeding  and  growth  that  are  critical  in  avoiding  problems  related  to  stress  and  disease   outbreak. 
+Harvesting  is   easy  and  can  be  planned  as  per  the  demand,  offering  better  quality  product  at higher price.
+
+Site Selection
+
+Choosing a site in cage farming is crucial because it impacts the economic viability of farming. Site  selected should provide optimum water quality to avoid stress conditions and achieve maximum  growth  of  farmed  fish,  and  ensure  proper  and  secure  installation  of  cages,  logistic  and  other   support for supply of inputs, harvesting and marketing of fish. Sea cage site has a direct bearing  on operational cost, fish mortality, production and overall profitability of farming operation.
+
+Exclusion of areas for cage farming : Sites which are active fishing zones and close to harbours/  fish landing centres and navigation channels, defense areas, marine protected areas, coral reefs,  mangroves, areas under coastal management plan, points of industrial effluent discharge, sewage  pollution, heavy freshwater discharge by rivers, presence of underwater pipelines, telecom cables,  explosives dumping and areas of historic ship wreck are to be avoided during site selection.
+
+ Environmental Parameters
+
+
+Physical Factors
+
+Depth : Culture site should have a minimum depth of 6 m at the lowest low tide. A clearance of  minimum 2 m should be available between the cage net bottom and seabed. This will maximize  water  exchange,  reduce  oxygen  depletion  and  encourage  flushing-out  of  metabolic  and  feed   wastes  that  accumulate  under  the  cage.  Depth  of  farming  site  determines  mooring  design  and   length of mooring chains, affects routine net and mooring line inspection, etc.
+Current : Seawater current speed of 0.5 – 1.0 m per sec is considered ideal. Current speed above  this  will  exert  very  large  force  on  cages  and  mooring  systems  and  cause  mortality  of  farmed   fishes. Current speed influences water exchange, feed dispersion, net shape and volume, solid  waste dispersal and effective monitoring. 
+Shelter : Sheltered area is preferred as it will protect cages in extreme weather conditions. However,  in such areas after long-term farming operations, when food waste and fecal matter will settle,  there is a tendency for large quantities of waste to accumulate and pollute the seabed at the cage  site. Thus, for undertaking long-term farming operations, semi-exposed and exposed areas are  preferable.
+Wind  and  Waves : Wind  affects  the  wave  height  and  when  waves  are  high  it  will  affect  the   accessibility to cages and it becomes difficult to do routine activities like feeding fish, monitoring  cages, etc.
+Seabed : The nature of seabed determines the mooring system and type of anchors to be used.  Thick mud, clay, sand and pebbles will provide good holding for anchors. Seabed having rocks,  stones, corals will require a deadweight (gravity) anchorage with Gabions (mesh boxes filled with  rocks or concrete blocks.
+Water Quality Criteria : Cage site should have good water quality to meet the biological requirement of the farmed species.  These criteria include optimum temperature, salinity, pH and dissolved oxygen. The water should  be free from excessive suspended solids, frequent algal blooms and disease causing organisms.
+
+Logistics : Distance from shore to cage site should be at the minimum to reduce operational expenses. Road  connectivity for transporting cage materials, feed, harvested fish, etc., is required for a successful  operation of sea cage farm. The  CMFRI  and  State  Fisheries  Departments  should  take  initiative  to  identify  suitable  sites   for  sea  cage  farming  and  map  them  in  GIS  platform  to  facilitate  proper  planning  and  effective   implementation.  This  will  benefit  the  entrepreneurs  to  select  ideal  locations  to  start  sea  cage   farming ventures. 
+Integrated Systems : To promote and expand sea cage farming in India, an integrated approach is vital. In this context  creating  facilities  for  manufacture  of  cage  frames,  fabrication  of  cage  nets,  mooring  assembly,   establishment of hatcheries, nursery rearing units, feed mills, post-harvest processing units, etc.,  are to be considered as part of the cage farming system.
+
+Materials and Design of Sea Cage
+
+A  sea  cage  essentially  comprises  of  cage  frame  and  net  cages.  For  sea  cage  fabrication  the   materials  used  should  be  sturdy  enough  to  withstand  rough  sea  conditions  and  weather.  Cage   frames  are  fabricated  either  with  High  Density  Poly  Ethylene  (HDPE)  or  Galvanized  Iron  (GI)   material to withstand rough conditions in the Indian seas. HDPE pipe PE100 or GI pipe (1.5”) B/C  Class are preferred for cage frames. When GI pipe is used, all joints are double welded and the  GI cage frame is epoxy coated and floated on air-filled HDPE barrels (200 litre, 8-10 nos.). Sea  cages are preferably circular-shaped as they can withstand sea conditions better than rectangular  or square shapes.
+
+Specifications for 6 m Diameter HDPE Cage 
+
+The sea cage frame has two collar rings designed with flotation properties and a middle ring as  catwalk  in  between  them  (Fig.  1).  In  case  of  HDPE  the  pipe-ends  are  joined  by  using  a  fusion   welding process for plastics.  The two collar rings for flotation are filled with polyurethane foam  (PUF) or thermocol.  The two collar rings, the middle catwalk ring and the handrail ring are all held  in place by means of various support pipes, brackets and T-joints. The pipe used for handrail is  without PUF inside and the brackets made of galvanized steel are corrosion-free and are fitted to the  diameter of the pipes. The maximum height of handrail should be approximately 100 cm (shorter  than the shortest person). The service systems (catwalk, handrail. etc.) are required for operation  and  maintenance  activities  like  feeding,  cleaning,  monitoring,  grading,  etc.  The  minimum  width   for catwalk is approximately 60 cm. The brackets/ base supports, vertical and diagonal supports  hold together the collar rings, catwalk ring and the handrail. They also give additional stability and  sturdiness to the frame structure.
+
+The ballast pipe is another support system required to maintain the shape and structure of the  net bags (Fig. 2). Normally 1.5 inch (38 mm) diameter HDPE ballast pipe with holes at regular  intervals, for the free flow of water, is used. Metal lines are inserted inside the pipe for increasing  weight so that the ballast remains submerged in water.
+
+
+
+Technical Specifications
+
+
+Base Collar
+
+Inner Ring – 6 m diameter circle (HDPE, 140 mm diameter pipe)
+Outer Ring – 7 m diameter circle (HDPE, 140 mm diameter pipe)
+Middle Ring (Catwalk) – 6.5 m diameter circle (HDPE, 90 mm diameter pipe) 
+Base Supports – 8 Nos. (HDPE, 250 mm diameter pipe) 
+Vertical  Supports  –  8  Nos.  of  0.8  m  length  (HDPE,  90  mm  diameter  pipe)  to  connect   the base supports to the circular top handrail of same diameter with 8 Nos. of suitable  T-joints.  The  T-joints  should  be  fixed  with  fusion  welding  as  well  as  with  SS  bolts  and   nuts. 16 hooks (2 inch SS) must be fixed to hand railing to tie the bird net. 
+Diagonal Supports – 8 Nos. (HDPE, 90 mm diameter pipe), to connect the catwalk ring  to the circular top handrail with T-joints fixed with fusion welding as well as with SS bolts  and nuts. 
+Base, Vertical and Diagonal Supports can be replaced with any suitable brackets (metal/ HDPE/ equivalent).
+All pipes should be made of HDPE, filled with PUF (polystyrene or equivalent), 10 kg pressure,  PE-100, PN-10, and ISI Standard is 4984 
+
+Handrail
+
+6 m diameter circle (HDPE, 90 mm diameter pipe), fitted about 1 m above the Inner Collar Ring  and connected by vertical as well as diagonal supports with the Base Collar Rings (Fig. 1 and 2). 
+
+Mooring System
+Mooring system/assembly holds the cage in desired position and at desired depth using mooring  lines,  chains  and  anchors.  Individual  cages  can  be  moored  using  single-point  mooring  system   (Fig. 3) and a battery of cages can also be moored by means of grid-mooring system.  Single-point Mooring System components required for 10 cages:
+
+ Anchors (embedment type) / Gabion Boxes – 100 kg each, 10 nos. 
+D-Shackles – for 12.5 tonne SWL (Safe Working Load), 3 x 10 = 30 nos. 
+Mooring Chains – 38-42 mm thick, length four times the depth at site, 10 nos. 
+Buoys – 200 litre buoyancy, 4 x 10 = 40 nos. 
+Anchor Marker Line – poly-steel rope of 36 mm diameter and 37 m length
+Mooring  Rope  –  poly-steel  rope  of  48  mm  diameter,  3-4  strands,  and  100  m   length.  Also  splicing,  steel  thimble  and  oval  ring  of  22  mm  at  one  end,  10  nos. 
+
+
+
+
+Net Cages
+
+Mesh size for the net cages must be selected according to the species of fish farmed and also to  ensure good water exchange. Proper water flow enhances water quality, reduces stress, improves  feed conversion and allows holding more fishes.  Net cages should be as per the dimensions of the cage frame and depth of water at the site. They  must be securely fastened to the cage frame. For sea cage farming, 3 types of nets are essential:
+
+
+Outer Predator : Net Because of the turbulent nature of the sea and presence of carnivorous animals, suitable outer  net cage is essential to prevent entry of predators in sea cage culture. Considering the strength,  durability and cost factor, usually braided UV treated HDPE netting of 3 mm thickness and 80 mm  mesh  size  is  found  very  effective  and  recommended.  Dimensions  of  predator  net  cage  –  7  m   diameter and 5 m depth (entirely submerged) (Fig. 2).
+Inner Fish Rearing Net  : For  fabrication  of  inner  fish  rearing/grow-out  net  cage,  twisted  HDPE  netting  of  0.75-1.5  mm   thickness  and  16  -  40  mm  mesh  size  is  selected  depending  on  the  size  of  cultivable  species.   Dimensions of fish rearing net cage – 6 m diameter and 5 m depth (4.0 m submerged and 1.0 m  up to the handrail; volume 113 cubic metres) (Fig. 2).
+Bird Net : To prevent predatory birds from preying on fish, a protective bird net must be overlaid on the cage  frame. HDPE twisted and UV treated 1.25 mm twine and 60 - 80 mm mesh size will be ideal for  a bird net. 
+
+High  Density  Polyethylene  knotted  netting  is  preferred  for  net  cages.  The  mesh  size  of  the  net   cages  depends  on  the  size  of  individual  farmed  fish.  Three  sets  of  net  cages  of  three  different   mesh sizes are required during the farming operation (18 mm, 25 mm and 40 mm). To  maintain  the  cylindrical  shape  of  the  net  cages,  ballasts  of  appropriate  weight  should  be  used.   Concrete blocks tied at suitable intervals can be used. Alternately, HDPE pipe of 1.5 inch (38 mm)  diameter inserted with MS chain or wire rope of 10 mm thickness can be employed.
+
+Net Specifications
+
+
+Predator Protection/ Outer Net Cage – HDPE braided 3 mm; 60 mm/ 80 mm mesh.
+Fish Rearing/ Grow-out/ Inner Net Cage – HDPE twisted; 18 mm/25 mm/40 mm/60 mm mesh. 
+Bird Net – HDPE twisted/ Nylon; 60-100 mm mesh. 
+Predator net cage is uniform for all species, made of braided HDPE (3 mm twine) and usually 80  mm mesh; Bird net is also uniform, made of twisted HDPE or Nylon (1 mm twine) and up to 100  mm mesh. 
+
+Species Selection
+
+Cage culture in the sea requires a fish variety that meets criteria such as suitability for marketing,  commercial  importance,  consumer  acceptance,  easy  to  culture,  adaptability  to  the  cage   environment,  acceptance  of  formulated  feeds,  faster  growth  rate  and  resistant  to  common   diseases.
+
+As per the above criteria, Cobia (Rachycentron canadum), Silver Pompano (Trachinotus blochii),  Seabass  (Lates  calcarifer),  Snappers  (Lutjanus sp.),  Groupers  (Epinephelus sp.)  and  Spiny   Lobster (Panulirus  sp.) are highly suitable for sea cage farming.
+
+Seed
+
+Quality of fish seed is of vital importance for the success of grow-out culture in cages. Uniform  size seeds appropriate for the mesh size of the fish net cage should be stocked to prevent their  escape.  This will also help in selecting the correct sized feed for fishes, avoid wastage of feed and  reduce cannibalism. Seeds should be healthy, free from diseases and deformities.
+
+The most vital issue for the expansion of the sea cage farming in India is the shortage of fish seeds.  Presently seed of Cobia, Pompano, Seabass and Groupers are being produced in a few hatcheries  in  the  country.  Apart  from  these  species,  seeds  of  fishes  like  Mullets,  Snappers,  Milkfish,  etc.   collected  from  the  wild  can  also  be  used  for  cage  farming.  To  meet  the  growing  demand  from   farmers, there is an urgent need to produce sufficient quantity of seed either through commercial  hatchery production or by importing till we achieve self-sufficiency in seed production.
+
+List of Marine Fish Hatcheries 
+
+
+CMFRI, Mandapam, Tamil Nadu  - Cobia, Pompano 
+CMFRI, Visakhapatnam, Andhra Pradesh - Grouper, Pompano
+RGCA (MPEDA), Pozhiyoor, Kerala - Seabass, Cobia, Pompano 
+CIBA, Chennai, Tamil Nadu - Seabass 
+
+Stocking 
+
+Stocking appropriate size and number of fish seed in cages is very crucial for the success of cage  farming.  After allowing the hatchery produced spawn to grow for a period ranging from 30 to 60  days, fish seed can be stocked in cages. Nursery rearing of seed is essential for all species and  it can be done as a separate activity, in land based nursery ponds or hapas held in ponds or in  floating nursery cages, by individuals or groups at different localities to support sea cage farming  with ready to stock fingerlings. Healthy, uniform-sized fingerlings should be procured for stocking  in cages. The fingerling stocking details are given below:
+
+
+
+Feeds
+
+Any  material  used  for  feeding  contains  the  following  five  principle  constituents:  (i)  Protein,   (ii)  Carbohydrate,  (iii)  Fat,  (iv)  Minerals  and  (v)  Vitamins.  Proteins  are  essential  for  growth  of   the animal and a deficiency can lead to growth retardation. The nutrient requirements of marine  carnivorous fishes (as %) are given below:
+
+Marine fishes require higher protein (35-40%) feed for their optimal growth. Based on growth of  the fish, size of the feed pellet should be adjusted. Normal feeding rate is 10% of the body weight  for juvenile fishes which can be reduced to 3% body weight as farming progresses. A feed with  an FCR of 1:2 is advisable.  Only recommended ration should be given to fishes since overfeeding  leads to wastage and environment pollution.
+
+Feed Ingredients 
+
+Ingredients used for making feeds can be classified as protein rich ingredients which are mainly  fish and meat products of animal origin and oilcakes of plant origin. Energy rich ingredients are  mainly cereals and cereal byproducts. Other than these there are non-conventional feed resources  (NCFR)  which  are  used  in  feed  manufacture.  Apart  from  these  ingredients,  mineral  mixtures, vitamin  mixtures  and  other  additives  such  as  oil,  phospholipids,  carotenoids  are  also  added   according to the needs. Non-nutrient additives such as synthetic binders, anti-oxidants and anti- fungals are also added.
+
+Feed Formulation 
+
+With a fair knowledge of nutrients and the feed ingredients, the next aspect to be understood is  the need for blending of the ingredients to have a nutritionally complete and balanced feed mix. A  nutritionally complete feed can be made by mixing ingredients on a scientific basis which will be  effective in producing the desired results in terms of fish production. The feeds should have the  physical properties suitable for the fish to consume it with minimum loss of nutrients in water.  Feed technology evolved from a dry mash to a wet ball and to a pellet. Now, pellets are produced  such that they sink, slow-sink or float depending upon the feeding habit of fish. For cage farming  floating or slow sinking pellets are found to be appropriate. Production of floating and slow-sinking  pellets is done using extruders, which are available in India or can be imported.
+
+Feed Storage
+
+During storage, feeds undergo deteriorative changes which not only lower their nutritive value but  also affect their palatability and appearance. Feeds should be stored in dry ventilated warehouses  away from direct sunlight at more or less constant temperature. All feeds should be used within  the  prescribed  time  (preferably  within  two  months  of  manufacture)  and  inspected  regularly.   During long storage there may be changes such as fungal growth, degradation of vitamin potency  and  fat  rancidity.    Unnecessary  handling  may  damage  feed  bags  and  reduce  pellets  to  powder   that  is  usually  not  consumed  by  fish  and  wasted.  Pests  like  rats,  cockroaches,  etc.,  must  be   strictly controlled in the storage, to avoid contamination. Proper storage of feed is simple, but it is  important to keep its quality high.
+
+Feeding Schedule
+
+Feeding rates, frequency of feeding and time of feeding are important factors to be considered in  cage farming. Feeding rates and frequencies are related to age and size of the fish. Fish larvae and  fry need to be fed on a high protein diet more frequently. When fishes grow bigger, feeding rates  and frequencies can be reduced. Feeding fish is a labour-intensive activity and the frequency has  to be adjusted in such a way that it is economically viable. Generally, growth and feed conversion  increase  with  increase  in  feeding  frequency.  Feed  consumption  is  also  influenced  by  time  of   day,  season,  water  temperature,  dissolved  oxygen  levels  and  other  water  quality  parameters.   Even though several feeding charts are available, it is better to construct one of your own with  information on: Days of Culture (DOC), Fish Weight, Protein in Feed, Meal/Day, Feed Consumed as  % of body weight, Average Daily Gain (ADG) and Feed Conversion Ratio (FCR). Indicative feeding  charts for Cobia, Silver Pompano and Seabass are as follows:
+
+
+
+Growth Rate
+
+Salinity above 25 ppt is essential for optimal growth of Cobia; whereas Silver Pompano tolerates  even salinity of 10 ppt. Farming duration usually ranges from 7 to 8 months for Cobia and Silver  Pompano while it is 6-8 months for Seabass, to attain optimum marketable size.
+
+Cage Maintenance
+
+Cage Farm management involves optimizing production at minimum cost. Efficient management  largely depends on the competence and efficiency of farm operator with regards to feeding rate,  stocking  density,  minimizing  loss  due  to  diseases  and  predators,  monitoring  environmental   parameters and maintaining efficiency in all other technical aspects. The entire structure including cage frame and mooring must be routinely inspected and necessary  maintenance  and  repairs  should  be  carried  out.  Bio-fouling  clogs  the  mesh  of  net  cages  and   thereby  reduces  rate  of  water  exchange  causing  stress  due  to  low  oxygen  and  accumulated   wastes leading to mortality of fish. The rate of fouling depends not only on the mesh size of the  net cage, but also on temperature and productivity of the water at the cage site. Therefore, timely  exchange of fish rearing net cage is to be done, by replacing with a fresh net cage, to ensure good  water quality and facilitate faster growth. Also, as fish grow bigger, net cages of appropriate mesh  size are to be used.
+
+Health Management
+
+Disease  outbreaks  can  occur  as  a  result  of  intensive  farming  in  cages.  Infectious  diseases  are   mainly  due  to  waste  accumulation,  crowding,  handling,  variations  in  water  quality  parameters   and bio-fouling. The most common disease that occurs in cages is Vibriosis caused by Vibrio a  bacterial species. Cage abrasion can cause fin and skin damage to farmed fish. Occurrence of  infections/ diseases can be minimized by selecting good site, optimal stocking density and careful  handling of fish stock. Fish farmers should maintain a record of weather, water quality parameters,  feeding  rate,  length  and  weight  of  fish  sampled,  fish  behavioral  changes,  net  cage  exchange   details, etc. These records provide useful information for analysis of health status.
+
+Good Management Practices
+
+Good management practices (GMPs) need to be adopted to satisfy consumer demand and expand  the  market  by  offering  quality  farmed  products  that  meet  food  safety  standards.    Adoption  of   GMPs  also  helps  fish  farmers  to  achieve  higher  economic  returns.  Some  of  the  key  factors  in   GMP include:
+
+
+Avoiding over-stocking of fish fingerlings. 
+Monitoring growth rate at appropriate time intervals. 
+Feeding fishes with pellets of good quality and right quantity.
+Regular cleaning and exchange of net cages for effective water exchange. 
+Avoiding use of antifouling paints/ chemicals. 
+Timely removal and proper disposal of dead fishes.
+Periodic monitoring of water temperature, dissolved oxygen, pH, etc. 
+Close observation of fish behaviour while feeding them, to assess health status. 
+Integrated Multi-Trophic Aquaculture (IMTA)/ Polyculture of compatible species in cage 
+
+Environmental Impact
+
+Cage culture system releases waste to the aquatic environment in the form of uneaten feed, feces  and  other  debris.  These  may  accumulate  beneath  the  cages  leading  to  reduction  in  dissolved   oxygen. The tendency of large quantity of waste to settle on the sea bed is greater at sheltered  inshore sites. Continuous farming for several years at the same site in sheltered areas is to be  avoided.  Change  of  site  after  a  number  of  crops  should  be  done.  Otherwise,  semi-exposed/   exposed  sites  having  good  tidal  flushing  are  selected  to  prevent  accumulation  of  wastes  at  the   bottom of the cage.  Adequate spacing between cages and farms is also an essential management  practice to reduce the spread of diseases. Indiscriminate use of antibiotics and their release into  aquatic  environment  may  result  in  development  of  antibiotic  resistant  bacteria.  Cage  culture   can  also  introduce  diseases,  transmit  parasites  and  cause  changes  in  aquatic  flora  and  fauna.   Hence, carrying capacity of the environment, as per the nature of the site, has to be given prime  importance while undertaking sea cage farming.
+
+Harvesting Protocols
+
+Harvesting can be done as per the market demand to ensure maximum returns. Partial harvesting  of  stock  may  be  practiced,  by  harvesting  the  larger  fish  first,  to  avoid  glut  in  the  market  and   consequent fall in sale price. Records of harvest should be maintained at the site. It is necessary  to  have  a  post-harvest  and  marketing  strategy  while  undertaking  large  scale  sea  cage  farming   activity.
+
+The production centres should have facilities such as proper craft and gear to harvest fish, facilities  for  icing,  holding  and  storage  of  fish,  live-fish  transport,  linkages  to  post-harvest  processing   centres and market chains.
+
+Safety Measures
+
+Cage culture in the sea involves working in a risky environment. Hence adequate safety measures  should be taken to prevent accidents including loss of life. Life-saving equipment like life-buoys/ jackets, communication devices, and first aid boxes at the cage site should be made mandatory.  All persons while working at the sea cage should wear life-jackets.
+
+To avoid poaching or vandalism effective watch and ward arrangement should be made at the sea  cage site. Also, to alert fishing craft and seafarers and to indicate the location of sea cages and  their moorings, Maritime Signal Flags and Solar Beacon Lights may be positioned on the cages.
+
+To access the complete guidelines including Economics of Sea Cage Farming, Financial Assistance, List of Cage Manufacturers,  List of Feed Manufacturers, etc. .
+

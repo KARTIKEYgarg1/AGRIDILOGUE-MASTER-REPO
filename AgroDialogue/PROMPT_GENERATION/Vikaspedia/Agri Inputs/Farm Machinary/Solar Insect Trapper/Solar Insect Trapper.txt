@@ -1,0 +1,35 @@
+Solar Insect Trapper
+
+About the device
+Solar LED Light Insect trap is a Renewable Energy based electronic device that helps the farmer to reduce the usage of pesticide spray by capturing economically impacting adult insect pests towards very special spectrum of light wavelength. It works based on electronically programmable controller to segregate beneficial and non-beneficial insects sociological behavior.
+The device gets charged in day time using sunlight and automatically switches on at dawn and dusk to trap harmful insects.
+
+Technical Specifications
+Name of the Component
+Technical Specifications
+
+
+SPV Modular capacity
+7.0 Wp
+
+
+Battery Type
+LiFePo4
+
+
+Battery voltage
+6.4 volts
+
+
+Battery Capacity
+6 Ah
+
+
+LED Wattage
+5 W (UV LED)
+
+
+Height of the iron rod
+5 ft
+
+Cost of the product : Rs. 6129.38 (including GST)

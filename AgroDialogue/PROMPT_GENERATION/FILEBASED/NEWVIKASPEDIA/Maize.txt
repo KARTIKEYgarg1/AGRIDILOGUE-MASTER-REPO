@@ -1,0 +1,16 @@
+Maize
+
+Introduction
+
+In india , maize is the 3rd most important food crops after rice and wheat. It is cultivated in 11.3 m ha (2012-13) under a wide range of agro-ecological situations. Maize in india , contributes nearly 8 % in the national food basket and more than rs. 100 billion to the agricultural gdp at current prices apart from the providing employment to over 100 million man-days at the farm and downstream agricultural and industrial sectors. In addition to staple food for human being and quality feed for animals, maize serves as a basic raw material as an ingredient to thousands of industrial products that includes starch, oil, protein, alcoholic beverages, food sweeteners, pharmaceutical, cosmetic, film, textile, gum, package and paper industries etc.
+
+Maize production technologies
+
+Expert system for maize
+
+The expert system for maize crop emulates the interaction a user might have with a human expert to solve a problem. It is meant to enhance the efficiency of farmers or agricultural extension personnel for maize crop management and to increase the crop yield. It determines the best strategy for irrigating, applying fertilizer and insecticides. Presently, it has four subsystems: variety selection, cultural practices, disease diagnosis, insect identification, and post harvest technology. The variety selection subsystem advises location specific varieties and cultural practices advises on the aspects of irrigating, application of fertilizers and insecticides. Disease diagnosis and insect identification subsystems help the stake-holders to diagnoses the disease and to identify insects affecting the maize crop and suggest preventive and control measures. Post harvest technology subsystem deals with storage and processing of maize for developing value added products.
+
+To visit the expert system for maize, .
+
+Source: 
+

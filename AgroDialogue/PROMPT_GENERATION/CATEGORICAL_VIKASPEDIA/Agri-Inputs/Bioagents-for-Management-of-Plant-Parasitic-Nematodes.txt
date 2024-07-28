@@ -1,0 +1,131 @@
+Bioagents for Management of Plant Parasitic Nematodes
+
+
+Plant pathogenic Nematodes
+Nematodes are multicellular, unsegmented, bilaterally symmetrical roundworms belonging to pseudocoelomates animals. Many of them are parasites of plants and insects. Crops are susceptible to several species of plant parasitic nematodes. Root-knot nematodes (Meloidogyne spp.), foliar nematodes (Aphelenchoides spp.), root-lesion nematodes (Pratylenchus spp.) reniform nematodes (Rotylenchulus spp.) and other ectoparasitic nematodes can limit quality and quantity of crops.
+
+These nematodes live in the soil and feed on the root system and damage the root system thoroughly. Besides damaging directly, plant parasitic nematodes also can enhance damage caused by other soil borne fungal and bacterial pathogens.
+
+Nature of damage
+Above ground symptoms of nematode infected plant exhibits various degree of stunting, chlorosis (yellowing) and tend to wilt under dry conditions. Nematodes are usually first detected in localized areas within a field. Gradually, the area of infected plants expands in size and the entire planting can eventually affected. Infection can reduce crop yeild and quality.
+
+Below ground symptoms of root-knot nematodes include formation of distinctive swelling called root galls (root knots) on the roots of affected plants. Root-knot galls may vary in size and shape. On heavy infected plants, galls tend to fuse together so that large areas or entire root may be swollen. Root injuries from other nematodes include root necrosis resulting in severe root pruning and subsequent dwarfing of plants. Fibrous or feeder roots are mostly attacked which may reduce the absorption ability of plants and other physiological functions of the plant. Root growth slows and secondary root development is limited.
+
+Some nematode parasites on young foliage and flower stalk (Foliar nematode, Aphelenchoides spp. in tuberose). The infected flower stack initially appears rough, stalk become crinkled, stunted and finally distorted and in severe cases flower buds failed to bloom. Brown streaks appear on the leaf bracts and petals and subsequently develop rusty brown spots. The severely infected flower stalk becomes rotten and brittle over drying. The number of flower stalk is also reduced and small crinkled and distorted flowers are produced which are not acceptable in the market.
+
+How to diagnose the nematode infested field?
+Due to lack of distinct symptoms on crop plants due to nematodes, the damage often been confused with nutrition problem and occasionally has been attributed to fungi or bacteria. Characteristic foliage symptoms such as yellowing of leaves, stunted growth, wilting and patches of poor crop growth in field are clues that plants are diseased with nematodes. If such plants are uprooted, they show characteristic below ground symptoms like galling and/ or necrotic on roots and reduced root length. Diagnosing the damage on flower crops can best be done by periodic field observations and examinations of roots in conjunction with testing the soil and plant sample for nematode extraction. Testing helps in implementation of nematode management strategies and to avoid future contamination of nematodes in the field.
+
+Biocontrol agents
+
+Fungal bioagents
+
+1.Paecilomyces lilacinus
+ Soil borne fungus
+ Good root colonizers and rhizosphere competitor
+ Parasitic on nematodes egg
+ Antagonistic to juvenile stages
+ Suppress nematode population density and increase crop yields
+
+2.Pachonia  chlaydosporium
+ Soil borne fungus
+ Colonize on plant roots or confined to rhizoplane
+ Parasitic on nematodes egg
+ Produce toxins that inhibit hatching or kill eggs of  nematodes
+ Parasite of female root-knot nematodes
+
+3.Trichoderma viride and Trichoderma harzianum
+ Active rhizosphere colonizers
+ Compete for nutrients
+ Produce antibiotics that affect nematodes
+
+Bacterial bioagents
+
+1. Pseudomonas fluorescens and Bacillus subtilis
+ Colonize on roots and exclude nematode niche
+ Produce antibiotic compounds
+ Induce systemic resistance in plant
+
+2. Pasteuria penetrans
+ Nematode antagonists  and endospore-forming bacteria
+ Obligate parasites of plant-parasitic nematodes
+ Endo-parasite, reduce infectivity and also fecundity 
+
+Advantage of using bio-control agents
+ Cost effective, reusable, farmer &amp; eco-friendly products
+ Inherently harmless in comparison with chemical pesticides
+ As a component of IPM, can greatly decrease the use of chemical pesticides 
+ Increase the yield of the crop &amp; lead to sustainable productivity in a long run
+ They have specific mode of action on pathogens
+ Helps in developing disease suppressive soils 
+
+How to enhance biological suppressiveness
+Incorporation of crop residues in the soil
+Addition of organic amendment such as manures and compost                                
+
+Stimulate natural antagonist/ natural enemies of plant parasitic nematodes
+It improves soil nutrients, soil physical conditions, and crop health
+
+
+
+Biocontrol agents for important pathogens
+Biological control agent (type of organism)  
+Trade Name  
+Target pathogens 
+
+
+Agrobacterium radiobacter strain K 84 (bacterium)
+Galltrol A
+Agrobacterium tumefacians (crown gall)
+
+
+Ageobacterium radiobacter strain K 1026 (bacterium)
+Nagol
+Agrobacterium tumefaciens
+
+
+Bacillus subtilis (bacterium)
+Companion
+Pythium, Fusarium, Phytophthora,
+
+
+Steptomyces griseoviridis (bacterium)
+Mycostop
+Botrytis, Alternaria, Phomopsis, Pythium, Fusarium, Phytophthora
+
+
+Pseudomonas fluorescence(bacterium)
+Frostban
+Schlerotina and Rhizoctonia, Pythium,  Alternaria, Ascochyta, Cercospora, Macrophomina, Myrothecium &amp;  Ramularia, Downy mildews and Powdery mildews
+
+
+Pseudomonas aureofaciens strain TX-1 (bacterium)
+Bio–jet, spot less
+Pythium, Rhizoctonia solani
+
+
+Ampelomyces quisqualis (fungus)
+AG10
+Powdery Mildew
+
+
+Trichoderma harzianum (fungus)
+PlantShield or RootShield
+Pythium, Fusarium, Phytophthora, Rhizoctonia, Botrytis ,powdery mildew, downy mildew, Sclerotinia
+
+
+Trichoderma virens (fungus)
+SoilGard
+Pythium, Fusarium, Phytophthora, Rhizoctonia, Botrytis ,powdery mildew, downy mildew, Sclerotinia
+
+
+Aspergillus flavus AF36 (fungus)
+Alfa guard
+Aspergillus flavus
+
+
+Gliocladium catenulatum strain JI446 (fungus)
+Prima stop, soil guard
+Pythium, Fusarium, Phytophthora, Rhizoctonia
+
+

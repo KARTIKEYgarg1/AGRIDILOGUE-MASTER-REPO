@@ -1,0 +1,39 @@
+Zinc solubilizing bacteria and its application in agriculture
+
+Zinc solubilizing bacteria and its application in agriculture
+
+S. Madhavan, icar-directorate of floricultural research, regional station, vemagiri-rajahmundry- 533 125
+
+K. Sakthivel, icar- indian institute of oilseeds research, hyderabad- 500 030 
+
+K. Sankari meena, icar- indian institute of oilseeds research, hyderabad- 500 030
+
+G. Rajesha, icar- indian institute of millet research, hyderabad- 500 030 
+
+ 
+
+Importance of zinc
+
+ 
+
+Zinc is a micronutrient that is vital for agriculture and plant growth. Plants require relatively modest amounts of it, but its presence is critical for a variety of physiological and metabolic functions in plants. Zinc is a cofactor for many enzymes that are involved in biological reactions such as photosynthesis, respiration, and dna synthesis. Plant development and yield are hampered when there is deficit for zinc. It is an essential element which involves information of ribosomes, which are required for protein synthesis. Auxin, a plant hormone responsible for cell elongation, root development, and other growth processes, is regulated by zinc. Furthermore, zinc is required for carbohydrate metabolism, nutrient uptake and transport, seed production and seedling vigor, fruit and flower formation, cell division and helps in overall plant growth and development.
+
+Sources of zinc for plants and its deficiency symptoms
+
+Zinc is naturally available in rocks. The amount of zinc present in the soil is depends on their parent materials. Soils originating from igneous rocks are higher in zinc. In contrast, sandy and highly leached acid soils generally have low plant available zinc. Similarly, mineral soils with low soil organic matter also exhibit zinc deficiency. Plants take up zinc as the divalent ionic form (zn2+) and chelated-zinc. Zinc sulfate (znso4) has been utilized extensively as an inorganic fertilizer for soil application due to its high solubility and low cost. However, soluble zinc is quickly transformed in soils into several inaccessible forms due to the high ph values, high calcium carbonate or phosphate present in soil. As a result, plants absorb zinc from zinc sulfate in relatively smaller amounts. In addition to applying zn fertilizer to the soil, zinc is also applied directly to crop leaves as a complementary approach for increasing the zn content of crops. The classical example is foliar spray of zinc sulphate along with 2.5 kg slaked lime for the management of khaira disease in rice due to lack of zinc nutrition. Deficiency in zinc affects normal growth of plants. Common symptoms of zinc deficiency are reduced leaf size and interveinal chlorosis, especially in younger leaves. Stunted root growth, delayed flowering, and fruiting. 
+
+ 
+
+Zn-solubilizing rhizobacteria and its mechanisms
+
+Zn-solubilizing rhizobacteria are a useful alternative to enhance zinc availability in the soil. Several bacteria including acinetobacter, bacillus sp., pseudomonas sp., rhizobium, azospirillum, burkholderia cenocepacia, serratia liquefaciens and s. Marcescens, cyanobacteria have been reported to solubilize zinc. Zn solubilizing ability of soil bacteria is through organic acid production such as glycolic acid, formic acid, acetic acid, propionic acid, lactic acid, fumaric and succinic acid. Furthermore, zn-regulated transporters and iron (fe)-regulated transporter-like protein (zip) genes are up regulated by zinc-solubilizing strain upon its application on plants. These genes are important for the transport and accumulation of zn in rice in iron-deficient conditions. 
+
+Method of application for zinc solubilizing bacteria in crop plants 
+
+Zinc solubilizing bacterial strains could be applied to crops in different methods as like other plant growth promoting microorganisms. Strains of zinc-solubilizing bacillus spp. Can be inoculated into the soil alone or in combination with chemical fertilizers to increase the soil zinc availability to crop plants. Seed priming or coating with zinc-soluble bacillus is an alternative method for promoting plant growth development. Foliar spray of zinc solubilizing bacteria along with zinc sulphate or nano zinc also reported to enhance plant growth and plant defense system.
+
+Reference:
+
+· upadhayay vk, singh av, khan a, sharma a. 2022. Contemplating the role of zinc-solubilizing bacteria in crop biofortification: an approach for sustainable bioeconomy. Frontiers in agronomy. 29(4): 903321.
+
+· kumar a, dewangan s, lawate p, bahadur i, prajapati s. 2019. Zinc-solubilizing bacteria: a boon for sustainable agriculture. Plant growth promoting rhizobacteria for sustainable stress management: rhizobacteria in abiotic stress management. 1:139-155.

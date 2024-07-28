@@ -1,0 +1,112 @@
+Weather Based Crop Insurance
+Weather Based Crop Insurance aims to mitigate the hardship of the insured farmers against the likelihood of financial loss on account of anticipated crop loss resulting from incidence of adverse conditions of weather parameters like rainfall, temperature, frost, humidity etc.
+
+Crops covered
+Major Food crops (Cereals, Millets &amp; Pulses) &amp;  Oilseeds
+Commercial / Horticultural crops 
+
+Farmers covered
+All farmers including sharecroppers and tenant farmers growing the notified crops in the notified areas are eligible for coverage.   However, farmers should have insurable interest on the insured crop. The non-loanee farmers are required to submit necessary documentary evidence of land  records and / or applicable contract / agreements details (in case of sharecroppers / tenant farmers).
+
+All farmers availing Seasonal Agricultural Operations (SAO) loans from Financial Institutions (i.e. loanee farmers) for the crop(s) notified are covered on compulsory basis.
+
+The Scheme is optional for the non-loanee farmers.  They can choose between WBCIS and PMFBY, and also the insurance company.
+
+Perils covered
+Following major weather perils, which are deemed to cause “Adverse Weather Incidence”, leading to crop loss, shall be covered under the scheme.
+Rainfall – Deficit Rainfall, Excess rainfall, Unseasonal Rainfall, Rainy days, Dry-spell, Dry days 
+Relative Humidity 
+Temperature – High temperature (heat), Low temperature 
+Wind Speed 
+A combination of the above 
+Hailstorms, cloud-burst  may also be covered as Add-on/Index-Plus products for those farmers who have already  taken normal coverage under WBCIS.
+The perils listed above are only indicative and not exhaustive, any addition deletion may be considered by insurance companies based on availability of relevant data.
+
+Risk period (i.e. Insurance Period)
+Risk period would ideally be from sowing period to maturity of the crop. Risk period depending on the duration of the crop and weather parameters chosen, could vary with individual crop and reference unit area and would be notified by SLCCCI before the commencement of risk period.
+
+Premium rates
+The revised premium rates payable by the cultivator for different crops are as follows:
+S.No
+CROPS
+Maximum Insurance charges payable by farmer (% of Sum Insured)
+
+i)
+Season - Kharif - Food &amp; Oilseeds crops (all cereals, millets, &amp; oilseeds, pulses)
+2.0% of SI or Actuarial rate, whichever is less
+
+ii)
+Season - Rabi - Food &amp; Oilseeds crops (all cereals, millets, &amp; oilseeds, pulses)
+1.5% of SI or Actuarial rate, whichever is less
+
+iii)
+Season - Rabi and Kharif - Annual Commercial / Annual Horticultural crops
+5% of SI or Actuarial rate, whichever is less
+
+The ‘net premium payable in case of the insured loanee cultivator is financed by the Lending Bank.
+
+Insurance companies participating in WBCIS
+The public sector and private sector General Insurance Companies empanelled by the Department of Agriculture & Cooperation (DAC) and Farmers Welfare, Government of India and selected by concerned State Government / Union Territory (UT) implement WBCIS.
+
+FAQs on WBCIS
+Weather based Crop Insurance Scheme (WBCIS) is a unique Weather based Insurance Product designed to provide insurance protection against losses in crop yield resulting from adverse weather incidences. It provides payout against adverse rainfall incidence (both deficit & excess) during Kharif and adverse incidence in weather parameters like frost, heat, relative humidity, un-seasonal rainfall etc. during Rabi. It is not Yield guarantee insurance.
+
+Comparison between National Agricultural Insurance Scheme (NAIS) and Weather Based Crop Insurance Scheme (WBCIS) 
+S.No
+National Agricultural Insurance Scheme (NAIS)
+Weather Based Crop Insurance Scheme (WBCIS)
+
+1
+Practically all risks covered (drought, excess rainfall, flood, hail, pest infestation,etc.)
+Parametric weather related risks like rainfall, frost, heat (temperature),humidity etc.) are covered. However, these parametric weather parameters appear to account for majority of crop losses
+
+
+2
+Easy-to-design if historical yield data upto 10 years’ is available
+Technical challenges in designing weather indices and also correlating weather indices with yield losses. Needs upto 25 years’ historical weather data
+
+
+3
+High basis risk [difference between the yield of the Area (Block / Tehsil) and the individual farmers]
+Basis risk with regard to weather could be high for rainfall and moderate for others like frost, heat, humidity etc.
+
+
+4
+Objectivity and transparency is relatively less
+Objectivity and transparency is relatively high
+
+
+5
+Quality losses are beyond consideration
+Quality losses to some extent gets reflected through weather index
+
+
+6
+High loss assessment costs (crop cutting experiments)
+No loss assessment costs
+
+
+7
+Delays in claims settlement
+Faster claims settlement
+
+
+8
+Government’s financial liabilities are open ended, as it supports the claims subsidy
+Government’s financial liabilities could be budgeted up-front and close ended, as it supports the premium subsidy.
+
+
+How does Weather Based Crop Insurance Scheme (WBCIS) operate?
+Weather based Crop Insurance Scheme (WBCIS) operates on the concept of “Area Approach” i.e., for the purposes of compensation, a ‘Reference Unit Area (RUA)’ shall be deemed to be a homogeneous unit of Insurance. This RUA shall be notified before the commencement of the season by the State Government and all the insured cultivators of a particular insured crop in that Area will be deemed to be on par in the assessment of claims. Each RUA is linked to a Reference Weather Station (RWS), on the basis of which current weather data and the claims would be processed. Adverse Weather Incidences, if any during the current season would entitle the insured a payout, subject to the weather triggers defined in the ‘Payout Structure’ and the terms & conditions of the Scheme.
+
+The “Area Approach” is as opposed to “Individual Approach”, where claim assessment is made for every individual insured farmer who has suffered a loss.
+
+Weather based Crop Insurance Scheme (WBCIS) provides protection to the insured cultivators in the event of loss in crops yields resulting from the adverse weather incidences, like un-seasonal/excess rainfall, heat (temperature), frost, relative humidity etc. Triggers are broadly fixed so as to capture the adverse incidence of weather parameters on crop yield.
+
+Claims arise when there is a certain adverse deviation in Actual Weather Parameter Incidence in RUA (as per the weather data measured at RWS), i.e.,e.g. its “Actual temperature” within the time period specified in the Benefit Table is either less or more compared to the specified “ temperature Trigger”, leading to crop losses. In such case, subject to the terms and conditions of the Scheme, all insured cultivators under a particular crop shall be deemed to have suffered the same “adverse deviation” in temperature and become eligible for claims.
+
+Weather experience (rainfall in particular) on a particular day could be different even in smaller geographical area, but, in a span of a fortnight, month or season it evens out. RWS at Block / Tehsil level, by and large, reflects the weather experience of individual cultivators within a RUA.
+
+
+
+

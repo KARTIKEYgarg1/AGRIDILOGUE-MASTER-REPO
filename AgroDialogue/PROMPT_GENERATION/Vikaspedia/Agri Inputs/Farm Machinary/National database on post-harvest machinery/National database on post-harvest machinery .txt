@@ -1,0 +1,17 @@
+National database on post-harvest machinery 
+A National database on post-harvest machinery/equipment has been developed by Central Institute of Post-Harvest Engineering and Technology (CIPHET), Ludhiana. It provides general information and details about equipment for processing of various crops and select livestock products.
+
+Crops covered
+
+Crops covered are arranged under following categories
+Cereals - Maize, Paddy, Wheat
+Pulses - Chick pea (Bengal gram), Pigeon pea (red gram)
+Oilseeds - Groundnut, Mustard, Soyabean
+Fruits - Banana, citrus fruit, custard apple, litchi, mango, pine apple, pomegranate
+Vegetables - onion, potato, tomato, green peas
+Spices - cardamom, turmeric
+Plantation crops - Arecanut, cashew nut, coconut
+
+Livestock products covered
+The products covered are Fish and meat
+

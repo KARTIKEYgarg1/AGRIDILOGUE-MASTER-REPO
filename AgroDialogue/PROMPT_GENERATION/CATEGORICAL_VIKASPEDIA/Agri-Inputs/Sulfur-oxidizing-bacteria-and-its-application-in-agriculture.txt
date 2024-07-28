@@ -1,0 +1,33 @@
+Sulfur-oxidizing bacteria and its application in agriculture
+
+Importance of sulphur
+Sulphur (S) is a crucial macronutrient for people, animals, plants, and microbes for growth and development.  Although it is categorised as a tertiary element along with Magnesium (Mg) and Calcium (Ca), it is occasionally referred to as "the fourth major nutrient." The element S is a necessary component for all living things. It aids in the development and activation of several enzymes and vitamins in plants, promotes nodulation in legumes, and is a structural component of two of the 21 amino acids that make up protein (cysteine and methionine).  
+
+Asparagine, glutamine, and arginine are three non-S containing amino acids that accumulate in plant tissues as a result of S deficit in soils and plants, which also inhibit protein synthesis. Where high S using crops like oilseeds and pulses are routinely cultivated, the sulphur deficiency is more noticeable. The most noticeable signs of sulphur shortage in leguminous and oilseed crops include stunted growth, poor branching, weak stems, strong red tints at leaf edges, and pale chlorotic leaves on young foliage. Reduced plant growth rate is associated with sulphur-deficient soil, and typically, shoot growth is more impacted than root growth. Lack of S nutrition impacts nodulation in legumes and lowers nitrogen fixation. (Vidyalakshmi et al., 2009).
+
+In soil, sulfur (S) is present in various forms, both in organic and inorganic compounds. Sulphur is available as organic sulfur, elemental sulfur, sulfides, sulfonates, thiols, thioesters, and sulfoxides etc., and it exists in all three phases i.e. solid, liquid or gaseous. Plants mainly take up sulphur in the form of sulphate (SO42-) and reduce it to form S containing amino acids and other compounds. Organic S must be mineralized to the inorganic sulfate anion before it can be taken up by crops. Sulphur is needed through all stages of growth in plants. Soils needs to have at least 10% sulphur in sulphate form available early in the crop season for germination and seedling growth then the rest 90% along the season.
+
+Sulfur-oxidizing bacteria (SOB)
+The sulphur bacteria, which are having capability to oxidize the reduced forms of sulphur compounds with sulphate as a final product, are known as sulphur oxidizing bacteria (SOB). Many bacteria are known to be reported for sulphur oxidising property in varied agricultural soils viz., Thermothrix, Beggiotoa, Thioplaca, Thiobacillus, Achromatium, Thiomicrospira, Acidithiobacillus, Thiosphaera and Thiothrix. Among these, Thiobacillus is the most important bacterial genus which is widely reported to be involved in the oxidative part of sulphur transformation in soil (Rana et al. 2020).
+
+Applications of SOB in Agriculture
+Sulfur-oxidizing bacteria (SOB) have been studied in many agricultural crops for its possible utilization in India (Chaudhary et al. 2019). However, recommendation of SOB varied with respect to geography, the type of crop, and the soil in the area. Several instances of SOB use in Indian agriculture are provided here:
+
+Rice Cultivation: In rice-growing regions of India, sulfur deficiency is a common issue. Sulfur-oxidizing bacteria have been reported to enhance sulfur availability in paddy soils, which can improve rice growth and yield. Research studies have shown positive effects of SOB application on rice cultivation, particularly in sulfur-deficient soils.
+
+Vegetable Crops: Various vegetable crops grown in India, such as cauliflower, cabbage, and onion, have been found to benefit from sulfur supplementation. Sulfur-oxidizing bacteria can help increase the availability of sulfur for these crops, leading to improved growth and yield. Additionally, the application of SOB has been suggested to enhance the nutritional quality of vegetables, including sulfur-containing compounds.
+
+Oilseed Crops: Oilseed crops like mustard, rapeseed, sunflower and sesame are important crops in India. Sulfur-oxidizing bacteria can contribute to increased sulfur availability, promoting better oil and protein synthesis in these crops. By ensuring adequate sulfur supply, SOB application may help improve the yield and quality of oilseed crops.
+
+Legumes: Leguminous crops, including lentils, chickpeas, and pigeon peas, play a significant role in Indian agriculture. Sulfur is essential for legume growth and nitrogen fixation. Sulfur-oxidizing bacteria can aid in the mineralization of organic sulfur compounds, providing accessible forms of sulfur for legumes. This can improve nitrogen fixation and overall plant productivity.
+
+References
+Vidyalakshmi R, Paranthaman R, Bhakyaraj R. 2009. Sulphur oxidizing bacteria and pulse nutrition- A review. World Journal of Agricultural Sciences. 5(3):270-8.
+Rana K, Rana N, Singh B. 2020. Applications of sulfur oxidizing bacteria. In Physiological and biotechnological aspects of extremophiles. Academic Press. pp. 131-136.
+Chaudhary S, Tanvi RD, Goyal S. 2019. Different applications of sulphur oxidizing bacteria: A review. Int. J. Curr. Microbiol. App. Sci. 8(11): 770-8.
+
+Content contributors
+G. Rajesha, ICAR- Indian Institute of Millet Research, Hyderabad - 500030
+K. Sakthivel, ICAR- Indian institute of Oilseeds Research, Hyderabad - 500030
+S. Madhavan, ICAR-Directorate of Floricultural Research, Regional Station Vemagiri-Rajahmundry – 533125
+Sankarimeena, ICAR- Indian institute of Oilseeds Research, Hyderabad - 500030

@@ -1,0 +1,60 @@
+Artificial intelligence in agriculture
+
+What is artificial intelligence?
+
+Artificial intelligence is based on the principle that human intelligence can be defined in a way that a machine can easily mimic it and execute tasks, from the simplest to those that are even more complex. The goals of artificial intelligence include learning, reasoning, and perception.
+
+General crop cultivation steps in agriculture
+
+Preparation of soil:farmers prepare the soil for spreading seeds at this stage of farming. Large dirt clumps are broken up and debris such as sticks, pebbles, and roots are removed. Also, depending on the type of crop, add fertilisers and organic matter to produce an optimum environment for crops.
+Sowing of seeds: this step necessitates consideration of the spacing between two seeds as well as the depth at which seeds should be planted. Climate factors like as temperature, humidity, and rainfall are critical during this stage.
+Fertilizer application : soil fertility must be maintained in order for the farmer to continue to generate nutritious and healthy crops. Fertilizers are used by farmers because they contain plant nutrients including nitrogen, phosphorus, and potassium. Fertilizers are simple nutrients that are placed in agricultural areas to augment the components that are already present in the soil. This stage also influences the crop's quality.
+Irrigation: this stage aids in maintaining soil moisture and humidity. Crop development can be hampered by underwatering or overwatering, and if not done correctly, can result in crop damage.
+Weed protection: weeds are unwanted plants that grow near crops or along agricultural boundaries. Weed control is crucial to consider because weeds reduce yields, raise production costs, obstruct harvest, and affect crop quality.
+Harvesting: it is the harvesting of ripe harvests from the fields. This task necessitates a large number of labourers, making it a labor-intensive activity. Cleaning, sorting, packaging, and refrigeration are all part of the post-harvest process.
+Storage: this stage of the post-harvest system is when the goods are stored in a way that ensures food security outside of agricultural seasons. Crop packaging and transportation are also included.
+
+Farmers' challenges while adopting traditional agricultural methods
+
+The following is a list of some of the most common agricultural issues.
+
+Climate variables such as rainfall, temperature, and humidity all have an influence in crop production. Is a result of increasing deforestation and pollution, making it difficult for farmers to make judgments about how and when to prepare the soil, sow seeds, and harvest.
+Every crop requires a certain type of soil nourishment. The soil fertility across the field is not uniform leading to variable nutrient requirements. Nutrient insufficiency can cause crops to be of low quality.
+Weed control is critical in crop production. If not regulated, it can raise production costs and take minerals from the soil, resulting in nutritional deficiencies in the population.
+Labour scarcity during peak cultivation period
+Access to timely market intelligence
+Traceability of agri produce for certification process
+
+Applications of artificial intelligence in agriculture
+
+The industry is turning to artificial intelligence technologies to help yield healthier crops, control pests, monitor soil, and growing conditions, organize data for farmers, help with the workload, and improve a wide range of agriculture-related tasks in the entire food supply chain.
+
+Use of weather forecasting: farmers can analyse weather conditions using weather forecasting, which helps them plan the type of crop that can be grown and when seeds should be sown, with the help of artificial intelligence.
+Soil and crop health monitoring system: 
+
+Peat, a german digital start-up, has created plantix, an ai-based application that can detect nutrient deficits in soil, as well as plant pests and diseases, and provide farmers advice on how to apply fertiliser to increase harvest quality. Image recognition technology is used in this app. Smartphones may be used by the farmer to photograph plants. Short movies on this application show soil restoration procedures, as well as recommendations and other solutions.
+Trace genomics, meanwhile, is a machine learning-based startup that assists farmers with soil analyses. Farmers may use such an app to track the quality of their soil and crops, resulting in healthier, more productive harvests.
+
+Precision farming and predictive analytics: agriculture ai applications have produced apps and tools that assist farmers in performing correct and regulated farming by offering suitable advise on water management, crop rotation, timely harvesting, kind of crop to be cultivated, optimum planting, insect assaults, and nutrition management.
+
+Ai-enabled technologies predict weather conditions, analyse crop sustainability, and evaluate farms for the presence of diseases or pests, as well as poor plant nutrition, using data such as temperature, precipitation, wind speed, and solar radiation in conjunction with machine learning algorithms and images captured by satellites and drones.
+Farmers who don't have access to the internet may profit from ai right now using basic technologies like an sms-enabled phone and the sowing app. Meanwhile, farmers with wi-fi connectivity may utilise ai programmes to acquire an ai-customized plan for their farms on a continuous basis.
+Blue river technology combines ai, computer vision and robotics to save costs and reduce the amount of pesticides. The computer vision defines each plant separately, machine learning determines how the characteristics of each should be observed and allows the robot to intelligently control the farm machinery and takes suitable actions.
+
+Ai companies are developing robots that can easily perform multiple tasks in farming fields. This type of robot is trained to control weeds and harvest crops at a faster pace with higher volumes compared to humans. These types of robots are trained to check the quality of crops and detect weed with picking and packing of crops at the same time. These robots are also capable to fight with challenges faced by agricultural force labor.
+Ai-enabled system to detect pests: ai systems use satellite images and compare them with historical data using ai algorithms and detect that if any insect has landed and which type of insect has landed like the locust, grasshopper, etc. And send alerts to farmers to their smartphones so that farmers can take required precautions and use required pest control thus ai helps farmers to fight against pests.
+Jivabhumi is creating a “smart” agricultural market place for optimising the supply and demand for agricultural products, which is often inadequate. It is an innovative food aggregation solution that integrates agricultural products, e-marketplace services and innovation. It uses technologies such as blockchain to collect information about products at various stages of the supply chain.
+
+Challenges in use of ai for agriculture
+
+Complexity of indian agricultural system
+Lack of datasets needed to train ai models
+Cost of vaious hardware/software used in ai systems
+Handling of massive data in a safe and secure manner
+
+Conclusion
+
+Artificial intelligence in agriculture not only assists farmers in automating their agricultural operations, but also changes to precision cultivation for improved crop output and quality while using less resources.
+
+Related resources
+

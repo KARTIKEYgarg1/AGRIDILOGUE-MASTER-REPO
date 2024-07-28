@@ -1,0 +1,53 @@
+E-charak platform for medicinal plants
+
+What is e-charak
+
+“e-charak” - e-channel for herbs, aromatic, raw material and knowledge is a platform to enable information exchange between various stakeholders involved in the medicinal plants sector. E-charak has been jointly developed by the national medicinal plants board (nmpb), ministry of ayush, government of india and centre for development of advanced computing (c-dac).
+
+Uses of e-charak
+
+Serves as a virtual market place for buyers and sellers of medicinal plants sector to interact with each other.
+Serves as a virtual showcase to display products and services related to medicinal plants sector.
+Serves as a knowledge repository of technologies, market information and other resources related to medicinal plants sector.
+
+E-charak helps its users in the following ways
+
+Get better markets for products/services.
+Save time and energy in identifying right customers
+Get to know the value of one’s goods
+Get rightful share of benefits 
+Make better decisions - what &amp; how much to produce
+
+How to access e-charak
+
+E-charak is available both as a web and mobile version.
+
+ 
+
+To download the mobile app for android platform, .
+
+How to use e-charak
+
+Register in e-charak application, either through the or by 
+
+Browse items for sale / buy. 
+
+Latest items for buy / sale are listed in the home page.
+Advanced search options such as "search by botanical / trade name", "product category-wise search", "state-wise item search", "search items for buy / sell" can also be used
+ 
+
+To express interest on an item posted
+
+Users can use the "contact now" option available alongside every item. 
+Registered users can view the contact details of the user who posted the item and also use the message board.
+The responses are shared to the user who posted the item both as an sms alert and e-mail. The app users get a notification.
+
+ 
+
+To post items
+
+Only registered members can post an item for sale / buy
+Registered users can choose category, sub category, product where their item for sale / buy can be posted. Users need to fill the required details. An image of the item posting can also be added. On submission of the form, the item gets displayed for public view. 
+
+For more information / issues / suggestions, please write to indg@cdac.in
+

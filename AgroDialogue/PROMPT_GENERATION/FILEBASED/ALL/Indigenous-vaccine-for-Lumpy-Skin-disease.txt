@@ -1,0 +1,25 @@
+Indigenous vaccine for lumpy skin disease
+
+The indigenous vaccine lumpi-provacind has been developed to protect livestock from lumpy skin disease.
+
+The vaccine has been developed by the national equine research center, hisar (haryana) in collaboration with the indian veterinary research institute, izzatnagar (bareilly).
+
+About the vaccine
+
+Goat pox, sheep pox and lsd belong to the same capripoxvirus genus of poxviridae family. Lumpi-provacind is a homologous vaccine made with the same virus as the disease.
+
+Ever since the disease came to india in 2019, research institutes have been engaged in developing the vaccine.
+
+Development process
+
+Skin nodule samples were collected from lsd-infected cows near ranchi in december 2019.
+The virus was isolated at national equine research center, hisar by early-january 2020.
+The isolated virus was propagated in african green monkey kidney (vero) cells used in cultures. The culturing was done over 50 generations (“passages”) and took about 17 months. As the virus mutated after repeated passages, its virulence or disease-causing ability weakened. The pathogenicity loss started from around the 30th passage, although the mutated virus could induce the necessary immune response from its host.
+Sequencing of the virus genome at the start and the 10th, 30th and 50th passages done. The attenuated live virus was identified as a vaccine candidate after the 50th passage and tested on laboratory mice and rabbits.
+The first experimental trial of the vaccine was done at icar-ivri mukteshwar campus in april 2022 and 10 male calves were given a dose. A batch of five “control” animals that weren’t vaccnated were also maintained. After a month, both sets of calves were injected with the virulent virus. The control calves showed most of the lsd symptoms, whereas the vaccinated animals had developed full immunity.
+Following this, field trials were done at 36 farms in rajasthan, and haryana in july 2022 with 7,000 animals, out of which cases were reported in four farms after the vaccine.
+The immunity takes one month to develop and a clean period wherein the animal doesn’t come into contact with the disease is required. But given the condition of the disease is already widespread, the animals would have contracted it before full immunity kicked in.
+
+The vaccine was officially launched by the ministry of agriculture & farmers welfare on 10 august 2022.
+
+Source : 

@@ -1,0 +1,454 @@
+Model bankable project on Pig Farming
+
+
+Significance of pig farming
+
+To double the incomes of farmers it is important to facilitate capital formation under the animal husbandry sector. Besides, the challenges faced by our country in securing the food as well as nutritional security to fast growing population need an integrated approach for livestock farming.
+
+Among the various livestock species, piggery is the most potential source of meat production and more efficient feed converters after the broiler. Apart from providing meat, it is also a source of bristles and manure. Pig farming will provide employment opportunities to seasonally employed rural farmers and supplementary income to improve their living standards. The advantages of the pig farming are:
+
+
+The pig has got highest feed conversion efficiency i.e. they produce more live weight gain from a given weight of feed than any other class of meat producing animals except broilers.
+The pig can utilize wide variety of feed stuffs viz. grains, forages, damaged feeds and garbage and convert them into valuable nutritious meat. However, feeding of damaged grains, garbage and other unbalanced rations may result in lower feed efficiency.
+They are prolific with shorter generation interval. A sow can be bred as early as 8-9 months of age and can farrow twice a year. They produce 6-12 piglets in each farrowing.
+Pig farming requires small investment on buildings and equipments.
+Pigs are known for their meat yield, which in terms of dressing percentage ranges from 65-80% in comparison to other livestock species whose dressing yields may not exceed 65%.
+Pork is the most nutritious with high fat and low water content and has got better energy value than that of other meats. It is rich in vitamins like Thiamin, Niacin and Riboflavin.
+Pig manure is widely used as fertilizer for agriculture farms and fish ponds.
+Pigs store fat rapidly for which there is an increasing demand from poultry feed, soap, paints and other chemical industries.
+Pig farming provides quick returns since the marketable weight of fatteners can be achieved with in a period of 6-8 months.
+There is good demand from domestic as well as export market for pig products such as pork, bacon, ham, sausages, lard etc.
+
+Scope for pig farming and its contribution to national economy
+
+The majority of the pig population in India is of indigenous breeds (76 percent) though population of cross-bred and exotic pigs increased by 12.7 percent from year 2003 to 2012. The exotic breed mainly comprises Hampshire, Large White York Shire, Duroc, Landrace, and Tamworth while some of the popular indigenous pig breeds include Ghungroo, Niang Megha, Ankamali, Agonda Goan and Tany-Vo. The indigenous breeds are small sized, slow growing, produce small number of litters and have low quality pork. India’s average meat yield of indigenous breeds is around 35 Kg/animal, which is quite low in comparison to world average of around 78 Kg/animal.
+
+India imported exotic pigs such as Duroc, Berkshires, Hampshire, Landrace, Large White Yorkshire, Saddleback, and Tamworth to augment the piggery production and overcome poor performance of indigenous pig germ plasm. Research institutes also developed different crossbred pigs by crossing local pigs with exotic breeds to produce animals of significantly higher productivity and better characteristics.
+
+According to the Livestock Census, 2012, published by Government of India (GOI), the pig population declined by 7.5 percent to 10.3 million from 2007 to 2012. The decline in population may be attributed to disease outbreaks. The eastern and north eastern regions of the country comprise around 63 percent of the pig population. The highest pig population is in state of Assam (1.63 million) followed by Uttar Pradesh (1.33 million), Jharkhand (0.96 million), Bihar (0.65 million) and West Bengal (0.65 million). The state wise pig population details are given in below table:
+
+
+
+
+Sl.NoState/UTPig Population (number)
+
+
+
+
+Crossbred &amp; Exotic
+Indigenous
+Total
+
+
+1
+Andaman &amp; Nicobar
+10823
+25098
+35921
+
+
+2
+Andhra Pradesh
+26351
+368011
+394362
+
+
+3
+Arunachal Pradesh
+37369
+318976
+356345
+
+
+4
+Assam
+613668
+1022354
+1636022
+
+
+5
+Bihar
+24182
+625531
+649713
+
+
+6
+Chandigarh
+109
+26
+135
+
+
+7
+Chharrisgarh
+22143
+413916
+439059
+
+
+8
+Dadra &amp; Nagar Haveli
+0
+0
+0
+
+
+9
+Daman &amp; Diu
+0
+14
+14
+
+
+10
+Goa
+5956
+37611
+43567
+
+
+11
+Gujarat
+885
+3394
+4279
+
+
+12
+Haryana
+49792
+77153
+126945
+
+
+13
+Himachal Pradesh
+1943
+3090
+5033
+
+
+14
+Jammu &amp; Kashmir
+878
+1543
+2421
+
+
+15
+Jharkhand
+41742
+920625
+962367
+
+
+16
+Karnataka
+43524
+261274
+304798
+
+
+17
+Kerala
+50817
+4965
+55782
+
+
+18
+Lakshadweep
+0
+0
+0
+
+
+19
+Madhya Pradesh
+13538
+161715
+175253
+
+
+20
+Maharashtra
+37455
+288301
+325756
+
+
+21
+Manipur
+182546
+94669
+277215
+
+
+22
+Meghalaya
+133623
+409758
+543381
+
+
+23
+Mizoram
+212952
+32286
+245238
+
+
+24
+Nagaland
+380719
+122969
+503688
+
+
+25
+NCT of Delhi
+8581
+677765
+763436
+
+
+26
+Odisha
+4264
+276052
+280316
+
+
+27
+Pondicherry
+476
+534
+1010
+
+
+28
+Punjab
+17756
+14465
+32221
+
+
+29
+Rajasthan
+21065
+216589
+237674
+
+
+30
+Sikkim
+27456
+2451
+29907
+
+
+31
+Tamil Nadu
+30793
+153190
+183983
+
+
+32
+Tripura
+213643
+148891
+362534
+
+
+33
+Uttar Pradesh
+181951
+1152441
+1334392
+
+
+34
+Uttarakhand
+7222
+12685
+19907
+
+
+35
+West Bengal
+52147
+595964
+648111
+
+
+
+Total
+2456389
+787306
+10293695
+
+
+
+Pork production in India is estimated at 464 thousand metric tons in FY 2014 - 15 (April -March) (GOI), which contributes approximately 8 percent of the country’s animal protein sources. From FY 2009-10 to 2014-15, pork production increased at a slow pace with compound annual growth rate of 1.4 percent due to population growth. The per capita pork consumption in India is negligible with the consumption mainly concentrated in north-eastern states including Assam, Nagaland, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Sikkim, and Tripura. Other Indian states with high pork consumption include Bihar, Jharkhand, West Bengal, Goa and Kerala.
+
+From year 2010 to 2015 pork imports increased at a CAGR of 11 percent on steady demand in hotel, restaurant and institutional sector as well in high-end retail segment. Pork imports increased to 527 metric tons during 2014-15, recording 28 per cent growth over the previous year. Major suppliers of pork meat to India are Belgium, Sri Lanka, Spain, Italy, and Netherland. Indian exports of pork and pork products are negligible.
+
+Generally, pigs are fed concentrated feed with other locally available agro byproducts, tuber crops like sweet potato, tapioca, vegetables and kitchen waste. The major challenges that affect the growth of pork sector include lack of sufficient breeder farms, deficiency of feed and fodder resources, diseases like classical swine fever, porcine reproductive and respiratory syndrome (PRRS), and porcine rotavirus, limited availability of vaccines, and insufficient slaughter and processing facilities across the country.
+
+The pig farming constitutes the livelihood of rural poor belonging to the lowest socio-economic strata and they have no means to undertake scientific pig farming with improved foundation stock, proper housing, feeding and management. Therefore, suitable schemes to popularize the scientific pig breeding cum rearing of meat producing animals with adequate financial provisions are necessary to modernize the Indian pig industry and to improve the productivity of small sized rural pig farms.
+
+Financial assistance available from banks / NABARD for pig farming
+
+NABARD is an apex institution for all matters relating to policy, planning, and operations in the field of agriculture credit. It serves as refinance agency for the ground level institutions / banks providing investment and production credit for various activities under agriculture and allied sectors for ensuring integrated rural development. For undertaking the pig farming on scientific lines, loan from banks with refinance facility from NABARD is available. For obtaining bank loan the farmers / entrepreneurs should apply to the nearest branch of a Commercial, Co-operative or Regional Rural Bank in the prescribed application form, which is available in the branches of financing bank. Necessary help or guidance can be obtained from the technical officer attached to or the manager of the bank in preparing the project report, which is a prerequisite for sanction of the loan. For piggery development schemes with very large outlays, detailed project reports will have to be prepared. The items such as land development, construction of sheds and other civil structures, purchase of the breeding stock, equipment, feed cost up to the point of income generation are normally considered under bank loan. Other items of investment will be considered on need basis after providing the satisfactory information justifying the need for such items. The cost of land is not considered for loan. However, if the land is purchased for setting up the piggery farm exclusively, it can be considered as beneficiaries’ margin money.
+
+Project Formulation
+
+In case of commercial piggery units, the project normally should include information on land, livestock markets, availability of water, feed, veterinary aid, breeding facilities, marketing aspects, training facilities, experience of the farmer and the type of assistance available from State Government. The project should also include information on the number, breed and types of animals to be purchased, production performance and cost of other relevant input and output. Based on this, the total cost of the project, margin money to be provided by the beneficiary, requirement of bank loan, estimated annual expenditure, income, profit and loss statement, repayment period, etc. can be worked out and included in the project cost.
+
+Requirements of a good project
+
+A format prepared by NABARD for formulation of piggery project is given in . The project formulated should be submitted to the nearest branch of bank. The bank will examine the project for its technical feasibility, economic viability and bankability.
+
+Technical Feasibility - This would briefly include:
+
+
+Nearness of the selected area to financing bank's branch.
+Availability of good quality animals in nearby livestock markets/ breeding farms.
+Source and availability of training facilities.
+Availability of concentrate feeds and kitchen/ hotel/ vegetable market waste and broken grains.
+Availability of medicines, vaccines, veterinary services, etc.
+Availability of veterinary aid / breeding centres and marketing facilities near the project area.
+Reasonability of various production and reproduction parameters.
+
+Economic Viability - This would briefly include:
+
+
+Input cost for feeds, veterinary aid, insurance, labour charges, etc.
+Output costs i.e. sale price of fatteners, piglets and culled animals.
+Income-expenditure statement and annual gross surplus.
+Cash flow analysis.
+
+Bankability:
+
+
+Repayment schedule (i.e. repayment of principal loan amount and interest.)
+
+Other documents such as loan application forms, security aspects, margin money requirements etc. are also examined. A field visit to the project area is undertaken for conducting a techno- economic feasibility study for appraisal of the project. The economics of two model projects on pig farming viz.,
+
+Sanction of bank loan and its disbursement
+
+After ensuring technical feasibility and economic viability, the project is sanctioned by the bank. The loan is disbursed in stages against creation of specific assets such as construction of sheds, purchase of equipments and pigs. The end use of the fund is verified and constant follow-up is done by the bank.
+
+Lending terms – General
+
+Unit cost: Each Regional Office (RO) of NABARD has constituted a State Level Unit Cost Committee under the chairmanship of RO-in-charge of NABARD and with the members from developmental agencies, commercial banks and cooperative banks to review the unit cost of various investments. The same is circulated among the banks for their guidance.
+
+Margin Money: Borrower has to contribute minimum 10% of the project cost as margin money.
+
+Interest Rate for ultimate borrower: Banks are free to decide the rate of interest within the overall RBI guidelines. However, for working out the financial viability and bankability of the model project we have assumed the rate of interest as 12% p.a.
+
+Security: Security will be as per RBI guidelines issued from time to time.
+
+Repayment Period of Loan: Repayment period depends upon the gross surplus in the project. The loans will be repaid in suitable half yearly / annual installments usually within a period of six years with a grace period of one year.
+
+Insurance: Pigs should be insured annually or on long term master policy, wherever it is applicable.
+
+Package of management practices recommended for commercial pig farming
+
+Modern and well established scientific principles, practices and skills should be used to obtain maximum economic benefits from pig farming. Some of the major norms and recommended practices are given hereunder:
+
+Housing management
+
+
+Construct shed on dry and properly raised ground.'
+Avoid water-logging, marshy and heavy rainfall areas.
+The side walls of the sheds should be 4-5 ft. high and remaining height should be fitted with GI pipes or wooden poles.
+The walls should be plastered to make them damp proof.
+The roof should be at least 8-10 ft. high.
+The pig stys should be well ventilated.
+The floor should be pucca/hard, even, non-slippery, impervious, well sloped (3 cm per metre) and properly drained to remain dry and clean.
+A feed trough space of 6-12 inches per pig should be provided.
+The corners of feed troughs, drains and walls should be rounded for easy cleaning.
+Provide adequate open space for each animal i.e. double the covered area
+Provide proper shade and cool drinking water in summer.
+Dispose of dung and urine properly.
+Individual pens for boars/lactating sows should be constructed.
+The dry sows / fatteners can be housed in group pens.
+Give adequate space for the animals.
+
+Selection of breeding stock
+
+
+Immediately after release of the loan, purchase the stock from a reliable breeder or from nearest livestock market.
+For commercial pig farming upgraded / cross bred or exotic stock in good health should be selected.
+While selecting a gilt or sow primary aim should be to secure a female that will produce large survivable litter and which can attain marketable weight at an age of six months or less. This can be done with the help of pedigree records/Veterinarian / Bank's technical officer.
+Purchase animals which are ready to be bred.
+Identify the newly purchased animal by giving suitable identification mark (ear notching or tattooing).
+Vaccinate the newly purchased animals against diseases.
+Keep the newly purchased animal under observations for a period of about two weeks and then mix with the other animals.
+Purchase a minimum economical unit as suggested.
+Purchase animals in two batches at the interval of three months.
+Follow judicious culling and replacement of animals in a herd.
+Cull the old animals after 10-12 farrowings.
+
+Feeding management
+
+
+Feed the animals with best feeds.
+Give adequate concentrates in the ration.
+Provide adequate vitamins and minerals.
+Provide adequate clean water.
+Give adequate exercise to the animals.
+The feeding of the piglets is more critical and high quality and more fortified diets are needed for feeding them.
+Feeding of the sows during pregnancy is utmost important for increased litter size.
+The feed requirements of lactating sow varies with the size of the litter, weight, size and age of sow.
+Commercial pig farming should aim at the exploitation of nonconventional feed resources viz., waste from Kitchen/hotel/ cold storage/warehouses, in replacing the balanced rations to minimize the cost of production.
+The feeding regime adopted should take care of all the nutrient requirements of various categories of pigs.
+
+Protection against Diseases
+
+
+Be on the alert for signs of illness such as reduced feed intake, fever, abnormal discharge or unusual behaviour. 
+Consult the nearest veterinary aid centre for help if illness is suspected. 
+Protect the animals against common diseases. 
+In case of outbreak of contagious diseases, immediately segregate the sick and the healthy animals and take necessary disease control measures. 
+Deworm the animals regularly. 
+Examine the faeces of adult animals to detect eggs of internal parasites and treat the animals with suitable drugs. 
+Wash the animals from time to time to promote sanitation. 
+Strictly follow the recommended vaccine schedule. 
+
+Breeding care
+
+
+Pigs are highly prolific in nature and two farrowings in a year should be planned by adopting optimal management conditions
+For every 10 sows one boar must be maintained for maximum fertility.
+Breed the animals when it is in peak heat period (i.e. 12 to 24 hours of heat).
+
+Care during Pregnancy
+
+Give special attention to pregnant sows one week before farrowing by providing adequate space, feed, water, etc. The sows as well as farrowing pens should be disinfected 3-4 days before the expected date of farrowing and the sows should be placed in the farrowing pen after bedding it properly.
+
+Care of Piglets
+
+
+Take care of new born piglets by providing guard rails. 
+Treat / disinfect the navel cord with tincture of iodine as soon as it is cut with a sharp knife. 
+Feed on mother’s milk for first 6-8 weeks along with creep feed. 
+Protect the piglets against extreme weather conditions, particularly during the first two months. 
+Needle teeth should be clipped shortly after birth. 
+Vaccinate the piglets as per recommended vaccination schedule. 
+Supplementation of Iron to prevent piglet anemia is necessary. 
+The piglets meant for sale as breeder stock must be reared properly. 
+Male piglets not selected for breeding should be castrated preferably at the age of 3-4 weeks which will prevent the boar odour in the cooked meat thus it enables production of quality meat. 
+Additional feed requirements of lactating sow must be ensured for proper nursing of all the piglets born.
+
+Marketing
+
+The marketable products of the pig farms include the piglets as breeding stock, piglets as fatteners, marketable fatteners and culls. The marketing avenues for the above products are like satellite fattening farms / breeding cum rearing farms and pork consumption centres. In order to promote the consumption of pork it should be supplied to the consumers in an attractive form. Therefore availability of slaughtering facilities has to be ensured to convert the fatteners into wholesome pork and their products. The sale of piglets at 2-3 months of age will yield quick returns and enables the pig farmer to concentrate their efforts on maximizing the productivity of breeder stock. The other marketing strategy can be rearing of piglets up to marketing age for their sale as fatteners. Based on the market demand appropriate marketing strategy must be adopted in consultation with the local animal husbandry department officials.
+
+Source: 
+

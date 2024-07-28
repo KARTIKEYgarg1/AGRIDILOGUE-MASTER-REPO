@@ -1,0 +1,24 @@
+Angular Leaf Spot Disease
+
+Symptoms
+Small, circular spots appear initially on leaves. These spots later develop into large, angular to irregular, water-soaked patches. In wet weather, droplets of bacterial ooze exude from the spots on the lower side of leaves. These droplets lose moisture and form a whitish crust during dry weather. Later, the infected areas become necrotic, turn gray and shrink, often tearing away from the healthy leaf tissue and falling off. These lesions often have yellow margins. The large, irregular holes give the leaf a ragged appearance. On some resistant varieties, the lesions are smaller and lack yellow margins. Infected fruits show small, almost circular spots that are usually superficial. When the affected tissues die, they turn white and crack open, letting opportunistic fungi and bacteria colonize and rot the whole fruit. Infection of young fruit may cause extensive fruit drop.
+
+Product Recommendations
+Organic Control
+Infected seeding material can be treated with garlic solutions and hot water (50°C) for 30 minutes. In greenhouses, the occurrence of angular leaf spot can be suppressed by controlling night-time humidity (to 80-90%) with dehumidifiers. The biological control agent Pentaphage effectively decimates P. syringae. Organic copper fungicides can slow down the spreading of the disease.
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments if available. Pesticides containing copper hydroxide can be applied. The treatment is most effective when the temperature is above 24 °C and the foliage is wet. Spraying on a hot day when the foliage is dry can injure the plants. Weekly spraying may be necessary to achieve control of the disease.
+
+What caused it?
+The symptoms are caused by the bacteria Pseudomonas syringae, which can infect all cucurbit crops. It survives in infected seeds or in plant debris in the soil for periods of over 2 years. When humidity is high, a drop of clear to white sticky bacterial ooze forms on the infection sites. These bacteria are moved from plant to plant on the hands and tools of workers, by insects, or by splashing water or wind. Eventually, the bacteria enter the plant via the pores present on the leaf surface (stomata). When fruit are infected, the bacteria moves deep into the flesh and infects the seeds. Strangely enough, the infection of leaves with tobacco necrosis virus provides a certain degree of resistance against the bacteria that causes angular leaf spot.
+
+Preventive Measures 
+Use seeds from healthy plants or from certified sources.
+Chose resistant varieties, if available.
+Use furrow irrigation instead of sprinklers and do not overwater.
+Choose well-drained sites.
+Plant crops for both seed and fruit production in fields that have had no cucurbits for at least 2 years.
+In infected areas, do not plant cucurbits for at least 3 years.
+Remove and destroy (for example burn) infected or suspicious plant material.
+Monitor the fields regularly for signs of the disease.
+Clean tools thoroughly after field work.

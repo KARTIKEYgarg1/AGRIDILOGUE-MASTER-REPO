@@ -1,0 +1,88 @@
+IoT in Agriculture
+
+What is IOT?
+
+The Internet of Things refers to the rapidly growing network of connected objects that are able to collect and exchange data in real time using embedded sensors.
+
+What is smart agriculture? 
+
+Smart agriculture is mostly used to denote the application of IoT solutions in agriculture. So what is smart agriculture using IoT? By using IoT sensors to collect environmental and machine metrics, farmers can make informed decisions, and improve just about every aspect of their work – from livestock to crop farming.
+
+The adoption of IoT solutions for agriculture is constantly growing. COVID-19 has had a positive impact on IoT in the agriculture market share. Disruptions in the supply chain, and the shortage of qualified workers, has propelled its CAGR to 9,9%. In fact, as per recent reports, the smart framing market share is set to reach $6.2 billion by 2021.
+
+At the same time, the global smart agriculture market size is expected to triple by 2025, reaching $15.3 billion (compared to being slightly over $5 billion back in 2016). Because the market is still developing, there is still ample opportunity for businesses willing to join in.
+
+IoT use cases in agriculture
+
+There are many types of IoT sensors for agriculture as well as IoT applications in agriculture in general.
+
+Monitoring of climate conditions
+
+Probably the most popular smart agriculture gadgets are weather stations, combining various smart farming sensors. Located across the field, they collect various data from the environment and send it to the cloud.
+
+Greenhouse automation
+
+The use of IoT sensors enables them to get accurate real-time information on greenhouse conditions such as lighting, temperature, soil condition, and humidity.
+
+In addition to sourcing environmental data, weather stations can automatically adjust the conditions to match the given parameters. Specifically, greenhouse automation systems use a similar principle.
+
+Crop management
+
+Just like weather stations, they should be placed in the field to collect data specific to crop farming; from temperature and precipitation to leaf water potential and overall crop health. You can monitor your crop growth and any anomalies to effectively prevent any diseases or infestations that can harm your yield. 
+
+Cattle monitoring and management
+
+Just like crop monitoring, there are IoT agriculture sensors that can be attached to the animals on a farm monitoring their health and log performance. Livestock tracking and monitoring help collect data on stock health, well-being, and physical location.
+
+For example, such sensors can identify sick animals so that farmers can separate them from the herd and avoid contamination. 
+
+Precision farming
+
+Also known as precision agriculture, precision farming is all about efficiency and making accurate data-driven decisions. It’s also one of the most widespread and effective applications of IoT in agriculture.
+
+By using IoT sensors, farmers can collect a vast array of metrics on every facet of the field microclimate and ecosystem: lighting, temperature, soil condition, humidity, CO2 levels, and pest infections. This data enables farmers to estimate optimal amounts of water, fertilizers, and pesticides that their crops need, reduce expenses, and raise better and healthier crops.
+
+Agricultural drones
+
+Perhaps one of the most promising agritech advancements is the use of agricultural drones in smart farming. Also known as UAVs (unmanned aerial vehicles), drones are better equipped than airplanes and satellites to collect agricultural data. 
+
+Predictive analytics for smart farming
+
+Precision agriculture and predictive data analytics go hand in hand. While IoT and smart sensor technology are a goldmine for highly relevant real-time data, the use of data analytics helps farmers make sense of it and come up with important predictions: crop harvesting time, the risks of diseases and infestations, yield volume, etc.
+
+Data analytics tools help make farming, which is inherently highly dependent on weather conditions, more manageable, and predictable.
+
+End-to-end farm management systems
+
+A more complex approach to IoT products in agriculture can be represented by the so-called farm productivity management systems. They usually include a number of agriculture IoT devices and sensors, installed on the premises as well as a powerful dashboard with analytical capabilities and in-built accounting/reporting features.
+
+This offers remote farm monitoring capabilities and allows you to streamline most of the business operations. 
+
+In addition to the listed IoT agriculture use cases, some prominent opportunities include vehicle tracking (or even automation), storage management, logistics, etc.
+
+Smart Agriculture System Using IOT
+
+IoT device includes every object that can be controlled through the Internet. IoT devices have become commonplace in consumer markets with wearable IoWT (Internet of Wearable Things), such as smartwatches, and home management products, like Google home. It is estimated over 30 billion devices could be connected to the Internet of Things by 2020.
+
+The applications of Internet of Things in agriculture target conventional farming operations to meet the increasing demands and decrease production loses. IoT in agriculture uses robots, drones, remote sensors, and computer imaging combined with continuously progressing machine learning and analytical tools for monitoring crops, surveying, and mapping the fields, and provide data to farmers for rational farm management plans to save both time and money
+
+Agriculture implements IoT through use of robots, drones, sensors, and computer imaging integrated with analytical tools for getting insights and monitor the farms. Placement of physical equipment on farms monitors and records data, which is then used to get valuable insights.
+
+What are infrastructure requirements for adopting adopting a smart agriculture system using IoT?
+
+
+The high initial investments in sensors, drones, and bots and their setting up
+Hiring well-trained field staff for operating and management
+Connectivity to power to charge and operate the drones and robots
+Hardware maintenance costs
+Continuous connectivity to the internet
+
+How easy is it to operate agricultural IoT?
+
+IoT in agriculture uses technology which integrates sensitive physical hardware with analytical software. Analytical dashboard is mostly a software that is processing the data recorded by equipment. Hence, a sound technical knowledge of robotics and computer-based intelligence is a prerequisite for operating, maintaining, and understanding the insights of these valuable equipment.
+
+Related resources
+
+
+
+

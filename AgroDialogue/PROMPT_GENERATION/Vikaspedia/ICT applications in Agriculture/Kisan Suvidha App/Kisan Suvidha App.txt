@@ -1,0 +1,29 @@
+Kisan Suvidha App
+
+
+Kisan Suvidha is an omnibus mobile app developed by Department of Agriculture & Cooperation,  to help farmers by providing relevant information to them quickly. The app is available in multiple Indian languages.
+
+Features of the mobile app
+
+Following facilities are available on Kisan Suvida App.
+
+
+ Weather - provides weather report for that day and  weather  forecast  for  next  five  days  of  a selected district. Extreme weather alerts are also provided.
+Dealers - Name, Mobile  number  and  Address  of  the dealers     of     Seeds,     Pesticides, Fertilizer    and    Farm    Machinery are provided. 
+Market Prices - information   about      rates   of   various crops   in   different   mandies are provided.
+ - Crop specific information related to pest management are provided. If  the  condition  of  crop  is  not  normal,  farmers  can  upload a  picture/photo of  the crop and send it through kisan suvidha app to agriculture experts for advice.
+Agro Advisories - Information from agriculture experts of districts regarding the  advisories about activities to be    undertaken and precaution to  be  taken  staring  from sowing to harvesting.
+Contact KCC - This  option  provides  facility  to  speak  to    Kisan  Call  Centre  (KCC).
+Soil Heath Card - option  gives  information  about  Soil  Health Card,   so   that   farmers   can   use   fertilizer   and pesticides  judiciously  having  regard  to  minerals available in a particular  land/farm. 
+Cold Storage and gowdowns - information  about  warehouse  and  cold storage available in the district like warehouse / cold storage, name of manager, address, storage capacity and phone number etc are provided. 
+
+How to use
+
+The Kisan  Suvidha  app  for Android platform can  be  downloaded from Google  PlayStore.  to download.
+
+The Kisan  Suvidha  app  for iOS platform can  be  downloaded from App Store.  to download.
+
+Registration  is compulsory  for  using  this  app.  You  can  choose  ‘English’,  ‘Hindi’  or  the  local language for registration.
+
+Source : Ministry of Agriculture and Farmers' Welfare
+

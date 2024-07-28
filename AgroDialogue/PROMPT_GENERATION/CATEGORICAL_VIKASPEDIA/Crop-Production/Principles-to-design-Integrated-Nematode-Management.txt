@@ -1,0 +1,23 @@
+Principles to design Integrated Nematode Management
+
+The grower combines several measures to prevent the growth of damaging nematode populations. Where there is an advisory service equipped to monitor field populations, these control measures can be utilized with minimum amounts of nematicides. Without advisory services, integrated control of nematode is hardly possible and relatively heavy dosages of chemical nematicides are employed.
+
+Decisions to implement nematode management programmes are based on the perceived value of the potential crop loss and the cost of the management procedure. Theoretically this involves determining an economic threshold. Management procedures should usually be implemented when the marginal revenue derived from the management input is equal to or excess the marginal cost.
+
+The design development and implementation of INM systems for plant protection requires extensive interaction of nematologists with scientists in complementary disciplines. INM includes following components.
+
+Exclusion
+
+Crop losses caused by plant parasitic nematodes can be avoided through preventing the introduction of specific nematodes or nematode problems in areas where the species do not exist. The focal point of exclusion is the target nematode species. Exclusion procedures should be used as first order defenses to prevent dissemination and establishment.
+
+Exclusion procedures include sanitation, certified plant material, nematode free soil or planting media, population reduction or eradication procedures and regulatory activities. Quarantines are used to prevent or slow the spread of plant parasitic nematodes. Certified plant material and nematode free planting media or equipment are used for nematode exclusion. All available exclusion procedures should be considered in the system evaluation and design of the INM programme.
+
+Population Reduction
+
+Crop losses caused by plant parasitic nematodes can be alleviated by procedures designed to decrease population densities of the target species to an acceptable level. Whenever possible population reduction strategies should stabilize nematode population densities below the damage threshold. The focal point of population reduction is the target species. It is assumed that the species of concern is present and eradication is not feasible.
+
+Established nematode populations are usually managed through population reduction by cultural, physical, biological and chemical procedures. Cultural procedures include the use of fallowing, flooding, cover crops, crop rotation, planting date, rougeing, trap crops or weed management for population reduction. Heat is the physical factor most widely used in nematode population reduction. Nematode biocontrol resources include prokaryons (viruses, rickettsias and bacteria), nematophagus fungi and predacious, parasitic or environmental modifying invertebrates (nematodes,protozoa, mites etc) and antagonistic plants. Nematicides can directly or indirectly reduce populations associated with nematode infested materials and can be used for soil application, root tips, foliar applications or seed treatments.
+
+Tolerance
+
+Crop losses caused by plant parasitic nematodes can be reduced by manipulating the host in relation to its environment. The objective of tolerance is to elevate the damage threshold. The focal point is the host crop. Procedures that protect or increase plant tolerance have excellent potential for INM. These include cultural manipulation, chemical application, mycorrhizal colonization and resistant cultivars.

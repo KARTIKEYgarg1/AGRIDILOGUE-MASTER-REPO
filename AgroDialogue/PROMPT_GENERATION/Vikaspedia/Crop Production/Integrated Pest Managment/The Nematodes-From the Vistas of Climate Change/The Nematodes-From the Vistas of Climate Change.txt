@@ -1,0 +1,284 @@
+The Nematodes:From the Vistas of Climate Change
+
+
+About 
+
+Climate change is a natural phenomenon that has been constantly occurring since the formation of the planet earth. An imperative expression of climate change is the global warming that arises due to the combined effect of air and sea surface temperatures over the world (Kelly, 2013).
+
+Nevertheless, a rapid rise in its pace and magnitude due to the anthropogenic activities over the past few decades have continued to be a threat to the future of mankind and the agro-ecosystem (Zhou et al. 2010). Intergovernmental Panel on Climate Change (IPCC) has predicted the concentration of atmospheric CO2 from 280 µ mol/ mol between the ends of the last glaciations to 380 µ mol/mol today, and expected to reach at a level of about 550 µ mol/mol in 2050. As a result, several changes in the climatic conditions have been occurred, including the rise in average global surface temperature by 0.2℃ per decade and ascending the mean sea level in 2017 by 3 inches over an average of 1993. Human-induced warming has reached ~ 1℃ above the pre-industrial level in 2017. With this current emission scenario, the global mean temperature would rise between 0.9℃ to 3.5℃ by the year 2100. Perhaps, nobody should ignore that the growth rate of atmospheric CO2 concentration is hastily increasing more since the year 2000 than in the previous decades (IPCC Report, 2019).
+
+About Nematodes
+
+Nematodes are the marvellous organisms on the planet earth, owns an extraordinary competence to survive under hostile weather conditions with simple body organisation. Nematodes are soil enduring, poikilothermic, all-pervading and most bountiful organisms from the phylum Nematoda of kingdom Animalia (Hoogen et al. 2019).
+
+In the soil, nematodes represents at various trophic and ecological groups, which could be directly associated with the ecosystem and plays a vital role in soil-food web system as primary feeders (herbivores), secondary consumers (bacterivores and fungivores), and tertiary scavengers (carnivores, omnivorous and predatory nematodes) (Bonger and Ferris, 1999; Thakur et al. 2014). Herbivore nematodes are recognised as noteworthy pests of agricultural and horticultural crops worldwide causing an annual loss worth of US $157 billion (Nicol et al. 2011). Bacterivores and fungivores nematodes are valuable in crop production as they augment the process of nutrient mineralization, which amends the C:N ratio and enhances nutrient availability to the plants (Ferris et al. 2012). Predacious nematodes consume the plant-parasitic nematodes (PPNs) thus, they have the capability of biological control.
+
+By virtue of the trophic diversity, nematodes have formed a vital energy pathway from primary production and detritus to the higher trophic groups. Hence, they establish themselves as a fundamental group in the agro-ecosystem which needs to be studied from the outlook of climate change impacts (Okulewicz, 2017). Nowadays, soil nematodes are being served as an exceptional and outstanding model organism to explore the response of terrestrial ecosystems to climate change (Colagiero and Ciancio, 2011).
+
+Impact of climate change on nematodes
+
+The impact of climate change on nematodes has been discussed below:
+
+ a. Impact of climate change on nematode functional groups:
+
+Global warming is the most imperious manifestation of climate change due to the upsurge level of CO2 and temperature. Parenthetically, both these physical forces (temperature and CO2) are the essential factors that influence the biology of nematodes. Nematode development rate is directly propelled by temperature gradient with slower development at cooler and a faster rate at warmer soil temperatures (Tyler, 1933). So, soaring the mercury level due to global warming expected to have resulted in multiple nematode generations per season and expansion of their geographical distribution range (Trudgill et al. 2005).
+
+The status of nematode abundance in ambient (360 ppm) and elevated CO2 (475 ppm) conditions in pasture land have been studied and found that the nematodes were abundant than other soil organisms in elevated CO2 plot. Among the nematodes, PPNs from the genera, Tylenchus and Longidorous was found to be plentiful numbers in elevated CO2 plot. This could be due to an elevated CO2 conditions that has induced more root production which has greatly inspired PPNs species (Yeates et al. 2003).  In another study, the abundance of Pratylenchus spp. was found to be dominant in soil samples than other PPNs recovered from gley soil, but not in organic soil under elevated CO2 conditions (Yeates et al. 2003). The sensitivity of soil nematodes to CO2 enhancement under different cropping system was analysed and found that the values of nematode channel ratio (NCR-ratio of the number of bacterivores and fungivores nematodes in given soil sample) for wheat and sugar beet crops were more in elevated CO2 conditions than ambient. Maximum abundance of nematode communities (bacterivores, fungivores, omnivores, carnivores) was seen in the CO2 enriched plots for both the crops (Sticht et al. 2009).
+
+Nonetheless, it is not always that enriched CO2 conditions have optimistic relation with the nematode abundance. Ayres and associates (2008) investigated the response of PPNs to elevated CO2 conditions at three different locations in pasture plots. They observed that the elevated CO2 conditions had not affected the total nematode abundance, family richness, diversity index of PPN community in the soil. Li and associates (2007) studied the effect of elevated CO2 and nitrogen fertilization on soil nematode abundance and diversity in a rice-wheat rotation ecosystem. They reported that the elevated CO2 level has increased the abundance of omnivores-predators, the values of maturity index (MI) and structural index (SI) of nematode assemblage at the jointing stage of wheat. Also, the interactions between residue incorporation and CO2 enrichment significantly influenced the nematode dominance and structure indices (Li et al. 2009).
+
+Many researchers have judiciously assessed the response of nematodes to the elevated level of CO2 under different conditions (Table .1). Looking across these findings, we could deduce that CO2 enrichment in crop ecosystem has either positive or neutral reaction on nematode abundance, species richness, and nematode diversity but, no negative response was seen so far.
+
+Table: 1 Response of nematodes to elevated level of CO2
+
+
+
+
+
+Country
+
+
+Agro-ecosystem
+
+
+Experimental Method 
+
+
+Nematode Response
+
+
+Reference
+
+
+
+
+New Zealand
+
+
+Grassland
+
+
+FACE
+
+
+Positive or Neutral
+
+
+Yeates et al. 2003, 2009
+
+
+
+
+USA
+
+
+Grassland
+
+
+OTC
+
+
+Positive or Neutral
+
+
+Hungate et al. 2000
+
+
+
+
+USA
+
+
+Grassland
+
+
+OTC
+
+
+Neutral
+
+
+ 
+Ayres et al. 2008
+
+
+
+
+France
+
+
+Grassland
+
+
+SACC
+
+
+Neutral
+
+
+
+
+Germany
+
+
+Grassland
+
+
+FACE
+
+
+Positive or Neutral
+
+
+Sonnemann and Wolters 2005
+
+
+
+
+Germany
+
+
+Sugar beet-wheat rotation
+
+
+FACE
+
+
+Positive
+
+
+Sticht et al. 2009
+
+
+
+
+China
+
+
+Rice-Wheat rotation
+
+
+FACE
+
+
+Positive or Neutral
+
+
+Li et al. 2007, 2009
+
+
+
+
+India
+
+
+Rice
+
+
+OTC
+
+
+Neutral
+
+
+Somasekhar and Prasad, 2010
+
+
+
+
+(Abbreviations: FACE: Free-Air Carbon dioxide Enrichment, OTC: Open Top Chamber, SACC: Screen Aided CO2) 
+
+b. Impact of climate change on nematode parasitism:
+
+Epidemiologically, a triangular nexus between a susceptible host, an aggressive pathogen and a conducive environment establishes the process of disease development. PPNs are exclusively root feeders and parasitize the plant for their survival. The interaction between PPNs and plants are also likely to be persuaded by a result of climate change. The consequences of rising levels of CO2 in the atmosphere on PPNs communities have either positive or neutral response, but its effect on plant-nematode interaction is an idiosyncratic.
+
+Rebetez and Dobbertin (2004) observed the pine tree mortality in the Rhone valley of Swiss as a result of strong human-induced warming occurring in recent years. The number of days with a mean temperature higher than 20℃ in July has increased the tree susceptibility to pinewood nematode (Bursaphelechus xylophilus and B. mucronatus) and exposed the pine trees to bark beetle (Tomicus piniperda and T. minor) and stem fungi. Prolonged duration of higher temperatures has also induced the water stress in pine trees and thus aggravating the damage by secondary pathogens. In India, rice root-knot nematode (Meloidogyne graminicola) is a serious nematode problem of upland rice cultivation, but in recent days, nematode has intensified its infestations in almost all kinds of rice cultivation including hill ecosystem (Pankaj et al. 2010). The response of rice crop under ambient and enhanced CO2 (700 ppm) conditions concerning to M. graminicola infection was studied and observed that under elevated CO2 level in clay soil, maximum nematode damage has seen than light soils. (Prasad and Somasekhar, 2009). New water-saving methods of rice cultivation in India viz., the system of rice intensification (SRI) and aerobic rice have also been found to be under heavy nematode attack as a result of changing weather conditions.
+
+Under CO2 enriched situation, the plant accelerates its metabolic and physiological activities and encourages for plentiful and profuse root production. These roots are low in nitrogen content and soluble sugars. To sustain the same growth rate, nematodes consume more on these roots and incur maximum damage to crops under elevated CO2 levels (Somashekhar and Prasad, 2010). While, Ayres and associates (2008) reported the neutral response of PPNs to CO2 enrichment despite having increased root production.
+
+Nematodes may use survival adaptations to face extreme events of heat and desiccation. The existing nematode species are likely to gradually adapt over generations to climate change and thus persists. The emergence of desiccation and heat tolerant races and increased susceptibility of agricultural crops to PPNs will be new challenges in the context of climate change (Gaur, 2011). The overall impact of climate change on agriculture is the reduced water availability, increased frequency of drought and flood conditions over a period, inequality of rainfall and imbalances in temperature which in cumulative instigate the PPNs population in soil and further worsen the nematode problems in crop production.
+
+c. Impact of climate change on the geographical distribution of nematodes:  
+
+Temperature and edaphic factors play a major role in limiting the spatial distribution of nematodes in a given area. The emergence of new nematode problems in crop or introduction to a new area is a cause of worry under changing climatic scenarios. Nematodes do not have a capacity for active dispersal to the long distances, but a change in the nematode population could be forecasted in geographical distribution due to prolonged effect of climate change (Wilschut et al. 2019). As a result of global warming, a generalised shift in trend is observed in insect pest and disease incidence from geographical south to north and from the low altitude to high altitude (Moore and Allard, 2008).
+
+The spread of soybean cyst nematode has interconnection with the rising level of temperatures and concentration of CO2 in the USA. Before 1970, the distribution of this nematode was restricted to the basin area of Mississippi river and southern region of Missouri, but now the nematode has spread to the main soybean production region all over the USA (Rosenzweig et al. 2001). In Brazil, the distribution of M. incognita in coffee plantations was studied for variability in the temperature. Ghini and associates (2008) demonstrated the general simulation models of this nematode and predicted that the rising temperature due to global warming will increase the number of generations of M. incognita per month and predicted that the nematode will spread to an entire coffee plantation in the country in future  
+
+The prolonged effect of global warming has also altered the distribution of virus-transmitting nematodes (Xiphinema, Longidorus, and Trichodorus) in Great Britain. An average increase in 1℃ in mean soil temperature to flower crops resulted into northward migration of these nematodes by about 160-200 km with special attention to X. diversicaudatum [vector of Arabis mosaic virus (AMV) and Strawberry latent ringspot virus (SLRV)], L. macrosoma and L. attenuates distribution in north region of Scotland. The colonization of new areas by virus-vector nematodes has a serious implication to many high valued crops (Neilson and Boag 1996). The population density of the nematode virus-vector L. elongatus in the grass-dominated pasture was increased by enriched CO2 conditions (Yeates et al., 2003; Yeates and Newton, 2009). Nevertheless, the population density of the soil-dwelling root-feeders, especially members belonging to the Longidoridae family do not benefit much from the enhanced root biomass that occurs with enriched CO2 level. It would be due to the activation of plant defence systems against the root-feeding nematodes or the least availability of soil nitrogen under enhanced CO2 conditions (Cesarz et al. 2015). At Present, there is no adequate information available on the impact of enhanced CO2 conditions on fungal virus-vectors.   
+
+d. Impact of climate change on nematode management strategies:
+
+Integrated nematode management (INM) utilises the combination of various nematode suppression methods viz., cultural practices, physical factors, botanicals, biological and chemical methods etc. However, with the changing global environment around us, we cannot continue to rest on the present nematode management practices. We must remember that the role of climate change while developing the nematode management strategies which suit new situations.
+
+The organophosphates and carbamates require the moderate temperature and moisture to entice toxicity against PPNs, but fluctuations in temperature and erratic allocation of precipitation due to global warming would have a vivid effect on persistence and reachability of nematicides in the soil (Delcour et al. 2014). The demand for nematicides would be enormously more by growers as soon as nematode problems in crop cultivation would be magnified due to climate change (Gatto et al. 2016).
+
+The crop management practices viz., green manuring, crop rotation, intercropping, mulching, and organic amendments have assumed a significant role under changing climate picture, as they are not only the green approaches for nematode management, but also mitigate the impact of global warming by endorsing the carbon sequestration in an agro-ecosystem. (Lal, 2004). The changes in the duration of winter and summer months will alter the population dynamics of nematodes, thus requiring readjustment of crop management practices and also cropping schedules to escape crop damage due to nematodes.
+
+Most dominating imprints of global warming has seen on the biocontrol agents as they are also dwelling in the same habitat where nematodes reside. The colonization of Clonostachys rosea, a bioagent on Botrytis spp. and an entomopathogen, Metarhizium anisopliae was strongly found to be concomitant with cover crops under enriched CO2 levels (Rezácová et al. 2005). In vitro studies on entomopathogenic nematodes (EPNs) showed that the recovery of infective juveniles of Heterorhabditid spp. and from dauer stages have enhanced with a rise in the concentration of CO2 (Jessen et al. 2000). However, higher CO2 concentration was observed to have no adverse effect on penetration, pathogenicity, and recovery of EPNs (Somasekhar and Prasad, 2012). Consequently, the microbial-based biopesticides (EPNs, bacterial and fungal) and botanicals have found to be highly vulnerable to environmental stresses like high temperatures, UV radiation and low humidity which may reduce their efficacy, particularly when applied at field conditions.
+
+Global warming has also a remarkable effect on host-induced resistance against PPNs. Mi-1gene confers resistance to the M. arenaria, M. incognita and M. javanica in most of the solanaceous crops worldwide, but Mi-induced nematode resistance has noticed to be inactive when soil temperatures reach beyond 28℃ or diurnal fluctuation in soil temperatures. Therefore, the scope of Mi-induced host resistance in many crops has limited in the tropical and subtropical regions (Jablonska et al. 2007).
+
+The host response to nematode attack has affected by the elevated levels of CO2 by interfering with host defence strategies particularly salicylic acid (SAR) and jasmonic acid -induced (JA) pathways. The rise in the level of CO2 has favoured SAR defence in tomato against M. incognita infection while depressed JA-induced pathway. In terms of defence genes, pathogenesis-related proteins (PR), secondary metabolites and volatile organic compounds have significantly modified their expression under CO2 enriched situation and showed genotypic specific response to nematodes (Sun et al. 2011).
+
+With the due importance of nematodes in changing climatic situation, Nematological Society of India (NSI) has organised a national symposium at Thiruvananthapuram, Kerala (2011) under title of ‘Nematodes: a Challenge under Changing Climate and Agricultural Practices’ where plant protection scientists were sensitized and discussed a general rise in temperatures has increased nematode problems of crops especially grown under poly-house or protected conditions. The increased nematode infestation and crop damage commonly observed in the poly houses has forecasted the situation that may arise in open fields in the near future due to climate change. Further, the incidence of M. incognita has increased spatially and quantitatively in the last 4 – 5 years and the RKN population densities in the rhizosphere of many vegetable crops have gone up beyond 500 nematodes per 100 cc of soil. Not only the RKN, but other PPNs viz., Heterodera spp., Globodera spp., Rotylenchulus reniformis, and Pratylenchus spp. have also been occurring regularly and in high population densities than before.
+
+ 
+
+Conclusion
+
+Looking across these findings, we could conclude that the climate change may affect soil nematode composition, nematode population dynamics, plant-nematode interactions, host induced resistance, efficacy of natural enemies of PPNs and crop susceptibility to nematodes etc. An elevated temperature and carbon dioxide (CO2) may influence different nematode groups directly by interfering with their developmental rate and survival strategies and indirectly by affecting their host physiology. The responses of phyto-nematodes to CO2 enrichment are seen to be either neutral or positive, but not as negative. Potential changes in the spread and geographical distribution of PPNs using predicted climate change scenarios warns future spread to new areas. Overall, it gives a fairly good idea about future consequences of nematode disease and climate change has radically prejudiced its implication on sustainable agriculture where the role of nematodes cannot be unnoticed.
+
+References
+
+
+Ayres, E., Wall, D. H., Simmons, B. L., Field, C. B., Milchunas, D. G., Morgan, J. A. and Roy, J. (2008). Below-ground nematode herbivores are resistance to elevated atmospheric CO2 concentrations in grassland ecosystems. Soil Biology and Biochemistry, 40: 978-985.
+Bonger, T. and Ferris, H. (1999). Nematode community structure as a bioindicator in environmental monitoring. Trends in Ecology and Evolution. 14(6): 224-228.
+Cesarz, S., Reich, P.B., Scheu, S., Ruess, L., Schaefer, M., and Eisenhauer, N. (2015). Nematode functional guilds, not trophic groups, reflect shifts in soil food webs and processes in response to interacting global change factors. Pedologia, 58: 23–32.
+Colagiero, M. and Ciancio, A. (2011). Climate changes and nematodes: Expected effects and perspectives for plant protection. Journal of Zoology, 94:113-118.
+Delcour, I., Spanoghe, P. and Uyttendaele, M. (2014). Impact of climate change on pesticide use. Food Research International, 68: 10.1016/j.foodres.2014.09.030.
+Ferris, H., Griffiths, B. S., Porazinska, D. L., Powers, T. O., Wang, K. H., and Tenuta, M. (2012). Reflections on plant and soil nematode ecology: past, present and future. Journal of Nematology, 44(2): 115–126.
+Gatto, M. P., Cabella, R. and Gherardi, M. (2016). Climate change: the potential impact on occupational exposure to pesticides. Ann Ist Super Sanità, 52(3):374-385. doi: 10.4415/ANN_16_03_09.
+Gaur H. S. (2011). The implications of global climate change on plant-parasitic nematodes and nematology. Proceedings of National Symposium on Nematodes: a Challenge under Changing Climate and Agricultural Practices, Nov. 16-18, 2011, Thiruvananthpuram, Kerala, India.
+Ghini, R., Hamada, E., Pedro Junior, M. J., Marengo, J. A. and Goncalves, R. R. V. (2008). Risk analysis of climate change on coffee nematodes and leaf miner in Brazil. Pesquisa Agropecuaria Brasileira, 43: 187-194.
+Hoogen, J., Geisan, S., Routh, D. et al. (2019). Soil nematode abundance and functional group composition at a global scale. Nature, 572:194-198.
+Hungate, B. A., Jaeger, C. H., Gamara, G., Chapin, F. S., Field, C. B., (2000). Soil microbiota in two annual grasslands: responses to elevated atmospheric CO2. Oecologia, 124: 589–598.
+IPCC (2019). IPCC Special Assessment Report. Climate change 2019: Special Report on the Ocean and Cryosphere in a Changing Climate. Intergovernmental Panel on Climate Change. (IPCC), Geneva, Switzerland.
+Jablonska, B., Ammiraju, J., Bhattarai, K., Mantelin, S., Ilarduya, O., Robert, P., Kaloshian, I. (2007). The Mi-9 gene from Solanum arcanum conferring heat-stable resistance to root-knot nematodes is homolog of Mi-1. Plant Physiology, 143: 1044-1054.
+Jessen, P., Strauch, O., Wyss, U., Luttmann, R. and Ehlers, R. (2000). Carbon dioxide triggers recovery from dauer juvenile stage in entomopathogenic nematodes (Heterorhabditis spp.). Nematology, 2: 319-324. 10.1163/156854100509196.
+Kelly M. 2013. How will climate change affect parasites and their animals’ hosts? Research News Features, University of Princeton, USA.
+Lal, R. (2004). Soil carbon sequestration impacts on global climate change and food security. Science, (New York, N.Y.). 304: 1623-7. 10.1126/science.1097396.
+Li, Q., Chonggang, X., Wenju, L., Shuang, Z., Xunhua, Z. and Jianguo, Z. (2009). Residue incorporation and N fertilization affect the response of soil nematodes to the elevated CO2 in a Chinese wheat field. Soil Biology and Biochemistry, 41:1497-1503. 10.1016/j.soilbio.2009.04.006.
+Li, Q., Wenju, L., Yi, S., Jianguo, Z. and Deborah, N. (2007). Effect of elevated CO2 and N fertilisation on soil nematode abundance and diversity in a wheat field. Applied Soil Ecology, 36: 63-69. 10.1016/j.apsoil.2006.11.003.
+Liu, T., Whalen, J., Shen, Q. and Li, H. (2016). Increase in soil nematode abundance due to fertilization was consistent across moisture regimes in a paddy rice–upland wheat system. European Journal of Soil Biology, 72: 21-26. Doi-10.1016/j.ejsobi.2015.12.001.
+Moore, B. and Allard, G. (2008). Climate change impacts on forest health. Forest Health and Biosecurity Working Paper. FBS/34E.  Rome, FAO.
+Neilson, R. and Boag, B. (1996). The predicted impact of possible climatic change on virus-vector nematodes in Great Britain. European Journal of Plant Pathology, 102: 193-199.
+Nicol, J. M., Turner, S. J., Coyne, D. L., Nijs, L., Hockland, S. and Maafi, Z. T. (2011) Current Nematode Threats to World Agriculture. In: Jones J., Gheysen G., Fenoll C. (eds). Genomics and Molecular Genetics of Plant-Nematode Interactions. Cham (ZG), Switzerland: Springer Science. Springer International Publishing AG; 22-23. Doi: 10.1007/978-94-007-0434-3_2.
+Okulewicz, A. (2017). The impact of global climate change on the spread of parasitic nematodes. Annals of Parasitology, 63(1): 15–20.
+Pankaj, Sharma, K. K. and Prasad, J. S. (2010). The rice root-knot nematode, Meloidogyne graminicola: An emerging nematode pest of rice-wheat cropping system. Indian Journal of Nematology, 40: 1-11.
+Prasad, J.S. and Somasekhar, N. (2009). Nematode pest of Rice: Diagnosis and Management. Technical Bulletin No. 38, Directorate of Rice Research (ICAR), Rajendranagar, Hyderabad-5000030, A.P. India. pp.29.
+Rebetez, M. and Dobbertin, M. (2004). Climate change may already threaten Scots pine stands in the Swiss Alps. Theoretical Applied Climatology, 79: 1-9.
+Rezácová, V., Blum, H., Hrselová, H., Gamper, H. and Gryndler, M. (2005). Saprobic micro fungi under Lolium perenne and Trifolium repens at different fertilization intensities and elevated atmospheric CO2 concentration. Global Change Biology, 11: 224-230.
+Rosenzweig, C., Iglesius, A., Yang, X. B., Epstein, P. R. and Chivian, E. (2001). Climate change and extreme weather events Implications for food production, plant diseases, and pests. NASA Publications, 24: .
+Somasekhar, N. and Prasad, J. (2012). Plant-nematode interactions: consequences of climate change. Doi-10.1007/978-94-007-2220-0_17.
+Somasekhar, N. and Prasad, J. S. (2010). Nematological considerations in addressing impact of climate change on agriculture. Proceedings of National Symposium on Innovations in Nematological Research, Feb. 22-24,  Agricultural University, Coimbatore.
+Sonnemann, I., Wolters, V., (2005). The micro food web of grassland soils responds to a moderate increase in atmospheric CO2. Global Change Biology, 11: 1148–1155.
+Sticht, C., Schrader, S., Giesemann, A. and Wiegel, H. J. (2009). Sensitivity of nematode feeding types in arable soil to free-air CO2 enrichment (FACE) is crop specific. Pedobiologia, 52: 337-349.
+Sun, Y., Yin, J., Cao, H., Li, C. and Ge, F. (2011). Elevated CO2 influences nematode-induced defense responses of tomato genotypes differing in the JA pathway. PLoS One, 6:e19751.
+Thakur, M. P., Reich, P. B., Fisichelli, N. A., Stefanski, A., Cesarz, S., Rich, R. L., Dobies, T., Hobbie, S. E. and Eisenhauer, N. (2014). Nematode community shifts in response to experimental warming and canopy conditions are associated with plant community changes in the temperate‑boreal forest ecotone. Oecologia. 175: 713-723.
+Trudgill, D. L., Honek, A., Li, D. and van Straalen, N. M. (2005). Thermal time - concepts and utility. Annals of Applied Biology, 146: 1-14. .
+Tyler J. (1933). Development of the root-knot nematode as affected by temperature. Hilgardia, 7(10):389-415. doi:10.3733/hilg.v07n10p389.
+Wilschut, R. A., Geisen, S., Martens, H., Kostenko, O., de Hollander, M., ten Hooven, F. C., van der Putten, W. H. et al. (2019). Latitudinal variation in soil nematode communities under climate warming-related range-expanding and native plants. Global Change Biology, 25(8): 2714-2726. https://doi.org/10.1111/gcb.14657.
+Yeates, G., Newton, P. C. D. and Ross, D. J. (2003). Significant changes in soil macrofauna in grazed pasture under elevated carbon dioxide. Biology &amp; Fertility of Soils, 38: 319-326.
+Yeates, G.W., and Newton, P.C.D. (2009). Long term changes in top soil nematode populations in grazed pasture under elevated atmospheric carbon dioxide. Biology &amp; Fertility of Soils, 45: 799–808.
+Zhou, L., Dickinson, R. E., Dai, A. and Dirmeyer, P. (2010). Detection and attribution of anthropogenic forcing to diurnal temperature range changes from 1950 to 1999: comparing multi-model simulations with observations. Climate Dynamics, 35: 1289–1307, doi: 10.1007/ s00382-009-0644-2.
+
+Authors
+
+
+Yogesh E. Thorat, ICAR-IISR, Biological Control Centre, Pravaranagar, India. E-mail: yogesh.thorat@icar.gov.in
+D. N. Borase, ICAR-IISR, Biological Control Centre, Pravaranagar, India
+Somnath K. Holkar, ICAR-IISR, Biological Control Centre, Pravaranagar, India
+Satish N. Chavan, ICAR-Indian Institute of Rice Research, Hyderabad, India
+Manimaran Balakumaran, ICAR-Indian Agricultural Research Institute, New Delhi, India 
+Sirisha Tadigiri, ICAR-Central Tuber Crop Research Institute, Thiruvananthapuram, India
+Priyank H. Mhatre, ICAR-Central Potato Research Station, Ooty, India

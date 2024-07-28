@@ -1,0 +1,125 @@
+Sprinkler irrigation system
+
+Sprinkler irrigation system
+Sprinkler irrigation system allows application of water under high pressure with the help of a pump. It releases water similar to rainfall through a small diameter nozzle placed in the pipes. Water is distributed through a system of pipes, sprayed into air and irrigates in most of the soil type due to wide range of discharge capacity.
+
+Advantages
+Eliminates water conveyance channels, thereby reducing conveyance loss.
+Suitable in all types of soil except heavy clay.
+Water saving up to 30% -50 %.
+Suitable for irrigation where the plant population per unit area is very high.
+Helps to increase yield.
+Reduces soil compaction.
+Mobility of system helps system operation easy.
+Suitable for undulating land.
+Saves land as no bunds required.
+Soluble fertilizers and chemicals use are possible.
+Provides frost protection & helps in alteration of micro climate.
+Reduces labour cost.
+
+Components
+Major components of sprinkler irrigation system 
+1
+Pumping station or header assembly
+
+2
+By-pass valve
+
+3
+Fertilizer tank
+
+4
+Filtration system
+
+5
+Pressure gauges
+
+6
+Control valves
+
+7
+Hdpe / pvc pipes
+
+8
+Qrc pump connector
+
+9
+Sprinkler nozzles
+
+10
+Service saddle
+
+Sprinkler layout
+A typical sprinkler irrigation system consists of the following components:
+Pump unit
+Mainline and sometimes sub-mainlines
+Laterals
+Sprinklers
+
+Types of sprinklers based on precipitation
+Type of sprinkler
+Precipitation rate (mm per hour)
+
+Low volume sprinkler
+Less than 13
+
+Medium volume sprinkler
+13 - 25
+
+Large volume sprinkler(raingun)
+Above 25
+
+Response of different crops to sprinkler irrigation system
+
+Crops
+Water saving(%)
+Yield increase(%)
+
+Chilli
+33
+24
+
+Cotton
+36
+50
+
+Fenugreek
+29
+35
+
+Gram
+69
+57
+
+Jowar
+55
+34
+
+Maize
+41
+36
+
+Onion
+33
+23
+
+Sunflower
+33
+20
+
+Wheat
+35
+24
+
+Wetting patterns in sprinklers
+The wetting pattern from a single rotary sprinkler is not very uniform. Normally the area wetted is circular (see topview). The heaviest wetting is close to the sprinkler (see sideview). For good uniformity several sprinklers must be operated close together so that their patterns overlap. For good uniformity the overlap should be at least 65% of the wetted diameter. This determines the maximum spacing between sprinklers.
+
+The uniformity of sprinkler applications can be affected by wind and water pressure. Spray from sprinklers is easily blown about by even a gentle breeze and this can seriously reduce uniformity. To reduce the effects of wind the sprinklers can be positioned more closely together.
+
+Sprinklers will only work well at the right operating pressure recommended by the manufacturer. If the pressure is above or below this then the distribution will be affected. The most common problem is when the pressure is too low. This happens when pumps and pipes wear. Friction increases and so pressure at the sprinkler reduces. The result is that the water jet does not break up and all the water tends to fall in one area towards the outside of the wetted circle. If the pressure is too high then the distribution will also be poor. A fine spray develops which falls close to the sprinkler.
+
+Application rate: this is the average rate at which water is sprayed onto the crops and is measured in mm/hour. The application rate depends on the size of sprinkler nozzles, the operating pressure and the distance between sprinklers. When selecting a sprinkler system it is important to make sure that the average application rate is less than the basic infiltration rate of the soil (see annex 2). In this way all the water applied will be readily absorbed by the soil and there should be no runoff.
+
+Sprinkler drop sizes: as water sprays from a sprinkler it breaks up into small drops between 0.5 and 4.0 mm in size. The small drops fall close to the sprinkler whereas the larger ones fall close to the edge of the wetted circle. Large drops can damage delicate crops and soils and so in such conditions it is best to use the smaller sprinklers.
+
+Drop size is also controlled by pressure and nozzle size. When the pressure is low, drops tend to be much larger as the water jet does not break up easily. So to avoid crop and soil damage use small diameter nozzles operating at or above the normal recommended operating pressure.

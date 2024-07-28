@@ -1,0 +1,23 @@
+Fusarium Head Blight
+
+Symptoms
+The severity of symptoms depend on the type of crop (notable hosts are wheat, oat and barley), the time of infection and the environmental conditions. The disease is characterized by two types of symptoms: seedling blight and head blight. In the former, light-brown, water-soaked lesions appear at the base of the stem and the seedling turn necrotic during emergence. This is particularly striking when infected seeds are sown in cool, moist soil. During later stages of plant development, crown and basal stem rot are commonly observed. Water-soaked spikelets and a bleached straw color are two distinctive signs of head blight. During warm, humid weather, the they take a pink to light-brown cast, due to the abundant fungal growth. The kernels have a shriveled and rough appearance. Usually, the infection spread from spikelet to spikelet until the entire spike is affected. In some crops, yield losses have been evaluated to up to 70%.
+
+Product Recommendations
+Organic Control
+Several biocontrol agents have been tested successfully to reduce the effects of the infection by Fusarium graminearum. In wheat, different products containing the bacteria Pseudomonas fluorescens, Bacillus megatherium and Bacillus subtilis have been applied during flowering time to reduce the incidence of the disease, its severity and yield losses. Most of these trial were done in filed-controlled condition. Competitive fungi Trichoderma harzianum and Clonostachys rosea have also been used with some success. A dry heat treatment of 70 °C for 5 days was found to be an effective method to rid the seeds from this fungus, as well as others, from wheat and barley seeds.
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments, if available. Timing of fungicide applications is crucial for the control of Fusarium head blight. Foliar sprays during flowering time with fungicides of the triazole family (metconazole, tebuconazole, prothioconazole and thiabendazole) leads to a significant reduction of the incidence of the disease and the content of mycotoxin in the grain. Note that there are harvest restriction periods for these products.
+
+What caused it?
+The symptoms of head blight of cereals are caused by the fungus Fusarium graminearum, which survives in-between seasons in alternative hosts or in a latent state on crop debris and organic matter on the soil. Under favorable conditions, it starts to produce spores that may be transported by air currents over long distances. It is also thought that its spread could be facilitated by some species of midges. The susceptibility of cereals to this fungus is at its highest around the flowering period. Once it germinates on the plant tissue, it is able to penetrate the cuticle directly through natural pores. As it grows in the vascular tissues, it hinders the supply of water and nutrients in the spikes, resulting in the typically bleached spikelets and the shriveled kernels. Moreover, the production of toxins reduces the marketability of the grain. A range of environmental factors such as light intensity, temperatures, humidity, precipitations and leaf wetness can influence its life cycle. Temperatures between 20-32°C and prolonged leaf wetness are highly favorable.
+
+Preventive Measures 
+Use resistant varieties, if available.
+Choose locations that are exposed to the sun and with good aeration.
+Increase crop spacing at sowing to allow for a good ventilation of the crop.
+Plan a crop rotation with non-host species.
+Avoid excessive fertilization with nitrogen.
+Check the necessity of tillage as this can favor the life cycle of the fungus.
+Clear the field and surrounding from weeds and alternative hosts.
+Remove plant residues after harvest and bury them.

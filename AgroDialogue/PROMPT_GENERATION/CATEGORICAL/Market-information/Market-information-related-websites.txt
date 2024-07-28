@@ -1,0 +1,50 @@
+Market information related websites
+
+National agriculture market (e-nam)
+
+National agriculture market (e-nam) is a pan-india electronic trading portal which networks the existing agricultural produce marketing committee (apmc) mandis to create a unified national market for agricultural commodities. The nam portal provides a single window service for all apmc related information and services. This includes commodity arrivals & prices, buy & sell trade offers, provision to respond to trade offers, among other services. While material flow (agriculture produce) continue to happen through mandis, an online market reduces transaction costs and information asymmetry.
+
+Components of nam
+
+A national e-market platform for transparent sale transactions and price discovery initially in regulated markets. Willing states to accordingly enact suitable provisions in their apmc act for promotion of e-trading by their state agricultural marketing board/apmc.
+
+Liberal licensing of traders / buyers and commission agents by state authorities without any pre-condition of physical presence or possession of shop /premises in the market yard.
+
+One license for a trader valid across all markets in the state.
+
+Harmonisation of quality standards of agricultural produce and provision for assaying (quality testing) infrastructure in every market to enable informed bidding by buyers. Common tradable parameters have so far been developed for 90 commodities.
+
+Single point levy of market fees, i.e on the first wholesale purchase from the farmer.
+
+Provision of soil testing laboratories in/ or near the selected mandi to facilitate visiting farmers to access this facility in the mandi itself.
+
+A toll free no. (1800-2700-224) and email support (enam.helpdesk@gmail.com) is available to enable stakeholders to raise their query.
+
+Benefits of nam
+
+Nam provides a number of benefits to various stakeholders of the system.
+
+For farmers, nam promises more options for selling their produce and competitive returns.
+
+For local traders, nam will provide access to larger national market for secondary trading.
+
+For bulk buyers, processors, exporters, nam will enable direct participation in the local mandi trade, reducing intermediation cost. Stable prices and availability to consumer.
+
+E-nam provides for contactless remote bidding and mobile-based any time payment for which traders do not need to either visit mandis or banks for the same
+
+For mandis, nam benefits in terms of reduction in book keeping and reporting system, which are generated automatically; better monitoring and regulation of traders and commission agents; completely transparent system which eliminates any scope of intentional/un-intentional manipulation of tendering / auctioning process; improvement in the market fee collection by means of accounting all the transactions that are taking place in the market; reduction in manpower requirements as tendering / auctioning process takes place through the system; (this system helps to declare the winner for the lots within few seconds even for thousands of lots in the market); analysis and forecasting of the arrivals and prices; availability of the activities of each apmc on the website directly.
+
+Implementation process
+
+Nam is being deployed in 1000 regulated wholesale markets covering 18 states, 3 uts. Small farmers’ agribusiness consortium (sfac) is operating the nam as the implementing agency with technical support from the strategic partner (sp). Department of agriculture, cooperation & farmers’ welfare (dac&fw) is meeting expenses on software and its customisation for the states and is providing it free of cost. Dac&fw is also giving a grant as one time fixed cost subject to the ceiling of rs. 75.00 lakhs per mandi for purchase of hardware, internet connection, assaying equipment and related infrastructure including cleaning, grading and packaging facilities and bio-compost unit, to make the mandi ready for integration with e-nam platform..
+
+Visit enam portal for details. E-nam website is available in 12 different languages (hindi, english, gujarati, marathi, tamil, telugu, bengali, odia, kannada, punjabi, malayalam, dogri,) while the live trading facility is available in six different language (hindi, english, bengali, gujarati, marathi & telugu).
+
+Agmarknet
+
+To make farming communities benefit from the new global market access opportunities, the internal agricultural marketing system of the country is being integrated and strengthened. Various studies reveal that farmers, on an average, get a reasonably higher price by selling their produce in the regulated markets (agricultural produce market committees - apmcs) compared to rural, village and unregulated wholesale markets.
+
+The directorate of marketing and inspection (dmi) is successfully running an ict project: nicnet based agricultural marketing information system network (agmarknet) in the country, for linking all important apmcs (agricultural produce market committees), state agricultural marketing boards/ directorates and dmi regional offices located throughout the country, for effective information exchange on market prices. National informatics centre (nic) is the ict agency behind the implementation of the project.
+
+Visit agmarknet portal for details
+

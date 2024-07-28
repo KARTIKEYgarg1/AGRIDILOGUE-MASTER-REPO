@@ -1,0 +1,55 @@
+ lablab pests
+
+Insect and mite pests
+
+ bean aphids: aphis craccivora koch (hemiptera: aphididae)
+ jassids: empoasca fabae harris (hemiptera: cicadellidae)
+Whitefly: bemisia tabaci gennadius (hemiptera: aleyrodidae)
+ red spider mite: tetrancychus cinnabarinus dufour (trombidiformes: tetranychidae)
+ hairy caterpillar: spilosoma obliqua walker (lepidoptera: arctiidae)
+ stem fly: ophiomyia phaseolina tryon (diptera: agromyzidae)
+ pod borers: helicoverpa armigera hübner (lepidoptera: noctuidae), maruca vitrata geyer (lepidoptera: pyralidae)
+ pod bugs: riptortus pedestris fabricius, clavigralla gibbosa spinola (hemiptera: coreidae) and nezara viridula linnaeus (hemiptera: pentatomidae)
+
+Diseases
+
+ anthracnose : colletotrichum lindemuthianum (sacc. And magnus) briosi and cavara
+ ashy stem blight: macrophomina phaseolina (tassi) goid
+ powdery mildew: erysiphe polygoni dc
+ rust: uromyces fabae (pers.) j. Schröt.)
+ mosaic virus 
+ bacterial leaf spot: xanthomonas campestris pv. Phaseoli (pammel) dowson 
+
+Weeds
+
+ grasses 
+
+ crow foot grass: dactyloctenium aegyptium l. Willd (poaceae)
+ burmuda grass: cynodon dactylon (l) pers (poaceae) 
+ barnyard grass: echinochloa crusgalli l. Beauv.(poaceae) 
+ hairy crabgrass: digitaria sanguinalis (l.) scop. (poaceae)
+
+ broad leaf 
+
+ false daisy: l. Hassk. (asteraceae) 
+ asthma herb: euphorbia hirta l. (euphorbiaceae) 
+ carrot grass: parthenium hysterophorus l. (asteraceae)
+ slender amaranth/green amaranth: amaranthus viridis l (amaranthaceae) 
+ lamb's quarters: chenopodium album l (amaranthaceae) 
+ sweet clover: meliolotus indica l (fabaceae)
+ scarlet/red pimpernel : anagallis arvensis l (primulaceae)
+
+ sedges 
+
+ purple nut sedge: cyperus rotundus l (cyperaceae)
+
+Nematode
+
+ root knot nematode: meloidogyne incognita göldi (tylenchida: meloidogynidae)
+
+Ipm for lablab
+
+To know the ipm practices for lablab , 
+
+Source : , 
+

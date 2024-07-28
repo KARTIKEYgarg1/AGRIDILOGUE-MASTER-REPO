@@ -1,0 +1,40 @@
+Real-time weather forecast
+
+Real time availability of weather information by imd
+ 
+
+Under the network of observatories related to agrometeorology, at present there are 263 agromet observatories, 42 evapotranspiration stations, 43 soil moisture stations and 76 dew gauge stations in the country. in collaboration with these observatories, the agrometeorology division of indian meteorological department (imd) is exploring to develop a suitable national network of agromet observatories for effective use of real time agromet data in agromet advisory services (aas). Under this national network all the observatories will get access of agromet data of their own station in addition to other stations online. This data will be of much use for preparation of district as well as block level agromet advisories.
+
+To access the realtime data, .
+Real time weather forecasting by c-dac
+Real time weather forecasting is very important for weather scientists, operational meteorologists, and aviation/ transport industry as well as policy makers. The computational earth science (ces) group of centre for development of advanced computing (c-dac) has developed an automated workflow for real time weather simulations: “anuman” using weather research and forecast (wrf) model of national centre of atmospheric research (ncar), usa. This tool provides high-resolution weather simulations and number of different weather forecast products useful as a decision support for various user communities.
+Salient features of anuman
+
+ end-to-end forecasting system 
+ timely generation of important weather forecast products for many applications "on-demand" 
+ local-area, short-term, model based weather forecasting customized by location, application and dissemination
+Current forecasts available for several different states/village areas
+Capability of creating forecast products up to 4 km resolution
+The location specific real time weather forecasts are useful for the decision making in terms of weather conditions over a particular area.
+The wrf outputs would be useful as an input for hydrology models
+
+Weather forecast
+To access the hourly weather information for 72 hours lead time, click on the following image.
+
+Anuman now on mobile
+Anuman now offers the latest weather updates on mobile. It provides hour to hour weather forecast over 50000 locations all over india using high resolution weather model output, generated using c-dac’s national param supercomputer.
+Features:
+
+High resolution weather forecast model simulations on ~1024 cores of param yuva-ii. 
+Daily forecast for next 3 days on single click. 
+Provides accurate hourly forecast including: maximum temperature, minimum temperature, relative humidity, sea level pressure, probability of rainfall, cloud condition, wind speed and direction for a specific location. 
+Supports geo-positioning, retrieving the latest weather conditions for current location. 
+Multiple locations management to facilitate user while travelling across the india.
+Attractive and illustrative graphics indicating different time and weather conditions. 
+Useful for farmers, fishermen, travel agencies, news agencies, businessmen, environment agencies, industries (e.g., agriculture, wind energy, environment), academicians, researchers, and common man for day to day activities.
+Simple and easy to use. 
+Available free of cost. 
+The mobile based forecasts can be customized to user locations and different parameters. 
+
+To download the widget, .
+Source: ces group, c-dac

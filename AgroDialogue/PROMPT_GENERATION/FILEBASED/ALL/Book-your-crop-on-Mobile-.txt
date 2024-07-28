@@ -1,0 +1,36 @@
+Book your crop on mobile 
+
+The challenge
+
+Imagine a farmer receiving all the information about impending rainfall, soil quality, irrigation schemes, seed prices, and other relevant details just before sowing the seed before the kharif and rabi seasons. Currently, it would take months and several trips to different government offices to acquire such details.
+
+The solution
+
+The government of has now enabled the farmer to know all such relevant details right on the mobile screen.
+
+Objectives
+
+To digitise and popularise sharing of agricultural information with the farmers.
+To maintain accuracy through photographs with geo-tagging.
+To create a robust mis system through data analytics and powerful business intelligence for various analysis reports.
+To eradicate corruption.
+To create biometric authentication for genuine users.
+
+Implementation
+
+Electronic crop booking (e- crop booking) is an android application launched with a local name called e-panta, which is designed to know the ground reality of the crop details and to analyse the crop pattern across the state and to capture the standing crop in the state. Photographs as evidence in the case of crop damage and insurance are also available as the arable land in the state has been captured in latitude and longitude along with subdivision and occupancy.
+
+All field officers are trained to capture the crop details in the existing agricultural fields using tabs and to upload the crop details to the server for every crop season. The features include an online transfer of crop details to webland (land record management website), evidence in the case of crop damage for insurance, evidence for crop loans by banks, crop pattern and water tax demand analysis, and gps location of each land parcel across the state. The mobile app covers land use and the entire pattadar’s history of land cover.
+
+Government of andhra pradesh has conducted several meetings with departments and other stakeholders to enhance effective benefits to the farmers regarding crop loans, crop insurance and subsidies, etc. It was noticed that manual processes led to a lot of malpractices and manipulations. So to remove the bottlenecks in the manual system, government has initiated a pilot called kuppam project in four mandals of kuppam constituency in the chittoor district. An android app in local language was developed to capture crop particulars. Training was delivered regarding the usage of the tabs and application. Tabs along with sims were provided to all the field officers. Village officers geo-tagged the land parcels, recorded real time adangal (pahani) data along with standing photograph of the crop.
+
+For the agricultural year 2015-16, around 5.2 cr. Crop particulars of both kharif and rabi seasons were uploaded to the server along with crop images and geo-tagging. Using e-crop android app, village revenue officers have recorded crop particulars of 98.19 lakh farmers which is nearly 1/5th of the total population of the state. The data captured is shared with other departments for different benefit schemes.
+
+Outcome
+
+Many beneficiary schemes were effectively implemented all over the state like procurement of paddy and cotton, seed distribution, fertiliser distribution, disbursement of loans, etc. By utilising the data of e-crop booking, individual projects like drought analysis, crop failure analysis, crop damage analysis, etc., are being initiated in some districts to avail various benefits to the drought affected farmers. The agrarian sector in andhra pradesh is truly reaping the benefits of digitisation.
+
+For more information, visit 
+
+Source : 
+

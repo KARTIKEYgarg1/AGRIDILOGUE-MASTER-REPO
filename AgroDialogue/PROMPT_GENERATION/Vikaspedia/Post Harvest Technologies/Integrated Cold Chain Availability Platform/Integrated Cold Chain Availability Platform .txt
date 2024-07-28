@@ -1,0 +1,40 @@
+Integrated Cold Chain Availability Platform 
+
+
+Integrated Cold Chain Availability Platform is envisaged to be a national  database  that enables  active  linkage  between  multiple  cold-chain  assets  across  owners,  promoting integration   of   use   though   collaboration. It is a joint effort of various institutions like National Horticulture Board, Agricultural and Processed Food Products Export Development Authority, Ministry of Food Processing Industries and National Centre for Cold-chain Development.
+
+Need for ICAP platform
+
+India is the world's second largest producer of fruits and vegetables. Inspite of it, the per  capita  market  availability of fruits and vegetables in our country is  quite  low  due  to  lack  of  appropriate  facilities  of  transportation  and  storage.  It  is  also  frequently  estimated  that  about  25%  to  30%  of  produce,  especially  fruits  and  vegetables  are  wasted.  Once  originating  into  the  cold-chain,  the  quality  of  a  sizable  quantity of produce also deteriorates en-route till the time it reaches the consumer.
+
+The   integration   of   Farm-gate   modern   pack-houses,   cold   storages   and   reefer  transportation,  to  be  used  in  combination,  is  therefore  essential  for  extending  the  usable life of the produce. The use of the extended life span is to make them available  to  a  larger  consumer  base  over  a  longer  period  of  time.
+
+Currently, India has created about 7129 cold storages of approximate size of over 32  million MT and about 10,000 actively refrigerated vehicles, the majority of which are  operated  by  small  cold  storage  and  /  or  transport  service  providers.  Thus,  it  is  an  extremely  fragmented  industry  where  critical  data  about  technology  used,  capacity,  installed or available, are either not available or of poor quality. Due to lack of shared  information  there  is  little  scope  of  consolidation  of  the  services  offered  and  for  integrating the activities into an effective cold-chain.
+
+The Integrated Cold Chain Availability Platform will hence facilitate access   to   impartial information on integrated cold chain capacities and movement of goods.
+
+Intended users
+
+The intended users include cold-chain  asset  owners, Farm    producers,    processors,    retailers, government agencies.
+
+Expected benefits
+
+
+Direct access to nationwide cold storage capacity created. 
+Information to users and regulators on operational availability.
+Will promote linking and integrating activities of cold-chain assets. 
+Will allow Farmer producer organizations to plan perishable movement across  country.
+Will provide information to agriculture ministry on trade impact in cold-chain  sector. 
+Will  empower  government  to  plan  viable  public  procurement  mechanisms  basis available cold-chain infrastructure. 
+Will bring traceability to food supply chain in perishables sector.
+Will serve as space selling platform for asset owners. 
+Will  promote  buy-sell  transactions  of  perishable  goods  that  are  in  transit  in  the chain. 
+Will allow alignment of cold storages with marketing act by getting considered  as  transaction  platforms,  without  the  physical  diversion  of  produce  to  non- cold-chain yards. 
+Will add transparency to cold-chain  development, to regional availability and  about trade lanes for perishables.
+Will provide updated information on energy consumptions and its monitoring  in cold-chain. 
+Will  allow  for  improved  demand-supply  gap  analysis  and  guide  future  cold- chain development
+
+Present features available in ICAP
+
+
+

@@ -1,0 +1,37 @@
+Online services for Vessel registration and fishing license
+
+RealCRaft is a  web enabled Registration and License issuing system to Indian Fishing Vessels of the Department of Fisheries, Government of India. 
+
+Objectives
+
+The main objective to develop a modern , comprehensive and transparent vessel data management system in the country with the aim to enhance security features and to bring efficiency, transparency, accountability and reliability in services.
+
+
+To bring all the Indian fishing vessels (about 2.5 lakh ) under one hub 
+To prepare National database for fishing vessels.
+To regulate the movements of  fishing vessels
+To strengthen coastal security and security of fishermen in the sea. 
+To Prevent IUU - Illegal, unregistered and unreported vessels in the territorial waters
+To facilitate optimum utilization of the fishery  resources
+Assists  the coastal security agencies – is  as a part of comprehensive coastal monitoring, control and surveillance system)
+Back bone for other services to the fishermen like insurance claim,   subsidy claim,   fuel permit, monitoring the movements of crews etc
+
+Services Provided
+
+
+Online submission of vessel registration.
+License and renewal.
+Mobile application for dept officials for field level verification.
+Other services affecting the dimension of the vessel.
+Other services not affecting the dimension of the vessel.
+Vehicle Registration.
+Transfer of Ownership.
+Hypothecation addition/termination.
+Alteration of Vessel dimension .
+Conversion of Vessel.
+e-payment .
+Permits and allied services on Permits.
+Catch details by integrating with SAGARA .
+Security agencies solution.
+
+

@@ -1,0 +1,162 @@
+Identification and management of fall armyworm 
+
+What is fall armyworm?
+
+Fall armyworm (faw) spodoptera frugiperda (j.e. Smith) (lepidoptera: noctuidae) is a destructive pest native to americas, recently invaded india and presently causing economic damage in maize. The incidence of this pest was first observed in shivamogga, karnataka on 18" may 2018. Faw was later reported in tamil nadu, andhra pradesh, telangana, maharashtra, madhya pradesh, odisha, bihar, west bengal, gujarat, chhatisgarh and kerala at mild to alarming levels in farmer's fields
+
+Which crops are in danger?
+
+It is primarily a pest of maize. If maize is not available it will look for sorghum. If both are not available it will attack other crops belonging to poaceae, the family of grasses, such as sugarcane, rice, wheat, ragi, fodder grasses etc. It may attack cotton and vegetables as well, which is not reported yet.
+
+How to recognize faw has arrived in your field?
+
+Adult moth is a strong flier, can fly over 100 km in search of host plants. Pheromone traps specific to faw will attract male moths. Male moth has two characteristic markings, viz., a fawn coloured spot towards the centre and a white patch at the apical margin of forewing. Forewing of female is dull with faint markings.
+
+ 
+
+What faw moths do after reaching its favourite crops?
+
+A female moth lays over 1000 eggs in single or multiple clusters, covered with hairs.
+Incubation period varies from 4.30+0.57 to 5.67+0.58 days.
+New born larvae in groups disperse from the hatching site and reach to feed on epidermal layers of lower surface of young leaves.
+Larvae undergo 6 stages called in stars in its growth of 14.33+0.58 to 17.60+0.57 days and then undergo pupation.
+Pupa is reddish brown in colour and takes 7.33+0.58 to 8.30+2.30 days to emerge into adult moth.
+Adult moth can survive 3.6740.58 to 6.30+1.52 days.
+He total life-cycle takes 30.6741.15 to 34.6042.88 days as observed from august to january under natural rearing conditions in icar-iimr winter nursery centre, hyderabad.
+
+How to ascertain the larva feeding your crop is faw?
+
+Larvae of many species of armyworm belong to the genus mythimna and spodoptera look the same for a layman and cause similar symptoms in maize.
+
+Faw larvae appear in shades of green, olive, tan and grey with four black spots in each abdominal segment and has three creamy yellow lines running down its back.
+
+It is easily identified from any other armyworm species by its tail end, where the black spots are bigger and arranged in square pattern on abdominal segment 8 and trapezoid on segment 9. The head has a predominant white, inverted y-shaped suture between eyes.
+
+What are the symptoms of faw damage in maize and what are the management measures to be taken with progression of symptoms?
+
+Symptom based treatment is very much essential in faw management because of two reasons, viz.,
+
+The stage of symptom progression indicate the stage of larval growth, and
+The stage of larval growth decides the choice of pesticide/ control measure.
+
+1. Elongated papery windows
+
+Start observing the maize crop from seedling stage. If elongated papery windows of all sizes are seen spread all over the leaves in a few adjacent plants the crop might have been infested with faw. This symptom is caused by 1“ and 2™instar faw larvae which feed by scrapping on leaf surface. Early identification of this symptom is a must for effective management of faw.
+
+What measure to be taken at this stage?
+
+It is easy to manage the larvae at this stage with botanical and microbial pesticides. The choices are
+
+5% neem seed kernel emulsion (nske) or azadirachtin 1500ppm @ 5ml/i water.
+Bacillus thuringiensis variety kurstaki formulations (dipel 8 l @ 2ml/i of water or delfin 5wg @ 2g /l water).
+Entomopathogenic fungi metarhizium anisopliae (1 x 108 cfu/g) @ 5g/l and /or nomuraea rileyi rice grain formulation (1 x 108 cfu/g) @ 3 g/l water.
+
+However, when infestation is more than 10% in the field, it is better to resort to chemical pesticides which are recommended below for the bigger larvae. Apart from pesticide sprays, put some sand/soil alone or mixed with lime/ash (9:1) into the plant whorl when the whorl is well formed to withstand its weight. This will directly harm larvae and increase the effectiveness of pesticides sprayed, especially by acting as reserve for microbial pesticides.
+
+2. Ragged-edged holes:
+
+Once the larva enter 3rd instar, its feeding cause ragged-edged round to oblong holes on leaves. The size of holes increases with growth of larvae.
+
+What measure to be taken at this stage?
+
+Damage at this stage needs application of chemical pesticides. The choices are,
+
+Emamectin benzoate 5 sg @ 0.4 g/l
+Spinosad 45 sc @ 0.3 ml/l
+Chlorantraniliprole 18.5 sc @ 0.4 ml/i
+
+3. Extensive leaf damage:
+
+Once the larva enters 5th instar, it feeds voraciously, loosing larger areas of leaves. Sixth instar larva extensively defoliates the leaves and produce large amount of faecal matter.
+
+What measure to be taken at this stage?
+
+Pesticides sprays fail to control 5th and 6th instar larvae. Only effective measure at this stage is poison baiting. Mix 10 kg rice bran and 2 kg jaggery in 2-3 litres of water and keep the mixture for 24 hours to ferment. Add 100g thiodicarb 75% wp and roll into balls of 0.5- 1 cm diameter just half an hour before application in the field. Add some sand while rolling if the balls are too sticky. The bait should be applied into the whorl of the plant in the evening. The above mixture is sufficient to cover one acre.
+
+4. Damage to tassel and corn ear
+
+In reproductive stage of the maize crop, tassel and com ears are the vulnerable parts. Tassel damage is most common, which would not lead to economic damage, but boring into corn ears directly affects the yield. Sweet corn ear is more prone to faw damage, which render the ears unmarketable.
+
+What measure is to be taken at this stage?
+
+Chemical control measures are not advisable in reproductive stage of maize crop since tassel damage may not cause economical loss and spraying on corn ears are futile as larvae hiding inside the ear would not be exposed to sprays. Moreover spraying chemicals in sweet corn and baby corn is strictly not advisable, since it is often consumed with less processing. Choosing a variety with tight husk and husk covering the tip could offer some protection against faw.
+
+What is the damage threshold to initiate control?
+
+A few plants showing faw damage need not warrant pesticide application; it would not be economical. The threshold level of infestation for initiating control measures increase with crop growth.
+
+How to determine action threshold?
+
+It is done by a leisure walking in “w” pattern in the field after leaving 3-4 outer rows. While walking in the first strait line, select 5 plants on the way before reaching the first stopping point. Like-wise select 20 plants while covering the 5 stopping points representing the corners of “w”. Count the damaged plants in the total plants sampled and derive the percent infested plants. For instance, if 2 out of 20 plants sampled are infested by faw, the infestation has reached 10%. This level warrants action if the crop is at seedling to mid whorl stage, but not if the mid-whorl stage is crossed. Scouting should be conducted every week from seedling emergence.
+
+Infestation threshold for the crop growth stages and spray schedule
+
+S.no
+Crop stage
+Action threshold
+Spray sequence
+
+1.
+Seedling to early whorl stage - (02 weeks after emergence)
+First catch of 3 months/ trap and /or 5% infested plants
+Spray any of the chemical pesticides listed if the infestation crosses 10% at this stage
+
+Emamectin benzoate 5 sg @ 0.4 g/l
+Spinosad 45 sc @ 0.3 ml/l
+Chlorantraniliprole 18.5 sc @ 0.4 ml/l
+
+2.
+Early whorl to midwhorl stage- (24 weeks after emergence)
+5-10% infested plants
+
+First spray: btk formulations viz., dipel 8l @ 2ml/l of water or delfin 5wg @ 2g/l water
+Spray any of the chemical pesticides listed for the second spray and/ or if the infestation crosses 10%
+
+Emamectin benzoate 5 sg @ 0.4 g/l
+Spinosad 45 sc @ 0.3 ml/l
+Chlorantraniliprole 18.5 sc @ 0.4 ml/l
+
+3.
+Mid-whorl to late whorl stage - (47 weeks after emergence)
+10-20% infested plants
+1. First spray: any of the chemical pesticides listed. Alternate the pesticide for second spray.
+
+Emamectin benzoate 5 sg @ 0.4 g/l
+Spinosad 45 sc @ 0.3 ml/l
+Chlorantraniliprole 18.5 sc @ 0.4 ml/l
+
+2. Apply thiodicarb 75% wp based poison bait if bigger larvae are found feeding inside the whorl
+
+4.
+Late-whorl stage (7 weeks onwards of emergence)
+&gt;_ 20 % infested plants
+1. First spray: any of the chemical pesticides listed. Alternate the pesticide for second spray.
+
+Emamectin benzoate 5 sg @ 0.4 g/l
+Spinosad 45 sc @ 0.3 ml/l
+Chlorantraniliprole 18.5 sc @ 0.4 ml/l
+
+2. Apply thiodicarb 75% wp based poison bait if bigger larvae are found feeding inside the whorl
+
+5.
+Tasseling stage to harvest
+&gt;_10% ear damage
+No insecticide application, but manually pick and destroy the larvae.
+
+What is the management strategy to be adopted if faw has established in an area?
+
+Crop management practices along with systematic plant protection in an area wide manner can manage faw population below economically damaging levels. An integrated pest management (ipm) approach is to be followed as described below.
+
+Selection of single cross maize hybrids. Choose cultivars with tight husk cover, especially for sweet com.
+Deep ploughing before every crop season to open up the soil to expose faw pupae to sunlight and predators. If zero-tillage is practiced, spread neem cake @ 500kg/ha. Maintain fields weed free and follow balanced fertilizer application.
+Plan for maximizing plant diversity by inter cropping of maize with suitable pulse crops of particular region. Eg: maize + pigeon pea/black gram /green gram. Plant napier grass in the border rows to act as faw trap crop.
+Plan the sowing time at community level to follow synchronous planting.
+Seeds treated with cyantraniliprole 19.8% + thiomethoxam 19.8% @ 4 ml per kg seed reported to offer protection up to 2-3 weeks after germination ( note that this formulation is not registered in india and also has not been evaluated in aicrp programme).
+If staggered sowing is unavoidable as in peri-urban baby corn and sweet corn cultivation, spray the crop with 5% nske or azadirachtin 1500 ppm @ 5ml/l at weekly interval or release trichogramma pretiosum or telenomus remus @ 50,000 per acre at weekly intervals, starting within a week of germination till harvest.
+Install faw pheromone traps @ 5/acre on or before germination of the crop to monitor pest arrival and population build-up. Use 15 traps/ac for mass trapping of male moths to keep population build-up under control.
+Erect bird perches @ 10/acre as soon as sowing is completed.
+Follow weekly scouting and adopt symptom based control measures on action thresholds.
+While scouting, hand pick and destroy egg masses and neonate larvae by crushing or immersing in kerosene water.
+
+Source: 
+

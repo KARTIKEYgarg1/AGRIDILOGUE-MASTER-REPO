@@ -1,0 +1,118 @@
+Overview of  Veterinary Medicine
+
+Medicine is the science of treating diseases dealing with diagnosis, treatment and prevention.
+
+Veterinary Medicine includes combination of Anatomy, Physiology, Pathology, Parasitology, Microbiology and Pharmacology.
+
+Branches of Veterinary medicine
+
+There are two branches of Veterinary medicine
+
+
+Clinical Veterinary Medicine - (internal medicine, curative medicine). Eg. Cardiologist, gastroenterologist etc
+Preventive Veterinary Medicine - Maintain health and prevent and control animal diseases.
+
+Classification of Disease
+
+
+Hereditary- transmitted to the offspring through mother or father.  Eg. haemophilia.
+Congenital - Disease acquired during intrauterine life Eg. Atresia anai, TB
+Acquired disease- contracted during the entire life span. Eg. cataract
+
+According to specific cause
+
+
+Specific- produced by specific pathogen. Eg. RP, FMD
+Infectious- Living infecting organism Eg Virus, bacteria, protozoa
+
+According to System Involved
+
+
+Localized- confined to a particular spot Eg. Abscess
+Generalized- all parts of the body Eg. Toxaemia, septicaemia
+
+According to changes in the Organ
+
+
+Structural- change in structure Eg. Pericarditis, rickets, osteomalacia
+Functional- change in function without altering structure Eg. Arrhythmia
+
+Stages of infectious disease
+
+
+Incubation period
+Premonitary symptoms
+Stages of development
+Subsidence
+Covalescence
+
+According to clinical manifestation
+
+
+Acute- sudden onset, severe, short course, 3 to 14 days. Eg. RP, Anthrax, FMD
+Per acute- Duration is shorter than acute with very severe course. Illness lasts for few hr to 48hr. Eg. Peracurte mastitis
+Sub acute- onset and severity is less than the acute one. 2-4 wks
+Chronic disease- long run, fatal. Illness over 4 wks. TB
+
+According to spread of disease
+
+
+Sporadic- spread in the herd
+Endemic- disease retained in the herd for a long time in a locality affecting large number of animals
+Enzootic- among animals in a definite area
+Epizootic disease- large population
+Panzootic disease-epidemic disease reaches some unusual size in another country
+
+According to source of infection
+
+
+Exogenous- Animal gets infected from other animals, foodstuffs
+Endogenous- auto-infection activation of microorganism due to disturbance of internal medium Resp. Tract infection.
+
+Diagnosis
+
+Diagnosis is the art of recognition and determination of the nature of disease
+
+Classification of Diagnosis
+
+
+Snap shot diagnosis - declared at very approach, erroneous
+Direct- observing lesions
+Tentative- based on subjective changes, laboratory tests
+Symptomatic- based on pathological changes
+Differential- comparing
+Exclusion 
+Confirmatory – clinical, biochemical, pathological and immunological
+Herd Diagnosis- affected animal shows clear symptoms. Search the environment where the animals are kept in pasture , housing conditions, grazing etc., Post mortem, pathological findings, all supervision of experts from various disciplines. 
+
+Other terminologies
+
+
+Typical symptom- typical of the disease
+Syndrome- associated to the disease
+Lesion- structural changes in an organ
+Prophylactic measures- prevent the spread of disease thru quarantine, vaccination, disposal, nutrition
+Prognosis- forecast disease. Favourable, doubtful, poor, grave
+Relapse- reoccurrence of the disease
+
+Why Veterinary clinicians face problems while making a diagnosis
+
+
+Animals cannot express so we have to depend upon our own observations
+Diagnosis becomes erroneous when we have to depend upon attendants
+Sometimes animals do not cooperate
+Different species of animals have different structures and functions
+Variation in normal physiology (temp, pulse, respire) in different species of animal
+
+References 
+
+
+Amalendu Chakrabarti, 2008. Text Book of Clinical Veterinary Medicine, Kalyani Publishers, New Delhi
+Jagdish Prasad and Neeraj, 2004, Principles and practices of Animal Health and Hygiene,  Kalyani Publishers, New Delhi
+
+Content Contributors
+
+
+Saroj Rai, ICAR-National Dairy Research Institute, Eastern Regional Station, Kalyani,  Email : drsaroj.rai@gmail.com
+Rani Alex, ICAR-National Dairy Research Institute, Karnal, Haryana. 
+Ruma Jas, West Bengal University of Animal and Fishery Sciences, Belgachia, Kolkata, WB, India

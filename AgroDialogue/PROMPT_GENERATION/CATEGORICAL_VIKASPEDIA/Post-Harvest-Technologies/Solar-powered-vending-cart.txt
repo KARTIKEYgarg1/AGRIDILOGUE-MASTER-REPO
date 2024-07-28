@@ -1,0 +1,29 @@
+Solar powered vending cart
+
+Current practices and problems
+
+A number of urban poor are involved in vending with poor living conditions due to less income incurred due to loss of quality of the produce of quality . Vendors use wet gunny bags and/or sprinkle water. This leads to spoilage of produce particularly leafy vegetables due to direct water sprinkling, less shelf life for leafy ( one day) , tomato , cucumber and others ( 2 days.) and loss of income due to selling under compulsion and consumers disliking. A mobile vending Cart (Rehri) has been designed to store fresh fruits and vegetables safely for 2-5 days.
+
+About the technology
+
+
+Preserves fresh fruits and vegetables by controlling the environment around them.
+Provision of an additional storage space of 8.0 cubic feet, below the main platform
+Provided with an effective and uniform evaporative cooling arrangement with forced air circulation by DC fans and lighting facility through DC LED light powered by Solar Photo Voltaic (SPV) Panel of 100 Wp.
+Further equipped with a portable energy bank of 7Ah with the SPV through charge controller and protection devices to meet energy requirement of any additional low power rating domestic gadgets.
+
+ 
+
+Utility
+
+
+Capable of reducing temperature of storage chamber by 5 -8°C and increase in relative humidity by 15 to 30 percent points.
+Thus, enhances storage life of fresh fruits &amp; vegetables up to five days as it reduces evaporative losses Vis-a Vis consumers’ satisfaction.
+Maintains freshness of the produce in terms of color, texture and coarse appearance up to five days which fetches more net income.
+Useful in winter season also when ambient condition is dry which induces deterioration in appearance of the fresh vegetables.
+
+Availability
+
+Division of Agricultural engineering, IARI, Pusa Campus, New Delhi. Phone: 011-25842294
+
+Price: Rs 30,000/
